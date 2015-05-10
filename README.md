@@ -1,2 +1,3 @@
 # cookbook
-A collection of recipes culled from books, shows, and the Internet.
+
+Recipes for making a variety of dishes, desserts, and drinks.
