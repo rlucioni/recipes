@@ -3,7 +3,7 @@
 Adapted from [Chef John's pavlova](http://foodwishes.blogspot.com/2012/04/fresh-strawberry-pavlova-cracking-up.html). Serves 4.
 
 - 4 egg whites
-- 3/4 granulated sugar
+- 3/4 cup granulated sugar
 - 2 teaspoons corn starch
 - 3/4 teaspoon white vinegar
 - 1 teaspoon vanilla extract
