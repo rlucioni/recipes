@@ -1,6 +1,6 @@
 # Burgers
 
-Adapted from [Food.com's perfect burger](http://www.food.com/recipe/the-perfect-burger-92021). Makes 4 burgers.
+Adapted from [Food.com's perfect burger](http://www.food.com/recipe/the-perfect-burger-92021). Makes 5 burgers.
 
 - 19.43 ounces 70% lean ground meat (16 ounces 85% ground beef chuck + 3.43 ounces pork fat works well)
 - 1/2 large onion, grated
@@ -9,7 +9,7 @@ Adapted from [Food.com's perfect burger](http://www.food.com/recipe/the-perfect-
 - 1/2 teaspoon pepper
 - 2 large dashes Worcestershire sauce
 - 1 egg yolk
-- 4 burger buns
+- 5 burger buns
 - burger toppings (cheese, caramelized onions, carmelized pineapple, etc)
 
 1. Combine meat, onion, garlic, salt, pepper, Worcestershire sauce, and egg yolk in large bowl. Be careful not to overmix. Store meat mixture in refrigerator until ready to cook.
