@@ -2,7 +2,7 @@
 
 Adapted from [Chef John's oven-baked ribs](http://foodwishes.blogspot.com/2011/01/you-want-your-baby-back-ribs-sure-just.html). Serves 2.
 
-- 1 rack baby back ribs
+- 1/2 rack baby back ribs
 - Approx 1/3 cup Stubb's Original BBQ Sauce
 
 Dry Rub Recipe (makes a lot extra)
