@@ -8,7 +8,6 @@ Adapted from [Chef John's chicken wings](http://foodwishes.blogspot.com/2015/01/
 - 1 teaspoon smoked paprika
 - 2 tablespoons baking powder
 
-
 For the honey Sriracha glaze:
 - 1/3 cup honey
 - 1/3 cup Sriracha
