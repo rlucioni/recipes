@@ -12,7 +12,7 @@ Adapted from [Chef John's roasted butternut squash soup](http://foodwishes.blogs
 - 2 teaspoon kosher salt, or to taste
 - 6 cups chicken broth, plus more if needed
 - 2 tablespoons maple syrup
-- 2 tablespoons apple cider vinegar (or other vinegar)
+- 2 tablespoons apple cider vinegar
 - cayenne to taste
 - creme fraiche and chives to garnish
 

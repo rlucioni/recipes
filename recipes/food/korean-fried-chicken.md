@@ -17,7 +17,7 @@ For the batter:
 - 1/2 teaspoon freshly ground black pepper
 - 1 cup very cold water, or as needed
 
-For the sauce:
+For the sauce (optional):
 - 1/2 cup ketchup
 - 2 green onions, chopped fine
 - 4 cloves of garlic, minced fine
@@ -32,11 +32,11 @@ For the sauce:
 1. Mix chicken, grated onion, grated garlic, salt, and pepper in a bowl. Toss to coat evenly. Cover and refrigerate for at least 4 hours, up to overnight.
 2. Add all sauce ingredients in small saucepot. Bring to a gentle simmer and simmer for 5 minutes. Let cool and adjust salt.
 3. Whisk together flour, baking powder, cornstarch, salt, sugar, and pepper.
-4. Preheat oil to 340&deg;F.
+4. Preheat oil to 280&deg;F.
 5. Add enough ice water to dry ingredients to create a thick batter.
 6. Add chicken to the batter and coat evenly. Transfer chicken pieces to hot oil.
 7. Cook for 4 minutes and transfer to a rack to drain.
-8. Raise oil to 375&deg;F.
+8. Raise oil to 320&deg;F.
 9. Fry chicken for an addition 4 minutes until golden brown and crispy.
 
-Serve warm with sauce on the side.
+Serve warm with sauce on the side. Alternatively, serve with Sriracha.
