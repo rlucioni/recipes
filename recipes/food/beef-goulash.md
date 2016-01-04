@@ -18,7 +18,7 @@ Adapted from [Chef John's beef goulash](http://foodwishes.blogspot.com/2013/01/b
 - 3 garlic cloves, crushed
 - 1/2 teaspoon salt, or to taste
 - 1 bay leaf
-- 1 tsp sugar
+- 1 teaspoon sugar
 - 2 tablespoons balsamic vinegar
 
 1. Add vegetable oil to a skillet over high heat. Sear meat in hot pan until well-browned. Transfer to pot.
