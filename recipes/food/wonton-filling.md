@@ -9,11 +9,13 @@
 - 2 cloves garlic, minced
 - 1 teaspoon chili-garlic paste
 - 1/2 teaspoon red pepper flakes
-- 3/4 cup green onion
+- 4 green onions
 - sesame oil
 - salt and pepper to taste
 - wonton skins
 
 1. Mix all ingredients thoroughly.
-2. Pan fry a small patty to check for seasoning.
+2. Pan fry or microwave a small patty to check for seasoning.
 3. Refrigerate 30 minutes to 24 hours before using.
+
+If making wonton soup, boil wontons separately (about two minutes), then serve with prepared broth.

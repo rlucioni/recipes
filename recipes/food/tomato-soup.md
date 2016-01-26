@@ -1,19 +1,22 @@
-# Tomato Soup
+# Tomato Soup (Bisque)
 
-Serves 4.
+Adapted from [Chef John's tomato bisque](http://foodwishes.blogspot.com/2013/10/tomato-bisque-soup-might-not-count-as.html). Serves 6.
 
 - 1 tablespoon olive oil
-- 1 tablespoon unsalted butter
-- 1 onion, coarsely chopped
-- 28 ounces crushed San Marzano tomatoes
-- 1 1/2 cups chicken broth
-- 2 bay leaves
-- 1/3 cup heavy cream
-- Honey
+- 1/2 onion, diced
+- 1 celery stalk, diced
+- 3 cloves garlic, minced
+- 1/2 teaspoon paprika (optional)
+- 1 (28 ounce) can San Marzano tomatoes
+- 4 cups chicken broth
+- 3 tablespoons white rice
+- 2 teaspoons sugar
+- 1/2 cup heavy cream
 
-1. Heat oil and butter over medium heat. When butter foams, add onion, big pinch salt, and pepper. Cook onion until it begins to brown.
-2. Add tomatoes, chicken broth, and bay leaves. Add basil and red chili flakes, if desired. Simmer 10 minutes.
-3. Remove from heat, discard bay leaves, and allow to cool slightly. The, puree in blender until smooth.
-4. Return blended soup to pot over low heat, and stir in cream. Season to taste. Add honey to taste.
+1. Sweat onions and celery in olive oil over medium heat. Add a pinch of salt to bring out liquid.
+2. When onions soften and turn translucent, add garlic (and paprika, if desired) and cook for about a minute.
+3. Add tomatoes and chicken broth. Bring to a simmer on high.
+4. When a simmer is reached, stir in rice. Adjust heat to maintain a steady simmer for about 45 minutes, until rice and vegetables are very soft.
+5. Blend until completely smooth. Stir in cream, then taste for seasoning. Stir in sugar to reach desired sweetness. Season with salt, pepper, and cayenne.
 
 Garnish with fresh basil. Pairs well with grilled cheese sandwiches!
