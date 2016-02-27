@@ -10,7 +10,7 @@ Adapted from [Serious Eats' marinated eggs](http://www.seriouseats.com/recipes/2
 - 1/4 cup sugar
 
 1. Combine water, sake, soy sauce, mirin, and sugar. Whisk until sugar is dissolved and reserve.
-2. Soft boil eggs.
+2. Soft boil eggs. Cool and peel. Make sure to remove the entire membrane.
 3. Place peeled eggs in marinade. Cover with a paper towel to keep submerged. Marinate at least 4 hours and up to 12 in the refrigerator. Discard marinade after 12 hours.
 
 Store marinated eggs in a sealed container in the refrigerator for up to 3 days. 
