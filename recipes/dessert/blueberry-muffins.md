@@ -13,7 +13,6 @@ For muffins:
 - 1 cup fresh blueberries
 
 For crumb topping:
-
 - 2 tablespoons white sugar
 - 1 1/2 tablespoons all-purpose flour
 - 1 tablespoon butter, cubed
