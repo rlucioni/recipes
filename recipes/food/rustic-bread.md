@@ -19,6 +19,6 @@ Final dough:
 3. To make the final dough, stir together remaining flour, salt, yeast, and water. Knead in small pieces of the pre-ferment until it's completely incorporated. Knead dough for 10-15 minutes, adding more flour as necessary. The finished dough should be soft, supple, and slightly sticky.
 3. Place dough in an oiled bowl and let rise an additional 2 1/2 hours. Every hour, fold the dough twice by removing it from the bowl, gently pressing it flat, and folding it into thirds, like a letter.
 4. Shape the dough into a ball and let it rest, covered, for 10 minutes. Shape dough into a loaf and place on a baking sheet dusted with corn meal. Cover and let rise and additional 1 1/2 hours.
-5. Preheat the oven to 450&deg;F. Place a pan of water on the bottom rack. Score the loaf down the middle with a razor blade or sharp knife and spritz it generously with water immediately before placing it in the oven. Bake for 35 minutes. After 20 minutes, rotate the pan and spritz the loaf again.
+5. Preheat the oven to 450&deg;F. Place a pan of water on the bottom rack. Score the loaf down the middle with a razor blade or sharp knife and spritz it generously with water immediately before placing it in the oven. Bake for 35 minutes. 20 minutes in, rotate the pan and spritz the loaf again.
 
 Allow the loaf to cool completely before slicing.
