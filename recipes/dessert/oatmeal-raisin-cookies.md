@@ -8,16 +8,15 @@
 - 1/2 cup + 2 tablespoons all-purpose flour
 - 1/2 teaspoon baking soda
 - 1/4 teaspoon ground cinnamon
-- 1/4 salt
+- 1/4 teaspoon salt
 - 1 1/3 cup + 1 tablespoon rolled oats
 - 1/2 cup golden raisins
 
-1. Preheat oven to 375&deg;F.
-2. Cream butter and sugars until smooth with electric mixer.
-3. Beat in egg and vanilla until fluffy.
-4. Sift together flour, baking soda, cinnamon, and salt. Mix into wet ingredients.
-5. Fold in oats and raisins. Refrigerate for at least 10 minutes.
-6. Drop onto cookie sheet lined with parchment paper with a teaspoon.
-7. Bake 10 minutes, turning halfway through. Refrigerate dough between batches.
+1. Cream butter and sugars until smooth with electric mixer.
+2. Beat in egg and vanilla until fluffy.
+3. Sift together flour, baking soda, cinnamon, and salt. Mix into wet ingredients.
+4. Fold in oats and raisins. Refrigerate for at least 10 minutes. Preheat oven to 375&deg;F.
+5. Drop onto cookie sheet lined with parchment paper with a teaspoon.
+6. Bake 14-15 minutes, turning halfway through. Refrigerate dough between batches.
 
 Let cool on cooling rack before eating. Store at room temperature in an air-tight container.
