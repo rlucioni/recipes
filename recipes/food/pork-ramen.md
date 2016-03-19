@@ -16,7 +16,8 @@ Dashi stock
 - 2x4 inch dried kombu kelp
 - 1 large handful bonito flakes
 
-Toppings
+Other
+- 6 servings ramen noodles
 - chopped green onions
 - blanched spinach
 - blanched mung bean sprouts
@@ -28,6 +29,6 @@ Toppings
 3. Add 5 cups of water to a stock pot. Add dried kombu kelp and soak for 1-2 hours.
 4. Remove pork ribs and allow to cool. Strain pork broth before returning to heat. Add soy sauce, sake, and sugar. Boil until reduced to 2 1/2 cups.
 5. Bring water with kombu to a boil and remove kelp when small bubbles start to form. Add bonito flakes and boil for 30 seconds. Strain and reserve. 
-6. Blanch spinach and bean sprouts. Soft-boil and peel eggs. Pick pork off bones. Optionally, place under broiler until golden brown (this may dry out the meat).
-7. Boil ramen noodles according to package instructions. Remove and place in bowls.
-8. Add equal parts pork broth and dashi stock. Add toppings and serve.
+6. Blanch spinach and bean sprouts. Pick pork off bones. Optionally, place under broiler until golden brown (this may dry out the meat).
+7. Add equal parts pork broth and dashi stock to bowls. Taste and adjust for salt.
+8. Boil ramen noodles according to package instructions. Drain and place in bowls. Add toppings and serve.
