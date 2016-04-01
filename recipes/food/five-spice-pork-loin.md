@@ -1,6 +1,6 @@
-# Pan-Roasted Five-Spice Pork Loin
+# Five-Spice Pork Loin
 
-Adapted from [Chef John's pan-roasted five-spice pork loin](http://foodwishes.blogspot.com/2016/01/pan-roasted-5-spice-pork-loin-pleasing.html). Serves two.
+Adapted from [Chef John's five-spice pork loin](http://foodwishes.blogspot.com/2016/01/pan-roasted-5-spice-pork-loin-pleasing.html). Serves two.
 
 - 1/2 to 1 pound boneless pork loin roast, cut in half lengthwise and scored
 - 2 tablespoons rice vinegar
