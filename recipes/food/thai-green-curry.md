@@ -9,7 +9,7 @@ Serves 6. Other vegetables such as eggplant, bell pepper, and green beans can be
 - 4 tablespoons thai green curry paste
 - 2 cloves garlic, grated
 - 1 small nub ginger, grated
-- 2 cans coconut milk (14 ounces each)
+- 28 ounces coconut milk (Aroy-D 100% coconut milk, found in cartons, works well)
 - 2 dashes fish sauce
 - 1 teaspoon sugar
 - zest of 1 lime
