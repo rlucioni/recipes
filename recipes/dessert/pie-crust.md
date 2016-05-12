@@ -16,5 +16,3 @@ Adapted from [America's Test Kitchen's vodka pie crust](http://cooking.nytimes.c
 4. Sprinkle in cold water and alcohol and mix thoroughly.
 5. Mold dough into a ball, wrap in plastic, and refrigerate for at least 45 minutes.
 6. Roll out on a well-floured surface.
-
-Double receipe for apple pie.

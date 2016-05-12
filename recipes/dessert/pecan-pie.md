@@ -21,7 +21,7 @@ Adapted from [Chef John's pecan pie](http://foodwishes.blogspot.com/2014/04/an-a
 4. Place on medium heat and cook until boiling, stirring continuously. Cool about 5-10 minutes.
 5. Whisk eggs in large bowl. Slowly drizzle in sugar mixture.
 6. Add pecans to pie shell. Pour on filling. Make sure every nut is coated with mixture. Feel free to add more pecans as needed.
-7. Tap and shake to settle. Bake 40-45 minutes until completely set.
+7. Tap and shake to settle. Bake 40 minutes until completely set.
 8. Let cool completely before slicing.
 
 Serve topped with vanilla ice cream.

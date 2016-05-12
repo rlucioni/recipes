@@ -7,7 +7,7 @@ Adapted from [Chef John's bananas foster](http://foodwishes.blogspot.com/2014/11
 - 1 slightly under-ripe banana
 - 1 1/2 ounce brandy
 - 2 pinches cinnamon
-- 1 large scoop vanilla ice cream in chilled plate-bowl
+- 1 large scoop vanilla ice cream in chilled bowl
 - 1 long dried noodle + source of fire
 
 1. Cut banana in half. Cut each half lengthwise for 4 total pieces.

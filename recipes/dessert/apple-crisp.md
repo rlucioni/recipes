@@ -5,7 +5,6 @@ Adapted from [Chef John's apple crisp](http://foodwishes.blogspot.com/2012/02/cr
 For the topping:
 - 1/4 cup all-purpose flour
 - 1/4 cup oatmeal (rolled oats)
-- 1/4 cup Grape Nuts ** Don't use Grape Nuts! **
 - 1/8 cup brown sugar
 - 1/8 cup white sugar
 - 1/4 cup melted butter

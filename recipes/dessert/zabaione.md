@@ -11,4 +11,3 @@
 3. Place bowl over low heat and whisk continuously until thick, about 10 minutes.
 4. Remove from heat and whisk in orange zest.
 5. Portion strawberries into the bottoms of 2 dessert cups. Spoon zabaione on top.
-6. Using a blow torch, brulee the tops.

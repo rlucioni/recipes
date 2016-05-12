@@ -13,5 +13,8 @@ Adapted from [Martha Stewart's Grammy's Chocolate Cookies](http://www.marthastew
 
 1. Sift together flour, cocoa powder, baking soda, and salt. Set aside.
 2. Beat butter, 2 cups sugar, and eggs on medium speed until light and fluffy, about 2 minutes. Add vanilla, and mix to combine.
-3. Gradually add dry ingredients to wet ingredients, combining slowly. Cover bowl with plastic wrap, and chill until dough is firm, about 1 hour in the fridge, or 15 minutes in the freezer. Preheat the oven to 375 degrees.
-3. Roll chilled dough into 1-inch balls. Dip top of each ball into sugar. Place on prepared baking sheets about 1 1/2 inches apart. Bake until set, 10-12 minutes. Cool on baking sheets for 5 minutes before transferring to a wire rack to cool completely.
+3. Gradually add dry ingredients to wet ingredients, combining slowly.
+4. Cover bowl with plastic wrap, and chill until dough is firm, about 1 hour in the fridge, or 15 minutes in the freezer.
+5. Preheat the oven to 375 degrees.
+6. Roll chilled dough into 1-inch balls. Dip top of each ball into sugar. Place on prepared baking sheets about 1 1/2 inches apart.
+7. Bake until set, 10-12 minutes. Cool on baking sheets for 5 minutes before transferring to a wire rack to cool completely.

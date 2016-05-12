@@ -12,7 +12,7 @@
 - 1 1/3 cup + 1 tablespoon rolled oats
 - 1/2 cup golden raisins
 
-1. Cream butter and sugars until smooth with electric mixer.
+1. Cream butter and sugars until smooth.
 2. Beat in egg and vanilla until fluffy.
 3. Sift together flour, baking soda, cinnamon, and salt. Mix into wet ingredients.
 4. Fold in oats and raisins. Refrigerate for at least 10 minutes. Preheat oven to 375&deg;F.

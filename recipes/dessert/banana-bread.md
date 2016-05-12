@@ -20,7 +20,7 @@ Adapted from [Chef John's banana bread](http://foodwishes.blogspot.com/2012/01/b
 3. Add bananas and mash with fork. Mix in with electric mixer.
 4. Beat in one egg at a time. Add vanilla.
 5. Add walnuts and chocolate chips. Sift in dry ingredients. Fold with spatula to combine.
-6. Grease and flour 9x4 loaf pan. Pour in batter and tap to settle.
+6. Grease and flour 9x5 loaf pan. Pour in batter and tap to settle.
 7. Bake for 60-70 minutes until a paring knife comes out clean.
 
 Let cool in pan until just warm before removing to cool completely on a wire rack.

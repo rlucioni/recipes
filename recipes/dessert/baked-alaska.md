@@ -2,7 +2,7 @@
 
 Adapted from [Chef John's Baked Alaska](http://foodwishes.blogspot.com/2015/02/baked-alaska-with-lighter-you-betcha.html).
 
-- two complementary flavors of ice cream (e.g. blackberry and vanilla)
+- two complementary flavors of ice cream
 - 1 pound cake
 - 2 large egg whites
 - 1 teaspoon lemon juice

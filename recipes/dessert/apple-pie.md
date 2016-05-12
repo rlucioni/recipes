@@ -18,7 +18,7 @@ Adapted from [Chef John's apple pie](http://foodwishes.blogspot.com/2009/11/clas
 3. Mix in lemon juice, sugar, nutmeg, cinnamon, and salt.
 4. Add in cornstarch
 5. Roll out 1 batch of pie crust and line the bottom of the pie dish.
-6. Layer in apple slices and top with accumulated juices. (Optional: strain out and boil down juices first)
+6. Layer in apple slices and top with accumulated juices. Optionally, strain out and boil down juices.
 7. Top with second batch of pie crust and crimp the edges.
 8. Use a knife to cut air vents in the crust top.
 9. Brush top with egg wash and sprinkle with white sugar.

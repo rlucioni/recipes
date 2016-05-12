@@ -7,7 +7,7 @@
 - 6 tablespoons chilled butter, cut into small pieces
 - 1/3 cup heavy cream
 - 1/2 cup milk
-- Optional additions: zest of 1 orange, 1 cup craisins, 1 cup blueberries, etc
+- Optional additions: zest of 1 orange, 1 cup craisins, 1 cup blueberries
 
 1. Preheat oven to 425&deg;F.
 2. Whisk together flour, sugar, baking powder, and salt.
