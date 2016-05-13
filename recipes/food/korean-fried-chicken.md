@@ -12,7 +12,7 @@ For the batter:
 - 1/2 cup all-purpose flour
 - 3/4 teaspoon baking powder
 - 3/4 cup cornstarch
-- 1/2 teaspoon salt
+- 1/4 teaspoon salt
 - 1 teaspoon sugar
 - 1/2 teaspoon freshly ground black pepper
 - 1 cup very cold water, or as needed

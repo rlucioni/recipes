@@ -10,7 +10,7 @@ Adapted from [NYT's Clam Chowder](http://cooking.nytimes.com/recipes/1016717-the
 - 1/2 cup dry white wine (Sauvignon blanc works well)
 - 3 springs thyme
 - 1 bay leaf
-- 1 1/3 cups heavy cream
+- 1 cup heavy cream
 
 1. Place clams in a pot and add about 4 cups cold water. Set over medium-high heat and cook partially covered until clams have opened. Discard any which fail to open. Will boil over if covered completely!
 2. Strain clam broth through a sieve lined with a paper towel and reserve. Remove clams from shells, chop, and reserve.

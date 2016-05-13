@@ -1,6 +1,6 @@
 # Charred Street Corn
 
-Adapted from [Lone Star Taco Bar's grilled street corn](http://www.lonestar-boston.com/food.php).
+Inspired by [Lone Star Taco Bar's grilled street corn](http://www.lonestar-boston.com/food.php).
 
 - 3 ears corn
 - 3 tablespoons mayonnaise
