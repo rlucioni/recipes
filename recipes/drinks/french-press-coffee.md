@@ -1,9 +1,9 @@
 # French Press Coffee
 
-1:10 coffee to water ratio. Ingredient amounts given here yield two large mugs.
+1:10 coffee to water ratio. Ingredient amounts given here yield two coffee cups.
 
-- 50 grams coarsely ground coffee
-- 500 grams water
+- 40 grams coarsely ground coffee
+- 400 grams water
 
 1. Bring water to a boil and allow to cool slightly to somewhere near 195&deg;-205&deg;F.
 2. Pour enough water over the grounds to inundate them, and allow the coffee to bloom for 30 seconds.
