@@ -1,6 +1,6 @@
 # Scones
 
-- 2 cups all-purpose flour
+- 300 grams all-purpose flour
 - 5 tablespoons white sugar, plus more for topping
 - 1 tablespoon baking powder
 - 1/2 teaspoon salt
