@@ -5,7 +5,7 @@ Adapted from [The New York Times' agua fresca](http://cooking.nytimes.com/recipe
 - 4 cups cubed watermelon
 - juice of 1/2 a lime
 - 1 tablespoon sugar
-- 1/2 cup water
+- water, as necessary to loosen
 
 1. Combine all ingredients in a blender and blend well.
 2. Strain into a pitcher and refrigerate until cold.
