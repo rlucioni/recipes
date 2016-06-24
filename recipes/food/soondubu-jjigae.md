@@ -13,6 +13,7 @@ Adapted from [Chowhound's soondubu jjigae](http://www.chowhound.com/recipes/kimc
 - 2 scallions, chopped
 - 3 eggs
 - thinly sliced pork belly
+- 3 scallops, sliced across the grain
 
 1. Saute onions with a pinch of salt over medium heat until softened.
 2. Add gochujang, zucchini, and kimchi. Continue to saute until zucchini softens.
@@ -20,7 +21,7 @@ Adapted from [Chowhound's soondubu jjigae](http://www.chowhound.com/recipes/kimc
 4. Add the entire block of tofu and gently break into large chunks.
 5. When soup returns to a simmer, add scallions and taste for seasoning.
 6. Add pork slices on top and cook until the pink color barely disappears.
-7. Ladle the pork and half of the soup into bowls.
+7. Ladle the pork and half of the soup into bowls. Poach the scallop pieces and remove to bowls.
 8. Crack eggs onto surface of remaining soup in the pot. Cover and steam until cooked to your liking.
 9. Ladle eggs into bowls with remaining soup.
 
