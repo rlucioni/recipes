@@ -1,21 +1,22 @@
 # Pizza Sauce
 
-Makes enough for 1 deep dish pizza.
+Adapted from [Serious Eats' New York Style Pizza Sauce](http://www.seriouseats.com/recipes/2010/10/new-york-style-pizza-sauce.html). Yields enough sauce for 2-4 10-inch pizzas.
 
-- 1 (6 ounce) can tomato paste
-- 3/4 cup water (might need more to get consistency right)
-- 1 teaspoon minced garlic
-- 2 tablespoons honey
-- 3/4 teaspoon onion powder
-- 1/4 teaspoon oregano
-- 1/4 teaspoon marjoram
-- 1/4 teaspoon basil
-- 1/4 teaspoon black pepper
-- 1/8 teaspoon cayenne pepper
-- 1/8 teaspoon red pepper flakes
-- salt to taste
+- 1 (28-ounce) can whole peeled tomatoes
+- 1 tablespoon olive oil
+- 1 tablespoon unsalted butter
+- 2 cloves garlic, grated on microplane grater (about 2 teaspoons)
+- 1 teaspoon dried oregano
+- pinch red pepper flakes
+- Kosher salt
+- 2 (6-inch) sprigs fresh basil, with leaves attached
+- 1 medium yellow onion, coarsely chopped
+- 1 teaspoon honey
+- 1 anchovy fillet
 
-1. Mix everything together.
-2. Microwave 20 seconds.
-3. Adjust water and salt.
-4. Let sit 30 minutes before using.
+1. Combine butter and oil in saucepan over medium-low heat until butter is melted. Add garlic, oregano, pepper flakes, and large pinch salt and cook, stirring frequently, until fragrant but not browned.
+2. Add tomatoes and quickly puree with an immersion blender. Puree should not be completely smooth.
+3. Add basil sprigs, onion, and honey. Bring to a simmer, reduce heat to lowest setting (bubbles should barely be breaking the surface), and cook, stirring occasionally, until reduced by 1/2, about 1-2 hours.
+4. Discard onions and basil stems. Season to taste.
+
+Allow to cool and store in covered container in the refrigerator for up to 2 weeks.
