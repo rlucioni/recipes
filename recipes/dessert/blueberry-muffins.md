@@ -3,7 +3,7 @@
 Adapted from [Allrecipes](http://allrecipes.com/recipe/to-die-for-blueberry-muffins/). Makes 8 muffins.
 
 For muffins:
-- 1 1/2 cups all-purpose flour
+- 240 grams all-purpose flour
 - 1/2 teaspoon salt
 - 2 teaspoons baking powder
 - 3/4 cup white sugar
