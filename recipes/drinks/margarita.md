@@ -1,9 +1,7 @@
 # Margarita
 
-Makes 2 cocktails.
-
-- 3 ounces white or silver tequila
-- 2 ounces Cointreau
+- 2 ounces blanco tequila
 - 1 ounce fresh lime juice
+- 1/2 ounce agave nectar
 
-Combine with ice in a Boston shaker and shake well. Strain into a chilled cocktail glass rimmed with lime and fine salt.
+Combine with ice in a Boston shaker and shake well.
