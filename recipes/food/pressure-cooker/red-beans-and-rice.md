@@ -1,4 +1,4 @@
-# Pressure Cooker Red Beans and Rice
+# Red Beans and Rice
 
 - 1 pound red kidney beans, soaked overnight
 - 1 small onion, finely diced
