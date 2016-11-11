@@ -2,7 +2,7 @@
 
 Adapted from [America's Test Kitchen's vodka pie crust](http://cooking.nytimes.com/recipes/12852-christopher-kimballs-foolproof-pie-dough). Yields one crust.
 
-- 1 1/4 cups all-purpose flour
+- 200 grams all-purpose flour
 - 1/2 teaspoon salt
 - 1 tablespoon white sugar
 - 6 tablespoons butter (chilled)
