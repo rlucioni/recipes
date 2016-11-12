@@ -4,7 +4,7 @@ Adapted from [Chef John's bánh mì](http://foodwishes.blogspot.com/2016/01/pan-
 
 - 2-3 crusty French sandwich rolls
 - 6-7 tablespoons "secret sauce" (mayonnaise, hoisin sauce, sriracha, to taste)
-- Roasted pork, sliced thin
+- [Roasted pork](five-spice-pork-loin.md), sliced thin
 - Smooth pate, sliced
 - Daikon, julienned
 - Carrot, julienned
