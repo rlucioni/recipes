@@ -1,6 +1,6 @@
 # West Lake Soup
 
-- 8 ounces pork, groud
+- 8 ounces pork, ground
 - 1 tablespoon soy sauce
 - 2 tablespoons Shaoxing rice wine (or dry sherry)
 - 1 teaspoon kosher salt
