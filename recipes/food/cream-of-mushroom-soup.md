@@ -2,7 +2,7 @@
 
 Adapted from [Chef John's cream of mushroom soup](http://foodwishes.blogspot.com/2009/12/cream-of-mushroom-soup-pure-liquid-moon.html). Serves 4.
 
-- 1/4 cup unsalted butter
+- Generous drizzle of olive oil
 - 2 pounds white or brown button mushrooms, sliced
 - 1 yellow onion, diced
 - 1 rounded tablespoon flour
