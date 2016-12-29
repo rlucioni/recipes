@@ -1,3 +1,3 @@
 # recipes
 
-Recipes for making a variety of dishes, desserts, and drinks.
+A collection of recipes adapted from books, shows, the Internet, and more.

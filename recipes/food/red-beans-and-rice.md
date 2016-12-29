@@ -1,25 +1,23 @@
 # Red Beans and Rice
 
-Adapted from [Chef John's red beans and rice](http://foodwishes.blogspot.com/2015/02/mardi-gras-special-red-beans-and-rice.html).
-
 - 1 pound red kidney beans, soaked overnight
-- 12 ounces Andouille sausage, cubed
 - 1 small onion, finely diced
-- 2 ribs celery, finely diced
-- 1/2 green bell pepper, finely diced
+- 4 ribs celery, finely diced
+- 1 green bell pepper, finely diced
 - 4 cloves garlic, minced
+- 1 smoked ham hock or shank
+- 4 cups chicken broth or water
 - 2 bay leaves
 - 1 teaspoon dried thyme
 - 1 teaspoon freshly ground black pepper
 - 1/2 teaspoon cayenne pepper, or to taste
-- 1 smoked ham hock or shank
-- 8 cups chicken broth or water, plus more as needed to adjust consistency
-- 2 teaspoons kosher salt, or to taste
+- 12 ounces Andouille sausage, cubed
 
-1. Brown sausage over medium heat.
-2. Add holy trinity and a pinch of salt. Cook vegetables, stirring, until they soften and the onions turn translucent.
-3. Add garlic and sizzle for a minute; don't brown it! Add bay leaf, thyme, pepper, and cayenne. Toast briefly, then add beans, ham hock, and liquid.
-4. Simmer 3-4 hours until meat is tender and falling off the hock and beans are very soft. Skim bean foam as necessary. Add salt halfway through cooking to prevent beans from becoming tough.
-5. To thicken, smash beans against the side of the pot; remember, the mixture thickens significantly when cooled! Adjust seasoning to taste.
+1. Cook onion, celery, and bell pepper in the pressure cooker with a pinch of salt until softened slightly. Add garlic and sizzle briefly.
+2. Add beans, ham hock, liquid, herbs, and spices. Seal pressure cooker and cook on high pressure for 10 minutes.
+3. Brown sausage in a pan in the meantime.
+4. Depressurize and remove ham hock. Pick meat off and add back in along with browned sausage.
+5. Cook on high pressure for an additional 10 minutes.
+6. To thicken, smash beans against the side of the pot. Remember that the mixture thickens significantly when cooled! Adjust seasoning to taste.
 
 Serve over rice with some chopped green onion. Hot sauce optional.

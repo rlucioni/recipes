@@ -1,6 +1,6 @@
 # French Onion Soup
 
-Adapted from [Chef John's french onion soup](http://foodwishes.blogspot.com/2008/09/french-onion-soup-so-good-it-will-make.html). Serves 4.
+Serves 4.
 
 - 4 large yellow onions, coarsely chopped
 - 4 tablespoons butter
@@ -8,12 +8,12 @@ Adapted from [Chef John's french onion soup](http://foodwishes.blogspot.com/2008
 - 1 bay leaf
 - 1/4 cup dry sherry wine
 - 4 cups beef broth
-- 2 cups chicken broth
+- 1 cup chicken broth
 - sherry vinegar, to taste
 - crusty bread, cubed
 - shredded Gruyère cheese
 
 1. Add onions, butter, and a few generous pinches of salt to a stock pot. Sweat until onions are golden, about 45 minutes.
-2. Add thyme, bay leaf, black pepper, sherry, and broth. Simmer about 1 hour, stirring occasionally.
-3. Taste for seasoning. If desired, add sherry vinegar. Ladle into oven-proof bowls.
+2. Add thyme, bay leaf, black pepper, sherry, and broth. Bring to a simmer. Pressurize and cook for 8 minutes at high pressure.
+3. Depressurize and adjust seasoning. If desired, add sherry vinegar. Ladle into oven-proof bowls.
 4. Fry bread cubes in olive oil until golden brown and crunchy. Float croutons on soup and top with cheese. Melt cheese under broiler.
