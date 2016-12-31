@@ -9,7 +9,7 @@ Adapted from [Chef John's rice pudding](http://foodwishes.blogspot.com/2012/03/c
 - 1/4 cup white sugar
 - 1/8 teaspoon vanilla
 - pinch of salt
-- 1 egg yolk, beaten with 2 tablespoons milk
+- 1 egg yolk
 
 Garnish
 - 1/4 cup finely diced mango
@@ -19,7 +19,7 @@ Garnish
 2. Melt butter in a larger pot. Add rice and sizzle for 10 seconds.
 3. Add a ladle of the hot milk mixture and cook on medium-high heat until the liquid almost disappears.
 4. Repeat until all the liquid is added and the rice is cooked to the desired texture.
-5. Turn off the heat and stir in the sugar, vanilla, salt, and egg mixture.
+5. Turn off the heat and stir in the sugar, vanilla, salt, and egg yolk. Stir quickly.
 6. Portion into dessert cups and cover with plastic so that the plastic is touching the surface of the pudding.
 7. Chill thoroughly in the refrigerator.
 8. Mix finely diced mango with the Chinese five-spice right before serving.
