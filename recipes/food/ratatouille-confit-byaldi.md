@@ -2,7 +2,7 @@
 
 Adapted from the [New York Times' Confit Byaldi](http://www.nytimes.com/2007/06/13/dining/131rrex.html). Fills one 10" pan.
 
-For the piperade (makes enough for two 10" ratatouilles):
+For the piperade (two 10" ratatouilles):
 - 1/2 yellow bell pepper
 - 1/2 orange bell pepper
 - 1/2 red bell pepper
@@ -12,7 +12,7 @@ For the piperade (makes enough for two 10" ratatouilles):
 - 1 sprig thyme
 - 1 bay leaf
 
-For the vegetables:
+For the vegetables (one 10" pan):
 - 1 zucchini
 - 1 yellow squash
 - 1 Japanese eggplant
