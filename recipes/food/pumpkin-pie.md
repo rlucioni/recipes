@@ -2,7 +2,7 @@
 
 Adapted from [Chef John's pumpkin pie](http://foodwishes.blogspot.com/2012/11/best-pumpkin-pie-ever-come-for-pie-stay.html).
 
-- 1 batch pie crust
+- 1 batch [pie crust](pie-crust.md)
 - 15 ounces canned pumpkin puree
 - 1 egg
 - 3 egg yolks
