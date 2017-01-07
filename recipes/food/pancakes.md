@@ -5,7 +5,7 @@ Yields about 6 pancakes.
 - 1 cup flour
 - 1 tablespoon sugar
 - 1 teaspoon baking powder
-- 1/2 teaspoon baking powder
+- 1/2 teaspoon baking soda
 - 1/4 teaspoon salt
 - 1 egg, beaten
 - 1 cup milk
