@@ -1,6 +1,6 @@
 # Spaetzle
 
-- 2 cups all-purpose flour
+- 300 grams all-purpose flour
 - 3/4 teaspoon salt
 - 1/2 teaspoon pepper
 - 1/4 teaspoon ground nutmeg
