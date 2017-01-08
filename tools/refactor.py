@@ -1,8 +1,10 @@
-"""Utility for refactoring recipes.
+#!/usr/bin/env python3
+"""
+Utility for refactoring recipes.
 
 Run from the root of the project with
     
-    $ python tools/refactor.py
+    $ ./tools/refactor.py
 """
 import os
 
