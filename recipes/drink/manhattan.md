@@ -8,4 +8,5 @@ Makes 1 cocktail.
 - 1/4 teaspoon maraschino cherry syrup
 - 1 maraschino cherry
 
-Combine with ice and *stir* well. Strain over maraschino cherry into a chilled cocktail glass.
+1. Combine with ice and stir well.
+2. Strain over maraschino cherry into a chilled cocktail glass.

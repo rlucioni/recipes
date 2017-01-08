@@ -6,4 +6,4 @@
 - 2 ounces light rum
 - Pinch of salt
 
-Combine ingredients, stir well, and refrigerate at least 1 hour.
+1. Combine ingredients, stir well, and refrigerate at least 1 hour.

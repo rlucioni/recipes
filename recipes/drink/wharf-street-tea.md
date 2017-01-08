@@ -7,4 +7,4 @@ From Street and Co. in Portland, Maine.
 - 1 ounce fresh lemon juice
 - Iced tea to fill
 
-Stir in rocks glass with ice. Garnish with lemon peel.
+1. Stir in rocks glass with ice. Garnish with lemon peel.

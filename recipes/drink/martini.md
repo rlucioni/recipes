@@ -6,4 +6,4 @@ Makes 1 cocktail.
 - 2 ounces gin
 - 1 pimiento-stuffed olive
 
-Combine with ice and *stir* well. Strain over olive in a chilled cocktail glass.
+1. Combine with ice and *stir* well. Strain over olive in a chilled cocktail glass.

@@ -4,4 +4,4 @@
 - 1 ounce fresh lime juice
 - 1/2 ounce agave nectar
 
-Combine with ice in a Boston shaker and shake well.
+1. Combine with ice in a Boston shaker and shake well.

@@ -6,4 +6,5 @@ Makes 1 cocktail.
 - 1 ounce fresh lemon juice
 - 1 maraschino cherry
 
-Combine with ice in a Boston shaker and shake well. Strain over maraschino cherry into a chilled sour or cocktail glass.
+1. Combine with ice in a Boston shaker and shake well.
+2. Strain over maraschino cherry into a chilled sour or cocktail glass.
