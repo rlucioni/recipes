@@ -16,7 +16,7 @@ INSTRUCTIONS = '### Instructions\n\n'
 
 def insert_headings(f):
     lines = f.readlines()
-    if lines[0].startswith('#'):
+    if lines and lines[0].startswith('#'):
         ingredients = []
         instructions = []
 
