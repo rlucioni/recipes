@@ -2,6 +2,8 @@
 
 Adapted from [Chef John's cheesecake](http://foodwishes.blogspot.com/2010/10/new-york-style-sunshine-cheesecake.html). Makes one small glass tupperware in addition to 4 ramekins.
 
+### Ingredients
+
 - 9 graham crackers
 - 1 1/2 tablespoons melted butter
 - 2 tablespoons flour
@@ -11,6 +13,8 @@ Adapted from [Chef John's cheesecake](http://foodwishes.blogspot.com/2010/10/new
 - 3/4 cup sugar
 - 1/3 cup milk
 - 2 eggs
+
+### Instructions
 
 1. Preheat oven to 350&deg;F.
 2. Crush graham crackers and add melted butter. Press into baking containers and pack down with a glass. Blind-bake for 10-15 minutes.

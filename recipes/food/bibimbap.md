@@ -3,6 +3,8 @@
 Serves 4.
 
 Sauce
+### Ingredients
+
 - 2 tablespoons gochujang
 - 1 tablespoon sesame oil
 - 1 tablespoon sugar
@@ -25,6 +27,8 @@ Other
 - Eggs
 - Nori, cut into thin strips
 - 2 cups rice
+
+### Instructions
 
 1. Start rice. Warm large bowls in the oven. Prepare sauce.
 2. Lay sliced cucumber on a plate lined with a paper towel and sprinkle with salt.

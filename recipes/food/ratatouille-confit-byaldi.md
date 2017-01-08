@@ -3,6 +3,8 @@
 Adapted from the [New York Times' Confit Byaldi](http://www.nytimes.com/2007/06/13/dining/131rrex.html). Fills one 10" pan.
 
 For the piperade (two 10" ratatouilles):
+### Ingredients
+
 - 1/2 yellow bell pepper
 - 1/2 orange bell pepper
 - 1/2 red bell pepper
@@ -22,6 +24,8 @@ For the vinaigrette:
 - 1 tablespoon olive oil
 - 1 teaspoon balsamic vinegar
 - 1 tablespoon reserved piperade
+
+### Instructions
 
 1. Preheat the oven to 450&deg;F.
 2. When oven is heated, roast peppers skin side up for 15 minutes, or until skin loosens. Broil briefly to char. Transfer to a bowl and cover to steam the peppers.

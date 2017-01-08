@@ -1,9 +1,13 @@
 # Chocolate Sandwich Cookies
 
+### Ingredients
+
 - ~24 small, matching sugar cookies
 - 1/2 cup semisweet chocolate
 - 1/2 cup jam
 - pecans
+
+### Instructions
 
 1. Melt chocolate. Microwaving for small increments and stirring often works well.
 2. Stir jam to loosen it.

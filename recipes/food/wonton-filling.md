@@ -1,5 +1,7 @@
 # Wonton Filling
 
+### Ingredients
+
 - 1/2 pound pork, chopped fine
 - 1/2 pound shrimp, chopped in 1/4 inch pieces
 - 1 tablespoon sake
@@ -13,6 +15,8 @@
 - sesame oil
 - salt and pepper to taste
 - wonton skins
+
+### Instructions
 
 1. Mix all ingredients thoroughly.
 2. Pan fry or microwave a small patty to check for seasoning.

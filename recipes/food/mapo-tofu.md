@@ -2,6 +2,8 @@
 
 Adapted from The Woks of Life's [Mapo tofu](http://thewoksoflife.com/2014/03/ma-po-tofu-real-deal/). Serves 2.
 
+### Ingredients
+
 - 2 dried chili peppers, broken in half
 - 2 teaspoons Sichuan peppercorns, blitzed
 - 1-inch piece of ginger, grated
@@ -12,6 +14,8 @@ Adapted from The Woks of Life's [Mapo tofu](http://thewoksoflife.com/2014/03/ma-
 - 1/2 package soft tofu, cut into 1-inch cubes
 - 3/4 teaspoon corn starch, dissolved in 2 tablespoons water
 - 1 large scallion, minced
+
+### Instructions
 
 1. Add peppers and oil to skillet over medium heat. Once they sizzle, remove to a small bowl.
 2. Add more oil and Sichuan peppercorns. Turn heat to low. Sizzle for 30-60 seconds. Do not brown!

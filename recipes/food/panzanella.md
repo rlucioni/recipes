@@ -2,6 +2,8 @@
 
 Adapted from [Chef John's Panzanella](http://foodwishes.blogspot.com/2014/08/under-my-panzanella-ella-ella-ella.html). Serves 2.
 
+### Ingredients
+
 - day-old bread, cut into cubes
 - grated Parmesan cheese
 - cherry tomatoes, halved
@@ -10,6 +12,8 @@ Adapted from [Chef John's Panzanella](http://foodwishes.blogspot.com/2014/08/und
 - olive oil
 - red wine vinegar
 - salt, pepper, and sugar to taste
+
+### Instructions
 
 1. Mix tomatoes, garlic, salt, pepper, and sugar in a large bowl. Add equal parts olive oil and vinegar so the mixture becomes "swampy."
 2. Coat bread cubes liberally with olive oil and toast in a skillet until golden-brown and crunchy.

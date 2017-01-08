@@ -2,6 +2,8 @@
 
 Adapted from [Chef John's Savory Bacon and Crab Bread Pudding Eggs Benedict](http://foodwishes.blogspot.com/2012/03/savory-bacon-crab-bread-pudding-eggs.html). Serves 2.
 
+### Ingredients
+
 - 3 cups small dry bread cubes
 - 2 strips bacon, finely chopped
 - 1/4 cup minced onion
@@ -15,6 +17,8 @@ Adapted from [Chef John's Savory Bacon and Crab Bread Pudding Eggs Benedict](htt
 - 4 ounces fresh crab meat
 - 4 eggs, poached
 - 1/4 cup hollandaise sauce
+
+### Instructions
 
 1. Dry out small cubes of stale bread in the oven at 250&deg;F, about 15 minutes.
 2. Cook bacon on medium heat until almost crisp. Swab out excess grease.

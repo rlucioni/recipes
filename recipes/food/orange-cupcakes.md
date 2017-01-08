@@ -2,6 +2,8 @@
 
 Makes 12 cupcakes.
 
+### Ingredients
+
 - 1/2 cup butter
 - 1 cup sugar
 - 2 eggs
@@ -10,6 +12,8 @@ Makes 12 cupcakes.
 - 3 teaspoons baking powder
 - 1 tablespoon grated orange rind
 - 1/2 cup orange juice
+
+### Instructions
 
 1. Preheat oven to 375&deg;F.
 2. Cream butter and sugar until fluffy.

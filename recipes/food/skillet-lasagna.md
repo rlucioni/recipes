@@ -2,6 +2,8 @@
 
 Adapted from America's Test Kitchen's Skillet Lasagna. Serves 4.
 
+### Ingredients
+
 - 14 ounces diced San Marzano tomatoes (canned)
 - 1/2 tablespoon olive oil
 - 1 onion, grated
@@ -13,6 +15,8 @@ Adapted from America's Test Kitchen's Skillet Lasagna. Serves 4.
 - 1/4 cup + 1 tablespoon grated parmesan
 - 1/2 cup ricotta cheese
 - oregano, chile flakes, pepper, salt to taste
+
+### Instructions
 
 1. Pour tomatoes into measuring cup. Fill rest up to 2 cups with water. Then add tomato sauce.
 2. Cook onions in non-stick pan in olive oil until brown (5 minutes). Add spices for 30 seconds.

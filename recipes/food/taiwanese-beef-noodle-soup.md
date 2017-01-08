@@ -2,6 +2,8 @@
 
 Adapted from [Serious Eats' Taiwanese Beef Noodle Soup](http://www.seriouseats.com/recipes/2014/01/taiwan-eats-taiwanese-beef-noodle-soup-recipe.html).
 
+### Ingredients
+
 - 1-2 tablespoons vegetable oil
 - 2 pounds boneless beef chuck, cut into 1-inch cubes
 - 1 onion, halved
@@ -22,6 +24,8 @@ Adapted from [Serious Eats' Taiwanese Beef Noodle Soup](http://www.seriouseats.c
 - Baby bok choy
 - 2 green onions, chopped
 - 1 package soft tofu (optional)
+
+### Instructions
 
 1. In a pressure cooker, heat vegetable oil over medium-high heat and brown meat well, about 4 minutes per side. Reserve.
 2. In the same pot, add onion halves face down, ginger, chilies, tomato, and garlic. Stir briefly.

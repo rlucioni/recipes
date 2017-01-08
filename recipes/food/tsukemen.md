@@ -3,6 +3,8 @@
 Adapted from Cooking with Dog's [tsukemen](https://www.youtube.com/watch?v=Dn2Gs5OphV0).
 
 Broth
+### Ingredients
+
 - 4 ounces pork belly slices
 - 1 2/3 cup chicken stock
 - 2 tablespoons sake
@@ -21,6 +23,8 @@ Other
 - 2-3 soft-boiled eggs
 - 1 green onion, chopped
 - bonito flakes
+
+### Instructions
 
 1. Heat the fattiest pieces of pork in a pot until the fat renders out.
 2. Add red chili pepper rings and stir-fry an additional minute.

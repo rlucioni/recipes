@@ -2,6 +2,8 @@
 
 Serves 6. Other vegetables such as eggplant, bell pepper, and green beans can be used in addition to those mentioned below.
 
+### Ingredients
+
 - 2 1/2 pounds chicken thighs, cut into bite size pieces
 - 1 onion, coarsely chopped
 - 1 pound zucchini, cut into rounds
@@ -13,6 +15,8 @@ Serves 6. Other vegetables such as eggplant, bell pepper, and green beans can be
 - 2 dashes fish sauce
 - 1 teaspoon sugar
 - zest of 1 lime
+
+### Instructions
 
 1. Thoroughly coat chicken pieces with 1 tablespoon green curry paste. 
 2. Brown chicken on medium-high heat until almost cooked. Reserve to a bowl.

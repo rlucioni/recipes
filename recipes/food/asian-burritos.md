@@ -1,5 +1,7 @@
 # Asian Burritos
 
+### Ingredients
+
 - Chinese sausage
 - Rice noodles
 - Shrimp
@@ -17,6 +19,8 @@
 - Salt
 - Hoisin sauce
 - Rice wrappers
+
+### Instructions
 
 1. Boil sausage, barely covered, for 10 minutes. Chop and reserve.
 2. In a bowl, pour very hot water (about 180&deg;F) over the noodles. Allow noodles to soften until tender, about 15 minutes. Drain very well.

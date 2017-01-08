@@ -2,6 +2,8 @@
 
 Adapted from [Hip Pressure Cooking's eggplant and olive spread](http://www.hippressurecooking.com/pressure-cooker-eggplant-spread/).
 
+### Ingredients
+
 - 2 pounds eggplant
 - 5 garlic cloves
 - 1 teaspoon salt
@@ -10,6 +12,8 @@ Adapted from [Hip Pressure Cooking's eggplant and olive spread](http://www.hippr
 - 1 tablespoon tahini
 - 1/3 cup olives, pitted
 - salt, pepper, thyme to taste
+
+### Instructions
 
 1. Peel the eggplant in alternating stripes of skin and no skin. Slice the biggest chunks possible to cover the bottom of your pressure cooker. The rest can be roughly chopped.
 2. Brown eggplant slices in olive oil in a hot pressure cooker.

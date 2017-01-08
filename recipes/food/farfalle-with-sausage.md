@@ -2,6 +2,8 @@
 
 Serves 2 hungry people.
 
+### Ingredients
+
 - 8 ounces farfalle
 - 2 Italian sausages, casings removed and chopped
 - 1 onion, coarsely chopped
@@ -13,6 +15,8 @@ Serves 2 hungry people.
 - Milk or cream
 - Sake
 - 1 egg, beaten
+
+### Instructions
 
 1. Cook pasta in salted water for 12 minutes.
 2. Brown sausage over medium-high heat, then add onions; sweat until onions are translucent.

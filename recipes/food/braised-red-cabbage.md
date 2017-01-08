@@ -2,6 +2,8 @@
 
 Adapted from [Chef John's braised red cabbage](http://foodwishes.blogspot.com/2012/04/braised-red-cabbage-that-is-all.html).
 
+### Ingredients
+
 - 1 red cabbage (about 3 pounds), cored and sliced thin
 - 2 tablespoons olive oil
 - 2/3 cup water
@@ -10,6 +12,8 @@ Adapted from [Chef John's braised red cabbage](http://foodwishes.blogspot.com/20
 - 2 tablespoons white sugar
 - Pinch of caraway seeds, ground
 - Salt and pepper to taste
+
+### Instructions
 
 1. Halve and core cabbage. Thinly slice both halves.
 2. Heat olive oil over medium heat in a skillet. Add cabbage and season with salt.

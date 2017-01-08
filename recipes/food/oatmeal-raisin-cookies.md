@@ -1,5 +1,7 @@
 # Oatmeal Raisin Cookies
 
+### Ingredients
+
 - 6 tablespoons butter, softened
 - 1/4 cup + 2 tablespoons white sugar
 - 1/4 cup + 2 tablespoons packed brown sugar
@@ -11,6 +13,8 @@
 - 1/4 teaspoon salt
 - 1 1/3 cup + 1 tablespoon rolled oats
 - 1/2 cup golden raisins
+
+### Instructions
 
 1. Cream butter and sugars until smooth.
 2. Beat in egg and vanilla until fluffy.

@@ -1,5 +1,7 @@
 # Scones
 
+### Ingredients
+
 - 300 grams all-purpose flour
 - 5 tablespoons white sugar, plus more for topping
 - 1 tablespoon baking powder
@@ -8,6 +10,8 @@
 - 1/3 cup heavy cream
 - 1/2 cup milk
 - Optional additions: zest of 1 orange, 1 cup craisins, 1 cup blueberries
+
+### Instructions
 
 1. Preheat oven to 425&deg;F.
 2. Whisk together flour, sugar, baking powder, and salt.

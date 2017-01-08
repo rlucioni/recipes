@@ -2,6 +2,8 @@
 
 Serves 2.
 
+### Ingredients
+
 - 1 pound lamb (boneless leg), chopped into small pieces
 - 1 jalapeño (or other spicy pepper), chopped fine
 - 1 tablespoon grated ginger
@@ -12,6 +14,8 @@ Serves 2.
 - wheat noodles (somen)
 - napa cabbage
 - 2 green onions
+
+### Instructions
 
 1. Bring chicken stock to a boil over medium-high heat.
 2. Heat oil in a skillet over medium-high heat. Saute lamb, peppers, and ginger with soy sauce until almost cooked through. Add Worcestershire sauce, sake, and green onions. Reserve.

@@ -2,6 +2,8 @@
 
 Serves 2.
 
+### Ingredients
+
 - 1 cup rice
 - 1 pork loin slice
 - all-purpose flour for dusting
@@ -13,6 +15,8 @@ Serves 2.
 - 1 tablespoon sake
 - 1/2 teaspoon sugar
 - 1 onion, sliced
+
+### Instructions
 
 1. Begin cooking rice in rice maker.
 2. Cut pork loin into thin slices about 1 cm thick.

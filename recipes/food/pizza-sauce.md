@@ -2,6 +2,8 @@
 
 Adapted from [Serious Eats' New York Style Pizza Sauce](http://www.seriouseats.com/recipes/2010/10/new-york-style-pizza-sauce.html). Yields enough sauce for 2-4 10-inch pizzas.
 
+### Ingredients
+
 - 1 (28-ounce) can whole peeled tomatoes
 - 1 tablespoon olive oil
 - 1 tablespoon unsalted butter
@@ -13,6 +15,8 @@ Adapted from [Serious Eats' New York Style Pizza Sauce](http://www.seriouseats.c
 - 2 (6-inch) sprigs fresh basil, with leaves attached
 - 1 medium yellow onion, coarsely chopped
 - 1 teaspoon honey
+
+### Instructions
 
 1. Combine butter and oil in saucepan over medium-low heat until butter is melted. Add garlic, oregano, pepper flakes, and large pinch salt and cook, stirring frequently, until fragrant but not browned.
 2. Add tomatoes and quickly puree with an immersion blender. Puree should not be completely smooth.

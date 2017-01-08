@@ -1,6 +1,8 @@
 # Pan Pizza
 
 Dough: makes two 10" pizzas
+### Ingredients
+
 - 400 grams bread flour
 - 10 grams (about 2 teaspoons) kosher salt, plus more for sprinkling
 - 4 grams (about 1/2 teaspoon) instant yeast
@@ -11,6 +13,8 @@ Toppings:
 - pizza sauce
 - grated full-fat, dry mozzarella cheese
 - toppings as desired (peppers, onions, sausage, basil, etc)
+
+### Instructions
 
 1. Combine dough ingredients in a large bowl. Mix until dough ball comes together and no dry flour is left. Let rise overnight.
 2. Split dough into two equal pieces. They can be used now or frozen for later use.

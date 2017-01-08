@@ -3,6 +3,8 @@
 Adapted from [Chef John's calzones](http://foodwishes.blogspot.com/2015/07/youve-entered-calzone-zone.html).
 
 For the calzones:
+### Ingredients
+
 - 1/2 batch of pizza dough
 - 1/4 onion, sliced
 - 1/2 bell pepper, sliced
@@ -21,6 +23,8 @@ For the sauce:
 - garlic powder
 - honey
 - Parmesan cheese
+
+### Instructions
 
 1. Prepare pizza dough. This takes about 2 hours.
 2. Preheat oven to 500&deg;F.

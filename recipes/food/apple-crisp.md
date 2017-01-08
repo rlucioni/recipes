@@ -3,6 +3,8 @@
 Adapted from [Chef John's apple crisp](http://foodwishes.blogspot.com/2012/02/crispiest-apple-crisp-ever-ever.html)
 
 For the topping:
+### Ingredients
+
 - 1/4 cup all-purpose flour
 - 1/4 cup oatmeal (rolled oats)
 - 1/8 cup brown sugar
@@ -18,6 +20,8 @@ For the filling:
 - 1/6 cup packed brown sugar
 - 1/2 tablespoon water
 - 1/4 teaspoon cinnamon
+
+### Instructions
 
 1. Preheat oven to 375&deg;F.
 2. Peel apples and cut into 1/4 inch slices. Sprinkle on lemon juice to keep from browning.

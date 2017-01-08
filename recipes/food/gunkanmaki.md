@@ -1,5 +1,7 @@
 # Gunkanmaki
 
+### Ingredients
+
 - large square nori sheets
 - sushi rice
 - wasabi
@@ -8,6 +10,8 @@ Possible fillings:
 - corn with mayonnaise and pepper
 - marinate salmon roe
 - chopped raw salmon mixed with finely cubed avocado
+
+### Instructions
 
 1. Find the parallel lines on a sheet of nori. Cut the first strip perpendicular to the line that is the same width as the distance between the lines.
 2. Cut along the lines to get the remaining strips. Trim the first strip to be the same length as the other strips.

@@ -1,5 +1,7 @@
 # Red Beans and Rice
 
+### Ingredients
+
 - 1 pound red kidney beans, soaked overnight
 - 1 small onion, finely diced
 - 4 ribs celery, finely diced
@@ -12,6 +14,8 @@
 - 1 teaspoon freshly ground black pepper
 - 1/2 teaspoon cayenne pepper, or to taste
 - 12 ounces Andouille sausage, cubed
+
+### Instructions
 
 1. Cook onion, celery, and bell pepper in the pressure cooker with a pinch of salt until softened slightly. Add garlic and sizzle briefly.
 2. Add beans, ham hock, liquid, herbs, and spices. Seal pressure cooker and cook on high pressure for 10 minutes.

@@ -3,6 +3,8 @@
 Adapted from a Land O Lakes Holiday Recipe collection.
 
 For cookie dough:
+### Ingredients
+
 - 2/3 cup sugar
 - 1 cup butter, softened
 - 1/2 teaspoon almond extract
@@ -15,6 +17,8 @@ For glaze:
 - 1 cup powdered sugar
 - 1 1/2 teaspoons almond extract
 - 2-3 teaspoons water
+
+### Instructions
 
 1. Preheat oven to 350&deg;F.
 2. Cream sugar and butter in a large mixing bowl. Add almond extract.

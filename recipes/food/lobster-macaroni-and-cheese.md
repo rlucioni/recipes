@@ -2,6 +2,8 @@
 
 Adapted from [Chef John's lobster mac and cheese](http://foodwishes.blogspot.com/2015/02/lobster-mac-and-cheese-is-it-really-hard.html). Serves 2.
 
+### Ingredients
+
 - 2 teaspoons vegetable oil
 - 2 lobster tails (5-6 oz each)
 - 2 tablespoons butter
@@ -21,6 +23,8 @@ For the crumbs:
 - 3 tablespoons panko breadcrumbs
 - 1 tablespoon melted butter, or enough to moisten
 - 2 tablespoons grated Parmigiano Reggiano 
+
+### Instructions
 
 1. Preheat oven to 400&deg;F.
 2. Cut lobster tails length-wise.

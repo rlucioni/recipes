@@ -1,8 +1,12 @@
 # Acorn Squash
 
+### Ingredients
+
 - 1 acorn squash, cut into chunks
 - salt, to taste
 - water, as needed
+
+### Instructions
 
 1. Heat pot on medium-high heat with some olive oil.
 2. Add squash and salt. Toss to coat.

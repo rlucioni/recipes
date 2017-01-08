@@ -1,8 +1,12 @@
 # Roasted Fingerling Potatoes
 
+### Ingredients
+
 - 1 pound fingerling potatoes
 - 1 tablespoon chopped fresh herbs (thyme, rosemary, or sage)
 - salt and olive oil
+
+### Instructions
 
 1. Preheat oven to 425&deg;F.
 2. Wash potatoes well. Cut in half lengthwise if large.

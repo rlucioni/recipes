@@ -3,6 +3,8 @@
 Adapted from Cook's Illustrated Key Lime Pie.
 
 Crust
+### Ingredients
+
 - 8 graham crackers
 - 5 tablespoons butter
 - 1 tablespoon sugar
@@ -13,6 +15,8 @@ Filling:
 - 1/2 cup lime juice
 - 1 (14 ounce) can sweetened condensed milk
 - cream, for topping
+
+### Instructions
 
 1. Preheat oven to 325&deg;F.
 2. Whisk egg yolks and lime zest well. Mix in condensed milk, followed by lime juice. Let sit at room temperature for 30 minutes.

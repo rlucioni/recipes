@@ -2,6 +2,8 @@
 
 Adapted from [Chef John's sausage and beef chili](http://foodwishes.blogspot.com/2014/01/italian-sausage-chili-another-super-bowl.html). Serves 4.
 
+### Ingredients
+
 - 2 tablespoons ancho chili powder
 - 1 teaspoon paprika
 - 1 teaspoon ground cumin
@@ -18,6 +20,8 @@ Adapted from [Chef John's sausage and beef chili](http://foodwishes.blogspot.com
 - 1 red bell pepper
 - 1 green bell pepper
 - 24 ounces cannellini or other white beans, drained and rinsed
+
+### Instructions
 
 1. Prepare spice blend by combining chili powder, paprika, cumin, chipotle pepper, oregano, and pepper. Reserve.
 2. Cook onion and meat in a cold pot with olive oil at medium heat. Break up meat well and cook until all liquid has evaporated.

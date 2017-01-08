@@ -2,9 +2,13 @@
 
 Serves 4.
 
+### Ingredients
+
 - 1 duck (around 6 pounds)
 - 4 cloves garlic, smashed
 - 3 sprigs rosemary
+
+### Instructions
 
 1. Preheat oven to 325&deg;F on convection.
 2. Use a sharp knife to carve off the breasts and leg quarters. Save the carcass for duck stock.

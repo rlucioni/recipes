@@ -2,6 +2,8 @@
 
 Serves 2 hungry people.
 
+### Ingredients
+
 - 1 pound sirloin tip, cut into strips
 - 1 large red onion, cut into strips
 - 4 Roma tomatoes, cut into strips
@@ -9,6 +11,8 @@ Serves 2 hungry people.
 - 2 cloves garlic, crushed
 - 1/4 cup white vinegar
 - Soy sauce
+
+### Instructions
 
 1. Cook meat halfway over medium-high heat; reserve.
 2. Add onion to the same pan; salt and cook until they begin to soften.

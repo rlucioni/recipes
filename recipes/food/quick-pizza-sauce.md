@@ -2,6 +2,8 @@
 
 Makes enough for 1 deep dish pizza.
 
+### Ingredients
+
 - 1 (6 ounce) can tomato paste
 - 3/4 cup water (might need more to get consistency right)
 - 1 teaspoon minced garlic
@@ -14,6 +16,8 @@ Makes enough for 1 deep dish pizza.
 - 1/8 teaspoon cayenne pepper
 - 1/8 teaspoon red pepper flakes
 - salt to taste
+
+### Instructions
 
 1. Mix everything together.
 2. Microwave 20 seconds.

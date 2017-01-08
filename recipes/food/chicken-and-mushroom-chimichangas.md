@@ -2,6 +2,8 @@
 
 Adapted from [Chef John's chimichangas](http://foodwishes.blogspot.com/2014/01/chicken-mushroom-chimichanga.html). Serves 4.
 
+### Ingredients
+
 - 1 tablespoon vegetable oil, divided (half for veggies, half to cook chicken)
 - 1/2 cup diced onions
 - 1/2 cup diced poblano peppers
@@ -16,6 +18,8 @@ Adapted from [Chef John's chimichangas](http://foodwishes.blogspot.com/2014/01/c
 - 4 large flour tortilla (at least 10-inch wide)
 - 2 tablespoons vegetable oil for pan-frying
 - sour cream, guacamole, and salsa to garnish
+
+### Instructions
 
 1. Preheat oven to 400&deg;F.
 2. Saute onions, peppers, and mushrooms with salt on medium-high heat until brown.

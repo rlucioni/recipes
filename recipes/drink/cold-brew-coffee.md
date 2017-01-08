@@ -2,8 +2,12 @@
 
 1:5 coffee to water ratio.
 
+### Ingredients
+
 - 100 grams coarsely ground coffee
 - 500 grams cold water
+
+### Instructions
 
 1. Pour water over grounds. Stir, cover, and allow to steep at room temperature for 12 hours.
 2. Filter grounds from coffee (easiest if a French press is used) and refrigerate.

@@ -2,11 +2,15 @@
 
 Adapted from [Surfin' Sapo's baked red snapper](https://www.youtube.com/watch?v=NTZTGWA1iLQ).
 
+### Ingredients
+
 - 1 red snapped, scaled and gutted
 - Olive oil, salt, pepper to taste
 - 1 1/2 lemons, sliced
 - 3 cloves of garlic, grated
 - 1 cup rice
+
+### Instructions
 
 1. Preheat oven to 450&deg;F. Start rice.
 2. Check fish for scales, then cut three deep diagonal slashes on both sides.

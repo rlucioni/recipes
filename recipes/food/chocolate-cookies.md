@@ -2,6 +2,8 @@
 
 Adapted from [Martha Stewart's Grammy's Chocolate Cookies](http://www.marthastewart.com/316883/grammys-chocolate-cookies). Yields 40 cookies.
 
+### Ingredients
+
 - 2 cups all-purpose flour
 - 3/4 cup Dutch cocoa powder
 - 1 teaspoon baking soda
@@ -10,6 +12,8 @@ Adapted from [Martha Stewart's Grammy's Chocolate Cookies](http://www.marthastew
 - 2 cups sugar, plus more for dipping
 - 2 large eggs
 - 2 teaspoons pure vanilla extract
+
+### Instructions
 
 1. Sift together flour, cocoa powder, baking soda, and salt. Set aside.
 2. Beat butter, 2 cups sugar, and eggs on medium speed until light and fluffy, about 2 minutes. Add vanilla, and mix to combine.

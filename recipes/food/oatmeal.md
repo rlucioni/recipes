@@ -1,7 +1,11 @@
 # Oatmeal
 
+### Ingredients
+
 - Rolled oats
 - Milk
+
+### Instructions
 
 1. In a large bowl, mix 4 generous tablespoons of oats and 3/4 cup of water per serving.
 2. Microwave 3 minutes.

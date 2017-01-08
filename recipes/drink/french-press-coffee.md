@@ -2,8 +2,12 @@
 
 1:10 coffee to water ratio. Ingredient amounts given here yield two coffee cups.
 
+### Ingredients
+
 - 40 grams coarsely ground coffee
 - 400 grams water
+
+### Instructions
 
 1. Bring water to a boil and allow to cool slightly to somewhere near 195&deg;-205&deg;F.
 2. Pour enough water over the grounds to inundate them, and allow the coffee to bloom for 30 seconds.

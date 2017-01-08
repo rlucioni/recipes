@@ -2,6 +2,8 @@
 
 Adapted from [Chef John's banana bread](http://foodwishes.blogspot.com/2012/01/banana-bread-thats-okay-to-make-early.html). Makes 1 loaf.
 
+### Ingredients
+
 - 3 ripe bananas
 - 2 cups all-purpose flour
 - 1 teaspoon salt
@@ -14,6 +16,8 @@ Adapted from [Chef John's banana bread](http://foodwishes.blogspot.com/2012/01/b
 - 1 tablespoon milk
 - 1 cup chopped walnuts
 - 1/3 cup dark chocolate chips
+
+### Instructions
 
 1. Preheat oven to 325&deg;F.
 2. Cream together butter and sugar in a large bowl with electric mixer.

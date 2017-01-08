@@ -2,6 +2,8 @@
 
 Adapted from [Simply Recipes' roasted kabocha squash soup](http://www.simplyrecipes.com/recipes/roasted_kabocha_squash_soup/). Serves 4.
 
+### Ingredients
+
 - 1 kabocha squash, quartered and cleaned
 - 1 1/2 Tbsp olive oil
 - 1 onion, chopped
@@ -13,6 +15,8 @@ Adapted from [Simply Recipes' roasted kabocha squash soup](http://www.simplyreci
 - 4 cups chicken stock
 - 2 teaspoons kosher salt
 - 1/4 teaspoon black pepper
+
+### Instructions
 
 1. Preheat oven to 400&deg;F. Rub squash quarters with olive oil and sprinkle with salt. Roast squash skin-side up for 45 minutes until cooked through, soft, and caramelized at the edges. Remove from oven and reserve.
 2. In a pot, sweat onions and celery. Add garlic, ginger, cumin, and coriander, and cook for a few minutes to wake up spices.

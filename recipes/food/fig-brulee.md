@@ -2,9 +2,13 @@
 
 Adapted from [Chef John's fig brulee](http://foodwishes.blogspot.com/2011/09/fig-brulee-with-burrata-cheese-lets.html).
 
+### Ingredients
+
 - 6 fresh figs
 - Demerera sugar
 - vanilla ice cream
+
+### Instructions
 
 1. Chill bowl in freezer.
 2. Wash and trim figs. Cut in half lengthwise.

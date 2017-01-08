@@ -2,6 +2,8 @@
 
 Make 4 servings
 
+### Ingredients
+
 - 6 cups leftover rice (2 cups when uncooked)
 - 1/2 pound pork, chopped fine
 - 1/2 pound shrimp, chopped fine
@@ -10,6 +12,8 @@ Make 4 servings
 - 2 cloves garlic, grated
 - soy sauce
 - 2 cups chicken stock
+
+### Instructions
 
 1. Saute onions and napa with soy sauce until soft.
 2. Add vegetables to a large pot with rice and chicken stock. Break up rice in liquid. Start heating mixture over high heat.

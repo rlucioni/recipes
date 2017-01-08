@@ -3,6 +3,8 @@
 Adapted from [Allrecipes](http://allrecipes.com/recipe/to-die-for-blueberry-muffins/). Makes 8 muffins.
 
 For muffins:
+### Ingredients
+
 - 240 grams all-purpose flour
 - 1/2 teaspoon salt
 - 2 teaspoons baking powder
@@ -12,6 +14,8 @@ For muffins:
 - 1/3 cup milk
 - 1 cup fresh blueberries
 - Demerara sugar
+
+### Instructions
 
 1. Preheat oven to 400&deg;F.
 2. Combine flour, salt, and baking powder.

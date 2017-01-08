@@ -3,6 +3,8 @@
 Adapted from [Cooking with Dog's ramen](https://www.youtube.com/watch?v=yfEUwNQTXwU). Serves 4.
 
 Pork broth
+### Ingredients
+
 - 2 pounds pork ribs
 - 6 stalks green onion, cut into thirds
 - 3 inch piece of ginger, sliced/crushed
@@ -23,6 +25,8 @@ Other
 - blanched mung bean sprouts
 - marinated, soft-boiled eggs
 - toasted nori seaweed
+
+### Instructions
 
 1. Sear ribs on high heat in a pot, 3-4 minutes per side.
 2. Add enough water or chicken stock to cover. Add green onion, ginger, and garlic. Simmer for 2 hours, skimming fat occasionally.

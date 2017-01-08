@@ -2,6 +2,8 @@
 
 Serves 4.
 
+### Ingredients
+
 - 4 large yellow onions, coarsely chopped
 - 4 tablespoons butter
 - 2-3 sprigs fresh thyme
@@ -12,6 +14,8 @@ Serves 4.
 - sherry vinegar, to taste
 - crusty bread, cubed
 - shredded Gruyère cheese
+
+### Instructions
 
 1. Add onions, butter, and a few generous pinches of salt to a stock pot. Sweat until onions are golden, about 45 minutes.
 2. Add thyme, bay leaf, black pepper, sherry, and broth. Bring to a simmer. Pressurize and cook for 8 minutes at high pressure.

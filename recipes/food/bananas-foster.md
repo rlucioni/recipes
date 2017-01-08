@@ -2,6 +2,8 @@
 
 Adapted from [Chef John's bananas foster](http://foodwishes.blogspot.com/2014/11/bananas-foster-americas-favorite.html). Serves 2.
 
+### Ingredients
+
 - 1 1/2 tablespoons brown sugar
 - 1 1/2 tablespoons butter
 - 1 slightly under-ripe banana
@@ -9,6 +11,8 @@ Adapted from [Chef John's bananas foster](http://foodwishes.blogspot.com/2014/11
 - 2 pinches cinnamon
 - 1 large scoop vanilla ice cream in chilled bowl
 - 1 long dried noodle + source of fire
+
+### Instructions
 
 1. Cut banana in half. Cut each half lengthwise for 4 total pieces.
 2. Prepare all ingredients before starting.

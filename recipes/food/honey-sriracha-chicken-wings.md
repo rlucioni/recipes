@@ -2,6 +2,8 @@
 
 Adapted from [Chef John's chicken wings](http://foodwishes.blogspot.com/2015/01/crispy-honey-sriracha-chicken-wings.html). Serves 4.
 
+### Ingredients
+
 - 2 1/2 pounds chicken wing sections
 - 1 tablespoon kosher salt
 - 1 teaspoon freshly ground black pepper
@@ -14,6 +16,8 @@ For the honey Sriracha glaze:
 - 1 tablespoon seasoned rice vinegar
 - 1/4 teaspoon sesame oil
 - sesame seeds to garnish
+
+### Instructions
 
 1. Preheat oven to 425&deg;F.
 2. Mix salt, pepper, paprika, and baking powder in a ramekin.

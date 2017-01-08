@@ -2,6 +2,8 @@
 
 Serves 2.
 
+### Ingredients
+
 - 1 onion, diced
 - 1 anchovy
 - 2 cloves garlic, minced
@@ -14,6 +16,8 @@ Serves 2.
 - 1/4 ounce grated Pecorino Romano
 - 1/4 ounce grated Parmigiano 
 - 8 ounces farfalle
+
+### Instructions
 
 1. Start salted water boiling for the pasta.
 2. Heat a tablespoon of olive oil in a skillet. Saute onions over medium heat until translucent. Add a pinch of salt to draw out water.

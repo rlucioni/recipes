@@ -2,12 +2,16 @@
 
 Adapted from [Chef John's deviled eggs](http://foodwishes.blogspot.com/2012/01/recipe-666-deviled-eggs-damn-these-were.html). Recipe is for 12 eggs.
 
+### Ingredients
+
 - 12 eggs
 - 2 tablespoons cream cheese
 - 1/3 cup mayonnaise
 - 1/2 teaspoon Sriracha
 - 1 teaspoon rice vinegar
 - 2 teaspoons dijon mustard
+
+### Instructions
 
 1. Hard boil the eggs.
 2. Peel the eggs and slice them in half. Remove yolks to a bowl.

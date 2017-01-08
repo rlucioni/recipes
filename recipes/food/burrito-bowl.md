@@ -2,6 +2,8 @@
 
 Serves 4.
 
+### Ingredients
+
 - 2 cups rice
 - 15 1/2 ounces canned beans
 - 2 cloves garlic
@@ -13,6 +15,8 @@ Serves 4.
 - 2 cups mushrooms, roughly chopped
 - 1 small block sharp cheddar, grated
 - cilantro, sour cream, salsa, tortilla chips, and sliced avocado to garnish
+
+### Instructions
 
 1. Cook 2 cups rice in a rice maker.
 2. Microwave corn for 4 minutes.

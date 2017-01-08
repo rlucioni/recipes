@@ -2,12 +2,16 @@
 
 Makes 2 pizzas or 4 calzones.
 
+### Ingredients
+
 - 2 1/4 teaspoons active dry yeast
 - 1 tablespoon sugar
 - 1 cup warm water
 - 3/4 teaspoon salt
 - 2 tablespoons olive oil
 - 3 cups flour
+
+### Instructions
 
 1. Mix yeast, sugar, and warm water in a small bowl. Let sit in warm place for 10 minutes.
 2. Mix in salt and olive oil.

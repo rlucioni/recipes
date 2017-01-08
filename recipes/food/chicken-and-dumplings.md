@@ -3,6 +3,8 @@
 Adapted from [Chef John's chicken and dumplings](http://foodwishes.blogspot.com/2012/05/chicken-dumplings-stewed-chicken-with.html). Makes 4 servings and leftover chicken.
 
 For the stewed chicken:
+### Ingredients
+
 - 1 whole chicken (about 3.5-4 pounds)
 - 1 onion, cubed
 - 1 large celery rib, cubed
@@ -20,6 +22,8 @@ For dumplings:
 - 2 cups all-purpose flour
 - 3 teaspoons baking powder
 - 1 teaspoon salt
+
+### Instructions
 
 1. Add whole chicken, vegetables, bay leaf, thyme, and water in a large pot. 
 2. Bring to a simmer and simmer on low for 1 hour, covered. Skim fat occasionally

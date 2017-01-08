@@ -2,6 +2,8 @@
 
 Serves 2 with leftover chicken.
 
+### Ingredients
+
 - 1 whole chicken (about 3.5-4 pounds)
 - 1 onion, cubed
 - 1 large celery rib, cubed
@@ -12,6 +14,8 @@ Serves 2 with leftover chicken.
 - salt, cayenne, and freshly ground black pepper to taste
 - egg noodles
 - Optional: frozen corn, green beans
+
+### Instructions
 
 1. Add whole chicken, vegetables, bay leaf, thyme, and water in a large pot. 
 2. Bring to a simmer and simmer on low for 1 hour, covered. Skim fat occasionally

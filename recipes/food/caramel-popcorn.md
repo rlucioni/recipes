@@ -1,5 +1,7 @@
 # Caramel Popcorn
 
+### Ingredients
+
 - 1/2 cup popcorn kernels
 - 3 tablespoons vegetable oil
 - 3/4 cup butter
@@ -8,6 +10,8 @@
 - 1 teaspoon salt
 - 1 teaspoon vanilla extract
 - 1/4 teaspoon baking soda
+
+### Instructions
 
 1. Preheat oven to 250&deg;F.
 2. Pop popcorn in vegetable oil. Be sure not to salt it at this point. Set aside.

@@ -2,6 +2,8 @@
 
 Adapted from [Chef John's Korean fried chicken](http://foodwishes.blogspot.com/2014/07/korean-fried-chicken.html)
 
+### Ingredients
+
 - 1 1/2 pounds boneless skinless chicken thighs, cut into large chunks
 - 1 small yellow onion, grated
 - 6 cloves of garlic, grated
@@ -16,6 +18,8 @@ For the batter:
 - 1 teaspoon sugar
 - 1/2 teaspoon freshly ground black pepper
 - 1 cup very cold water, or as needed
+
+### Instructions
 
 1. Mix chicken, grated onion, grated garlic, salt, and pepper in a bowl. Toss to coat evenly. Cover and refrigerate for at least 4 hours, up to overnight.
 3. Whisk together flour, baking powder, cornstarch, salt, sugar, and pepper.

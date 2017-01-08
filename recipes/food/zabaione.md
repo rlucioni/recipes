@@ -1,10 +1,14 @@
 # Zabaione
 
+### Ingredients
+
 - 1/2 cup diced strawberries
 - 3 egg yolks
 - 3 tablespoons white sugar
 - 1/4 cup dry marsala wine
 - zest of 1 orange
+
+### Instructions
 
 1. Place strawberries in a bowl with 1-2 teaspoons of sugar. Stir occasionally until syrup forms, about 30 minutes.
 2. Combine eggs, sugar, and wine in a large metal mixing bowl.

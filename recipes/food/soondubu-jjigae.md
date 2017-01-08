@@ -2,6 +2,8 @@
 
 Adapted from [Chowhound's soondubu jjigae](http://www.chowhound.com/recipes/kimchi-soft-tofu-stew-soondubu-jjigae-29506). Serves 2.
 
+### Ingredients
+
 - 1/2 yellow onion, diced
 - 1 zucchini, diced
 - 2 cloves garlic, minced
@@ -14,6 +16,8 @@ Adapted from [Chowhound's soondubu jjigae](http://www.chowhound.com/recipes/kimc
 - 3 eggs
 - thinly sliced pork belly
 - 3 scallops, sliced across the grain
+
+### Instructions
 
 1. Saute onions with a pinch of salt over medium heat until softened.
 2. Add gochujang, zucchini, and kimchi. Continue to saute until zucchini softens.

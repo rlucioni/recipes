@@ -2,6 +2,8 @@
 
 Adapted from [Chef John's pecan pie](http://foodwishes.blogspot.com/2014/04/an-amazing-award-winning-pecan.html).
 
+### Ingredients
+
 - 1 batch pie crust
 - 3 cups pecan halves, toasted
 - 1/2 cup butter
@@ -14,6 +16,8 @@ Adapted from [Chef John's pecan pie](http://foodwishes.blogspot.com/2014/04/an-a
 - 1 teaspoon vanilla
 - 1 tablespoon bourbon
 - 3 large eggs
+
+### Instructions
 
 1. Preheat oven to 350&deg;F.
 2. Put butter, brown sugar, white sugar, corn syrup, flour, milk, salt, vanilla, and bourbon in saucepan.

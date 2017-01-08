@@ -2,10 +2,14 @@
 
 Adapted from [Chef John's sandwich rolls](http://foodwishes.blogspot.com/2016/01/sandwich-rolls-because-size-and-shape.html). Makes three rolls.
 
+### Ingredients
+
 - 1 1/8 teaspoons dry active yeast (1/2 package)
 - 3/4 cup warm water
 - 9 1/2 ounces bread flour, by weight
 - 3/4 teaspoon salt
+
+### Instructions
 
 1. Combine yeast and water in a large mixing bowl. Make sure the yeast is alive before proceeding!
 2. Add flour and salt. Knead, adding flour as necessary, until a smooth, soft, slightly sticky dough forms.

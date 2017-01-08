@@ -2,6 +2,8 @@
 
 Adapted from [Chef John's tomato bisque](http://foodwishes.blogspot.com/2013/10/tomato-bisque-soup-might-not-count-as.html). Serves 6.
 
+### Ingredients
+
 - 1 tablespoon olive oil
 - 1/2 onion, diced
 - 1 celery stalk, diced
@@ -12,6 +14,8 @@ Adapted from [Chef John's tomato bisque](http://foodwishes.blogspot.com/2013/10/
 - 3 tablespoons white rice
 - 2 teaspoons sugar
 - 1/2 cup heavy cream
+
+### Instructions
 
 1. Sweat onions and celery in olive oil over medium heat. Add a pinch of salt to bring out liquid.
 2. When onions soften and turn translucent, add garlic (and paprika, if desired) and cook for about a minute.

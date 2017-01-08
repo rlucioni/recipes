@@ -2,12 +2,16 @@
 
 Makes 3.
 
+### Ingredients
+
 - 3 lobsters, around 1 1/3 pounds each
 - 3 sandwich rolls
 - 1 tablespoon mayonnaise
 - 1 rib celery
 - Old Bay, to taste
 - 1 1/2 tablespoons butter
+
+### Instructions
 
 1. Bring an inch of salted water to a rolling boil in a large pot.
 2. Steam lobsters for 8 minutes. Watch for boil-overs!

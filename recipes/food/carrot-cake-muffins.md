@@ -3,6 +3,8 @@
 Adapted from [Bon Apetit's carrot cake](http://www.epicurious.com/recipes/food/views/triple-layer-carrot-cake-with-cream-cheese-frosting-799). Makes 18.
 
 Cake 
+### Ingredients
+
 - 3/4 cup white sugar
 - 3/4 cup brown sugar
 - 1 1/2 cups vegetable oil 
@@ -21,6 +23,8 @@ Frosting
 - 8 ounces cream cheese, room temperature 
 - 1/4 cup unsalted butter, room temperature 
 - 2 teaspoons vanilla extract 
+
+### Instructions
 
 1. Preheat oven to 350&deg;F.
 2. Grate carrots using the coarse side of the grater.

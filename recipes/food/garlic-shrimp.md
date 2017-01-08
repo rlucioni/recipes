@@ -2,6 +2,8 @@
 
 Adapted from [Chef John's garlic shrimp](http://foodwishes.blogspot.com/2012/02/garlic-shrimp-not-necessarily-in-that.html). Serves 2.
 
+### Ingredients
+
 - 1 1/2 tablespoons olive oil
 - 1 pound shrimp
 - 6 cloves garlic, minced
@@ -10,6 +12,8 @@ Adapted from [Chef John's garlic shrimp](http://foodwishes.blogspot.com/2012/02/
 - 2 tablespoons lemon juice
 - 1 tablespoon caper brine
 - 1/3 cup choppen Italian parsley
+
+### Instructions
 
 1. Heat olive oil in skillet over medium-high heat. Look for wisps of smoke.
 2. Add shrimp in one layer and salt. Let sizzle for 1 minute.
