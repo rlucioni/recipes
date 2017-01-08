@@ -6,7 +6,35 @@ Run from the root of the project with
     
     $ ./tools/refactor.py
 """
+import logging
+from logging.config import dictConfig
 import os
+
+
+dictConfig({
+    'version': 1,
+    'disable_existing_loggers': False,
+    'formatters': {
+        'standard': {
+            'format': '%(asctime)s %(levelname)s %(process)d [%(filename)s:%(lineno)d] - %(message)s',
+        },
+    },
+    'handlers': {
+        'console': {
+            'level': 'INFO',
+            'class': 'logging.StreamHandler',
+            'formatter': 'standard',
+        },
+    },
+    'loggers': {
+        '': {
+            'handlers': ['console'],
+            'level': 'DEBUG',
+            'propagate': False
+        },
+    },
+})
+logger = logging.getLogger()
 
 
 DIRECTORIES = ['drink', 'food']
@@ -36,9 +64,14 @@ def insert_headings(f):
 
 
 for directory in DIRECTORIES:
+    logger.info(f'Processing recipes in [{directory}].')
+
     filenames = os.listdir('recipes/' + directory)
 
     for filename in filenames:
         if filename.endswith('.md'):
-            with open('recipes/{}/{}'.format(directory, filename), 'r+') as f:
+            path = f'recipes/{directory}/{filename}'
+            logger.info(f'Processing [{path}].')
+
+            with open(path, 'r+') as f:
                 insert_headings(f)

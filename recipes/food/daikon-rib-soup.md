@@ -1,1 +1,0 @@
-# Daikon Rib Soup
