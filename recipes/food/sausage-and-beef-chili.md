@@ -12,14 +12,14 @@ Adapted from [Chef John's sausage and beef chili](http://foodwishes.blogspot.com
 - 1 teaspoon black pepper
 
 - 1 onion, chopped
-- 1 1/4 pounds (spicy) Italian sausage, chopped fine
+- 1 pound spicy Italian sausage, chopped fine
 - 1 teaspoon salt
-- 1 1/4 pounds ground beef
-- 2 1/2 cups water
+- 1 pound ground beef
+- 2 cups water
 - 1 cup crushed San Marzano tomatoes
 - 1 red bell pepper
 - 1 green bell pepper
-- 24 ounces cannellini or other white beans, drained and rinsed
+- 24-30 ounces cannellini or other white beans, drained and rinsed
 
 ### Instructions
 

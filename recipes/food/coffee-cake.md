@@ -2,9 +2,9 @@
 
 Adapted from [Chef John's Pecan Sour Cream Coffee Cake](http://foodwishes.blogspot.com/2016/04/pecan-sour-cream-coffee-cake-now-with.html). Makes 8 servings.
 
-Crumb topping
 ### Ingredients
 
+Crumb topping
 - 3/4 cup pecans, toasted and finely chopped
 - 2 tablespoons + 2 teaspoons white sugar
 - 2 tablespoons + 2 teaspoons brown sugar, packed
