@@ -1,6 +1,6 @@
 # Blueberry Muffins
 
-Adapted from [Allrecipes](http://allrecipes.com/recipe/to-die-for-blueberry-muffins/). Makes 8 muffins.
+Adapted from [Allrecipes](http://allrecipes.com/recipe/to-die-for-blueberry-muffins/). Makes 10 muffins.
 
 For muffins:
 ### Ingredients
