@@ -4,7 +4,7 @@ Adapted from [Chef John's roast tenderloin of beef](http://foodwishes.blogspot.c
 
 ### Ingredients
 
-- 3 pound beef tenderloin roast
+- 3 pound spoon roast
 - Salt and pepper to taste
 - 2 tablespoons unsalted butter, cut in half
 - 1/2 cup Cremini mushrooms, soaked and diced
