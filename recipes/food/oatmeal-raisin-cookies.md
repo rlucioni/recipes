@@ -7,7 +7,7 @@
 - 1/4 cup + 2 tablespoons packed brown sugar
 - 1 egg
 - 1/2 teaspoon vanilla extract
-- 1/2 cup + 2 tablespoons all-purpose flour
+- 100 grams all-purpose flour
 - 1/2 teaspoon baking soda
 - 1/4 teaspoon ground cinnamon
 - 1/4 teaspoon salt
