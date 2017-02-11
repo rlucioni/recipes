@@ -9,8 +9,7 @@ Adapted from [Allrecipes's egg drop soup](http://allrecipes.com/Recipe/Restauran
 - 2 tablespoons chopped fresh chives
 - 1/4 teaspoon salt
 - 1 1/2 tablespoons cornstarch
-- 2 eggs
-- 1 egg yolk
+- 3 eggs
 
 ### Instructions
 
