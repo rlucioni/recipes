@@ -9,7 +9,7 @@ Serves 8.
 - 3 eggs, room temperature
 - 1 1/2 teaspoons vanilla extract
 - 1/2 cup milk
-- 1 3/4 cups flour
+- 240 grams all-purpose flour
 - 1 1/2 teaspooons baking powder
 
 ### Instructions
