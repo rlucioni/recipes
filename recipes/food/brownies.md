@@ -6,8 +6,8 @@
 - 1 cup white sugar
 - 1 teaspoon vanilla extract
 - 2 eggs
-- 1/3 cup unsweetened cocoa powder
-- 1/2 cup all-purpose flour
+- 30 grams unsweetened cocoa powder
+- 75 grams all-purpose flour
 - 1/4 teaspoon salt
 - 1/4 teaspoon baking powder
 - chocolate chips and chopped walnuts
