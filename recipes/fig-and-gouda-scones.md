@@ -1,5 +1,7 @@
 # Fig and Gouda Scones
 
+Inspired by the fig and gouda scones at Gemma in Dallas.
+
 ### Ingredients
 
 - 240 grams all-purpose flour
