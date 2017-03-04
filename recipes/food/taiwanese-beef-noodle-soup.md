@@ -23,7 +23,7 @@ Adapted from [Serious Eats' Taiwanese Beef Noodle Soup](http://www.seriouseats.c
 - 2 pounds Asian wheat flour noodles (wider is better)
 - Baby bok choy
 - 2 green onions, chopped
-- 1 package soft tofu (optional)
+- 1 package silken tofu (optional)
 
 ### Instructions
 
@@ -31,7 +31,7 @@ Adapted from [Serious Eats' Taiwanese Beef Noodle Soup](http://www.seriouseats.c
 2. In the same pot, add onion halves face down, ginger, chilies, tomato, and garlic. Stir briefly.
 4. Add chili bean sauce and stir until mixture just begins to bubble.
 5. Return beef to the pot. Stir to coat the meat with spices, then add sake, scraping up fond.
-6. Add star anise, Sichuan peppercorns, cinammon stick, soy sauce, chicken stock, and sugar. Bring to a simmer, then lock the lid on the pressure cooker. Cook for 25 minutes at high pressure.
+6. Add star anise, Sichuan peppercorns, cinammon stick, soy sauce, chicken stock, water, and sugar. Bring to a simmer, then lock the lid on the pressure cooker. Cook for 25 minutes at high pressure.
 7. Depressurize. Fish out beef and reserve. Strain stock into bowls, skimming fat if desired.
 8. Blanch baby bok choy and reserve. Cook noodles and add to bowls of broth.
 9. Top with baby bok choy, beef cubes, tofu, and green onions.
