@@ -2,9 +2,9 @@
 
 Serves 4.
 
-Sauce
 ### Ingredients
 
+Sauce
 - 2 tablespoons gochujang
 - 1 tablespoon sesame oil
 - 1 tablespoon sugar
