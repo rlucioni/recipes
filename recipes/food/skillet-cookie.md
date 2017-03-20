@@ -1,18 +1,18 @@
-# Skillet cookie
+# Skillet Cookie
 
 Adapted from [America's Test Kitchen's skillet cookie](https://www.americastestkitchen.com/recipes/9242-cast-iron-skillet-chocolate-chip-cookie). Fits in a 6" skillet.
 
 ### Ingredients
 
 - 4 tablespoons butter
-- 1/4 cup brown sugar
-- 1/6 cup sugar
+- 50 grams brown sugar
+- 33 grams sugar
 - 2/3 teaspoon vanilla extract
 - 1/3 teaspoon salt
 - 1 egg yolk
 - 80 grams flour
 - 1/6 teaspoon baking soda
-- 2 ounces chocolate chips
+- 55 grams chocolate chips
 
 ### Instructions
 
