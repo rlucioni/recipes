@@ -2,7 +2,7 @@
 
 ### Ingredients
 
-- 12 ounces salmon (perfer king, chinook, or sockeye)
+- 12 ounces salmon
 - Salt
 - Olive oil
 
