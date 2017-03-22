@@ -8,7 +8,7 @@ Adapted from [America's Test Kitchen's skillet cookie](https://www.americastestk
 - 50 grams brown sugar
 - 33 grams sugar
 - 2/3 teaspoon vanilla extract
-- 1/3 teaspoon salt
+- 1/4 teaspoon salt
 - 1 egg yolk
 - 80 grams flour
 - 1/6 teaspoon baking soda
