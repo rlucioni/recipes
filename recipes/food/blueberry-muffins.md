@@ -2,7 +2,6 @@
 
 Adapted from [Allrecipes](http://allrecipes.com/recipe/to-die-for-blueberry-muffins/). Makes 10 muffins.
 
-For muffins:
 ### Ingredients
 
 - 240 grams all-purpose flour
