@@ -23,6 +23,6 @@ Yields 12 muffins.
 2. Whisk together flour, baking powder, baking soda, salt, and poppy seeds in a bowl.
 3. Separately, whisk together sugar, butter, milk, sour cream, eggs, lemon zest, and lemon juice in a large bowl.
 4. Fold in dry ingredients until just combined.
-5. Fill muffin pan with batter. Bake until toothpick comes out clean, roughly 20 minutes. 
+5. Fill muffin pan with batter. Bake until toothpick comes out clean, roughly 25 minutes. 
 
 Let cool in muffin tin until just warm before transferring to cooling rack.
