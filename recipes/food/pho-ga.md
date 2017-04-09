@@ -2,7 +2,6 @@
 
 Adapted from [Serious Eats' Pho Ga](http://www.seriouseats.com/recipes/2015/01/30-minute-pressure-cooker-pho-ga-recipe.html). Serves 4.
 
-For the broth:
 ### Ingredients
 
 - 2 medium yellow onions, split in half
@@ -15,7 +14,7 @@ For the broth:
 - 1 teaspoon coriander seeds
 - 6 to 8 chicken drumsticks
 - 1/4 cup fish sauce, plus more to taste
-- 2 tablespoons rock sugar or raw sugar, plus more to taste
+- 2 tablespoons sugar, plus more to taste
 
 Toppings:
 - 4 servings pho noodles, prepared according to package directions
