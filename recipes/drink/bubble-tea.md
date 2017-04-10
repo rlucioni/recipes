@@ -6,8 +6,7 @@ Makes 1 serving.
 
 - 2 bags black tea
 - 1/4 cup dried tapioca pearls
-- agave nectar 
-- whole milk
+- agave nectar
 - sweetened condensed milk
 
 ### Instructions
