@@ -7,9 +7,9 @@ Makes 12 cupcakes.
 - 1/2 cup butter
 - 1 cup sugar
 - 2 eggs
-- 1 1/2 cups all-purpose flour
+- 240 grams all-purpose flour
 - 1/2 teaspoon salt
-- 3 teaspoons baking powder
+- 1 tablespoon baking powder
 - 1 tablespoon grated orange rind
 - 1/2 cup orange juice
 
