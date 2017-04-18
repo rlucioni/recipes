@@ -6,7 +6,7 @@ Adapted from [All Recipes' Bread Pudding](http://allrecipes.com/recipe/7177/brea
 
 - 5 ounces day-old bread
 - 1 tablespoon melted butter
-- 1/4 cup golden raisins
+- 1/4 cup golden raisins (soaked in rum, optional)
 - 2 eggs
 - 1/4 cup sugar
 - 1 cup whole milk
@@ -21,6 +21,6 @@ Adapted from [All Recipes' Bread Pudding](http://allrecipes.com/recipe/7177/brea
 3. Whisk together eggs and sugar. Add in milk, cinnamon, vanilla, and salt.
 4. Pour egg custard over bread. Make sure every piece of bread is soaked.
 5. Sprinkle on raisins and poke them into the custard.
-6. Bake for 30 minutes, or until the top springs back when tapped.
+6. Bake until golden brown and the top springs back when tapped, about 35-40 minutes.
 
 Serve barely warm with whipped cream.
