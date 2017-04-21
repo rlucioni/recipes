@@ -5,7 +5,6 @@
 - 1 tablespoon oyster sauce
 - 1 tablespoon soy sauce, or as needed
 - 2 teaspoons fish sauce
-- 1 teaspoon white sugar
 - 1 teaspoon brown sugar
 - 1/3 cup chicken broth
 - 1 pound chicken thighs, chopped
@@ -16,9 +15,9 @@
 
 ### Instructions
 
-1. Mix oyster sauce, soy sauce, fish sauce, sugar, and chicken broth in a bowl. Reserve.
-2. Sear chicken with some vegetable oil over high heat until no longer raw, 2-3 minutes.
-3. Stir in shallots, garlic, and chili. Once you see caramelization, gradually add the sauce and use it to deglaze the bottom of the pan.
+1. Mix oyster sauce, soy sauce, fish sauce, grated garlic, sugar, and chicken broth in a bowl. Reserve.
+2. Heat oil in a pan over high heat. Add the shallots, chilis, and chicken and cook until brown. Reserve.
+3. Cook the sauce by itself until it becomes thick. Add back chicken and shallot mixture and toss until most of the liquid has evaporated.
 4. Turn off heat and stir in basil. Taste for seasoning.
 
 Serve with rice.
