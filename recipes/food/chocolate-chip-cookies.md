@@ -4,7 +4,7 @@ Adapted from America's Test Kitchen's chocolate chip cookies.
 
 ### Ingredients
 
-- 1 3/4 cup all-purpose flour
+- 250 grams all-purpose flour
 - 1/2 teaspoon baking soda
 - 14 tablespoons (1 3/4 sticks) butter
 - 1/2 cup white sugar
