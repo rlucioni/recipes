@@ -4,8 +4,7 @@ Adapted from [Chef John's cheesecake](http://foodwishes.blogspot.com/2010/10/new
 
 ### Ingredients
 
-- 9 graham crackers
-- 1 1/2 tablespoons melted butter
+- 1 [graham cracker crust](graham-cracker-crust.md)
 - 2 tablespoons flour
 - 1/2 cup sour cream
 - 1/2 tablespoon vanilla
@@ -16,13 +15,10 @@ Adapted from [Chef John's cheesecake](http://foodwishes.blogspot.com/2010/10/new
 
 ### Instructions
 
-1. Preheat oven to 350&deg;F.
-2. Crush graham crackers and add melted butter. Press into baking containers and pack down with a glass. Blind-bake for 10-15 minutes.
-3. Combine flour, sour cream, and vanilla in a small bowl.
-4. Thoroughly combine cream cheese with sugar in a large bowl. Mix in milk.
-5. Beat in eggs one at a time.
-6. Mix in sour cream mixture, try not to get too many bubbles.
-7. Pour batter onto crusts. Tap to get rid of bubbles.
-8. Bake at 350&deg;F until center barely jiggles. (30 minutes for ramekins, 45 minutes for glass tupperware)
+1. Combine flour, sour cream, and vanilla in a small bowl.
+2. Thoroughly combine cream cheese with sugar in a large bowl. Mix in milk.
+3. Beat in eggs one at a time.
+4. Mix in sour cream mixture, trying not to make many bubbles. Pour batter into graham cracker crust.
+6. Bake at 350&deg;F until center barely jiggles. (30 minutes for ramekins, 45 minutes for glass tupperware)
 
-Let cool and refrigerate, serve topped with raspberry sauce.
+Let cool and refrigerate. Serve topped with raspberry sauce.
