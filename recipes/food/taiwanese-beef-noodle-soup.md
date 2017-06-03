@@ -5,11 +5,12 @@ Adapted from [Serious Eats' Taiwanese Beef Noodle Soup](http://www.seriouseats.c
 ### Ingredients
 
 - 1-2 tablespoons vegetable oil
-- 2 pounds boneless beef chuck, cut into 1-inch cubes
+- 2 pounds oxtail (chuck works, too)
+- 1 pound leg shank with bone
 - 1 onion, halved
 - 6 large slices fresh ginger
 - 3 small red chilies (e.g., Thai bird chilies), roughly chopped
-- 2 large plum tomatoes, roughly chopped
+- 3 large plum tomatoes, roughly chopped
 - 6 cloves garlic, crushed
 - 1 tablespoon Sichuan chili bean sauce (doubanjiang)
 - 3/4 cup sake

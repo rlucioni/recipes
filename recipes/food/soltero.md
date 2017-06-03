@@ -9,7 +9,7 @@ Serves 4.
 - 1/4 cup red wine vinegar
 - 1 1/2 cups queso fresco, diced
 - 1 cup red onion, diced
-- 1 cup diced tomato, diced
+- 1 cup tomato, diced
 - 3/4 cup fava beans, boiled in lightly salted water and peeled
 - 1 cup white corn, raw
 - 1 teaspoon salt
