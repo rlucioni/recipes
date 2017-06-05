@@ -1,15 +1,15 @@
 # Cold Brew Coffee
 
-1:5 coffee to water ratio.
+1:7 coffee to water ratio.
 
 ### Ingredients
 
-- 100 grams coarsely ground coffee
-- 500 grams cold water
+- 210 grams coarsely ground coffee
+- 1500 grams cold water
 
 ### Instructions
 
-1. Pour water over grounds. Stir, cover, and allow to steep at room temperature for 12 hours.
-2. Filter grounds from coffee (easiest if a French press is used) and refrigerate.
+1. Pour water over grounds. Stir, cover, and allow to steep at room temperature for 12+ hours.
+2. Filter grounds from coffee and refrigerate. You can do this with a paper towel or a French press.
 
-To serve, combine with ice, whole milk, amaretto, a dash of simple syrup, and a pinch of salt.
+To serve, combine with ice, whole milk, and a pinch of salt.

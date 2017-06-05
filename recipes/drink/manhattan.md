@@ -14,3 +14,11 @@ Makes 1 cocktail.
 
 1. Combine with ice and stir well.
 2. Strain over maraschino cherry into a chilled cocktail glass.
+
+For a crowd (9 drinks):
+
+- 440 grams rye whiskey
+- 170 grams sweet vermouth
+- 100 grams water
+
+Combine in a bottle or pitcher and keep refrigerated.
