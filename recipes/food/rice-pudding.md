@@ -1,6 +1,6 @@
 # Rice Pudding
 
-Adapted from [Chef John's rice pudding](http://foodwishes.blogspot.com/2012/03/coconut-milk-rice-pudding-with-fresh.html). Serves 4.
+Adapted from [Chef John's rice pudding](http://foodwishes.blogspot.com/2012/03/coconut-milk-rice-pudding-with-fresh.html). Serves 4. Fills 2 dessert cups.
 
 ### Ingredients
 
