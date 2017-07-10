@@ -41,9 +41,9 @@ For frying:
 1. Beat egg whites in a large bowl until frothy. Add soy sauce, wine, and vodka. Whisk to combine. Reserve half of marinade. Add baking soda and cornstarch and whisk to combine. Add chicken and toss to coat. Reserve.
 2. Combine flour, cornstarch, baking powder, and salt in a large bowl. Add reserved marinade and whisk until mixture develops coarse clumps, like wet sand. Reserve.
 3. Mix soy sauce, wine, vinegar, chicken stock, sugar, sesame seed oil, and cornstarch in a small bowl and stir until cornstarch is dissolved. Reserve.
-4. Combine oil, garlic, ginger, scallion whites, and chilies in a skillet and place over medium heat. Cook until vegetables are soft but not browned. Add reserved sauce mixture to skillet. Cook until sauce boils and thickens. Add scallion segments. Transfer sauce to a bowl to stop cooking, but don't wipe out skillet.
+4. Combine oil, garlic, ginger, scallion whites, and chilies in a skillet and place over medium heat. Cook until vegetables are soft but not browned. Add reserved sauce mixture to skillet. Cook until sauce boils and thickens. Add scallion segments. Remove from heat and set aside.
 5. Heat oil in a wok to 350&deg;F. Transfer chicken from marinade to dry coat mixture. Toss to coat and press dry mixture into chicken so it sticks.
 6. Lower chicken pieces into hot oil. Fry, keeping oil in the 325&deg;F-375&deg;F range, until chicken is cooked through and crispy, about 4 minutes. Transfer to a paper towel-lined plate to drain.
-7. Add drained chicken to empty skillet and dump sauce on top skillet. Toss to coat.
+7. Add chicken to the sauce in the skillet. Toss to coat.
 
 Serve with white rice!
