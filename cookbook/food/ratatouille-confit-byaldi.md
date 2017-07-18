@@ -42,3 +42,5 @@ For the vinaigrette:
 13. Remove parchment paper and bake an additional 30 minutes, uncovered.
 14. Let cool to room temperature before serving. Alternatively, chill and serve the next day.
 15. Before serving, mix together olive oil, vinegar, and a tablespoon of the piperade. Drizzle on top of the ratatouille.
+
+To reheat, put the pan in a 275&deg;F oven until warm.
