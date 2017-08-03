@@ -2,9 +2,9 @@
 
 Adapted from [Cooking with Dog's ramen](https://www.youtube.com/watch?v=yfEUwNQTXwU). Serves 4.
 
-Pork broth
 ### Ingredients
 
+Pork broth
 - 2 pounds pork ribs
 - 6 stalks green onion, cut into thirds
 - 3 inch piece of ginger, sliced/crushed
@@ -23,7 +23,7 @@ Other
 - chopped green onions
 - blanched spinach
 - blanched mung bean sprouts
-- marinated, soft-boiled eggs
+- [marinated eggs](marinated-eggs.md)
 - toasted nori seaweed
 
 ### Instructions
