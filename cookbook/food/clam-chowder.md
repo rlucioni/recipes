@@ -7,6 +7,7 @@ Adapted from [NYT's Clam Chowder](http://cooking.nytimes.com/recipes/1016717-the
 - 20 littleneck clams (avoid large ones, they're tough)
 - 3 strips thick cut bacon, diced
 - 2 leeks, cleaned and coarsely chopped
+- 1 onion, coarsely chopped
 - 2 Yukon Gold potatoes, cubed
 - 1/2 cup dry white wine (Sauvignon blanc works well)
 - 3 springs thyme
