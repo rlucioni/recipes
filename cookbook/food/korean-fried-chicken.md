@@ -4,13 +4,14 @@ Adapted from [Chef John's Korean fried chicken](http://foodwishes.blogspot.com/2
 
 ### Ingredients
 
+For marinade:
 - 1 1/2 pounds boneless skinless chicken thighs, cut into large chunks
 - 1 small yellow onion, grated
 - 6 cloves of garlic, grated
 - 1 teaspoon salt
 - 1/2 teaspoon freshly ground black pepper
 
-For the batter:
+For batter:
 - 1/2 cup all-purpose flour
 - 3/4 teaspoon baking powder
 - 3/4 cup cornstarch
@@ -21,7 +22,7 @@ For the batter:
 
 ### Instructions
 
-1. Mix chicken, grated onion, grated garlic, salt, and pepper in a bowl. Toss to coat evenly. Cover and refrigerate for at least 4 hours, up to overnight.
+1. Combine chicken, grated onion, grated garlic, salt, and pepper in a bowl. Cover and refrigerate for at least 4 hours, up to overnight.
 3. Whisk together flour, baking powder, cornstarch, salt, sugar, and pepper.
 4. Preheat oil to 310&deg;F.
 5. Add enough ice water to dry ingredients to create a thick batter.
@@ -30,4 +31,4 @@ For the batter:
 8. Raise oil to 350&deg;F.
 9. Fry chicken for an addition 4 minutes until golden brown and crispy.
 
-Optionally, serve with ketchup and Sriracha. Reheat for 10-12 minutes in a 325&deg;F. oven on convection.
+Serve with ketchup, Sriracha, or Sriracha mayo. Reheat for 10-12 minutes in a 325&deg;F. oven on convection.
