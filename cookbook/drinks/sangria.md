@@ -1,20 +1,15 @@
 # Sangria
 
-Adapted from [Allrecipes](http://allrecipes.com/recipe/72612/sangria-sangria/).
-
 ### Ingredients
 
+- 2 juice oranges, one sliced and one juiced
+- 1 lemon, sliced
+- 1/4 cup sugar
+- 1/4 cup Triple Sec
 - 750 ml bottle dry Spanish red wine (Tempranillo, Grenache/Garnacha, or other Rioja)
-- 1/2 cup brandy
-- 1/2 cup triple sec
-- 1/3 cup orange juice
-- 1/4 cup lemon juice
-- 1/3 cup frozen lemonade concentrate
-- 1 orange, sliced into rounds
-- 1 lemon, sliced into rounds
-- 1 lime, sliced into rounds
-- 8 maraschino cherries
 
 ### Instructions
 
-1. Mix everything together in a pitcher or bowl. Refrigerate for a few hours.
+1. Add sliced orange, lemon, and sugar to pitcher. Mash with wooden spoon until the fruit releases some juice but isn't totally crushed, and the sugar dissolves. Stir in orange juice, Triple Sec, and wine. Refrigerate for a few hours.
+
+You can add some ice before serving. It also helps to stir to distribute settled fruit and pulp. The longer sangria sits before drinking, the smoother it'll taste. A full day is ideal, but if that’s impossible give it at least two hours to sit.
