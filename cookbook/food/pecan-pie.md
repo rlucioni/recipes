@@ -4,8 +4,8 @@ Adapted from [Chef John's pecan pie](http://foodwishes.blogspot.com/2014/04/an-a
 
 ### Ingredients
 
-- 1 batch pie crust
-- 3 cups pecan halves, toasted
+- 1 batch [pie crust](pie-crust.md)
+- 4 cups pecan halves, toasted
 - 1/2 cup butter
 - 1 cup brown sugar
 - 1/2 cup white sugar
@@ -23,8 +23,8 @@ Adapted from [Chef John's pecan pie](http://foodwishes.blogspot.com/2014/04/an-a
 2. Put butter, brown sugar, white sugar, corn syrup, flour, milk, salt, vanilla, and bourbon in saucepan.
 3. Place on medium heat and cook until boiling, stirring continuously. Cool about 5-10 minutes.
 4. Whisk eggs in large bowl. Slowly drizzle in sugar mixture.
-5. Add pecans to pie shell. Pour on filling. Make sure every nut is coated with mixture. Add more pecans as needed.
-6. Tap and shake to settle. Bake 40-45 minutes until edges are set but center is just slightly loose.
+5. Add pecans to pie shell. Pour on filling. Make sure every nut is coated. Add more pecans as needed. Tap and shake to settle.
+6. Bake until crust begins to brown and edges are set, but center is just slightly loose, about 45-50 minutes.
 7. Let cool completely before slicing.
 
-Serve topped with vanilla ice cream.
+Serve chilled, topped with vanilla ice cream or whipped cream.

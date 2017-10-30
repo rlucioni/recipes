@@ -16,7 +16,7 @@ Adapted from [America's Test Kitchen's vodka pie crust](http://cooking.nytimes.c
 
 1. Mix vodka and water and place in freezer.
 2. Mix flour, salt, and sugar in a bowl. 
-3. Cut in chilled butter and shortening until texture resembles coarse crumbs
+3. Cut in chilled butter and shortening until texture resembles coarse crumbs.
 4. Sprinkle in cold water and alcohol and mix thoroughly.
 5. Mold dough into a ball, wrap in plastic, and refrigerate for at least 45 minutes.
 6. Roll out on a well-floured surface.

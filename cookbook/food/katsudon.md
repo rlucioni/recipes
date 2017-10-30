@@ -18,7 +18,7 @@ Serves 2.
 
 ### Instructions
 
-1. Begin cooking rice in rice maker.
+1. Start rice. It should be ready in the bowls you want to eat from before the final step is done.
 2. Cut pork loin into thin slices about 1 cm thick.
 3. Season pork with salt and pepper. Coat with flour, egg, and bread crumbs.
 4. Pan-fry pork slices in oil until golden brown and crispy.
