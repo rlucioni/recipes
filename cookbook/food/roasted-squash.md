@@ -1,4 +1,4 @@
-# Roasted Garlic
+# Roasted Squash
 
 ### Ingredients
 
