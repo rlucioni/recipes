@@ -28,11 +28,11 @@ Other
 
 ### Instructions
 
-1. Add 5 cups of water to a stock pot. Add dried kombu kelp and soak for 1-2 hours.
-2. Sear ribs on high heat, 3-4 minutes per side.
+1. Add 5 cups of water to a small pot. Add dried kombu and soak for 2 hours.
+2. In a pressure cooker, sear ribs on high heat, 3-4 minutes per side.
 3. Add enough water or chicken stock to cover. Add green onion, ginger, and garlic. Cook at high pressure for 30 minutes.
 4. Remove pork ribs and allow to cool. Strain pork broth before returning to heat. Add soy sauce, sake, and sugar. Boil until reduced to 2 1/2 cups.
 5. Bring water with kombu to a boil and remove kelp when small bubbles start to form. Add bonito flakes and boil for 30 seconds. Strain and reserve. 
-6. Blanch spinach and bean sprouts. Pick pork off bones. Optionally, place under broiler until golden brown (this may dry out the meat).
+6. Blanch spinach and bean sprouts. Pick pork off bones.
 7. Add equal parts pork broth and dashi stock to bowls. Taste and adjust for salt.
 8. Boil ramen noodles according to package instructions. Drain and place in bowls. Add toppings and serve.
