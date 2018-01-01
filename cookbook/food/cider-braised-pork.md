@@ -8,7 +8,7 @@ Serves 6.
 - 2 tablespoons flour
 - 1 onion, chopped
 - 1 large carrot, chopped
-- 2 ribs celergy, chopped
+- 2 ribs celery, chopped
 - 2 cloves garlic, roughly chopped
 - 5-6 sage leaves
 - 1-2 sprigs of rosemary
