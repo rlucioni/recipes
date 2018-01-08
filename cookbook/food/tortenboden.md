@@ -4,7 +4,7 @@ Serves 8.
 
 ### Ingredients
 
-- 11 tablespoons unsalted butter, room temperature
+- 8 tablespoons unsalted butter, room temperature
 - 3/4 cup sugar
 - 3 eggs, room temperature
 - 1 1/2 teaspoons vanilla extract
