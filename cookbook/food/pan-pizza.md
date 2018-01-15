@@ -2,7 +2,7 @@
 
 ### Ingredients
 
-Dough: makes two 10" pizzas
+Dough (2 10" pizzas):
 - 400 grams bread flour
 - 10 grams (about 2 teaspoons) kosher salt, plus more for sprinkling
 - 4 grams (about 1/2 teaspoon) instant yeast
@@ -10,9 +10,9 @@ Dough: makes two 10" pizzas
 - 8 grams extra-virgin olive oil
 
 Toppings:
-- pizza sauce
-- grated full-fat, dry mozzarella cheese
-- toppings as desired (peppers, onions, sausage, basil, etc)
+- [pizza sauce](pizza-sauce.md)
+- grated full-fat, low-moisture mozzarella cheese
+- toppings as desired (e.g., pepperoni, pineapple and Canadian bacon)
 
 ### Instructions
 

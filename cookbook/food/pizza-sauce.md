@@ -18,9 +18,9 @@ Adapted from [Serious Eats' New York Style Pizza Sauce](http://www.seriouseats.c
 
 ### Instructions
 
-1. Combine butter and oil in saucepan over medium-low heat until butter is melted. Add garlic, oregano, pepper flakes, and large pinch salt and cook, stirring frequently, until fragrant but not browned.
+1. Combine butter and oil in saucepan over medium-low heat until butter is melted. Add garlic, oregano, pepper flakes, and a large pinch of salt. Cook, stirring frequently, until fragrant but not browned.
 2. Add tomatoes and quickly puree with an immersion blender. Puree should not be completely smooth.
-3. Add anchovy, basil sprigs, onion, and honey. Bring to a simmer, reduce heat to lowest setting (bubbles should barely be breaking the surface), and cook, stirring occasionally, until reduced by 1/2, about 1-2 hours.
-4. Discard onions and basil stems. Season to taste.
+3. Add anchovy, basil sprigs, onion, and honey. Bring to a simmer, reduce heat to lowest setting (bubbles should barely be breaking the surface), and cook, stirring occasionally, until reduced by 1/2, about 2 hours.
+4. Discard any basil stems. Season to taste.
 
-Allow to cool and store in covered container in the refrigerator for up to 2 weeks.
+This recipe makes a lot of sauce. It freezes well!
