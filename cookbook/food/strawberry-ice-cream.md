@@ -1,4 +1,4 @@
-# Raspberry Ice Cream
+# Strawberry Ice Cream
 
 Yields 1 1/2 quarts.
 
