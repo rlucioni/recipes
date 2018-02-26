@@ -22,7 +22,7 @@
 3. Blend salsa verde, garlic, jalapeños, cilantro until smooth. Reserve.
 4. Chop chicken into bite-size chunks. Transfer chicken and sauce to a pot.
 5. Add cumin, ground chipotle, black pepper, dried oregano, and kosher salt. Add splash of water used to rinse out blender.
-6. Stir and bring to a simmer. Simmer until chicken is tender, about an hour.
+6. Stir and bring to a simmer. Simmer until chicken is tender, about 30 minutes.
 7. Stir in beans and let them heat through, about 10 minutes. Season to taste.
 
 Garnish with sour cream.
