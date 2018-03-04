@@ -9,20 +9,19 @@
 - 1/2 cup cilantro
 - 1 tablespoon cumin
 - 1 teaspoon ground chipotle
-- 1/2 teaspoon black pepper
 - 3/4 teaspoon dried oregano
-- 1 teaspoon kosher salt
+- 1/2 teaspoon black pepper
+- 1 bay leaf
 - 30 ounces cannellini beans, drained and rinsed
 - sour cream
 
 ### Instructions
 
-1. Brown chicken in a pot. Reserve.
-2. Saute onion until soft. Set pot aside.
-3. Blend salsa verde, garlic, jalapeños, cilantro until smooth. Reserve.
-4. Chop chicken into bite-size chunks. Transfer chicken and sauce to a pot.
-5. Add cumin, ground chipotle, black pepper, dried oregano, and kosher salt. Add splash of water used to rinse out blender.
-6. Stir and bring to a simmer. Simmer until chicken is tender, about 30 minutes.
-7. Stir in beans and let them heat through, about 10 minutes. Season to taste.
+1. Brown chicken in a pot. Reserve. When cool, chop into bite-size chunks.
+2. Blend salsa verde, garlic, jalapeños, and cilantro until smooth. Reserve.
+3. Saute onion until soft. Toast cumin, ground chipotle, and oregano in pot with onions.
+4. Add chicken and sauce to the pot along with black pepper and bay leaf. Add splash of water used to rinse out blender.
+5. Stir and bring to a simmer. Simmer until chicken is tender, about 30 minutes.
+6. Stir in beans and let them heat through, about 10 minutes. Season to taste.
 
-Garnish with sour cream.
+Garnish with sour cream. Serve with tortilla chips!
