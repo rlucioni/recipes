@@ -3,6 +3,7 @@
 ### Ingredients
 
 - 3 pounds boneless skinless chicken thighs, seasoned with salt
+- 1 onion, diced
 - 24 ounces tomatillo-based salsa verde (if you find tomatillos, substitute 10-12)
 - 3 garlic cloves
 - 2 jalapeños, sliced
