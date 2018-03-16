@@ -2,9 +2,10 @@
 
 Adapted from [Chef John's apple crisp](http://foodwishes.blogspot.com/2012/02/crispiest-apple-crisp-ever-ever.html)
 
-For the topping:
+
 ### Ingredients
 
+For the topping:
 - 1/4 cup all-purpose flour
 - 1/4 cup oatmeal (rolled oats)
 - 1/8 cup brown sugar
