@@ -3,9 +3,9 @@
 ### Ingredients
 
 - 1/2 onion, chopped
-- 1+ cup kimchi, drained and chopped (save 1/4 cup of the juice)
-- 1 1/2 cups ham, diced
-- 2 tablespoons gochujang
+- 1 generous cup kimchi, drained and chopped (save 1/4 cup of the juice)
+- 1 cup ham, diced
+- 1 tablespoon gochujang
 - 3 generous cups cooked rice
 - soy sauce
 - 1/2 cup sliced green onion
