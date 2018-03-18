@@ -4,8 +4,8 @@
 
 Dough (2 10" pizzas):
 - 400 grams bread flour
-- 10 grams (about 2 teaspoons) kosher salt, plus more for sprinkling
-- 4 grams (about 1/2 teaspoon) instant yeast
+- 2 teaspoons kosher salt, plus more for sprinkling
+- 1/2 teaspoon instant yeast
 - 275 grams water
 - 8 grams extra-virgin olive oil
 
