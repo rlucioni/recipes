@@ -11,6 +11,7 @@
 - 1 pound frozen strawberries, chopped
 - 1/2 cup vegetable oil
 - 2 eggs, beaten
+- Vanilla or almond extract?
 
 ### Instructions
 
