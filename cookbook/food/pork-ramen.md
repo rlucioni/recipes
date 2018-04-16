@@ -1,11 +1,11 @@
 # Pork Ramen
 
-Adapted from [Cooking with Dog's ramen](https://www.youtube.com/watch?v=yfEUwNQTXwU). Serves 4.
+Adapted from [Cooking with Dog's ramen](https://www.youtube.com/watch?v=yfEUwNQTXwU).
 
 ### Ingredients
 
 Pork broth
-- 2 pounds pork ribs
+- 3 pounds bone-in pork shoulder
 - 6 stalks green onion, cut into thirds
 - 3 inch piece of ginger, sliced/crushed
 - 4-5 cloves garlic, crushed
@@ -29,10 +29,10 @@ Other
 ### Instructions
 
 1. Add 5 cups of water to a small pot. Add dried kombu and soak for 2 hours.
-2. In a pressure cooker, sear ribs on high heat, 3-4 minutes per side.
-3. Add enough water or chicken stock to cover. Add green onion, ginger, and garlic. Cook at high pressure for 30 minutes.
-4. Remove pork ribs and allow to cool. Strain pork broth before returning to heat. Add soy sauce, sake, and sugar. Boil until reduced to 2 1/2 cups.
+2. In a pressure cooker, sear pork on high heat, 3-4 minutes per side.
+3. Add enough water or chicken stock to cover. Add green onion, ginger, and garlic. Cook at high pressure for 40 minutes.
+4. Remove pork and allow to cool. Strain pork broth before returning to heat. Add soy sauce, sake, and sugar. Boil until reduced to 2 1/2 cups.
 5. Bring water with kombu to a boil and remove kelp when small bubbles start to form. Add bonito flakes and boil for 30 seconds. Strain and reserve. 
-6. Blanch spinach and bean sprouts. Pick pork off bones.
+6. Blanch spinach and bean sprouts. Shred pork.
 7. Add equal parts pork broth and dashi stock to bowls. Taste and adjust for salt.
-8. Boil ramen noodles according to package instructions. Drain and place in bowls. Add toppings and serve.
+8. Boil noodles according to package instructions. Drain and place in bowls. Add toppings and serve.
