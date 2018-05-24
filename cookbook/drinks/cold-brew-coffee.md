@@ -1,10 +1,8 @@
 # Cold Brew Coffee
 
-1:7 coffee to water ratio.
-
 ### Ingredients
 
-- 210 grams coarsely ground coffee
+- 150 grams coarsely ground coffee
 - 1500 grams cold water
 
 ### Instructions
