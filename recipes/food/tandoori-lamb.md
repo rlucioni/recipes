@@ -20,5 +20,3 @@
 
 1. Combine yogurt, lemon, onion, garlic, ginger, salt, garam masala, cumin, paprika, cayenne, and turmeric in a mixing bowl. Add lamb and toss to coat. Cover and let marinate in the refrigerator overnight.
 2. Sear on high heat in a cast iron skillet until medium rare.
-
-Serve with [pita bread](pita-bread.md) and [tzatziki](tzatziki.md).
