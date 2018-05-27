@@ -10,10 +10,10 @@
 - 2 teaspoons kosher salt
 - 2 generous teaspoons garam masala
 - 1 teaspoon cumin powder
-- 2 teaspoon paprika
+- 2 teaspoons paprika
 - 1/2 teaspoon cayenne pepper
 - 1/2 teaspoon turmeric powder
-- 2-3 pounds lamb sirloin, cut into 1-inch chunks
+- 2 1/2 pounds lamb sirloin, cut into 1-inch chunks
 - 1 tablespoon vegetable oil
 
 ### Instructions
