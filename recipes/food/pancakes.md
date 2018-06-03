@@ -6,7 +6,7 @@ Adapted from [Allrecipes](http://allrecipes.com/recipe/162760/fluffy-pancakes/).
 
 - 3/4 cup whole milk
 - 2 tablespoons white vinegar
-- 1 cup flour
+- 170 grams flour
 - 2 tablespoons sugar
 - 1 teaspoon baking powder
 - 1/2 teaspoon baking soda

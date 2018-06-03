@@ -5,15 +5,14 @@
 - 1 teaspoon white sugar
 - 1 cup warm water
 - 1 tablespoon active dry yeast
-- 2 3/4 cups all-purpose flour, sifted
+- 400 grams flour
 - 1 teaspoon salt
 - 1 teaspoon garlic powder
 - 1 teaspoon dried oregano
 - 1 teaspoon dried thyme
 - 1/2 teaspoon dried basil
 - 1 pinch ground black pepper
-- 1 tablespoon vegetable oil
-- 2 tablespoons olive oil
+- 3 tablespoons olive oil
 - 1 tablespoon grated Parmesan cheese
 
 ### Instructions
