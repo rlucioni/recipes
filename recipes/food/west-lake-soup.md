@@ -9,7 +9,7 @@
 - 4 cups chicken stock
 - 2 cups water
 - 5 tablespoons cornstarch mixed with 1/4 cup water
-- 2 eggs, beaten
+- 3 eggs, beaten
 - 1 1/4 cups finely chopped cilantro
 
 ### Instructions
