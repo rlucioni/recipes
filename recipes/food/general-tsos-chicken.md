@@ -24,11 +24,11 @@ For sauce:
 - 2 tablespoons Shaoxing wine (or dry sherry)
 - 2 tablespoons rice vinegar
 - 3 tablespoons chicken stock
-- 4 tablespoons sugar
+- 2 tablespoons sugar
 - 1 teaspoon sesame oil
 - 1 tablespoon cornstarch
 - 2 teaspoons vegetable oil
-- 2 cloves garlic, grated
+- 2 cloves garlic, sliced
 - 2 teaspoons ginger, sliced
 - 4 scallions, sliced (greens can be cut slightly longer than whites)
 - Some dried chilis
