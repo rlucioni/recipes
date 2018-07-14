@@ -28,7 +28,7 @@
 5. Add remaining 1/4 cup sugar to the whites and beat until stiff peaks form.
 6. Combine flour, baking powder, and salt in a bowl. Gradually stir the dry ingredients into the egg yolk mixture.
 7. Gently fold egg whites into the batter until just combined. Pour batter into prepared pan(s).
-8. Bake until a toothpick comes out clean, about 30 minutes. Remove from oven and allow to cool completely.
+8. Bake until a toothpick comes out clean, about 25-30 minutes. Remove from oven and allow to cool completely.
 9. Once cooled, poke holes all over the cake. Combine evaporated milk, sweetened condensed milk, and whole milk in a bowl. Slowly pour the milk mixture over the the top of the cake. Refrigerate overnight to let the cake soak up the milk.
 10. Smooth whipped cream over the top of the cake.
 
