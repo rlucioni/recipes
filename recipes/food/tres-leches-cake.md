@@ -1,8 +1,8 @@
 # Tres Leches Cake
 
-### Ingredients
+## Ingredients
 
-## Cake
+### Cake
 - 160 grams cake flour
 - 1 1/2 teaspoons baking powder
 - 1/4 teaspoon salt
@@ -11,16 +11,16 @@
 - 1/3 cup whole milk
 - 1 teaspoon vanilla
 
-## Milk Mixture
+### Milk Mixture
 - 1 can evaporated milk (12 ounces)
 - 1 can sweetened condensed milk (14 ounces)
 - 1/4 cup whole milk
 
-## Topping
+### Topping
 - 2 cups heavy cream, whipped
 - fruit (e.g., passion fruit, golden kiwi, strawberries)
 
-### Instructions
+## Instructions
 
 1. Preheat oven to 350&deg;F. Butter and flour a 9x13" pan (or two 9" cake pans).
 3. Separate the eggs into two bowls, one for yolks and one for whites.
