@@ -19,7 +19,7 @@ Filling:
 ### Instructions
 
 1. Combine water, sugar, and yeast in a small bowl. Let stand 10 minutes and add oil.
-2. Stir yeast mixture into flour in a large bowl and knead for 5-10 minutes, adding more flour as necessary until a supple dough forms. Let rise 1 hour, punching down halfway through.
+2. Stir yeast mixture into flour in a large bowl and knead for 5-10 minutes, adding more flour as necessary until a supple dough forms. Let rise 90 minutes, punching down halfway through.
 3. Mix together filling ingredients by hand in a circular motion until the ground meat forms a paste consistency. Microwave a small portion to taste and adjust the seasoning. Let rest in the refrigerator for 30 minutes.
 4. Split dough into 4 equal pieces. Work with one piece at a time and keep the others covered.
 5. Cut each piece into 3 pieces and roll each into a ball. Roll out each ball into a 5 inch circle with a wooden dowel, making sure to roll the edges thinner than the center. Fill with about 3 tablespoons of filling and start pleating the edges of the dough in a counterclockwise direction until sealed.
