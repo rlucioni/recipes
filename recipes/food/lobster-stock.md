@@ -9,7 +9,6 @@ Makes 2 quarts.
 - 1/4 cup sake
 - 2 quarts water
 
-
 ### Instructions
 
 1. Saute shells in vegetable oil in a large pot until very fragrant.
