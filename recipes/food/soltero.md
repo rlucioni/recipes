@@ -2,7 +2,7 @@
 
 Serves 6.
 
-### Ingredients
+## Ingredients
 
 - 4 cloves garlic, minced
 - 1 1/2 cups finely diced red onion
@@ -15,7 +15,7 @@ Serves 6.
 - 1/2 cup olive oil
 - 6 Yukon Gold potatoes, cut in half lengthwise
 
-### Instructions
+## Instructions
 
 1. In a bowl, mix together garlic, onions, and red wine vinegar. Add tomatoes, corn, queso fresco, and beans. Season with salt and pepper. Mix thoroughly. Add olive oil and mix again. Refrigerate for at least an hour.
 2. When ready to eat, add potatoes to a pot of generously salted water. Simmer until potatoes are tender, 25-30 minutes.
