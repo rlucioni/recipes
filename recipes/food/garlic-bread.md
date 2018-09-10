@@ -1,19 +1,15 @@
 # Garlic Bread
 
-Adapted from [The Kitchn's garlic bread](http://www.thekitchn.com/how-to-make-garlic-bread-cooking-lessons-from-the-kitchn-215416). Serves 2.
-
 ### Ingredients
 
-- 3-4 tablespoons minced garlic
-- 4 tablespoons butter, softened
-- 1/2 teaspoon garlic powder
-- slices (~5) of crusty bread
-- grated Parmesan cheese
+- 1/4 large baguette, cut on the bias into thin slices
+- 4 tablespoons butter
+- 1 tablespoon olive oil
+- 2 clove garlic, grated
 
 ### Instructions
 
-1. Preheat oven to 350&deg;F. Line a baking sheet with foil.
-2. Mix together garlic, butter, and garlic powder to make a uniform paste.
-3. Spread garlic butter on bread.
-4. Bake bread until crispy and butter is melted, about 15 minutes.
-5. Dust slices with Parmesan and broil briefly to melt cheese and brown bread.
+1. Preheat broiler on high.
+2. Melt butter in a microwave in 10 second increments. Add olive oil and garlic, mix well.
+3. Arrange bread slices on a tray. Broil until golden-brown and crisp.
+4. Turn slices over and paint other sides with garlic mixture. Broil until golden-brown but not burned.
