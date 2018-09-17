@@ -3,7 +3,7 @@
 ### Ingredients
 
 - 1 [pie-crust](pie-crust.md)
-- 6 slices thick-cut bacon, cut into 1-inch pieces
+- 4 slices thick-cut bacon, cut into 1-inch pieces
 - 1 1/2 cup onion, leek, and/or shallot, chopped
 - 1 bunch spinach, chopped
 - 6 ounces Gruyere cheese, shredded
@@ -19,7 +19,7 @@
 1. Preheat oven to 325&deg;F.
 2. Cook bacon until browned but not crispy. Reserve.
 3. Saute onion/leek/shallot with a pinch of salt in some of the remaining bacon fat until browned. Reserve.
-4. Saute spinach until wilted. Dry with a paper towel to remove excess moisture. Reserve.
+4. Saute spinach until wilted. Run under cold water to preserve color, then squeeze with a paper towel to remove excess moisture. Reserve.
 5. Make the custard by whisking eggs, egg yolks, cream, milk, thyme, and black pepper. Reserve.
 6. Roll out pie crust and place in pie dish.
 7. Layer half of the vegetables, bacon, and cheese in the crust. Add the custard. Add the remaining half of the vegetables, bacon, and cheese.

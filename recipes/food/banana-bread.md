@@ -15,8 +15,8 @@ Adapted from [Chef John's banana bread](http://foodwishes.blogspot.com/2012/01/b
 - 1/4 teaspoon vanilla
 - 1 tablespoon milk
 - 1 cup walnuts, chopped
-- 1 cup dried apricots, chopped
-- 1/3 cup dark chocolate, chopped
+- 2/3 cup dried apricots, chopped
+- 1/4 cup dark chocolate, chopped
 
 ### Instructions
 
