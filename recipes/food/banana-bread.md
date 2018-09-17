@@ -9,13 +9,14 @@ Adapted from [Chef John's banana bread](http://foodwishes.blogspot.com/2012/01/b
 - 1 teaspoon salt
 - 1 teaspoon baking powder
 - 1 teaspoon baking soda
-- 1/2 cup soft butter
-- 1 cup sugar
+- 1/2 cup butter, softened
+- 1/2 cup sugar
 - 2 eggs
 - 1/4 teaspoon vanilla
 - 1 tablespoon milk
-- 1 cup chopped walnuts
-- 1/3 cup dark chocolate chips
+- 1 cup walnuts, chopped
+- 1 cup dried apricots, chopped
+- 1/3 cup dark chocolate, chopped
 
 ### Instructions
 
