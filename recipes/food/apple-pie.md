@@ -7,24 +7,22 @@ Adapted from [Chef John's apple pie](http://foodwishes.blogspot.com/2009/11/clas
 - 2 batches of [pie crust](pie-crust.md)
 - 6 large apples (2 braeburn, 2 golden delicious, 2 granny smith, or a similar combination)
 - 1/2 lemon, juiced
-- 1 cup white sugar
+- 1/2 cup white sugar
 - 1/8 teaspoon nutmeg
 - 1/2 teaspoon cinnamon
 - pinch of salt
 - 3 tablespoons cornstarch
-- 1 egg, beaten
+- heavy cream
+- demerara sugar
 
 ### Instructions
 
 1. Preheat oven to 375&deg;F.
-2. Peel and core apples. Cut into 1/4 inch slices.
-3. Mix in lemon juice, sugar, nutmeg, cinnamon, and salt.
-4. Add cornstarch
-5. Roll out 1 batch of pie crust and line the bottom of the pie dish.
-6. Layer in apple slices and top with accumulated juices.
-7. Top with second batch of pie crust and crimp the edges.
-8. Use a knife to cut air vents in the crust top.
-9. Brush top with egg wash and sprinkle with white sugar.
-10. Place on foil-lined sheet pan and bake for about 60 minutes.
+2. Peel and core apples. Cut into thin slices.
+3. Mix in lemon juice, sugar, nutmeg, cinnamon, and salt. Allow to macerate for 15 minutes. Stir in cornstarch.
+4. Roll out one batch of pie crust and line the bottom of the pie dish. Layer in apple slices and top with accumulated juices.
+5. Top with second batch of pie crust and crimp the edges. Use a knife to cut air vents in the crust top (or do a lattice).
+6. Brush top with cream and sprinkle with sugar.
+7. Bake on foil-lined pan for 60-75 minutes.
 
-Chill to room temperature before slicing. Serve with vanilla ice cream.
+Chill before slicing. Serve with vanilla ice cream.
