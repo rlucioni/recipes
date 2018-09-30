@@ -18,5 +18,5 @@ Adapted from [Chef John's cream of cauliflower soup](http://foodwishes.blogspot.
 
 1. Add olive oil to a pot and sweat leek and celery.
 2. Trim cauliflower: cut in half and pull off green leaves, then cut into pieces.
-3. Add garlic to pot and stir for a minute. Add potato and cauliflower, along with chicken broth and water. Bring to a boil, then keep at steady simmer for 30 minutes. Potatos should be smashable when ready.
+3. Add garlic to pot and stir for a minute. Add potato and cauliflower, along with chicken broth and water. Bring to a boil, then keep at steady simmer for 30 minutes. Potatoes should be smashable when ready.
 4. Blend soup into a smooth purée and place over low heat. Stir in cream and season with salt, pepper, cayenne, and nutmeg, if desired.

@@ -2,7 +2,7 @@
 
 Adapted from [Chef John's apple pie](http://foodwishes.blogspot.com/2009/11/classic-american-apple-pie-warning-this.html).
 
-### Ingredients
+## Ingredients
 
 - 2 batches of [pie crust](pie-crust.md)
 - 6 large apples (2 braeburn, 2 golden delicious, 2 granny smith, or a similar combination)
@@ -15,7 +15,7 @@ Adapted from [Chef John's apple pie](http://foodwishes.blogspot.com/2009/11/clas
 - heavy cream
 - demerara sugar
 
-### Instructions
+## Instructions
 
 1. Preheat oven to 375&deg;F.
 2. Peel and core apples. Cut into thin slices.
