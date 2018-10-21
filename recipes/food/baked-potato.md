@@ -1,6 +1,6 @@
-# Roasted Squash
+# Baked Potato
 
-### Ingredients
+## Ingredients
 
 - russet potatoes
 - olive oil
@@ -11,7 +11,7 @@
 - green onion, chopped fine
 - black pepper
 
-### Instructions
+## Instructions
 
 1. Preheat oven to 350&deg;F.
 2. Scrub potatoes and pierce skin several times with a knife. Rub skin with olive oil and salt.
