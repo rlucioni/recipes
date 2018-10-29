@@ -1,6 +1,6 @@
-# Wonton Filling
+# Dumpling Filling
 
-### Ingredients
+## Ingredients
 
 - 1/2 pound pork, chopped fine
 - 1/2 pound lamb (or shrimp), chopped fine
@@ -16,7 +16,7 @@
 - salt and pepper to taste
 - wonton skins
 
-### Instructions
+## Instructions
 
 1. Mix all ingredients thoroughly.
 2. Microwave or pan fry a small patty to check for seasoning.
