@@ -2,14 +2,14 @@
 
 Makes 3 servings.
 
-### Ingredients
+## Ingredients
 
 - 1 1/3 cup heavy cream
 - 2 egg yolks
 - 5 tablespoons sugar
 - 1/2 teaspoons vanilla extract
 
-### Instructions
+## Instructions
 
 1. Preheat oven to 325&deg;F.
 2. Bring some water to a boil for the water bath.

@@ -2,7 +2,7 @@
 
 Makes 1 cocktail.
 
-### Ingredients
+## Ingredients
 
 - 9 large mint leaves
 - 2 ounces light rum
@@ -10,7 +10,7 @@ Makes 1 cocktail.
 - 1/2 lime, washed and quartered
 - Club soda
 
-### Instructions
+## Instructions
 
 1. Muddle mint, simple syrup, and half of lime in the bottom of a chilled glass.
 2. Squeeze in the juice of the remaining lime. Add rum and allow to rest.

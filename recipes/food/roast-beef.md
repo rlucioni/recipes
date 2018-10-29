@@ -2,7 +2,7 @@
 
 Adapted from [Chef John's roast tenderloin of beef](http://foodwishes.blogspot.com/2011/12/roast-tenderloin-of-beef-with-porcini.html).
 
-### Ingredients
+## Ingredients
 
 - 3 pound spoon roast
 - Salt and pepper to taste
@@ -14,7 +14,7 @@ Adapted from [Chef John's roast tenderloin of beef](http://foodwishes.blogspot.c
 - 1/4 cup cream
 - 1 tablespoon minced fresh tarragon
 
-### Instructions
+## Instructions
 
 1. Preheat oven to 325&deg;F.
 2. Clean meat of any excess silver skin and tie with twine. Salt generously.

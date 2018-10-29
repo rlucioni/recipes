@@ -1,6 +1,6 @@
 # Ma Yi Shan Shu (Ants Climbing up a Tree)
 
-### Ingredients
+## Ingredients
 
 - 6 ounces bean thread noodles
 - 8 ounces pork tenderloin, finely chopped
@@ -12,7 +12,7 @@
 - 3 scallions, sliced
 - 2 cups chicken broth
 
-### Instructions
+## Instructions
 
 1. Soak bean thread noodles in hot water until translucent (about 8 minutes). Drain and reserve.
 2. Mix pork, ginger, soy sauce, and 2 tablespoons of the spicy bean paste in a bowl.

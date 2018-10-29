@@ -2,14 +2,14 @@
 
 Makes 1 serving.
 
-### Ingredients
+## Ingredients
 
 - 2 bags black tea
 - 1/4 cup dried tapioca pearls
 - agave nectar
 - sweetened condensed milk
 
-### Instructions
+## Instructions
 
 1. Steep tea in 1 cup of boiling water for 4 minutes (or according to package instructions). Chill.
 2. Cook tapioca pearls according to package instructions. If using Wufuyuan, bring 2 1/2 cups of water to a boil in a small saucepan and add tapioca pearls. Wait until they float, then cover and cook for 2 minutes on medium heat. Turn off the heat and keep the saucepan covered for another 2 1/2 minutes.

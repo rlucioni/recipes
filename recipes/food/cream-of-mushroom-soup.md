@@ -2,7 +2,7 @@
 
 Adapted from [Chef John's cream of mushroom soup](http://foodwishes.blogspot.com/2009/12/cream-of-mushroom-soup-pure-liquid-moon.html). Serves 4.
 
-### Ingredients
+## Ingredients
 
 - Generous drizzle of olive oil
 - 2 pounds white or brown button mushrooms, sliced
@@ -14,7 +14,7 @@ Adapted from [Chef John's cream of mushroom soup](http://foodwishes.blogspot.com
 - 1 cup heavy cream
 - salt and fresh ground black pepper to taste
 
-### Instructions
+## Instructions
 
 1. Combine olive oil, mushrooms, and a big pinch of salt in a pot over medium-high heat. Cook until all the liquid has come out of the mushrooms and evaporated, about 10 minutes.
 2. When the mushrooms are golden brown, add onions.

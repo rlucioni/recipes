@@ -1,6 +1,6 @@
 # West Lake Soup
 
-### Ingredients
+## Ingredients
 
 - 8 ounces pork, ground
 - 1 tablespoon soy sauce
@@ -12,7 +12,7 @@
 - 3 eggs, beaten
 - 1 1/4 cups finely chopped cilantro
 
-### Instructions
+## Instructions
 
 1. Mix pork with soy sauce, wine, and salt. Reserve.
 2. Thoroughly combine chicken stock, water, and cornstarch slurry in a pot and bring to a boil.

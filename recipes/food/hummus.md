@@ -2,7 +2,7 @@
 
 Adapted from [Epicurious's hummus](http://www.epicurious.com/recipes/food/views/hummus-237832).
 
-### Ingredients
+## Ingredients
 
 - 1 large can chickpeas (822 g)
 - 100 grams tahini
@@ -13,7 +13,7 @@ Adapted from [Epicurious's hummus](http://www.epicurious.com/recipes/food/views/
 - water, as needed
 - paprika for garnish
 
-### Instructions
+## Instructions
 
 1. Puree chickpeas with garlic, lemon juice, olive oil, and salt in a blender or food processor. Add water as needed to achieve a creamy consistency. Work in batches if necessary.
 2. Mix in tahini and adjust for salt.

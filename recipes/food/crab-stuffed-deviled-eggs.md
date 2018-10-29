@@ -2,7 +2,7 @@
 
 Adapted from [Chef John's Crab-Stuffed Deviled Eggs](http://foodwishes.blogspot.com/2013/12/crab-stuffed-deviled-eggs-i-love-to-say.html).
 
-### Ingredients
+## Ingredients
 
 - 6 large hard-boiled eggs (makes 12 pieces)
 
@@ -25,7 +25,7 @@ For crab topping:
 - salt if needed
 - fresh chives
 
-### Instructions
+## Instructions
 
 1. Place eggs in pot of cold water with 1 inch of water covering the eggs. Place on high heat until large bubbles form. Turn off heat, cover eggs, and let sit 17 minutes.
 2. Rinse eggs immediately in cold water. Peel and slice in half length-wise.

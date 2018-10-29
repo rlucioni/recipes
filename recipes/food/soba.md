@@ -1,6 +1,6 @@
 # Soba
 
-### Ingredients
+## Ingredients
 
 - 1 Thai bird chile, sliced
 - 1 nub ginger, sliced
@@ -16,7 +16,7 @@
 - sesame oil
 - 2-3 [fried eggs](fried-eggs.md)
 
-### Instructions
+## Instructions
 
 1. Heat oil in a pot. Briefly fry chile, ginger, and garlic. Add everything else, except for the greenest parts of the green onions.
 2. Bring to a simmer, and simmer for 5 minutes.

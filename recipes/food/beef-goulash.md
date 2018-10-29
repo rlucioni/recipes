@@ -2,7 +2,7 @@
 
 Adapted from [Chef John's beef goulash](http://foodwishes.blogspot.com/2013/01/beef-goulash-thick-hungarian-soup-thin.html). Serves 4.
 
-### Ingredients
+## Ingredients
 
 - 2 tablespoons vegetable oil
 - 2 1/2 pounds boneless beef chuck, cut into 2-inch cubes, seasoned generously with salt and pepper
@@ -23,7 +23,7 @@ Adapted from [Chef John's beef goulash](http://foodwishes.blogspot.com/2013/01/b
 - 1 teaspoon sugar
 - 2 tablespoons balsamic vinegar
 
-### Instructions
+## Instructions
 
 1. Add vegetable oil to a skillet over high heat. Sear meat in hot pan until well-browned. Transfer to pot.
 2. Sauté onions in the same pan with olive oil and salt over medium heat, until edges are golden-brown. Transfer to pot.

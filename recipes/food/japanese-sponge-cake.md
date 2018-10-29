@@ -2,7 +2,7 @@
 
 Adapted from [Japanese Cooking 101's Sponge Cake](http://www.japanesecooking101.com/sponge-cake-recipe/).
 
-### Ingredients
+## Ingredients
 
 - 20 grams butter
 - 1 tablespoon milk
@@ -12,7 +12,7 @@ Adapted from [Japanese Cooking 101's Sponge Cake](http://www.japanesecooking101.
 - 1 teaspoon vanilla extract
 - whipped cream and fruit, for topping
 
-### Instructions
+## Instructions
 
 1. Preheat oven to 350&deg;F. Heat 1 inch of water in a deep pot to create a double boiler.
 2. Line a 9" cake pans with parchment paper on the bottom and sides.

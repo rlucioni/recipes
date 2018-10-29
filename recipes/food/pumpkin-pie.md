@@ -2,7 +2,7 @@
 
 Adapted from [Chef John's pumpkin pie](http://foodwishes.blogspot.com/2012/11/best-pumpkin-pie-ever-come-for-pie-stay.html).
 
-### Ingredients
+## Ingredients
 
 - 1 batch [pie crust](pie-crust.md)
 - 15 ounces canned pumpkin puree
@@ -16,7 +16,7 @@ Adapted from [Chef John's pumpkin pie](http://foodwishes.blogspot.com/2012/11/be
 - 1/2 teaspoon salt
 - 1 tablespoon maple syrup
 
-### Instructions
+## Instructions
 
 1. Preheat oven to 450&deg;F.
 2. Roll out pie crust and place in pie dish.

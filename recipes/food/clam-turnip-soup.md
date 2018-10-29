@@ -1,12 +1,12 @@
 # Clam Turnip Soup
 
-### Ingredients
+## Ingredients
 
 - 10 littleneck clams
 - 4 slices ginger
 - 1 turnip
 
-### Instructions
+## Instructions
 
 1. Cut turnips into thick quarter rounds. Place in stock pot with ginger and cover with water. Lightly salt the water.
 2. Bring to a simmer and cook until turnips are almost tender.

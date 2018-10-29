@@ -2,7 +2,7 @@
 
 Adapted from [Chef John's beef on weck](http://foodwishes.blogspot.com/2014/10/beef-on-weck-part-2-meat-within.html). Serves 2.
 
-### Ingredients
+## Ingredients
 
 - 1 pound sirloin tips
 - salt and pepper to taste
@@ -12,7 +12,7 @@ Adapted from [Chef John's beef on weck](http://foodwishes.blogspot.com/2014/10/b
 - 4 rolls
 - extra hot prepared horseradish, as needed
 
-### Instructions
+## Instructions
 
 1. Cut sirloin tips so that no piece is more than 1 inch thick. 
 2. Season beef with salt and pan-fry on med-high heat in some vegetable oil until meat reaches an internal temperature of 125&deg;F.

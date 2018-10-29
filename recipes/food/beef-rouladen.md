@@ -2,7 +2,7 @@
 
 Adapted from [Chef John's beef rouladen](http://foodwishes.blogspot.com/2015/05/beef-rouladen-german-engineering-you.html).
 
-### Ingredients
+## Ingredients
 
 - 1 pound of skirt steak (or other long-cooking cut, such as round, rump, chuck, or flap meat)
 - Dijon mustard, to taste
@@ -16,7 +16,7 @@ Adapted from [Chef John's beef rouladen](http://foodwishes.blogspot.com/2015/05/
 - 1/4 cup flour
 - 4 cups beef or chicken stock, cold!
 
-### Instructions
+## Instructions
 
 1. Cut the skirt steak in half. Butterfly both halves such that when the meat is rolled up, it can be sliced against the grain. Tenderize both halves.
 2. Apply a thin layer of mustard to the inside of the meat. Season generously with salt and pepper.

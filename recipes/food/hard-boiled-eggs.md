@@ -1,10 +1,10 @@
 # Hard Boiled Eggs
 
-### Ingredients
+## Ingredients
 
 - eggs
 
-### Instructions
+## Instructions
 
 1. Place eggs in a pot and pour over enough water to cover the eggs by at least 1 inch.
 2. Heat the pot until the water is simmering enough for the eggs to "dance."

@@ -1,12 +1,12 @@
 # Roasted Garlic
 
-### Ingredients
+## Ingredients
 
 - whole heads of garlic
 - olive oil
 - salt
 
-### Instructions
+## Instructions
 
 1. Preheat oven to 400&deg;F.
 2. Peel off as much of papery skin as possible from garlic.

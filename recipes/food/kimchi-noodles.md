@@ -2,7 +2,7 @@
 
 Serves 2.
 
-### Ingredients
+## Ingredients
 
 - 1/2 yellow onion, diced
 - 2 cloves garlic, minced
@@ -18,7 +18,7 @@ Serves 2.
 - toasted nori
 - sesame oil
 
-### Instructions
+## Instructions
 
 1. Saute onions with a pinch of salt over medium heat until softened.
 2. Add gochujang and kimchi. Continue to saute until kimchi softens.

@@ -2,7 +2,7 @@
 
 Adapted from [Minimalist Baker's baba ghanoush](http://minimalistbaker.com/simple-baba-ganoush/).
 
-### Ingredients
+## Ingredients
 
 - 1 large Italian eggplant (look for a round stem-indentation, which means fewer seeds)
 - olive oil for roasting
@@ -12,7 +12,7 @@ Adapted from [Minimalist Baker's baba ghanoush](http://minimalistbaker.com/simpl
 - pinch of cayenne
 - salt, cayenne, chopped Italian parsley to taste
 
-### Instructions
+## Instructions
 
 1. Slice eggplant into 1/4 inch rounds and sprinkle with salt. Let sit to draw out moisture for 10 minutes. Pat dry with paper towels.
 2. Lay eggplant slices in a single layer on a baking sheet and brush with olive oil. 

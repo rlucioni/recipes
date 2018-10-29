@@ -2,7 +2,7 @@
 
 Adapted from [Ethan Stowell's bouillabaisse](https://www.foodandwine.com/recipes/bouillabaisse-october-2008). Serves 6.
 
-### Ingredients
+## Ingredients
 
 Fish stock
 - 1 whole red snapper (between 2 and 2 1/2 pounds)
@@ -29,7 +29,7 @@ Bouillabaisse
 - 1 pound shrimp
 - meat from red snapper and halibut, cut into large chunks
 
-### Instructions
+## Instructions
 
 1. Filet red snapper and reserve the meat. Repeat with the halibut steak. Break red snapper carcass into large pieces, remove any gills, and wash away any blood.
 2. Heat olive oil in a pot on medium-high heat until it starts to shimmer. Add fish bones and garlic and sizzle for 1 minute. Add wine and cook until most of the alcohol has evaporated. Add water and peppercorns.

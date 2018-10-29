@@ -2,7 +2,7 @@
 
 Inspired by the fig and gouda scones at Gemma in Dallas.
 
-### Ingredients
+## Ingredients
 
 - 240 grams all-purpose flour
 - 2 teaspoons sugar
@@ -13,7 +13,7 @@ Inspired by the fig and gouda scones at Gemma in Dallas.
 - 1 cup dried figs, chopped (fig and almond cake works, too)
 - 3/4 cup heavy cream
 
-### Instructions
+## Instructions
 
 1. Preheat oven to 425&deg;F.
 2. Whisk together flour, sugar, baking powder, and salt.

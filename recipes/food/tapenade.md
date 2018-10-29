@@ -1,6 +1,6 @@
 # Tapenade
 
-### Ingredients
+## Ingredients
 
 - 4 ounces pitted kalamata olives
 - 1 anchovy fillet, rinsed
@@ -10,7 +10,7 @@
 - 1/2 tablespoon freshly squeezed lemon juice
 - 1 tablespoon extra-virgin olive oil
 
-### Instructions
+## Instructions
 
 1. Combine all ingredients in a food processor. Process until everything is finely chopped.
 

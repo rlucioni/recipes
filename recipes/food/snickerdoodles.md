@@ -2,7 +2,7 @@
 
 Adapted from Chef John's [pumpkin spice snickerdoodles](http://foodwishes.blogspot.com/2016/10/pumpkin-spice-snickerdoodles-better.html). Makes ~12 cookies.
 
-### Ingredients
+## Ingredients
 
 - 1/2 cup unsalted butter, room temperature
 - 1/3 cup granulated sugar
@@ -17,7 +17,7 @@ Adapted from Chef John's [pumpkin spice snickerdoodles](http://foodwishes.blogsp
 - 1/8 teaspoon nutmeg
 - 1/8 teaspoon Chinese five spice
 
-### Instructions
+## Instructions
 
 1. Cream butter with sugar. Then mix in vanilla and egg until well-combined.
 2. Whisk together dry ingredients and fold into wet ingredients.

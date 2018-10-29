@@ -2,7 +2,7 @@
 
 Adapted from [Serious Eats' General Tso's Chicken](http://www.seriouseats.com/recipes/2014/04/the-best-general-tsos-chicken-food-lab-chinese-recipe.html).
 
-### Ingredients
+## Ingredients
 
 For marinade:
 - 1 egg white
@@ -36,7 +36,7 @@ For sauce:
 For frying:
 - 4-6 cups oil
 
-### Instructions
+## Instructions
 
 1. Beat egg whites in a large bowl until frothy. Add soy sauce, wine, and vodka. Whisk to combine. Reserve half of marinade. Add baking soda and cornstarch and whisk to combine. Add chicken and toss to coat. Reserve.
 2. Combine flour, cornstarch, baking powder, and salt in a large bowl. Add reserved marinade and whisk until mixture develops coarse clumps, like wet sand. Reserve.

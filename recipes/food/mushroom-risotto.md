@@ -2,7 +2,7 @@
 
 Adapted from [Chef John's baked mushroom risotto](http://foodwishes.blogspot.com/2013/03/baked-mushroom-risotto-why-stir-when.html). Serves 2.
 
-### Ingredients
+## Ingredients
 
 - 3 tablespoons butter
 - 3 cups mushrooms (diced)
@@ -13,7 +13,7 @@ Adapted from [Chef John's baked mushroom risotto](http://foodwishes.blogspot.com
 - 1/2 cup finely grated Parmigiano-Reggiano
 - 2 tbsp minced green onion
 
-### Instructions
+## Instructions
 
 1. Sautee mushrooms with salt over medium high heat in butter until brown and carmelized. Add pepper and cayenne.
 2. Add onions and reduce heat to medium. Cook until onions are translucent.

@@ -2,7 +2,7 @@
 
 Adapted from [Chef John's bánh mì](http://foodwishes.blogspot.com/2016/01/pan-roasted-5-spice-pork-loin-pleasing.html). Serves two. Ingredient amounts below are approximate.
 
-### Ingredients
+## Ingredients
 
 - 2-3 crusty French sandwich rolls
 - 6-7 tablespoons "secret sauce" (mayonnaise, hoisin sauce, sriracha, to taste)
@@ -14,7 +14,7 @@ Adapted from [Chef John's bánh mì](http://foodwishes.blogspot.com/2016/01/pan-
 - 2 jalapeños, sliced thin
 - English cucumber
 
-### Instructions
+## Instructions
 
 1. Pickle daikon and carrot by tossing in enough seasoned rice vinegar to coat. Let sit 15 minutes until slightly limp.
 2. Cut rolls in half lengthwise, leaving a hinge at one end. Remove some bread from the top.

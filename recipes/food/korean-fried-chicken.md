@@ -2,7 +2,7 @@
 
 Adapted from [Chef John's Korean fried chicken](http://foodwishes.blogspot.com/2014/07/korean-fried-chicken.html)
 
-### Ingredients
+## Ingredients
 
 For marinade:
 - 1 1/2 pounds boneless skinless chicken thighs, cut into large chunks
@@ -20,7 +20,7 @@ For batter:
 - 1/2 teaspoon freshly ground black pepper
 - 1 cup very cold water, or as needed
 
-### Instructions
+## Instructions
 
 1. Combine chicken, grated onion, grated garlic, salt, and pepper in a bowl. Cover and refrigerate for at least 4 hours, up to overnight.
 3. Whisk together flour, baking powder, cornstarch, salt, sugar, and pepper.

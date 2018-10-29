@@ -1,6 +1,6 @@
 # Pea and Bacon Pasta
 
-### Ingredients
+## Ingredients
 
 - 1 1/4 cups macaroni
 - 4 strips thick-cut bacon, cut into 1/2 inch pieces
@@ -12,7 +12,7 @@
 - 1/4 cup Parmesan cheese, grated
 - 1 1/2 cups peas
 
-### Instructions
+## Instructions
 
 1. Boil pasta in salted water for one minute less than the package instructions.
 2. Cook bacon in a skillet to desired doneness and reserve. Leave one tablespoon of bacon fat in the skillet.

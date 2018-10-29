@@ -2,7 +2,7 @@
 
 Adapted from [Chef John's shrimp etouffee](http://foodwishes.blogspot.com/2014/01/shrimp-etouffee-desperate-times-call.html). Serves 4.
 
-### Ingredients
+## Ingredients
 
 - 1/4 teaspoon dried thyme
 - 1/4 teaspoon dried oregano
@@ -22,7 +22,7 @@ Adapted from [Chef John's shrimp etouffee](http://foodwishes.blogspot.com/2014/0
 - 1/2 teaspoon Worcestershire sauce
 - Louisiana hot sauce, to taste
 
-### Instructions
+## Instructions
 
 1. Prepare spice blend by combining thyme, oregano, cayenne, garlic powder, onion powder, pepper, and paprika. Reserve.
 2. Season shrimp with 1/2 teaspoon salt and 1 teaspoon of spice blend. Sear 2 minutes in olive oil at medium-high heat and reserve.

@@ -2,7 +2,7 @@
 
 Adapted from [Chef John's lemon curd](http://foodwishes.blogspot.com/2012/11/lemon-curd-lite-not-light.html).
 
-### Ingredients
+## Ingredients
 
 - 3 eggs
 - 3/4 cup white sugar
@@ -10,7 +10,7 @@ Adapted from [Chef John's lemon curd](http://foodwishes.blogspot.com/2012/11/lem
 - 1 1/2 tablespoon freshly grated lemon zest
 - 5 tablespoons butter, cut into 3-4 pieces
 
-### Instructions
+## Instructions
 
 1. Whisk together eggs, sugar, and lemon juice in large metal bowl.
 2. Set bowl over simmering water and hold bowl with kitchen towel.

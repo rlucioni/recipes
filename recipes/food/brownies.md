@@ -1,6 +1,6 @@
 # Brownies
 
-### Ingredients
+## Ingredients
 
 - 1/2 cup butter
 - 1 cup white sugar
@@ -12,7 +12,7 @@
 - 1/4 teaspoon baking powder
 - chocolate chips and chopped walnuts
 
-### Instructions
+## Instructions
 
 1. Preheat oven to 350&deg;F.
 2. Melt butter. Mix in sugar, vanilla extract and eggs.

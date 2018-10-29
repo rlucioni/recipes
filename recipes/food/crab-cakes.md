@@ -2,7 +2,7 @@
 
 Adapted from [Chef John's crab cakes](http://foodwishes.blogspot.com/2009/11/maryland-crab-cakes-good-news-is-theyre.html). Serves 4.
 
-### Ingredients
+## Ingredients
 
 - 1 pound crabmeat
 - 1/4 cup panko bread crumbs
@@ -15,7 +15,7 @@ Adapted from [Chef John's crab cakes](http://foodwishes.blogspot.com/2009/11/mar
 - salt, pepper, and cayenne to taste
 - panko bread crumbs, for breading
 
-### Instructions
+## Instructions
 
 1. Add all ingredients to a bowl and mix lightly.
 2. Form into patties and coat with more bread crumbs.

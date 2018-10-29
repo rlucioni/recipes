@@ -2,7 +2,7 @@
 
 Adapted from America's Test Kitchen's chocolate chip cookies.
 
-### Ingredients
+## Ingredients
 
 - 250 grams all-purpose flour
 - 1/2 teaspoon baking soda
@@ -16,7 +16,7 @@ Adapted from America's Test Kitchen's chocolate chip cookies.
 - 1 1/4 cup semisweet chocolate chips
 - 3/4 cup chopped toasted walnuts
 
-### Instructions
+## Instructions
 
 1. Preheat oven to 375&deg;F. Line baking sheet with parchment paper.
 2. Whisk together flour and baking soda in measuring cup.

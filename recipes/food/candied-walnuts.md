@@ -1,13 +1,13 @@
 # Candied Walnuts
 
-### Ingredients
+## Ingredients
 
 - 1 cup walnuts
 - 1/4 cup granulated sugar
 - 1 tablespoon butter
 - pinch of salt
 
-### Instructions
+## Instructions
 
 1. Toast walnuts over medium heat.
 2. Add remaining ingredients. Stir continuously until sugar has melted and coated walnuts evenly.

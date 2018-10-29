@@ -2,7 +2,7 @@
 
 Adapted from [Chef John's lemon bars](http://foodwishes.blogspot.com/2013/05/lemon-bars-for-lasting-mothers-day.html).
 
-### Ingredients
+## Ingredients
 
 For shortbread crust:
 - 1/2 cup room-temperature butter
@@ -19,7 +19,7 @@ For lemon layer:
 - 1/4 cup freshly squeezed lemon juice
 - 1 tablespoon grated lemon zest
 
-### Instructions
+## Instructions
 
 1. Preheat oven to 350&deg;F.
 2. Cream butter and sugar. Mix in vanilla extract. Add flour and salt; mix until combined.

@@ -1,6 +1,6 @@
 # Mazemen
 
-### Ingredients
+## Ingredients
 
 - 1/2 onion, chopped
 - 1 Chinese eggplant, chopped
@@ -13,7 +13,7 @@
 - 2 green onions, chopped
 - 1 package nori
 
-### Instructions
+## Instructions
 
 1. Saute onion and eggplant with a pinch of salt until onions are translucent.
 2. Add mushrooms and saute briefly. Add chicken stock, soy sauce, mirin, and sake.

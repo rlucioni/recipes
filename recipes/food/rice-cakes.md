@@ -1,6 +1,6 @@
 # Rice Cakes (Nian gao)
 
-### Ingredients
+## Ingredients
 
 - 1/3 package rice cakes (ovals)
 - 1/2 onion
@@ -14,7 +14,7 @@
 - 2 cups chicken stock
 - 2 green onions, chopped
 
-### Instructions
+## Instructions
 
 1. Rinse rice cakes in cold water. Soak for 10 minutes.
 2. Saute onions with a pinch of salt until translucent. Add ginger, pork, and mushrooms.

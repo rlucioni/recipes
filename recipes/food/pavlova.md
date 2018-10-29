@@ -2,7 +2,7 @@
 
 Adapted from [Chef John's pavlova](http://foodwishes.blogspot.com/2012/04/fresh-strawberry-pavlova-cracking-up.html). Serves 4.
 
-### Ingredients
+## Ingredients
 
 - 4 egg whites
 - 3/4 cup granulated sugar
@@ -10,7 +10,7 @@ Adapted from [Chef John's pavlova](http://foodwishes.blogspot.com/2012/04/fresh-
 - 3/4 teaspoon white vinegar
 - 1 teaspoon vanilla extract
 
-### Instructions
+## Instructions
 
 1. Preheat oven to 250&deg;F.
 2. Combine sugar and corn starch well in measuring cup.

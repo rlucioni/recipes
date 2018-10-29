@@ -2,7 +2,7 @@
 
 Adapted from [Chef John's banana bread](http://foodwishes.blogspot.com/2012/01/banana-bread-thats-okay-to-make-early.html). Makes 1 loaf.
 
-### Ingredients
+## Ingredients
 
 - 3 ripe bananas
 - 2 cups all-purpose flour
@@ -18,7 +18,7 @@ Adapted from [Chef John's banana bread](http://foodwishes.blogspot.com/2012/01/b
 - 2/3 cup dried apricots, chopped
 - 1/4 cup dark chocolate, chopped
 
-### Instructions
+## Instructions
 
 1. Preheat oven to 325&deg;F.
 2. Cream together butter and sugar in a large bowl with electric mixer.

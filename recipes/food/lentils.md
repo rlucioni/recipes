@@ -2,7 +2,7 @@
 
 Serves 2, with some leftovers.
 
-### Ingredients
+## Ingredients
 
 - 2-3 strips thick-cut bacon, chopped
 - 1 onion, chopped
@@ -14,7 +14,7 @@ Serves 2, with some leftovers.
 - Red wine vinegar
 - 1 cup rice
 
-### Instructions
+## Instructions
 
 1. Brown bacon over medium heat.
 2. Add mirepoix and thyme; sweat until onions are translucent.

@@ -2,7 +2,7 @@
 
 Adapted from [Chef John's Baked Alaska](http://foodwishes.blogspot.com/2015/02/baked-alaska-with-lighter-you-betcha.html).
 
-### Ingredients
+## Ingredients
 
 - two complementary flavors of ice cream
 - 1 pound cake
@@ -13,7 +13,7 @@ Adapted from [Chef John's Baked Alaska](http://foodwishes.blogspot.com/2015/02/b
 - 1 ounce brandy
 - 1 long dried noodle + source of fire
 
-### Instructions
+## Instructions
 
 1. Line chilled bowl with plastic. Nest two flavors of ice cream.
 2. Layer thick slice of pound cake on top of ice cream. Fold plastic over to cover completely.

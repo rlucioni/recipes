@@ -2,7 +2,7 @@
 
 Makes 12 muffins.
 
-### Ingredients
+## Ingredients
 
 - 225 grams flour
 - 1 teaspoon baking soda
@@ -15,7 +15,7 @@ Makes 12 muffins.
 - 1 teaspoon vanilla
 - 1/2 cup chopped walnuts
 
-### Instructions
+## Instructions
 
 1. Preheat oven to 375&deg;F. Line a muffin tin with baking cups.
 2. Whisk together flour, baking soda, baking powder, and salt in a large bowl.

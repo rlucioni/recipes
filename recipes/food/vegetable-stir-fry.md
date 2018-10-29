@@ -1,6 +1,6 @@
 # Vegetable Stir-fry
 
-### Ingredients
+## Ingredients
 
 - 1 carrot
 - 1 bamboo shoot
@@ -9,7 +9,7 @@
 - soy sauce, sake to taste
 - 1-2 teaspoons cornstarch
 
-### Instructions
+## Instructions
 
 1. Saute vegetables with salt and soy sauce until cooked but peas are still crunchy.
 2. Add sake and sprinkle over cornstarch. Stir in hoisin sauce.

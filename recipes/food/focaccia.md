@@ -1,6 +1,6 @@
 # Focaccia
 
-### Ingredients
+## Ingredients
 
 - 1 teaspoon white sugar
 - 1 cup warm water
@@ -15,7 +15,7 @@
 - 3 tablespoons olive oil
 - 1 tablespoon grated Parmesan cheese
 
-### Instructions
+## Instructions
 
 1. Mix yeast and sugar in the warm water for 10 minutes. Mixture should be foamy.
 2. Add the rest of the ingredients and mix until all the dry ingredients are incorporated into the wet ingredients.

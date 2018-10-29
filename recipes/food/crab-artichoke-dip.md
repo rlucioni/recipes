@@ -2,7 +2,7 @@
 
 Adapted from [Chef John's crab and artichoke dip](http://foodwishes.blogspot.com/2013/01/baked-crab-and-artichoke-dip-snack-so.html).
 
-### Ingredients
+## Ingredients
 
 - 2 (8 ounce) packages cream cheese
 - 1/2 cup sour cream
@@ -19,7 +19,7 @@ Adapted from [Chef John's crab and artichoke dip](http://foodwishes.blogspot.com
 - 1 (14-oz) can artichoke bottoms
 - 6 ounces white Cheddar cheese, divided
 
-### Instructions
+## Instructions
 
 1. Preheat oven to 375&deg;F.
 2. Combine all ingredients except half of the Cheddar cheese. Mix until throughly combined.

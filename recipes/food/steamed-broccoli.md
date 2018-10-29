@@ -1,10 +1,10 @@
 # Steamed Broccoli
 
-### Ingredients
+## Ingredients
 
 - Fresh head(s) broccoli
 
-### Instructions
+## Instructions
 
 1. Cut off florets and chop the stalk into bite-sized pieces.
 2. Put everything in a bowl with some salt and water.

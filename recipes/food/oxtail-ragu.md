@@ -2,7 +2,7 @@
 
 Adapted from [A Drunken Duck's oxtail ragu](http://www.adrunkenduck.com/braised-oxtail-ragu/). Serves 6.
 
-### Ingredients
+## Ingredients
 
 - 3 pounds oxtail
 - flour for dredging
@@ -14,7 +14,7 @@ Adapted from [A Drunken Duck's oxtail ragu](http://www.adrunkenduck.com/braised-
 - 1 small bunch thyme
 - red wine
 
-### Instructions
+## Instructions
 
 1. Salt oxtail pieces and coat in flour. Brown in a pressure cooker over medium-high heat.
 2. Add vegetables, bay leaves, and thyme. Pour in enough red wine to submerge oxtail pieces halfway.

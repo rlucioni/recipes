@@ -2,7 +2,7 @@
 
 Adapted from [Chef John's garlic soup](http://foodwishes.blogspot.com/2013/04/celebrating-national-garlic-day-with.html). Serves 2.
 
-### Ingredients
+## Ingredients
 
 - About 4 cups of cubed French or Italian bread
 - 1/4 cup extra virgin olive oil, plus more to drizzle on bread cubes
@@ -13,7 +13,7 @@ Adapted from [Chef John's garlic soup](http://foodwishes.blogspot.com/2013/04/ce
 - Salt, pepper, cayenne to taste
 - 3 large eggs
 
-### Instructions
+## Instructions
 
 1. Toast bread cubes coated in olive oil at 350&deg;F until golden brown, about 15-20 minutes.
 2. Heat olive oil over medium heat until it shimmers. Add ham and warm through.

@@ -1,11 +1,11 @@
 # Cold Brew Coffee
 
-### Ingredients
+## Ingredients
 
 - 150 grams coarsely ground coffee
 - 1500 grams cold water
 
-### Instructions
+## Instructions
 
 1. Pour water over grounds. Stir, cover, and allow to steep at room temperature for 12+ hours.
 2. Filter grounds from coffee and refrigerate. You can do this with a paper towel or a French press.

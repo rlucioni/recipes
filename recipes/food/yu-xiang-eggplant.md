@@ -2,7 +2,7 @@
 
 Adapted from [Serious Eats' Yu Xiang Eggplant](http://www.seriouseats.com/recipes/2015/02/sichuan-braised-eggplant-vegan-experience-food-lab-recipe.html).
 
-### Ingredients
+## Ingredients
 
 - 1/2 cup kosher salt
 - 8 cups water
@@ -20,7 +20,7 @@ Adapted from [Serious Eats' Yu Xiang Eggplant](http://www.seriouseats.com/recipe
 - 4 scallions, sliced (greens can be cut slightly longer than whites)
 - 2 tablespoons chili bean sauce (doubanjiang)
 
-### Instructions
+## Instructions
 
 
 1. Put salt and water in a bowl. Add eggplant and soak for 20 minutes.

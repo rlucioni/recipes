@@ -2,12 +2,12 @@
 
 Adapted from [Serious Eats' hash browns](http://www.seriouseats.com/recipes/2014/06/shredded-hash-browns-recipe.html).
 
-### Ingredients
+## Ingredients
 
 - 1 large Russet potato
 - salt and pepper to taste
 
-### Instructions
+## Instructions
 
 1. Peel potato and grate using the large holes in a box grater.
 2. Toss with a pinch of salt and allow to drain in a colander for about 5 minutes.

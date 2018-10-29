@@ -1,6 +1,6 @@
 # Mango Lassi
 
-### Ingredients
+## Ingredients
 
 - 1 cup plain yogurt
 - 1/2 cup milk
@@ -8,7 +8,7 @@
 - 1 tablespoon sugar, or to taste
 - pinch of ground cardamom
 
-### Instructions
+## Instructions
 
 1. Blend all ingredients until smooth.
 

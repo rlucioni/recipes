@@ -2,7 +2,7 @@
 
 Adapted from [Chef John's calzones](http://foodwishes.blogspot.com/2015/07/youve-entered-calzone-zone.html).
 
-### Ingredients
+## Ingredients
 
 - [pizza dough](pan-pizza.md)
 - 1/4 onion, sliced
@@ -15,7 +15,7 @@ Adapted from [Chef John's calzones](http://foodwishes.blogspot.com/2015/07/youve
 - corn meal
 - [pizza sauce](pizza-sauce.md)
 
-### Instructions
+## Instructions
 
 1. Prepare pizza dough. It has to rise overnight. If you want calzones today, start the dough yesterday.
 2. Preheat oven to 500&deg;F.

@@ -2,7 +2,7 @@
 
 Adapted from [Chef John's apple hand pies](http://foodwishes.blogspot.com/2013/03/apple-hand-pies-crimping-is-easy.html). Makes 4.
 
-### Ingredients
+## Ingredients
 
 - 1 pound pie dough, divided into 4
 - 2 tablespoons butter, browned
@@ -15,7 +15,7 @@ Adapted from [Chef John's apple hand pies](http://foodwishes.blogspot.com/2013/0
 - egg wash (1 egg beaten with 2 teaspoons milk)
 - granulated sugar as needed
 
-### Instructions
+## Instructions
 
 1. Preheat oven to 400&deg;F.
 2. Peel apples and cut into cubes.

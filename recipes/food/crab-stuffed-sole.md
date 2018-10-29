@@ -2,7 +2,7 @@
 
 Adapted from [Chef John's crab-stuffed sole](http://foodwishes.blogspot.com/2014/03/crab-stuffed-sole-rolling-in-excitement.html). Serves 2.
 
-### Ingredients
+## Ingredients
 
 - 6 sole filets (12 ounces)
 
@@ -19,7 +19,7 @@ For the sauce:
 - 2 tsp finely grated lemon zest
 - cayenne to taste
 
-### Instructions
+## Instructions
 
 1. Preheat oven to 400&deg;F.
 2. Mix filling ingredients in small bowl. Mix sauce ingredients in separate bowl.

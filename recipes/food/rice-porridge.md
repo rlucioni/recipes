@@ -2,7 +2,7 @@
 
 Make 4 servings
 
-### Ingredients
+## Ingredients
 
 - 6 cups leftover rice (2 cups when uncooked)
 - 1/2 pound pork, chopped fine
@@ -13,7 +13,7 @@ Make 4 servings
 - soy sauce
 - 2 cups chicken stock
 
-### Instructions
+## Instructions
 
 1. Saute onions and napa with soy sauce until soft.
 2. Add vegetables to a large pot with rice and chicken stock. Break up rice in liquid. Start heating mixture over high heat.

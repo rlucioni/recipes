@@ -2,7 +2,7 @@
 
 Adapted from [Chef John's tonnato](http://foodwishes.blogspot.com/2015/04/tonnato-sauce-not-just-for-cold-veal.html).
 
-### Ingredients
+## Ingredients
 
 - 1 (7-ounce) jar olive oil-packed tuna, plus reserved olive oil
 - 6 olive oil-packed anchovy fillets
@@ -13,7 +13,7 @@ Adapted from [Chef John's tonnato](http://foodwishes.blogspot.com/2015/04/tonnat
 - 1 or 2 cloves minced garlic
 - salt, pepper, and cayenne to taste
 
-### Instructions
+## Instructions
 
 1. Mix all ingredients in a blender and blend until smooth. Stop halfway through to scrape down the sides of the blender.
 2. Taste and adjust for seasoning.

@@ -1,6 +1,6 @@
 # Pan con Tomate
 
-### Ingredients
+## Ingredients
 
 - French bread, halved lengthwise
 - 1 garlic clove, halved
@@ -9,7 +9,7 @@
 - olive oil
 - chorizo, sliced
 
-### Instructions
+## Instructions
 
 1. Put a box grater in a large bowl. Grate the cut face of the tomato, leaving the skin intact. Discard the skin.
 2. Broil bread until crisp and starting to char.

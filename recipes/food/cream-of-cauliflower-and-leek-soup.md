@@ -2,7 +2,7 @@
 
 Adapted from [Chef John's cream of cauliflower soup](http://foodwishes.blogspot.com/2012/09/cream-of-cauliflower-come-for-soup-stay.html). Serves 4.
 
-### Ingredients
+## Ingredients
 
 - 1 leek, cleaned and chopped
 - 1 rib celery, chopped
@@ -14,7 +14,7 @@ Adapted from [Chef John's cream of cauliflower soup](http://foodwishes.blogspot.
 - 4 cups cold water
 - 1/2 cup heavy cream
 
-### Instructions
+## Instructions
 
 1. Add olive oil to a pot and sweat leek and celery.
 2. Trim cauliflower: cut in half and pull off green leaves, then cut into pieces.

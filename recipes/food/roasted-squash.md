@@ -1,12 +1,12 @@
 # Roasted Squash
 
-### Ingredients
+## Ingredients
 
 - 1 squash (e.g., delicata, carnival, acorn)
 - olive oil
 - salt
 
-### Instructions
+## Instructions
 
 1. Preheat oven to 450&deg;F.
 2. Halve squash, clean out seeds, and slice.

@@ -2,7 +2,7 @@
 
 Intended for a 6" cast-iron skillet.
 
-### Ingredients
+## Ingredients
 
 - 1/2 cup cornmeal
 - 1/2 cup all-purpose flour
@@ -14,7 +14,7 @@ Intended for a 6" cast-iron skillet.
 - 1 egg
 - 4 tablespoons butter
 
-### Instructions
+## Instructions
 
 1. Preheat oven to 425&deg;F. Leave the cast-iron skillet inside the oven while you make the batter.
 2. Whisk together cornmeal, flour, sugar, salt, baking powder, and baking soda in a mixing bowl.

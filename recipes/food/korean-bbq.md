@@ -1,6 +1,6 @@
 # Korean BBQ
 
-### Ingredients
+## Ingredients
 
 - rice
 - 1 English cucumber, diced
@@ -13,7 +13,7 @@
 - bulgogi
 - [fried eggs](fried-eggs.md)
 
-### Instructions
+## Instructions
 
 1. Toss together cucumber, green onions, chili garlic sauce, rice vinegar, sesame oil, sugar, and salt in a large bowl.
 2. Cook bulgogi in a non-stick pan over medium high heat until just barely cooked through.

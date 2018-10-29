@@ -2,7 +2,7 @@
 
 Serves 2.
 
-### Ingredients
+## Ingredients
 
 - 1 cup rice
 - 1 small carrot
@@ -23,7 +23,7 @@ Sauce (enough for 4 portions)
 - 1 teaspoon apple cider vinegar
 - 1 teaspoon minced garlic
 
-### Instructions
+## Instructions
 
 1. Prepare rice and portion into bowls.
 2. Slice carrot into thin rounds using a mandolin. Marinate with salt and rice vinegar.

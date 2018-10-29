@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-### Cake
+## Cake
 - 160 grams cake flour
 - 1 1/2 teaspoons baking powder
 - 1/4 teaspoon salt
@@ -11,12 +11,12 @@
 - 1/3 cup whole milk
 - 1 teaspoon vanilla
 
-### Milk Mixture
+## Milk Mixture
 - 1 can evaporated milk (12 ounces)
 - 1 can sweetened condensed milk (14 ounces)
 - 1/4 cup whole milk
 
-### Topping
+## Topping
 - 2 cups heavy cream, whipped
 - fruit (e.g., passion fruit, golden kiwi, strawberries)
 

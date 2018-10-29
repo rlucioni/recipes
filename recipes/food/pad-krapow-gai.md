@@ -1,6 +1,6 @@
 # Pad Krapow Gai
 
-### Ingredients
+## Ingredients
 
 - 1 tablespoon oyster sauce
 - 1 tablespoon soy sauce, or as needed
@@ -13,7 +13,7 @@
 - 1 Thai bird chili, sliced thin
 - 1 bunch Thai basil leaves, sliced thin
 
-### Instructions
+## Instructions
 
 1. Mix oyster sauce, soy sauce, fish sauce, sugar, chicken broth, and grated garlic in a bowl. Reserve.
 2. Heat oil in a pan over high heat. Add the shallots, chilis, and chicken and cook until brown. Reserve.

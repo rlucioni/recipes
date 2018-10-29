@@ -1,6 +1,6 @@
 # Pasta Dough
 
-### Ingredients
+## Ingredients
 
 - 2 eggs
 - 2 tablespoons olive oil
@@ -9,7 +9,7 @@
 - 140 grams semolina flour
 - 1/2 teaspoon salt
 
-### Instructions
+## Instructions
 
 1. Beat eggs, olive oil, and water together.
 2. If using a food processor, mix dry ingredients in a food processor. Drizzle in egg mixture until the dough forms a grainy mixture. If not, mix dry ingredients on a large cutting board. Make a well and add egg mixture. Whisk with a fork, slowly incorporating flour until mixture is too thick to work with a fork.

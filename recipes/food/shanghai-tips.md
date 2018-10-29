@@ -1,13 +1,13 @@
 # Shanghai tips
 
-### Ingredients
+## Ingredients
 
 - 12 ounces Shanghai tips, cut in half
 - 2 teaspoons cornstarch
 - 2 teaspoons soy sauce
 - sesame oil
 
-### Instructions
+## Instructions
 
 1. Heat Shanghai tips with a splash of water in a pan. Put the lid on and cook 1-2 minutes, until tender.
 2. Transfer veggies to a serving plate.

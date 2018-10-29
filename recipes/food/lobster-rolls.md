@@ -2,7 +2,7 @@
 
 Makes 3.
 
-### Ingredients
+## Ingredients
 
 - 3 lobsters, around 1 1/3 pounds each
 - 3 New England style hot dog buns (AKA split-top buns)
@@ -12,7 +12,7 @@ Makes 3.
 - Old Bay, to taste
 - 1 1/2 tablespoons butter
 
-### Instructions
+## Instructions
 
 1. Bring an inch of water to a rolling boil in a large pot.
 2. Steam lobsters one at a time for 7 minutes per pound. Watch for boil-overs!

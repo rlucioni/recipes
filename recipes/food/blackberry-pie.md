@@ -1,6 +1,6 @@
 # Blackberry Pie
 
-### Ingredients
+## Ingredients
 
 - 2 batches of [pie crust](pie-crust.md)
 - 1250 grams blackberries (8 cups)
@@ -9,7 +9,7 @@
 - 6-7 tablespoons tapioca
 - Cream and sugar for topping
 
-### Instructions
+## Instructions
 
 1. Preheat oven to 375&deg;F.
 2. Mix tapioca and sugar together. Shake over berries and mix together. Let sit for 15 minutes to draw out juice.

@@ -1,6 +1,6 @@
 # Kimchi Fried Rice
 
-### Ingredients
+## Ingredients
 
 - 1/2 onion, chopped
 - 1 generous cup kimchi, drained and chopped (save 1/4 cup of the juice)
@@ -14,7 +14,7 @@
 - [fried eggs](fried-eggs.md)
 - nori
 
-### Instructions
+## Instructions
 
 1. Saute onions in vegetable oil in a nonstick pan or wok until they start to soften.
 2. Add kimchi and ham. Saute for a while. Mix in gochujang.

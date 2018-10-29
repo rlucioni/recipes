@@ -1,13 +1,13 @@
 # Brussels Sprouts
 
-### Ingredients
+## Ingredients
 
 - 1 pound brussels sprouts, trimmed and halved
 - 4 tablespoons olive oil
 - Salt and pepper
 - 1 tablespoon balsamic vinegar
 
-### Instructions
+## Instructions
 
 1. Heat oven to 400&deg;F. Heat oil in a cast iron pan over medium-high heat.
 2. Place sprouts in the pan in one layer, cut side down. Add salt and cook undisturbed until the bottoms begin to brown.

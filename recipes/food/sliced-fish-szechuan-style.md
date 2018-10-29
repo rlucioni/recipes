@@ -2,7 +2,7 @@
 
 Inspired by the [Sliced Fish Szechuan Style](https://www.dropbox.com/s/mt9hbhxml8458m8/sliced-fish-szechuan-style.mp4) at Gourmet Dumpling House in Boston.
 
-### Ingredients
+## Ingredients
 
 - 1 pound swai fillets
 - 3/4 teaspoon salt
@@ -22,7 +22,7 @@ Inspired by the [Sliced Fish Szechuan Style](https://www.dropbox.com/s/mt9hbhxml
 - 10 grams dried red chili peppers, chopped
 - 10 grams (green) Szechuan peppercorns, ground
 
-### Instructions
+## Instructions
 
 1. Cut the fish into 1/4-inch thick slices at a 45-degree angle.
 2. Mix salt, pepper, and 1 tablespoon rice wine. Add egg white, mix, then incorporate cornstarch. Add fish slices, toss, then cover with plastic wrap. Marinate in the refrigerator for 20 minutes.

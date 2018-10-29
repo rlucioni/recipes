@@ -1,6 +1,6 @@
 # Strawberry Rhubarb Pie
 
-### Ingredients
+## Ingredients
 
 - 2 batches [pie crust](pie-crust.md)
 - 1 pound rhubarb, diced
@@ -8,7 +8,7 @@
 - 1/2 cup sugar
 - 3 tablespoons minute tapioca
 
-### Instructions
+## Instructions
 
 1. Preheat oven to 425&deg;F.
 2. Roll out pie crust and place in pie dish. Reserve in the refrigerator.

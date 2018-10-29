@@ -2,7 +2,7 @@
 
 Adapted from [NYT's Clam Chowder](http://cooking.nytimes.com/recipes/1016717-the-best-clam-chowder). Serves 4.
 
-### Ingredients
+## Ingredients
 
 - 20 littleneck clams (avoid large ones, they're tough)
 - 3 strips thick cut bacon, diced
@@ -14,7 +14,7 @@ Adapted from [NYT's Clam Chowder](http://cooking.nytimes.com/recipes/1016717-the
 - 1 bay leaf
 - 1 cup heavy cream
 
-### Instructions
+## Instructions
 
 1. Place clams in a pot and add about 4 cups cold water. Set over medium-high heat and cook partially covered until clams have opened. Discard any which fail to open. Will boil over if covered completely!
 2. Strain clam broth through a sieve lined with a paper towel and reserve. Remove clams from shells, chop, and reserve.

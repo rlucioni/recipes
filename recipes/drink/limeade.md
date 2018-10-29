@@ -1,6 +1,6 @@
 # Limeade
 
-### Ingredients
+## Ingredients
 
 - 1 1/2 cups fresh lime juice
 - 6 cups water
@@ -8,6 +8,6 @@
 - 2 ounces light rum
 - Pinch of salt
 
-### Instructions
+## Instructions
 
 1. Combine ingredients, stir well, and refrigerate at least 1 hour.

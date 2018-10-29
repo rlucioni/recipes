@@ -1,6 +1,6 @@
 # Tom Kha Pladuk
 
-### Ingredients
+## Ingredients
 
 - 2 1/2 cups [dashi](dashi.md)
 - 2 tablespoons lemongrass, thinly sliced, from the bottom third
@@ -13,7 +13,7 @@
 - 14 ounces coconut milk
 - 1 tablespoon cilantro
 
-### Instructions
+## Instructions
 
 1. Bring dashi to a simmer in a pot over medium-high heat.
 2. Add the lemongrass, galangal, mushrooms, habanero, fish sauce, and lime juice. Return to a simmer.

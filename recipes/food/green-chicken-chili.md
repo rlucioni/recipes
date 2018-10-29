@@ -1,6 +1,6 @@
 # Green Chicken Chili
 
-### Ingredients
+## Ingredients
 
 - 3 pounds boneless skinless chicken thighs, seasoned with salt
 - 1 onion, diced
@@ -16,7 +16,7 @@
 - 30 ounces cannellini beans, drained and rinsed
 - sour cream
 
-### Instructions
+## Instructions
 
 1. Brown chicken in a pot. Reserve. When cool, chop into bite-size chunks.
 2. Blend salsa verde, garlic, jalapeños, and cilantro until smooth. Reserve.

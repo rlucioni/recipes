@@ -2,7 +2,7 @@
 
 Adapted from [Chef John's chocolate mug cake](http://foodwishes.blogspot.com/2013/07/minute-chocolate-mug-cake-can-you.html). Makes 2.
 
-### Ingredients
+## Ingredients
 
 - 1 large egg
 - 1/4 cup sugar
@@ -21,7 +21,7 @@ Optional fillings
 - 2 tablespoons chopped dark baking chocolate
 - 2 tablespoons chopped toasted walnuts
 
-### Instructions
+## Instructions
 
 1. Whisk together egg, sugar, salt, cocoa powder, vegetable oil, melted butter, and vanilla extract.
 2. Stir in milk and any fillings.

@@ -2,7 +2,7 @@
 
 Adapted from [Allrecipes](http://allrecipes.com/recipe/to-die-for-blueberry-muffins/). Makes 12 muffins.
 
-### Ingredients
+## Ingredients
 
 - 480 grams all-purpose flour
 - 1 teaspoon salt
@@ -14,7 +14,7 @@ Adapted from [Allrecipes](http://allrecipes.com/recipe/to-die-for-blueberry-muff
 - 2 generous cups blueberries, fresh or frozen
 - Demerara sugar
 
-### Instructions
+## Instructions
 
 1. Preheat oven to 400&deg;F.
 2. Combine flour, salt, and baking powder.

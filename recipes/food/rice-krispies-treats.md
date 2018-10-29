@@ -1,6 +1,6 @@
 # Rice Krispies Treats
 
-### Ingredients
+## Ingredients
 
 - 2 tablespoons butter
 - pinch of salt
@@ -8,7 +8,7 @@
 - 2 1/2 cups crisp rice cereal
 - 1/4 teaspoon vanilla extract
 
-### Instructions
+## Instructions
 
 1. Melt butter in a saucepan over medium heat. Add salt. Toast until light brown and nutty.
 2. Turn heat to low. Add marshmallows, stirring constantly until completely melted. Add vanilla extract.

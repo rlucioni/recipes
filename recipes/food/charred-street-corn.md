@@ -2,7 +2,7 @@
 
 Inspired by [Lone Star Taco Bar's grilled street corn](http://www.lonestar-boston.com/food.php).
 
-### Ingredients
+## Ingredients
 
 - 3 ears corn
 - 3 tablespoons mayonnaise
@@ -13,7 +13,7 @@ Inspired by [Lone Star Taco Bar's grilled street corn](http://www.lonestar-bosto
 - Fresh lime juice
 - Salt and pepper to taste
 
-### Instructions
+## Instructions
 
 1. Wrap corn in plastic wrap and microwave for 4 minutes.
 2. Allow to cool, unwrap, and peel back husk, but leave it attached!

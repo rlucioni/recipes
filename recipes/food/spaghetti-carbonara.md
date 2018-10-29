@@ -2,7 +2,7 @@
 
 Adapted from America's Test Kitchen's Foolproof Spaghetti Carbonara. Serves 2.
 
-### Ingredients
+## Ingredients
 
 - 4 slices thick-cut bacon
 - 1/4 cup water
@@ -14,7 +14,7 @@ Adapted from America's Test Kitchen's Foolproof Spaghetti Carbonara. Serves 2.
 - 1/2 pound spaghetti
 - 1/2 teaspoon salt
 
-### Instructions
+## Instructions
 
 1. Cut bacon into 1/2 inch pieces. Cook on medium-high heat in a skillet with 1/4 cup of water for 8 minutes.
 2. Reduce the heat to medium-low and cook for an additional 8 minutes until the bacon is brown.

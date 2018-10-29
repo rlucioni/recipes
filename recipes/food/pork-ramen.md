@@ -2,7 +2,7 @@
 
 Adapted from [Cooking with Dog's ramen](https://www.youtube.com/watch?v=yfEUwNQTXwU).
 
-### Ingredients
+## Ingredients
 
 - 5 cups [dashi](dashi.md)
 - 3 pounds bone-in pork shoulder
@@ -19,7 +19,7 @@ Adapted from [Cooking with Dog's ramen](https://www.youtube.com/watch?v=yfEUwNQT
 - [marinated eggs](marinated-eggs.md)
 - toasted nori seaweed
 
-### Instructions
+## Instructions
 
 1. In a pressure cooker, sear pork on high heat, 3-4 minutes per side.
 2. Add enough water or chicken stock to cover. Add green onion, ginger, and garlic. Cook at high pressure for 40 minutes.

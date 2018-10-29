@@ -1,13 +1,13 @@
 # Chili oil
 
-### Ingredients
+## Ingredients
 
 - 12-16 dried Chinese chilies
 - 2 teaspoons Sichuan peppercorns
 - 1 star anise
 - 1/2 cup vegetable oil
 
-### Instructions
+## Instructions
 
 1. Toast spices in the microwave for two increments of 10 seconds each.
 2. Grind chilies and peppercorns in a spice grinder until the consistency of red pepper flakes.

@@ -2,7 +2,7 @@
 
 Adapted from [Allrecipes](http://allrecipes.com/recipe/162760/fluffy-pancakes/). Makes 4 large pancakes.
 
-### Ingredients
+## Ingredients
 
 - 3/4 cup whole milk
 - 2 tablespoons white vinegar
@@ -15,7 +15,7 @@ Adapted from [Allrecipes](http://allrecipes.com/recipe/162760/fluffy-pancakes/).
 - 2 tablespoons melted butter
 - 1/4 teaspoon vanilla extract
 
-### Instructions
+## Instructions
 
 1. Mix milk and vinegar in a bowl and set aside.
 2. Whisk together dry ingredients in a large bowl.

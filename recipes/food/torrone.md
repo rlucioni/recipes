@@ -2,7 +2,7 @@
 
 Adapted from [Chef John's torrone](http://foodwishes.blogspot.com/2016/02/torrone-italian-nut-nougat-confection.html). Yields ~36 bite-sized pieces.
 
-### Ingredients
+## Ingredients
 
 - 200 grams honey
 - 125 grams white sugar
@@ -13,7 +13,7 @@ Adapted from [Chef John's torrone](http://foodwishes.blogspot.com/2016/02/torron
 - 1 1/2 cups roasted (Marcona, blanched) almonds
 - 1/2 cup roasted pistachios
 
-### Instructions
+## Instructions
 
 1. Line a 9x5 baking dish with parchment paper. Rub with half a lemon, seeded.
 2. Roast nuts in a 350&deg;F oven for 5-8 minutes until fragrant. Toss halfway through, and keep warm in oven when done.

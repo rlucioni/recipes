@@ -1,6 +1,6 @@
 # Blueberry Pie
 
-### Ingredients
+## Ingredients
 
 - 2 batches [pie crust](pie-crust.md)
 - 2 pounds blueberries
@@ -9,7 +9,7 @@
 - 1/4 teaspoon cinnamon
 - 2 tablespoons lemon juice
 
-### Instructions
+## Instructions
 
 1. Preheat oven to 425&deg;F.
 2. Roll out pie crust and place in pie dish. Reserve in the refrigerator.

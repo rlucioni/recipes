@@ -2,7 +2,7 @@
 
 Serves 6.
 
-### Ingredients
+## Ingredients
 
 - 2 pounds pork shoulder, cut into large chunks
 - 2 tablespoons flour
@@ -16,7 +16,7 @@ Serves 6.
 - 2 cups dry apple cider
 - 2 cups chicken stock
 
-### Instructions
+## Instructions
 
 1. Salt meat chunks and dredge in flour.
 2. In a pressure cooker, brown meat well over medium-high heat in a little bit of vegetable oil. Remove and reserve.

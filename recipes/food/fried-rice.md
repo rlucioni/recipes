@@ -1,6 +1,6 @@
 # Fried Rice
 
-### Ingredients
+## Ingredients
 
 - 2 cups day-old rice
 - 1 onion, diced finely
@@ -11,7 +11,7 @@
 - Several dashes soy sauce
 - 2 green onions, chopped
 
-### Instructions
+## Instructions
 
 1. Saute onions over medium heat with a pinch of salt. Add pork. Cook until onions are soft and pork is cooked through. Reserve.
 2. Saute shrimp in vegetable oil until cooked. Reserve.

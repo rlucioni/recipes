@@ -2,7 +2,7 @@
 
 Adapted from [Serious Eats' Gyudon](http://www.seriouseats.com/recipes/2016/07/gyudon-japanese-simmered-beef-and-rice-bowl-recipe.html).
 
-### Ingredients
+## Ingredients
 
 - 1 onion, sliced
 - 1/2 cup dashi or chicken stock
@@ -17,7 +17,7 @@ Adapted from [Serious Eats' Gyudon](http://www.seriouseats.com/recipes/2016/07/g
 - beni shoga (pickled ginger) or pickled plums
 - togarashi (or cayenne)
 
-### Instructions
+## Instructions
 
 1. Combine onion, dashi/chicken stock, sake, soy sauce, and sugar in a pot. Bring to a simmer. Cook, stirring occasionally, until onion is softened, about 5 minutes.
 2. Add beef and cook, stirring until beef is cooked through and liquid has reduced, about 5 minutes. Stir in ginger and simmer for 1 more minute. Adjust seasoning with salt and sugar to taste.

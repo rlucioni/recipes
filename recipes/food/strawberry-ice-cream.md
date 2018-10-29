@@ -2,7 +2,7 @@
 
 Yields 1 1/2 quarts.
 
-### Ingredients
+## Ingredients
 
 - enough strawberries to make 1 1/2 cups strained puree (about 16 ounces)
 - 3/4 cup sugar
@@ -11,7 +11,7 @@ Yields 1 1/2 quarts.
 - 1 cup heavy cream
 - 1/4 teaspoon salt
 
-### Instructions
+## Instructions
 
 1. Blend strawberries until smooth. Strain through a fine mesh strainer and add to a bowl. There should be 1 1/2 cups.
 2. Whisk in sugar and salt until well combined, then whisk in corn syrup.

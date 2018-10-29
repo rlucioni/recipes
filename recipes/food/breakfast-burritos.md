@@ -2,7 +2,7 @@
 
 Makes 2. Chorizo can be substituted with breakfast sausage or bacon.
 
-### Ingredients
+## Ingredients
 
 - 1 1/2 chorizo sausages, cut into rounds
 - 4 eggs, beaten with some milk and a pinch of salt
@@ -11,7 +11,7 @@ Makes 2. Chorizo can be substituted with breakfast sausage or bacon.
 - 2 large flour tortillas
 - 2 ounces sharp chedder, grated
 
-### Instructions
+## Instructions
 
 1. Cook chorizo slices in a nonstick pan until heated through and browned. Reserve in a warm oven.
 2. Soak up most of the chorizo fat with a paper towel and scramble eggs in the remaining fat. Reserve next to the chorizo.

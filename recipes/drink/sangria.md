@@ -1,6 +1,6 @@
 # Sangria
 
-### Ingredients
+## Ingredients
 
 - 2 juice oranges, one sliced and one juiced
 - 1 lemon, sliced
@@ -8,7 +8,7 @@
 - 1/4 cup Triple Sec
 - 750 ml bottle dry Spanish red wine (Tempranillo, Grenache/Garnacha, or other Rioja)
 
-### Instructions
+## Instructions
 
 1. Add sliced orange, lemon, and sugar to pitcher. Mash with wooden spoon until the fruit releases some juice but isn't totally crushed, and the sugar dissolves. Stir in orange juice, Triple Sec, and wine. Refrigerate for a few hours.
 

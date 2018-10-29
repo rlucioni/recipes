@@ -2,7 +2,7 @@
 
 Adapted from [Chef John's drunken mussels](http://foodwishes.blogspot.com/2012/05/drunken-mussels-way-fewer-than-12-steps.html). Serves 2.
 
-### Ingredients
+## Ingredients
 
 - 2 pounds mussels, washed and drained
 - 2 tablespoons butter
@@ -14,7 +14,7 @@ Adapted from [Chef John's drunken mussels](http://foodwishes.blogspot.com/2012/0
 - handful of chopped Italian parsley
 - grilled bread and lemon to garnish
 
-### Instructions
+## Instructions
 
 1. Prepare all ingredients ahead of time.
 2. Melt butter in stock pot on medium heat. Add garlic and red pepper flakes and sizzle for 30 seconds.

@@ -1,12 +1,12 @@
 # Turnip Puree
 
-### Ingredients
+## Ingredients
 
 - 1 russet potato
 - 1 large or two medium turnips (roughly 3 times as much turnip as potato)
 - 2 tablespoons butter
 
-### Instructions
+## Instructions
 
 1. Bring a pot of salted water to a boil.
 2. Peel and cube the turnip and potato. Boil for 15 minutes, or until tender.

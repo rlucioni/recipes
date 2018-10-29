@@ -2,14 +2,14 @@
 
 Adapted from The Fresh Loaf's [Rustic Bread](http://www.thefreshloaf.com/recipes/rusticbread). Makes one large loaf.
 
-### Ingredients
+## Ingredients
 
 - 1 pound bread flour
 - 1 1/2 teaspoons salt
 - Generous 1/4 teaspoon instant yeast
 - 11+ ounces filtered water
 
-### Instructions
+## Instructions
 
 1. Make the dough the night before you want to eat bread! In a mixing bowl, combine all ingredients until just combined, adding more flour or water as necessary to create a sticky, well-hydrated dough.
 2. Cover the bowl with plastic wrap, poke small holes so that it can breathe, and leave it in a warm place overnight.

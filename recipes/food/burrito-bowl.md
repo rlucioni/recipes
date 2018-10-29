@@ -2,7 +2,7 @@
 
 Serves 4.
 
-### Ingredients
+## Ingredients
 
 - 2 cups rice
 - 15 1/2 ounces canned beans
@@ -16,7 +16,7 @@ Serves 4.
 - 1 small block sharp cheddar, grated
 - cilantro, sour cream, salsa, tortilla chips, and sliced avocado to garnish
 
-### Instructions
+## Instructions
 
 1. Cook 2 cups rice in a rice maker.
 2. Microwave corn for 4 minutes.

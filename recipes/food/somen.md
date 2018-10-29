@@ -1,6 +1,6 @@
 # Somen
 
-### Ingredients
+## Ingredients
 
 - ginger, sliced
 - onion, sliced
@@ -16,7 +16,7 @@
 - somen (wheat noodles)
 - 2 green onions, chopped
 
-### Instructions
+## Instructions
 
 1. Heat vegetable oil in a pan with ginger. Add onion when it starts to sizzle.
 2. Mix pork, soy sauce, and corn starch in a bowl. Saute with the ginger and onion until almost cooked through. Add some sake towards the end to deglaze the pan. Transfer to serving bowls.

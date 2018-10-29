@@ -2,7 +2,7 @@
 
 Adapted from [Chef John's roasted butternut squash soup](http://foodwishes.blogspot.com/2015/09/roasted-butternut-squash-soup-legend-of.html)
 
-### Ingredients
+## Ingredients
 
 - 3 1/2 pound butternut squash, cut in half lengthwise and seeded
 - 1 chopped onion
@@ -17,7 +17,7 @@ Adapted from [Chef John's roasted butternut squash soup](http://foodwishes.blogs
 - 2 tablespoons apple cider vinegar
 - sour cream and chives to garnish
 
-### Instructions
+## Instructions
 
 1. Preheat oven to 400&deg;F.
 2. Put onion, carrots, and garlic on a foil-lined baking sheet. Add olive oil and salt, then toss to coat.

@@ -2,7 +2,7 @@
 
 Adapted from [Serious Eats' Pho Ga](http://www.seriouseats.com/recipes/2015/01/30-minute-pressure-cooker-pho-ga-recipe.html). Serves 4.
 
-### Ingredients
+## Ingredients
 
 - 2 medium yellow onions, split in half
 - 1 small hand of ginger, roughly sliced
@@ -26,7 +26,7 @@ Toppings:
 - 1 lime, each cut into 4 wedges
 - Hoisin sauce and Sriracha
 
-### Instructions
+## Instructions
 
 1. Heat oil in a pressure cooker over medium-high heat until hot. Add onions and ginger, cut side down, and cook until lightly charred.
 2. Add chicken, cilantro, spices, sugar, and fish sauce. Cover with 2 quarts of water.

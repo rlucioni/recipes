@@ -1,13 +1,13 @@
 # Garlic Bread
 
-### Ingredients
+## Ingredients
 
 - 1/4 large baguette, cut on the bias into thin slices
 - 4 tablespoons butter
 - 1 tablespoon olive oil
 - 2 clove garlic, grated
 
-### Instructions
+## Instructions
 
 1. Preheat broiler on high.
 2. Melt butter in a microwave in 10 second increments. Add olive oil and garlic, mix well.

@@ -2,7 +2,7 @@
 
 Adapted from [Chef John's five-spice pork loin](http://foodwishes.blogspot.com/2016/01/pan-roasted-5-spice-pork-loin-pleasing.html). Serves two.
 
-### Ingredients
+## Ingredients
 
 - 1/2 to 1 pound boneless pork loin roast, cut in half lengthwise and scored
 - 2 tablespoons rice vinegar
@@ -14,7 +14,7 @@ Adapted from [Chef John's five-spice pork loin](http://foodwishes.blogspot.com/2
 - 1/2 teaspoon freshly ground black pepper
 - 1/2 teaspoon Chinese five-spice
 
-### Instructions
+## Instructions
 
 1. Combine marinade ingredients in a baking dish.
 2. Place pork in the marinade and turn several times until meat is well-coated.

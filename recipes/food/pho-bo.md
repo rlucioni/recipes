@@ -2,7 +2,7 @@
 
 Adapted from [Serious Eats' Beef Pho](http://www.seriouseats.com/recipes/2012/09/traditional-beef-pho-recipe.html). Serves 6.
 
-### Ingredients
+## Ingredients
 
 - 2 onions, split in half
 - 1 6-inch piece of ginger, split length-wise
@@ -28,7 +28,7 @@ Toppings:
 - 2 cups trimmed bean sprouts
 - 1 lime, cut into wedges
 
-### Instructions
+## Instructions
 
 1. Char ginger and onion under the broiler until blackened.
 2. Wash meat thoroughly and brown in a pressure cooker over medium-high heat.

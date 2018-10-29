@@ -3,7 +3,7 @@
 Adapted from [Chef John's peanut curry](http://foodwishes.blogspot.com/2015/09/peanut-curry-chicken-check-please.html). Serves 6.
 
 For the spice blend:
-### Ingredients
+## Ingredients
 
 - 2 teaspoons ground coriander
 - 2 teaspoons ground cumin
@@ -27,7 +27,7 @@ For the spice blend:
 - 1/2 cup roasted peanuts 
 - lime juice and cilantro to garnish 
 
-### Instructions
+## Instructions
 
 1. Mix spice blend in a ramekin. Add half to chicken and toss to coat evenly.
 2. Brown chicken in vegetable oil over high heat in two batches. Evacuate and reserve.

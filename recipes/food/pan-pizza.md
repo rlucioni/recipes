@@ -1,6 +1,6 @@
 # Pan Pizza
 
-### Ingredients
+## Ingredients
 
 Dough (2 10" pizzas):
 - 400 grams bread flour
@@ -14,7 +14,7 @@ Toppings:
 - grated full-fat, low-moisture mozzarella cheese
 - toppings as desired (e.g., pepperoni, pineapple and Canadian bacon)
 
-### Instructions
+## Instructions
 
 1. Combine dough ingredients in a large bowl. Mix until dough ball comes together and no dry flour is left. Let rise overnight.
 2. Split dough into two equal pieces. They can be used now or frozen for later use.

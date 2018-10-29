@@ -1,12 +1,12 @@
 # Seared Salmon
 
-### Ingredients
+## Ingredients
 
 - 12 ounces salmon
 - Salt
 - Olive oil
 
-### Instructions
+## Instructions
 
 1. Rinse fillets and dry well with paper towels. Salt skin side.
 2. Heat oil over medium high heat until it shimmers. Reduce heat to medium low and add fillets, skin side down. Press down firmly for a few seconds to prevent skin from buckling.

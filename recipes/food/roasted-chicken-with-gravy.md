@@ -2,7 +2,7 @@
 
 Adapted from Julia Child's roasted chicken recipe, from [Cooking with Master Chefs](http://www.amazon.com/gp/product/0679748296).
 
-### Ingredients
+## Ingredients
 
 - 5 pound whole roasting chicken
 - Salt and fresh ground black pepper to taste
@@ -15,7 +15,7 @@ Adapted from Julia Child's roasted chicken recipe, from [Cooking with Master Che
 - Chicken stock or broth as needed (about 1/2 cup)
 - Flour as needed (about 1 generous tablespoon)
 
-### Instructions
+## Instructions
 
 1. Preheat oven to 400&deg;F.
 2. Add the lemon juice, juiced lemon halves, thyme, rosemary, garlic, salt, and pepper to a large mixing bowl. Stir to combine.

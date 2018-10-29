@@ -2,12 +2,12 @@
 
 Inspited by [America's Test Kitchen](https://www.cooksillustrated.com/how_tos/8741-the-science-of-cooking-frozen-steaks).
 
-### Ingredients
+## Ingredients
 
 - 1 (frozen) steak
 - salt and pepper
 
-### Instructions
+## Instructions
 
 1. Preheat oven to 275&deg;F. Line a baking sheet with foil and a cooling rack.
 2. Sear the frozen steak in a hot skillet with some vegetable oil for 90 seconds per side.

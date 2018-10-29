@@ -2,7 +2,7 @@
 
 Serves 2.
 
-### Ingredients
+## Ingredients
 
 - 1 pound lamb (boneless leg), chopped into small pieces
 - 1 dash soy sauce
@@ -15,7 +15,7 @@ Serves 2.
 - wheat noodles (somen)
 - napa cabbage (7-8 leaves)
 
-### Instructions
+## Instructions
 
 1. Marinate lamb in soy sauce, Worcestershire sauce, and sake.
 2. Heat oil in a skillet over medium-high heat. Saute lamb, peppers, and ginger until almost cooked through. Add green onions. Portion into serving bowls.

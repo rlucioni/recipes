@@ -1,6 +1,6 @@
 # Chili Verde
 
-### Ingredients
+## Ingredients
 
 - 2 pounds pork shoulder, cut into large cubes
 - 1 onion, diced
@@ -17,7 +17,7 @@
 - 1/2 teaspoon black pepper
 - sour cream
 
-### Instructions
+## Instructions
 
 1. Brown pork in a pressure cooker. Add onions and saute until translucent.
 2. Blend salsa verde, garlic, jalapeños, and cilantro until smooth.

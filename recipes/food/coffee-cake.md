@@ -2,7 +2,7 @@
 
 Adapted from [Chef John's Pecan Sour Cream Coffee Cake](http://foodwishes.blogspot.com/2016/04/pecan-sour-cream-coffee-cake-now-with.html). Makes 8 servings.
 
-### Ingredients
+## Ingredients
 
 Crumb topping
 - 1 cup pecans, toasted and finely chopped
@@ -23,7 +23,7 @@ Cake
 - 1 teaspoon vanilla extract
 - 1/2 cup sour cream
 
-### Instructions
+## Instructions
 
 1. Preheat oven to 350&deg;F. Butter a 9x5 inch loaf pan.
 2. Whisk together flour, salt, baking powder, and baking soda.

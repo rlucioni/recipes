@@ -2,7 +2,7 @@
 
 Adapted from [Alton Brown's popcorn](http://www.foodnetwork.com/recipes/alton-brown/perfect-popcorn-recipe.html). Serves 2.
 
-### Ingredients
+## Ingredients
 
 - 3 tablespoons vegetable oil
 - 1/2 cup popcorn
@@ -11,7 +11,7 @@ Adapted from [Alton Brown's popcorn](http://www.foodnetwork.com/recipes/alton-br
 - 1 teaspoon fresh thyme, finely chopped
 - 2 tablespoons butter
 
-### Instructions
+## Instructions
 
 1. In a large steel bowl, combine oil, popcorn, and salt to make a slurry.
 2. Cover bowl with foil and poke several small holes to let steam escape.

@@ -2,7 +2,7 @@
 
 Yields 12 muffins.
 
-### Ingredients
+## Ingredients
 
 - 375 grams all-purpose flour
 - 1 1/2 teaspoons baking powder
@@ -17,7 +17,7 @@ Yields 12 muffins.
 - 2 tablespoons lemon juice
 - 4 teaspoons poppy seeds
 
-### Instructions
+## Instructions
 
 1. Preheat oven to 350&deg;F.
 2. Whisk together flour, baking powder, baking soda, salt, and poppy seeds in a bowl.

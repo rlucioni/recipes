@@ -2,7 +2,7 @@
 
 Serves 4.
 
-### Ingredients
+## Ingredients
 
 Sauce
 - 2 tablespoons gochujang
@@ -28,7 +28,7 @@ Other
 - Nori, cut into thin strips
 - 2 cups rice
 
-### Instructions
+## Instructions
 
 1. Start rice. Warm large bowls in the oven. Prepare sauce.
 2. Lay sliced cucumber on a plate lined with a paper towel and sprinkle with salt.

@@ -2,7 +2,7 @@
 
 Adapted from [Serious Eats' Kung Pao Chicken](http://www.seriouseats.com/recipes/2014/07/takeout-style-kung-pao-chicken-diced-chicken-peppers-peanuts-recipe.html).
 
-### Ingredients
+## Ingredients
 
 For chicken:
 - 1 1/2 pounds boneless skinless chicken thighs, cubed
@@ -30,7 +30,7 @@ For stir-fry:
 - 1 scallion, sliced
 - Some dried chilis
 
-### Instructions
+## Instructions
 
 1. Combine chicken, salt, pepper, soy sauce, wine, sugar, sesame oil, and cornstarch in a bowl. Toss to coat and set aside for 20 minutes.
 2. Mix soy sauce, wine, vinegar, chicken stock, sugar, sesame oil, and cornstarch in a bowl. Set aside.

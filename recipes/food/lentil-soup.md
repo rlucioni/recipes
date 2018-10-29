@@ -1,6 +1,6 @@
 # Lentil Soup
 
-### Ingredients
+## Ingredients
 
 - 2 strips thick-cut bacon, chopped
 - 1 onion, chopped
@@ -13,7 +13,7 @@
 - 1/2 teaspoon ground cumin
 - 1/2 teaspoon pepper
 
-### Instructions
+## Instructions
 
 1. Brown bacon over medium heat in a large pot. Reserve.
 2. Sweat onion, carrot, and celery in the bacon fat with a pinch of salt until onions are translucent.

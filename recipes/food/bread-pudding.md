@@ -2,7 +2,7 @@
 
 Adapted from [All Recipes' Bread Pudding](http://allrecipes.com/recipe/7177/bread-pudding-ii/).
 
-### Ingredients
+## Ingredients
 
 - 10 ounces day-old bread
 - 1/2 cup golden raisins (soaked in rum, optional)
@@ -14,7 +14,7 @@ Adapted from [All Recipes' Bread Pudding](http://allrecipes.com/recipe/7177/brea
 - 1 teaspoon vanilla extract
 - pinch of salt
 
-### Instructions
+## Instructions
 
 1. Preheat oven to 350&deg;F.
 2. Cut bread into small cubes. Add most of the bread into a 9x5 bread tin. Sprinkle on raisins, then the rest of the bread. Drizzle over melted butter.

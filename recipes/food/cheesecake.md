@@ -2,7 +2,7 @@
 
 Adapted from [Chef John's cheesecake](http://foodwishes.blogspot.com/2010/10/new-york-style-sunshine-cheesecake.html). Makes one small glass tupperware in addition to 4 ramekins.
 
-### Ingredients
+## Ingredients
 
 - 1 [graham cracker crust](graham-cracker-crust.md)
 - 2 tablespoons flour
@@ -13,7 +13,7 @@ Adapted from [Chef John's cheesecake](http://foodwishes.blogspot.com/2010/10/new
 - 1/3 cup milk
 - 2 eggs
 
-### Instructions
+## Instructions
 
 1. Combine flour, sour cream, and vanilla in a small bowl.
 2. Thoroughly combine cream cheese with sugar in a large bowl. Mix in milk.

@@ -3,7 +3,7 @@
 Adapted from a Land O Lakes Holiday Recipe collection.
 
 For cookie dough:
-### Ingredients
+## Ingredients
 
 - 1 cup sugar
 - 1 cup butter, softened
@@ -18,7 +18,7 @@ For lemon icing:
 - 1 lemon, juiced
 - 3-4 drops lemon oil
 
-### Instructions
+## Instructions
 
 1. Cream sugar and butter in a large mixing bowl. Mix in egg, milk, and vanilla.
 2. Add flour and baking powder, mixing until well combined. Scrape the bowl often!

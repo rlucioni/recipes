@@ -2,7 +2,7 @@
 
 Adapted from [Chef John's ultimate berry crumble](https://foodwishes.blogspot.com/2018/05/the-ultimate-berry-crumble-ultimate.html).
 
-### Ingredients
+## Ingredients
 
 Crumble
 - 160 grams all-purpose flour
@@ -21,7 +21,7 @@ Filling
 - 1/2 teaspoon lemon zest
 - 1 teaspoon lemon juice
 
-### Instructions
+## Instructions
 
 1. Preheat oven to 375&deg;F.
 2. Mix flour, salt, baking powder, and sugar in a food processor. Add butter and process until mixture resembles coarse sand.

@@ -1,13 +1,13 @@
 # Fried Eggs
 
-### Ingredients
+## Ingredients
 
 - 2 teaspoons vegetable oil
 - Eggs, straight from the fridge
 - 2 teaspoons cold, unsalted butter
 - Salt and pepper to taste
 
-### Instructions
+## Instructions
 
 1. Heat vegetable oil in a nonstick skillet over medium-high heat.
 2. Crack eggs into a bowl. Season with salt.

@@ -2,7 +2,7 @@
 
 Adapted from Chef John's [tuna melt](http://foodwishes.blogspot.com/2013/01/the-tuna-melt-open-face-insert-hypocrisy.html). Serves 2.
 
-### Ingredients
+## Ingredients
 
 - 2 thick slices Italian or French bread
 - 1 can oil-packed tuna (or sardines), drained
@@ -13,7 +13,7 @@ Adapted from Chef John's [tuna melt](http://foodwishes.blogspot.com/2013/01/the-
 - 2 tablespoons mayonnaise
 - Swiss cheese, grated
 
-### Instructions
+## Instructions
 
 1. Mix tuna, celery, green onion, capers, and mayonnaise in a bowl. Season to taste.
 2. Top bread with tuna mixture. Spread to the edges.

@@ -1,6 +1,6 @@
 # Quiche Lorraine
 
-### Ingredients
+## Ingredients
 
 - 1 [pie-crust](pie-crust.md)
 - 4 slices thick-cut bacon, cut into 1-inch pieces
@@ -14,7 +14,7 @@
 - 1 teaspoon thyme
 - black pepper
 
-### Instructions
+## Instructions
 
 1. Preheat oven to 325&deg;F.
 2. Cook bacon until browned but not crispy. Reserve.

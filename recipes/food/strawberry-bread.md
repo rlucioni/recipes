@@ -1,6 +1,6 @@
 # Strawberry Bread
 
-### Ingredients
+## Ingredients
 
 - 230 grams all-purpose flour
 - 1/2 teaspoon salt
@@ -13,7 +13,7 @@
 - 2 eggs, beaten
 - Vanilla or almond extract?
 
-### Instructions
+## Instructions
 
 1. Preheat oven to 350&deg;F. Grease a bread tin with butter.
 2. Whisk together the flour, salt, sugar, baking powder, and cinnamon.

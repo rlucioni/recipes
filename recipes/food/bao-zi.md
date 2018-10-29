@@ -2,7 +2,7 @@
 
 Makes 12.
 
-### Ingredients
+## Ingredients
 
 Dough:
 - 3/4 cup water, warm
@@ -16,7 +16,7 @@ Filling:
 - various fillings (daikon radish, chives, napa cabbage)
 - soy sauce, garlic powder, sesame oil, rice wine, ginger, and salt to taste
 
-### Instructions
+## Instructions
 
 1. Combine water, sugar, and yeast in a small bowl. Let stand 10 minutes and add oil.
 2. Stir yeast mixture into flour in a large bowl and knead for 5-10 minutes, adding more flour as necessary until a supple dough forms. Let rise 90 minutes, punching down halfway through.

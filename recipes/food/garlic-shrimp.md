@@ -2,7 +2,7 @@
 
 Adapted from [Serious Eats' gambas al ajillo](http://www.seriouseats.com/recipes/2014/03/spanish-style-garlic-shrimp-gambas-al-ajillo-recipe.html).
 
-### Ingredients
+## Ingredients
 
 - 4-5 cloves garlic, sliced
 - scant 1/2 cup extra-virgin olive oil
@@ -11,7 +11,7 @@ Adapted from [Serious Eats' gambas al ajillo](http://www.seriouseats.com/recipes
 - Pinch of paprika
 - Pinch red pepper flakes
 
-### Instructions
+## Instructions
 
 1. Add olive oil and garlic to a pan and heat on medium low. Toast garlic until slightly golden and very fragrant. Oil should be gently bubbling the whole time.
 2. Raise heat to medium high and add shrimp, salt, red pepper flakes, and paprika. 

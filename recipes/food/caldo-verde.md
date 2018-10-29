@@ -1,6 +1,6 @@
 # Caldo Verde
 
-### Ingredients
+## Ingredients
 
 - 12 ounces Linguiça or Andouille sausage, sliced
 - 1 onion, finely diced
@@ -9,7 +9,7 @@
 - 3 pounds russet potatoes, peeled and sliced
 - 2 pounds Lacinato kale, washed, de-ribbed, and chopped
 
-### Instructions
+## Instructions
 
 1. Brown sausage in pot and reserve.
 2. Saute onion in sausage fat with some salt. When softened, add garlic, then liquid.

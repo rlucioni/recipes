@@ -2,7 +2,7 @@
 
 Serves 2.
 
-### Ingredients
+## Ingredients
 
 - 1 pound fresh ravioli (e.g., porcini, butternut squash)
 - asparagus, chopped
@@ -11,7 +11,7 @@ Serves 2.
 - 1/4 cup olive oil
 - grated Parmesan cheese
 
-### Instructions
+## Instructions
 
 1. Shake excess cornmeal off of the ravioli. Cut them apart with a sharp knife.
 2. Bring lots of salted water to a boil, drop ravioli into boiling water, and stir gently so they don't stick. When the water returns to a boil, cook 6 minutes.

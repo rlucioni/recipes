@@ -2,7 +2,7 @@
 
 Serves 2.
 
-### Ingredients
+## Ingredients
 
 - 4 cups water
 - 4 inch by 5 inch piece of kombu, with slits cut
@@ -16,7 +16,7 @@ Serves 2.
 - 4 soft-boiled eggs
 - 2 green onions
 
-### Instructions
+## Instructions
 
 1. Start by preparing the dashi stock. Put kombu and water in a pot over medium-low heat. Remove kombu just before the water begins to boil.
 2. Add bonito flakes and simmer for 30 seconds. Let cool slightly, then strain back into pot through a mesh strainer lined with a paper towel.

@@ -2,7 +2,7 @@
 
 Adapted from [Chef John's Sole Dore](http://foodwishes.blogspot.com/2008/03/tgigf-thank-god-its-good-friday.html). Serves 2.
 
-### Ingredients
+## Ingredients
 
 - 3 defrosted sole fillets
 - 1 egg, beaten
@@ -13,7 +13,7 @@ Adapted from [Chef John's Sole Dore](http://foodwishes.blogspot.com/2008/03/tgig
 - 1/2 lemon, juiced
 - salt, pepper, cayenne pepper to taste
 
-### Instructions
+## Instructions
 
 1. Salt and pepper both sides of the sole fillets.
 2. Dust fillets with flour.

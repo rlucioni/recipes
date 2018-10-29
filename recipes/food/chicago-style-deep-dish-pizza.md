@@ -2,7 +2,7 @@
 
 Serves 4.
 
-### Ingredients
+## Ingredients
 
 - 4 white button mushrooms, sliced
 - 1/2 yellow onion, sliced
@@ -14,7 +14,7 @@ Serves 4.
 - Grated parmesan
 - 1 batch of pizza sauce
 
-### Instructions
+## Instructions
 
 1. Preheat oven to 475&deg;F.
 2. Place dough in oiled cast-iron pan (don't oil sides of pan), and pull up sides 1.5 inches.

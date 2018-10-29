@@ -2,7 +2,7 @@
 
 Adapted from [Chef John's rice pudding](http://foodwishes.blogspot.com/2012/03/coconut-milk-rice-pudding-with-fresh.html). Serves 4. Fills 2 dessert cups.
 
-### Ingredients
+## Ingredients
 
 - 1 tablespoon butter
 - 1/3 cup Arborio rice
@@ -17,7 +17,7 @@ Garnish
 - 1/4 cup finely diced mango
 - pinch of Chinese five-spice
 
-### Instructions
+## Instructions
 
 1. Heat milk and coconut milk in a small pot until steaming. Turn off heat and reserve.
 2. Melt butter in a larger pot. Add rice and sizzle for 10 seconds.

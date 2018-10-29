@@ -2,14 +2,14 @@
 
 Serves 2
 
-### Ingredients
+## Ingredients
 
 - 1 pound sirloin tip or flap steak
 - 1 cup quinoa
 - 2-3 eggs
 - 1-2 bananas
 
-### Instructions
+## Instructions
 
 1. Cook quinoa. Add quinoa and 2 cups of water to a rice cooker. Salt to taste and fluff with a fork.
 2. While the quinoa cooks, salt steak and sear in a cast iron skillet over medium heat until medium-rare. Reserve.

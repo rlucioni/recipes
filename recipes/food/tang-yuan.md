@@ -1,13 +1,13 @@
 # Tang Yuan
 
-### Ingredients
+## Ingredients
 
 - glutinous rice flour (Erawan brand, if possible)
 - black sesame seeds
 - powdered sugar
 - sesame oil
 
-### Instructions
+## Instructions
 
 1. Make the filling. Toast the sesame seeds in the microwave until fragrant. Blend in a spice grinder. Mix with powdered sugar and sesame oil.
 2. Make the dough. Mix rice flour with hot (but not boiling!) water, until it's the consistency of Play-Doh.
