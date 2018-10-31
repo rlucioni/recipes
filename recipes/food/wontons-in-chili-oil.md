@@ -6,7 +6,7 @@ Adapted from [Serious Eats' Suanla Chaoshou](https://www.seriouseats.com/recipes
 
 For wontons:
 - 1 pound ground pork (80% lean)
-- 1 small bunch Chinese chives, chopped finely
+- 180 grams (large bunch) Chinese chives, chopped finely
 - 2 cloves garlic, grated
 - 1 teaspoon kosher salt
 - 1 teaspoon ground pepper
