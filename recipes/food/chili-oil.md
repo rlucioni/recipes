@@ -1,4 +1,4 @@
-# Chili oil
+# Chili Oil
 
 ## Ingredients
 
