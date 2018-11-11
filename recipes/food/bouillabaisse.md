@@ -6,7 +6,7 @@ Adapted from [Ethan Stowell's bouillabaisse](https://www.foodandwine.com/recipes
 
 Fish stock
 - 1 whole red snapper (between 2 and 2 1/2 pounds)
-- 20 ounces bone-in halibut steak
+- 20 ounces bone-in halibut steak (or other firm fish, like hake)
 - 3 cloves garlic, crushed
 - 1/4 cup dry white wine
 - 7 cups water
@@ -36,7 +36,7 @@ Bouillabaisse
 3. Simmer for 20 minutes, skimming any foam that rises to the top. Strain and reserve.
 4. Heat 3 tablespoons olive oil in a pot on medium-high heat. Add onion, leek, and fennel and cook until translucent. Add garlic and cook an additional minute.
 5. Add tomatoes and cook 5 minutes. Add wine, bay leaves, saffron, orange peel, reserved fish stock, olive oil, and cayenne pepper. Bring to a healthy simmer for 20 minutes.
-6. Fish out and discard bay leaves and orange peels. Blend smooth with an immersian blender and pass through a fine-meshed strainer.
+6. Fish out and discard bay leaves and orange peels. Blend smooth with an immersion blender and pass through a fine-meshed strainer.
 7. Bring broth back to a boil and add potatoes. Simmer for 10-15 minutes or until potatoes are tender. Remove potatoes with a spider to serving bowls.
 8. Add mussels and cook until they all open (discarding any that don't open for a while). Remove to serving bowls.
 9. Add shrimp and fish pieces and poach until barely cooked through. Remove to serving bowls.
