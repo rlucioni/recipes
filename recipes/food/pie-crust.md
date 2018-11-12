@@ -7,9 +7,9 @@ Adapted from [America's Test Kitchen's vodka pie crust](http://cooking.nytimes.c
 - 200 grams all-purpose flour
 - 1/2 teaspoon salt
 - 1 tablespoon white sugar
-- 6 tablespoons butter (chilled)
-- 1/4 cup vegetable shortening (chilled)
-- 2 tablespoons vodka (or other 80 proof liquor)
+- 6 tablespoons unsalted butter, cut into small pieces and chilled
+- 1/4 cup vegetable shortening, chilled
+- 2 tablespoons vodka, or other 80-proof liquor
 - 2 tablespoons cold water
 
 ## Instructions
