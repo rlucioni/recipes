@@ -7,7 +7,7 @@ Kathy's 🌎 World Famous 🌎 Hazelnut Cookies
 - 1 cup hazelnuts, blanched, toasted and cooled to room temperature
 - 1/2 cup sugar
 - 1/2 teaspoon kosher salt
-- 1 cup all-purpose flour
+- 180 grams all-purpose flour
 - 7 tablespoons unsalted butter, cut into small pieces and chilled
 
 ## Instructions
