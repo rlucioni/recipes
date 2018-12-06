@@ -5,7 +5,7 @@ Adapted from [Chemex 101](https://www.chemexcoffeemaker.com/brewing-product-care
 ## Ingredients
 
 - 50 grams coffee, ground to a coarseness resembling sea salt (20 on an Encore burr grinder)
-- 700 grams water, heated to 200&deg;F (94&deg;C)
+- 700 grams water plus more for warming carafe and mugs (~1.5 L), heated to 200&deg;F (94&deg;C)
 - warmed cups
 
 ## Instructions
