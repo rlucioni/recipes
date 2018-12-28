@@ -8,7 +8,7 @@ Yields 1 quart.
 - 1/2 cup sugar (or 1/2 * 3/4 = 3/8 cup = 6 tablespoons corn syrup)
 - 2 cups milk
 - 1 cup heavy cream
-- 3⁄4 teaspoon kosher salt
+- 3/4 teaspoon kosher salt
 - 6 tablespoons pistachio paste (e.g., Agrimontana, Fiddyment Farms)
 
 ## Instructions
