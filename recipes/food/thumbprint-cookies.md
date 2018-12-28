@@ -2,9 +2,9 @@
 
 Adapted from a Land O Lakes Holiday Recipe collection.
 
-For cookie dough:
 ## Ingredients
 
+For cookie dough:
 - 2/3 cup sugar
 - 1 cup butter, softened
 - 1/2 teaspoon almond extract
