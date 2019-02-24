@@ -10,7 +10,7 @@ Yields 6 naan.
 - 4 tablespoons butter
 - 2 cloves garlic, grated
 - 1/4 cup plain yogurt
-- 2 cups bread flour
+- 325 grams bread flour
 - 1 teaspoon kosher salt
 - cilantro, chopped
 
