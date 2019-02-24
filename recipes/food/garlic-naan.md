@@ -23,5 +23,5 @@ Yields 6 naan.
 5. Return to bowl, coat with more garlic butter, then cover and let rise until doubled in size, about 2 hours.
 6. Punch down dough, press into rectangular shape, and cut into 6 equal pieces. Use cupped hand to roll into balls. Lightly dust with flour, cover, and proof for 20 minutes.
 7. Roll out into ovals on a floured surface.
-8. Cook in an extremely hot, dry cast iron skillet, 2-3 minutes per side. Gently press after flipping to help char marks form.
+8. Cook in a dry cast iron skillet over medium heat, 2-3 minutes per side. Gently press after flipping to help char marks form.
 9. Remove from pan and brush with garlic butter. Garnish with cilantro and some coarse salt.
