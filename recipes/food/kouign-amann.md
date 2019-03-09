@@ -19,7 +19,7 @@
 ### The rest
 
 - 2 sticks unsalted butter, frozen
-- 1 tablespoon butter, melted (for the muffin pan)
+- 1 tablespoon butter, melted
 
 ## Instructions
 
