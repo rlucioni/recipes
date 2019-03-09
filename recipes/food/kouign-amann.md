@@ -8,7 +8,7 @@
 - 1 tablespoon sugar
 - 1 teaspoon dry active yeast
 - 1 tablespoon butter, melted
-- 2 1/2 cups bread flour, plus extra for kneading
+- 400 grams bread flour
 - 1 teaspoon kosher salt
 
 ### Seasoned sugar
@@ -23,8 +23,8 @@
 
 ## Instructions
 
-1. Mix water, sugar, and yeast in a bowl. Once you have proof of life, add butter, flour, and salt. Stir until it comes together into a wet, sticky dough.
-2. Transfer dough onto floured work surface. Knead until the dough becomes soft and elastic. Let sit in buttered bowl until doubled in size, about 90 minutes.
+1. Mix water, sugar, and yeast in a bowl. Once you have proof of life, add butter, most of the flour, and salt. Stir until it comes together into a wet, sticky dough.
+2. Transfer dough onto floured work surface. Knead until the dough becomes soft and elastic, adding the remaining flour as you go. You might not need all of it. Let sit in buttered bowl until doubled in size, about 90 minutes.
 3. Make seasoned sugar by mixing sugar and salt.
 4. Prep muffin pan by brushing generously with melted butter, then spooning in sugar and tossing until insides are coated. Dump out and save any excess.
 5. Knock air out of dough and press into rectangular shape. Roll into rectangle 1/8-1/4" thick, using enough flour to avoid sticking. Stretch and pull if necessary. Grate a whole stick of butter over the dough. Flour hands and gently press butter into dough. Fold into thirds like a letter, square up, transfer to sheet pan, cover in plastic, and refrigerate 30 minutes.
