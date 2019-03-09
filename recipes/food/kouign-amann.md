@@ -14,7 +14,7 @@
 ### Seasoned sugar
 
 - 2/3 cup white sugar
-- 2 teaspoons of sea salt or kosher salt (less if you’re using a fine table salt)
+- 2 teaspoons kosher salt
 
 ### The rest
 
