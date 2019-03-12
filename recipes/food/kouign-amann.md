@@ -15,7 +15,7 @@ Adapted from [Chef John's kouign-amann](https://foodwishes.blogspot.com/2019/03/
 
 ### Seasoned sugar
 
-- 2/3 cup white sugar
+- 2/3 cup sugar
 - 2 teaspoons kosher salt
 
 ### The rest

@@ -5,7 +5,7 @@ Adapted from [Chef John's canelé](https://foodwishes.blogspot.com/2017/10/canel
 ## Ingredients
 
 - 160 grams bread flour
-- 1 cup white granulated sugar
+- 1 cup sugar
 - 4 egg yolks
 - 1/4 teaspoon kosher salt
 - 1 teaspoon vanilla extract
