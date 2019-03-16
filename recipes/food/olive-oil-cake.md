@@ -15,7 +15,7 @@
 
 1. Preheat oven to 350&deg;F.
 2. Mix flour, baking powder, and salt in a bowl.
-3. Whip eggs until foamy, about 1 minute on medium speed. Add sugar and lemon zest. Whip until pale and ribbony, about 3 minutes on high speed.
+3. Whip eggs on medium speed until foamy. Add sugar and lemon zest. Whip on high speed until pale and ribbony.
 4. Reduce speed to medium and drizzle in olive oil. Mix until oil is fully incorporated.
 5. Add half of flour mixture and mix on low speed until incorporated. Add milk and mix until combined. Add remaining flour mixture and mix until just incorporated.
 6. Butter a cake pan. Transfer batter to prepared pan. Sprinkle sugar generously over the surface. Bake until golden brown and toothpick comes out clean, about 45 minutes.
