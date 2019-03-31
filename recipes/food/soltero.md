@@ -8,9 +8,10 @@ Serves 6.
 - 1 1/2 cups finely diced red onion
 - 1/2 cup red wine vinegar
 - 3 cups diced cherry tomatoes
-- 3 ears corn, cut off the cob
+- 3 ears corn (2 generous cups), cut off the cob
 - 8 ounces queso fresco, diced
-- 30 ounces cooked and peeled fava beans (can substitute cannellini beans)
+- 30 ounces cooked and peeled fava or cannellini beans
+- 3 green onions, sliced
 - salt and pepper to taste
 - 1/2 cup olive oil
 - 6 Yukon Gold potatoes, cut in half lengthwise
