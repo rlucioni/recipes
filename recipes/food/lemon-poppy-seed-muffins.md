@@ -1,4 +1,4 @@
-# Lemon Poppyseed Muffins
+# Lemon Poppy Seed Muffins
 
 Yields 12 muffins.
 
