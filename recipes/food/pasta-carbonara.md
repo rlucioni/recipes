@@ -1,4 +1,4 @@
-# Spaghetti Carbonara
+# Pasta Carbonara
 
 Adapted from America's Test Kitchen's Foolproof Spaghetti Carbonara. Serves 2.
 
