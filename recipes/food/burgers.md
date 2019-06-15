@@ -1,27 +1,20 @@
 # Burgers
 
-Adapted from [Food.com's perfect burger](http://www.food.com/recipe/the-perfect-burger-92021). Makes 5 burgers.
+Yields 4 burgers
 
 ## Ingredients
 
-- 19.43 ounces 70% lean ground meat (16 ounces 85% ground beef chuck + 3.43 ounces pork fat works well)
-- 1/2 large onion, grated
-- 2 cloves garlic, minced
-- 1/2 teaspoon salt
-- 1/2 teaspoon pepper
-- 2 large dashes Worcestershire sauce
-- 1 egg yolk
-- 5 burger buns
-- burger toppings (cheese, caramelized onions, carmelized pineapple, etc)
+- 1 1/2 pounds beef chuck (fatty, flavorful, tough cut), trimmed and cut into 1/2-inch cubes
+- 4 tablespoons unsalted butter, cut into 1/4-inch pieces
+- 4 buns (potato works well), toasted
+- toppings (cheese, caramelized onions, tomato, carmelized pineapple, etc.)
 
 ## Instructions
 
-1. Combine meat, onion, garlic, salt, pepper, Worcestershire sauce, and egg yolk in large bowl. Be careful not to overmix. Store meat mixture in refrigerator until ready to cook.
-2. Prepare all burger toppings.
-3. Remove meat from refrigerator and form meat into 5 ounce patties that are the same diameter as the burger buns.
-4. Heat cast iron skillet on medium-high heat until oil begins to shimmer. Reduce heat to medium and add burgers. 
-5. Cook burgers for 3-4 minutes per side. After the last flip, add cheese and cover for 1 minute to melt cheese.
-6. While burgers are cooking, toast the buns under a broiler. This will happen very quickly!
-7. Allow burgers to rest on a plate for 2 minutes before transferring to the buns and adding toppings.
+1. Freeze meat and butter in a single layer until meat is firm, about 35 minutes.
+2. Grind in food processor with salt and pepper until finely ground into pieces about the size of rice grains.
+3. Gently pack into 4 patties about 3/4 inch thick. Make a depression in the center of each patty to keep them flat when they cook. Optionally, freeze patties for an additional 30 minutes.
+4. Sear in a hot cast iron pan, 4-7 minutes per side without moving, until 125&deg;F in the center for medium-rare.
+5. Let patties rest on buns for 5 minutes with some cheese on top, so it melts.
 
-Serve with potato chips and a pickle wedge.
+Serve with fries or potato chips and a pickle.
