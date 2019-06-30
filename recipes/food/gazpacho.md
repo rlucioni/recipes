@@ -2,15 +2,15 @@
 
 ## Ingredients
 
-- 1 can San Marzano tomatoes
-- 1/2 English cucumber, roughly chopped
-- 1/2 red bell pepper, roughly chopped
-- 1/2 green bell pepper, roughly chopped
-- 1/2 onion, roughly chopped
-- 1 clove garlic
-- 1 lime
-- 1 teaspoon salt, plus more to taste
-- 1/2 cup olive oil 
+- 3 1/2 pounds cherry tomatoes
+- 1 English cucumber, roughly chopped
+- 1 red bell pepper, roughly chopped
+- 1 green bell pepper, roughly chopped
+- 1 onion, roughly chopped
+- 2 cloves garlic
+- 2 limes
+- 2 teaspoons salt, plus more to taste
+- 1 cup olive oil
 
 ## Instructions
 
