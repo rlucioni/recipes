@@ -1,30 +1,35 @@
 # Blueberry Muffins
 
-Adapted from [Allrecipes](https://www.allrecipes.com/recipe/223041/chef-johns-blueberry-muffins/). Makes 12 large muffins.
+Makes 12 muffins
 
 ## Ingredients
 
-- 1/2 cup butter, softened
-- 1 cup white sugar
+### Batter
+
+- 1 cup whole milk
+- 2 tablespoons lemon juice
+- 350 grams all-purpose flour
+- 2 1/2 teaspoons baking powder
+- 1 teaspoon salt
+- 1 cup sugar
 - 2 eggs
-- 2 tablespoons vegetable oil
-- 1 cup sour cream
-- 1/2 cup milk
-- 1 tablespoon grated lemon zest
-- 1 1/2 teaspoons lemon juice
-- 450 grams all-purpose flour
-- 1 tablespoon baking powder
-- 1/2 teaspoon baking soda
-- 3/4 teaspoon salt
-- 2 generous cups blueberries, fresh or frozen
+- 4 tablespoons butter, melted
+- 1/4 cup vegetable oil
+- 1 1/2 teaspoons vanilla extract
+- 2 cups blueberries
+
+### Lemon sugar
+
+- 1/4 cup sugar
+- zest of 1 lemon
 
 ## Instructions
 
-1. Preheat oven to 375&deg;F.
-2. Cream butter and sugar in a large bowl. Whisk in eggs. Whisk in vegetable oil. Whisk in sour cream, milk, lemon zest, and lemon juice.
-3. In a separate bowl, whisk together flour, baking powder, baking soda, and salt.
-4. Add the dry ingredients to the wet ingredients. Fold until mostly combined, add blueberries, and continue folding until just barely combined.
-5. Scoop into a paper-lined muffin tin.
-6. Bake until a toothpick comes out clean, about 30-35 minutes.
+1. Preheat oven to 425&deg;F.
+2. Mix milk and lemon juice in a bowl. Reserve.
+3. Whisk together flour, baking powder, and salt. Reserve.
+4. In a large mixing bowl, whisk together sugar and eggs. Slowly whisk in butter and vegetable oil, then milk mixture and vanilla. Fold in flour mixture and blueberries.
+5. Scoop batter into muffin cups. Sprinkle lemon sugar (sugar mixed with zest) over muffins.
+6. Bake until muffins are golden brown and a toothpick comes out clean, about 18 minutes, rotating halfway through.
 
-Let cool in muffin tin until just warm before transferring to cooling rack. If desired, use remaining lemon juice to make a lemon icing.
+Cool muffins in tin for 5 minutes before transferring to cooling rack.
