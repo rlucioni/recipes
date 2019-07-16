@@ -7,7 +7,7 @@
 - 1 tablespoon baking powder
 - 1/2 teaspoon salt
 - 6 tablespoons unsalted butter, cut into small pieces and chilled
-- 2/3 cup milk
+- 2/3 cup whole milk
 - Optional additions: zest of 1 orange or lemon, 1 cup craisins or dried blueberries
 
 ## Instructions
