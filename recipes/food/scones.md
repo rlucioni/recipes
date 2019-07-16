@@ -7,9 +7,8 @@
 - 1 tablespoon baking powder
 - 1/2 teaspoon salt
 - 6 tablespoons unsalted butter, cut into small pieces and chilled
-- 1/3 cup heavy cream
-- 1/2 cup milk
-- Optional additions: zest of 1 orange, 1 cup craisins, 1 cup blueberries
+- 2/3 cup milk
+- Optional additions: zest of 1 orange or lemon, 1 cup craisins or dried blueberries
 
 ## Instructions
 
