@@ -5,7 +5,7 @@ Adapted from [Serious Eats' horchata](https://www.seriouseats.com/recipes/2011/0
 ## Ingredients
 
 - 1 cup rice
-- 1 cup [blanched almonds](../food/blanched-almonds.md)
+- 1 cup [blanched almonds](blanched-almonds.md)
 - 4 cups water
 - 1/3 cup sugar
 - 1 teaspoon ground cinnamon
