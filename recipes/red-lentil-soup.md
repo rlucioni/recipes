@@ -2,7 +2,8 @@
 
 ## Ingredients
 
-- 4 tablespoons unsalted butter
+### Soup
+
 - 1 onion, chopped
 - 3/4 teaspoon ground coriander
 - 1/2 teaspoon ground cumin
@@ -15,15 +16,19 @@
 - 4 cups chicken stock
 - 2 cups water
 - 1 1/2 cups red lentils, rinsed
-- 2 tablespoons lemon juice
-- 1 1/2 teaspoons dried mint, crumbled
+- 2 tablespoons lemon juice (optional)
+
+### Spiced butter
+
+- 2 tablespoons unsalted butter
 - 1 teaspoon paprika
+- 1 1/2 teaspoons dried mint, crumbled
 
 ## Instructions
 
-1. Melt 2 tablespoons butter in large saucepan over medium heat. Saute onion with some salt until softened but not browned.
-2. Add coriander, cumin, ginger, cinnamon, cayenne, and pepper. Cook until fragrant. Stir in tomato paste and garlic. Add chicken stock, water, and lentils. Bring to simmer. Simmer, stirring occasionally, until lentils are soft and half broken down, about 15 minutes.
+1. Saute onion with some salt and olive oil over medium heat until softened but not browned.
+2. Add coriander, cumin, ginger, cinnamon, cayenne, and pepper. If you're skipping the spiced butter, add paprika, too. Cook until fragrant. Stir in tomato paste and garlic. Add chicken stock, water, and lentils. Simmer, stirring occasionally, until lentils are soft and half broken down, about 15 minutes.
 3. Whisk soup vigorously until coarsely pureed, about 30 seconds. Stir in lemon juice and season to taste. Cover and keep warm.
-4. Melt remaining 2 tablespoons butter in small skillet. Remove from heat and stir in mint and paprika.
+4. To make the spiced butter, melt butter in small skillet. Remove from heat and stir in mint and paprika.
 
-Ladle soup into bowls, drizzle each with spiced butter, and serve.
+Ladle soup into bowls, drizzle each with spiced butter, and serve. Goes well with plain yogurt!
