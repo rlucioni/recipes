@@ -28,8 +28,8 @@ Makes 12 muffins
 1. Preheat oven to 425&deg;F.
 2. Mix milk and lemon juice in a bowl. Reserve.
 3. Whisk together flour, baking powder, and salt. Reserve.
-4. In a large mixing bowl, whisk together sugar and eggs. Slowly whisk in butter and vegetable oil, then milk mixture and vanilla. Fold in flour mixture and blueberries.
+4. In a large mixing bowl, whisk together sugar and eggs. Whisk in butter and vegetable oil, then milk mixture and vanilla. Fold in flour mixture and blueberries.
 5. Scoop batter into muffin cups. Sprinkle lemon sugar (sugar mixed with zest) over muffins.
-6. Bake until muffins are golden brown and a toothpick comes out clean, about 18 minutes, rotating halfway through.
+6. Bake until muffins are golden brown and a toothpick comes out clean, about 25 minutes, rotating halfway through.
 
 Cool muffins in tin for 5 minutes before transferring to cooling rack.
