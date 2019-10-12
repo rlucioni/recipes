@@ -9,6 +9,6 @@
 ## Instructions
 
 1. Preheat oven to 450&deg;F.
-2. Halve squash, clean out seeds, and slice.
+2. Halve squash, clean out seeds, and slice into 1/4 inch slices.
 3. Coat slices with olive oil and salt. Lay them out in a single layer on a baking sheet.
-4. Bake until soft and/or golden brown, about 15-20 minutes. Flip the slices over halfway through.
+4. Bake until soft and/or golden brown, about 15-20 minutes.
