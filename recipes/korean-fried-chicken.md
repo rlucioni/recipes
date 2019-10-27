@@ -8,7 +8,7 @@ For marinade:
 - 1 1/2 pounds boneless skinless chicken thighs, cut into large chunks
 - 1 small yellow onion, grated
 - 6 cloves of garlic, grated
-- 1 teaspoon salt
+- 1 teaspoon kosher salt
 - 1/2 teaspoon freshly ground black pepper
 
 For batter:
