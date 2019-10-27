@@ -2,7 +2,6 @@
 
 Adapted from [Chef John's apple crisp](http://foodwishes.blogspot.com/2012/02/crispiest-apple-crisp-ever-ever.html)
 
-
 ## Ingredients
 
 For the topping:
