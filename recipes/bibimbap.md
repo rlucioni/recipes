@@ -5,12 +5,12 @@ Serves 4.
 ## Ingredients
 
 Sauce
+- 1 tablespoon sugar
 - 2 tablespoons gochujang
 - 1 tablespoon sesame oil
-- 1 tablespoon sugar
 - 1 tablespoon water
-- 1 tablespoon roasted sesame seeds
 - 1 teaspoon apple cider vinegar
+- 1 tablespoon roasted sesame seeds
 - 1 teaspoon minced garlic
 
 Other

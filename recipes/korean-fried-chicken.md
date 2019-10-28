@@ -27,8 +27,8 @@ For batter:
 4. Preheat oil to 310&deg;F.
 5. Add enough ice water to dry ingredients to create a thick batter.
 6. Add chicken to the batter and coat evenly. Transfer chicken pieces to hot oil.
-7. Cook for 4 minutes and transfer to a rack to drain.
+7. Cook for 3 minutes and transfer to a rack to drain.
 8. Raise oil to 350&deg;F.
-9. Fry chicken for an addition 4 minutes until golden brown and crispy.
+9. Fry chicken for an addition 2 minutes until golden brown and crispy.
 
 Serve with ketchup, Sriracha, or Sriracha mayo. Reheat for 10-12 minutes in a 325&deg;F. oven on convection.
