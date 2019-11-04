@@ -11,11 +11,11 @@ Serves 2.
 - 150 grams water
 - vegetable oil
 
-### The rest
+### Toppings
 
 - 2 cloves garlic, grated
 - 2 scallions, chopped
-- 3 tablespoons soy sauce
+- 1 1/2 tablespoons soy sauce
 - 2 tablespoons Chinkiang black vinegar
 - 2 tablespoons [chili oil](chili-oil.md)
 - vegetables for topping (e.g., yu choy, bok choy)
