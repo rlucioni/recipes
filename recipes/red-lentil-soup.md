@@ -13,7 +13,7 @@
 - 1/4 teaspoon black pepper
 - 1 tablespoon tomato paste
 - 1 garlic clove, minced
-- 4 cups water
+- 4 cups chicken stock
 - 2 cups water
 - 1 1/2 cups red lentils, rinsed
 - 2 tablespoons lemon juice (optional)
