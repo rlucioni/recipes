@@ -2,14 +2,14 @@
 
 ## Ingredients
 
-- 1/4 large baguette, cut on the bias into thin slices
-- 4 tablespoons butter
-- 1 tablespoon olive oil
-- 2 clove garlic, grated
+- 1 clove garlic, grated
+- 2 teaspoons olive oil
+- oregano
+- salt
+- 2 slices bread
 
 ## Instructions
 
-1. Preheat broiler on high.
-2. Melt butter in a microwave in 10 second increments. Add olive oil and garlic, mix well.
-3. Arrange bread slices on a tray. Broil until golden-brown and crisp.
-4. Turn slices over and paint other sides with garlic mixture. Broil until golden-brown but not burned.
+1. Mix garlic, olive oil, oregano, and salt in a bowl.
+2. Spoon onto bread and spread evenly.
+3. Broil until golden brown but not burned.
