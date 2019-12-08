@@ -9,7 +9,7 @@ Adapted from Kenji Lopez's Tuscan white bean soup.
 - 2 stalks celery, chopped
 - 4 cloves garlic, grated
 - 4 cups chicken broth
-- 30 ounces canned white beans (cannelini or similar)
+- 30 ounces canned white beans (e.g., Great Northern, cannellini)
 - 1 small piece parmesan rind
 - 1 sprig rosemary, leaves removed and chopped
 - 2 bay leaves
