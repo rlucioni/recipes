@@ -2,16 +2,13 @@
 
 ## Ingredients
 
-- 1 pound brussels sprouts, trimmed and halved
-- 4 tablespoons olive oil
-- Salt and pepper
-- 1 tablespoon balsamic vinegar
+- brussels sprouts, trimmed and halved
+- olive oil
+- kosher salt
 
 ## Instructions
 
-1. Heat oven to 400&deg;F. Heat oil in a cast iron pan over medium-high heat.
-2. Place sprouts in the pan in one layer, cut side down. Add salt and cook undisturbed until the bottoms begin to brown.
-3. Transfer to the oven. Roast, shaking pan every 5 minutes, until very brown and tender, about 10 to 15 minutes. Keep an eye on them; they soften quickly!
-4. Taste for salt and pepper. Stir in balsamic vinegar.
+1. Place sprouts cut side down in a pan. Don't crowd it! Drizzle with a generous amount of olive oil and add a sprinkle of salt. Cook undisturbed over medium heat until the bottoms begin to brown. Toss and continue cooking for a few minutes until tender.
+4. Taste for salt. Add pepper if desired.
 
-Instead of balsamic, you can also toss the brussels sprouts with an [apple gastrique](apple-gastrique.md).
+You can also toss the brussels sprouts with an [apple gastrique](apple-gastrique.md).
