@@ -4,7 +4,7 @@ Yields 6 waffles.
 
 ## Ingredients
 
-- 255 grams flour
+- 260 grams flour
 - 1 teaspoon baking powder
 - 1/4 teaspoon salt
 - 2 egg yolks
