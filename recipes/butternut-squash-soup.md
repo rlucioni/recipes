@@ -19,7 +19,7 @@ Adapted from [Chef John's roasted butternut squash soup](http://foodwishes.blogs
 
 ## Instructions
 
-1. Preheat oven to 400&deg;F.
+1. Preheat oven to 400°F.
 2. Put onion, carrots, and garlic on a foil-lined baking sheet. Add olive oil and salt, then toss to coat.
 3. Nestle squash halves into the other vegetables. Oil and salt the flesh side.
 4. Roast in oven for 1 hour or until a knife goes through the squash easily. Set aside to cool.

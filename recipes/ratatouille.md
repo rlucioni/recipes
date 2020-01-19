@@ -13,7 +13,7 @@
 
 ## Instructions
 
-1. Preheat oven to 450&deg;F.
+1. Preheat oven to 450°F.
 2. Roast peppers skin side up until skin loosens, about 15 minutes. Broil briefly to char. Transfer to a bowl and cover with foil to steam the peppers. Dice when cool.
 3. Saute onion and garlic in a large skillet over low heat until very soft but not browned.
 4. Add peppers, tomatoes, thyme, and bay leaf. Simmer on low heat.

@@ -23,7 +23,7 @@ Filling
 
 ## Instructions
 
-1. Preheat oven to 375&deg;F.
+1. Preheat oven to 375°F.
 2. Mix flour, salt, baking powder, and sugar in a food processor. Add butter and process until mixture resembles coarse sand.
 3. Transfer mixture to a mixing bowl. Add vanilla, egg yolk, and vinegar. Mix with a fork until mixture forms clumps when squeezed. Add more vinegar as necessary.
 4. Mix berries, sugar, corn starch, lemon zest, and lemon juice in a bowl. Reserve.

@@ -15,7 +15,7 @@ Inspired by the fig and gouda scones at Gemma in Dallas.
 
 ## Instructions
 
-1. Preheat oven to 425&deg;F.
+1. Preheat oven to 425°F.
 2. Whisk together flour, sugar, baking powder, and salt.
 3. Cut in butter until dough resembles coarse crumbs. Mix in gouda and fig.
 4. Add cream and fold until just combined.

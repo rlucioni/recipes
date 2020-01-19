@@ -18,7 +18,7 @@ Adapted from [Chef John's calzones](http://foodwishes.blogspot.com/2015/07/youve
 ## Instructions
 
 1. Prepare pizza dough. It has to rise overnight. If you want calzones today, start the dough yesterday.
-2. Preheat oven to 500&deg;F.
+2. Preheat oven to 500°F.
 3. Divide dough in half. Roll out to an 8-9 inch diameter circle.
 4. Layer sausage, vegetables, basil, and mozzarella on half the dough circle. Save the sauce for dipping unless you want soggy calzones.
 5. Top with black pepper and a drizzle of olive oil.

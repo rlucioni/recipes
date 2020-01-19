@@ -22,7 +22,7 @@
 
 ## Instructions
 
-1. Preheat oven to 350&deg;F. Butter and flour a 9x13" pan (or two 9" cake pans).
+1. Preheat oven to 350°F. Butter and flour a 9x13" pan (or two 9" cake pans).
 3. Separate the eggs into two bowls, one for yolks and one for whites.
 4. Add 3/4 cup sugar to the yolks and mix well. Stir in milk and vanilla.
 5. Add remaining 1/4 cup sugar to the whites and beat until stiff peaks form.

@@ -13,7 +13,7 @@
 
 ## Instructions
 
-1. Preheat oven to 350&deg;F.
+1. Preheat oven to 350°F.
 2. Mix flour, baking powder, and salt in a bowl.
 3. Whip eggs on medium speed until foamy. Add sugar and lemon zest. Whip on high speed until pale and ribbony.
 4. Reduce speed to medium and drizzle in olive oil. Mix until oil is fully incorporated.

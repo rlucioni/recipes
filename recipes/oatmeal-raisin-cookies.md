@@ -19,7 +19,7 @@
 1. Cream butter and sugars until smooth.
 2. Beat in egg and vanilla until fluffy.
 3. Sift together flour, baking soda, cinnamon, and salt. Mix into wet ingredients.
-4. Fold in oats and raisins. Refrigerate for at least 10 minutes. Preheat oven to 375&deg;F.
+4. Fold in oats and raisins. Refrigerate for at least 10 minutes. Preheat oven to 375°F.
 5. Drop onto cookie sheet lined with parchment paper with a teaspoon.
 6. Bake until golden brown, about 14 minutes, turning halfway through. Refrigerate dough between batches.
 

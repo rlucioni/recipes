@@ -8,6 +8,6 @@
 
 ## Instructions
 
-1. Preheat oven to 425&deg;F.
+1. Preheat oven to 425°F.
 2. Toss turnips with oil and salt on a baking sheet.
 3. Roast until browning and fork-tender, about 40 minutes.

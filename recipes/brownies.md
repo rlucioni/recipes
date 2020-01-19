@@ -14,7 +14,7 @@
 
 ## Instructions
 
-1. Preheat oven to 350&deg;F.
+1. Preheat oven to 350°F.
 2. Melt butter. Mix in sugar, vanilla extract and eggs.
 3. Sift together cocoa powder, flour, salt, and baking powder.
 4. Mix dry ingredients into wet ingredients.

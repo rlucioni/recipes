@@ -18,7 +18,7 @@ Adapted from America's Test Kitchen's chocolate chip cookies.
 
 ## Instructions
 
-1. Preheat oven to 375&deg;F. Line baking sheet with parchment paper.
+1. Preheat oven to 375°F. Line baking sheet with parchment paper.
 2. Whisk together flour and baking soda in measuring cup.
 3. Heat 10 tablespoons butter in pan over medium heat until golden brown and fragrant. Transfer to large bowl and melt in remaining butter.
 4. Whisk in sugar, salt, and vanilla. Whisk in egg and egg yolk until smooth.

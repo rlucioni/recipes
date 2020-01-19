@@ -23,7 +23,7 @@
 ## Instructions
 
 1. Boil sausage, barely covered, for 10 minutes. Chop and reserve.
-2. In a bowl, pour very hot water (about 180&deg;F) over the noodles. Allow noodles to soften until tender, about 15 minutes. Drain very well.
+2. In a bowl, pour very hot water (about 180°F) over the noodles. Allow noodles to soften until tender, about 15 minutes. Drain very well.
 3. Cut shrimp in half. Apply garlic powder, salt, and 1/4 teaspoon corn starch. Sear over high heat and reserve.
 4. Boil bean sprouts for 1 minute and reserve. Do the same for the Napa.
 5. Caramelize onions and reserve.

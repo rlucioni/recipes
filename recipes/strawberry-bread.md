@@ -15,7 +15,7 @@
 
 ## Instructions
 
-1. Preheat oven to 350&deg;F. Grease a bread tin with butter.
+1. Preheat oven to 350°F. Grease a bread tin with butter.
 2. Whisk together the flour, salt, sugar, baking powder, and cinnamon.
 3. Mix in the pecans, strawberries, oil, and eggs until just combined.
 4. Pour into the pan and bake until a toothpick inserted into the center comes out clean, 1 to 1 1/2 hours.

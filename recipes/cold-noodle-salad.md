@@ -20,7 +20,7 @@ Adapted from [Chef John's spicy noodle salad](http://foodwishes.blogspot.com/201
 
 ## Instructions
 
-1. In a bowl, pour very hot water (about 180&deg;F) over the noodles. Allow noodles to soften until tender, about 15 minutes. Drain very well.
+1. In a bowl, pour very hot water (about 180°F) over the noodles. Allow noodles to soften until tender, about 15 minutes. Drain very well.
 2. Combine noodles, carrots, green onion, and shrimp in a bowl.
 3. Prepare sauce by combining rice vinegar, sesame oil, soy sauce, Worcestershire sauce, honey, chili-garlic paste, granulated garlic, peanut butter, and salt in a bowl. Microwave 10-15 seconds and stir. Pour over noodles and stir.
 

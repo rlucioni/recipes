@@ -22,6 +22,6 @@ Adapted from Chef John's [pumpkin spice snickerdoodles](http://foodwishes.blogsp
 1. Cream butter with sugar. Then mix in vanilla and egg until well-combined.
 2. Whisk together dry ingredients and fold into wet ingredients.
 3. Chill in the refrigerator for at least 1 hour.
-4. Preheat the oven to 350&deg;F. In the meantime, mix 1 tablespoon of sugar and 1 teaspoon of cinnamon on a plate.
+4. Preheat the oven to 350°F. In the meantime, mix 1 tablespoon of sugar and 1 teaspoon of cinnamon on a plate.
 5. Form dough into balls, approximately 2 tablespoons in volume, and roll in the cinnamon sugar. Flatten lightly.
 6. Bake for about 15 minutes.

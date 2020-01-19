@@ -18,7 +18,7 @@ Makes 9 muffins.
 
 ## Instructions
 
-1. Preheat oven to 375&deg;F. Line a muffin tin with baking cups.
+1. Preheat oven to 375°F. Line a muffin tin with baking cups.
 2. Whisk together flour, baking soda, baking powder, and salt in a large bowl.
 3. Mash bananas in a separate bowl. Mix in sugar, egg, vegetable oil, vanilla, and dried apricots.
 4. Fold banana mixture into the flour mixture. Add in walnuts when halfway combined.

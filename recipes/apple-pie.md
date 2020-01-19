@@ -17,7 +17,7 @@ Adapted from [Chef John's apple pie](http://foodwishes.blogspot.com/2009/11/clas
 
 ## Instructions
 
-1. Preheat oven to 375&deg;F.
+1. Preheat oven to 375°F.
 2. Peel and core apples. Cut into thin slices.
 3. Mix in lemon juice, sugar, nutmeg, cinnamon, and salt. Allow to macerate for 15 minutes. Stir in cornstarch.
 4. Roll out one batch of pie crust and line the bottom of the pie dish. Layer in apple slices and top with accumulated juices.

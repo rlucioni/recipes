@@ -12,7 +12,7 @@ Kathy's 🌎 World Famous 🌎 Hazelnut Cookies
 
 ## Instructions
 
-1. Preheat the oven to 325&deg;F. Line baking sheet with parchment paper.
+1. Preheat the oven to 325°F. Line baking sheet with parchment paper.
 2. In a food processor, process hazelnuts, sugar and salt to a fine meal.
 3. Add flour and pulse to mix into the nut mixture. Add butter and process until mixture is sandy and starts to form small lumps.
 4. Use your fingers to make small pyramids with about 1 teaspoon of dough at a time.

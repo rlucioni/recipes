@@ -12,7 +12,7 @@ Adapted from [Allrecipes' Key Lime Pie VII](http://allrecipes.com/recipe/15880/k
 
 ## Instructions
 
-1. Preheat oven to 350&deg;F.
+1. Preheat oven to 350°F.
 2. Mix sweetened condensed milk, sour cream, lime juice, and lime zest. Pour into graham cracker crust.
 3. Bake until 🎶tiny bubbles🎶 appear on the surface of the pie, roughly 10 minutes. Don't brown it!
 

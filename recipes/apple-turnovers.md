@@ -17,7 +17,7 @@ Adapted from [Chef John's apple hand pies](http://foodwishes.blogspot.com/2013/0
 
 ## Instructions
 
-1. Preheat oven to 400&deg;F.
+1. Preheat oven to 400°F.
 2. Peel apples and cut into cubes.
 3. Brown butter in saute pan. Add apples, both sugars, salt, and cinnamon. Cook over medium heat to desired softness and set aside to cool. Add water while cooking if necessary.
 4. Divide pie dough into 4 equal pieces. Roll out each quarter into an 8 inch circle.

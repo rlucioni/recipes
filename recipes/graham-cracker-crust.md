@@ -10,7 +10,7 @@ Adapted from [Allrecipes' Graham Cracker Crust I](http://allrecipes.com/recipe/1
 
 ## Instructions
 
-1. Preheat oven to 375&deg;F.
+1. Preheat oven to 375°F.
 2. Mix graham cracker crumbs, sugar, and butter. A food processor works well. Press mixture into 9-inch pie plate.
 3. Bake for 7 minutes.
 

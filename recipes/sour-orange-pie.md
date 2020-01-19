@@ -20,7 +20,7 @@
 
 ## Instructions
 
-1. Preheat oven to 325&deg;F.
+1. Preheat oven to 325°F.
 2. Process crackers, sugar, and salt in food processor until finely ground. Add melted butter and pulse until combined. Transfer crumbs to 9-inch pie plate. Press crumbs firmly into bottom and up sides of pie plate.
 3. Bake crust until fragrant and beginning to brown, 12-14 minutes. Let cool completely.
 4. Whisk all filling ingredients in bowl until combined. Pour filling into cooled crust.

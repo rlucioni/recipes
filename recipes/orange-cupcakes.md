@@ -15,7 +15,7 @@ Makes 12 cupcakes.
 
 ## Instructions
 
-1. Preheat oven to 375&deg;F.
+1. Preheat oven to 375°F.
 2. Cream butter and sugar until fluffy.
 3. Mix in eggs one at a time. Add orange zest.
 4. Sift dry ingredients together. Add to wet ingredients, alternating with orange juice. Start and end with dry ingredients.

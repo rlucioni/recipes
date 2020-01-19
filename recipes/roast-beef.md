@@ -16,11 +16,11 @@ Adapted from [Chef John's roast tenderloin of beef](http://foodwishes.blogspot.c
 
 ## Instructions
 
-1. Preheat oven to 325&deg;F.
+1. Preheat oven to 325°F.
 2. Clean meat of any excess silver skin and tie with twine. Salt generously.
 3. Set a skillet with some vegetable oil over high heat. Sear the meat on all sides, about 2 minutes per side. Reserve.
 4. Turn the heat to medium and throw in a tablespoon of butter and the mushrooms. Cook until browned, then add the shallots. Cook until soft, then add the vinegar, chicken stock, and cream. Stir.
-5. Put the meat back in the pan, turn in the sauce to coat, then move to the oven. Cook until internal temperature reaches 125&deg;F, about an hour.
+5. Put the meat back in the pan, turn in the sauce to coat, then move to the oven. Cook until internal temperature reaches 125°F, about an hour.
 6. Reserve meat to a plate, tent loosely with foil, and let rest.
 7. Boil sauce until desired thickness is reached. Adjust seasoning as necessary, then add remaining tablespoon of (cold) butter and tarragon.
 

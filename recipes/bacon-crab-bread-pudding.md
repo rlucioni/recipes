@@ -20,13 +20,13 @@ Adapted from [Chef John's Savory Bacon and Crab Bread Pudding Eggs Benedict](htt
 
 ## Instructions
 
-1. Dry out small cubes of stale bread in the oven at 250&deg;F, about 15 minutes.
+1. Dry out small cubes of stale bread in the oven at 250°F, about 15 minutes.
 2. Cook bacon on medium heat until almost crisp. Swab out excess grease.
 3. Add onions. Sautee about two minutes until they just start to turn translucent.
 4. Add red pepper. Cook for about a minute.
 5. Add liquid: chicken broth and cream. As soon as it comes to a boil, dump over dry bread cubes in a bowl. Stir and keep stirring until liquid is absorbed.
 6. Add egg and toss thoroughly to combine. Add lemon zest, lemon juice, tarragon, crab, pepper, and cayenne. Stir to combine. Mixture should be moist throughout. If the mixture isn't moist enough, add more stock or cream.
-7. Preheat oven to 400&deg;F. Divide mixture evenly between two approximately 10-ounce bowls or ramekins. Bake 20 minutes. Top should be golden brown and crusty.
+7. Preheat oven to 400°F. Divide mixture evenly between two approximately 10-ounce bowls or ramekins. Bake 20 minutes. Top should be golden brown and crusty.
 8. Top with poached eggs, hollandaise sauce, and a dusting of cayenne.
 
 Serve warm!

@@ -22,7 +22,7 @@
 ## Instructions
 
 1. Blend water and apricots until pureed. Transfer to skillet and stir in sugar. Cook over medium heat until puree darkens and thickens. You should be able to see the bottom when dragging a spoon through. Add lemon juice and refrigerate until cool, about 15 minutes.
-2. Preheat oven to 350&deg;F. Grease 9-inch round cake pan.
+2. Preheat oven to 350°F. Grease 9-inch round cake pan.
 3. Cream butter and sugar. Work in 5 egg yolks. Mix in rum and vanilla. Mix in flour and salt until flour is just incorporated.
 4. Spread half of batter into even layer in the bottom of the pan. Freeze 10 minutes to harden.
 5. Spread about 1/2 cup of filling in even layer over chilled batter, leaving 1/2 inch border around edge. Freeze another 10 minutes.

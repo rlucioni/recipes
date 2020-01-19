@@ -21,7 +21,7 @@ For the sauce:
 
 ## Instructions
 
-1. Preheat oven to 400&deg;F.
+1. Preheat oven to 400°F.
 2. Mix filling ingredients in small bowl. Mix sauce ingredients in separate bowl.
 3. Lay out filets with fatter end facing away and flat side up. Sprinkle with salt and pepper.
 4. Distribute filling along each filet and roll up. Place in lightly oiled glass baking dish.

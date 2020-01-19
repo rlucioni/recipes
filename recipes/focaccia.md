@@ -21,6 +21,6 @@
 2. Add the rest of the ingredients and mix until all the dry ingredients are incorporated into the wet ingredients.
 3. Turn out onto a floured surface and knead until a soft and elastic dough forms.
 4. Form into a ball and place in a well-oiled bowl. Let rise for 20 minutes.
-5. Preheat oven to 450&deg;F.
+5. Preheat oven to 450°F.
 6. Punch down dough and place on a baking sheet lined with foil and sprinkled with cornmeal. Pat into a 1/2 inch oval.
 7. Make small indentations in the dough with a knuckle. Bake 15 minutes or until golden brown.

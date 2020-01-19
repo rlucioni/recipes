@@ -19,7 +19,7 @@ Yields 12 muffins.
 
 ## Instructions
 
-1. Preheat oven to 350&deg;F.
+1. Preheat oven to 350°F.
 2. Whisk together flour, baking powder, baking soda, salt, and poppy seeds in a bowl.
 3. Separately, whisk together sugar, butter, milk, sour cream, eggs, lemon zest, and lemon juice in a large bowl.
 4. Fold in dry ingredients until just combined.

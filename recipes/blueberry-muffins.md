@@ -25,7 +25,7 @@ Makes 12 muffins
 
 ## Instructions
 
-1. Preheat oven to 425&deg;F.
+1. Preheat oven to 425°F.
 2. Mix milk and lemon juice in a bowl. Reserve.
 3. Whisk together flour, baking powder, and salt. Reserve.
 4. In a large mixing bowl, whisk together sugar and eggs. Whisk in butter and vegetable oil, then milk mixture and vanilla. Fold in flour mixture and blueberries.

@@ -16,7 +16,7 @@ Adapted from [America's Test Kitchen's skillet cookie](https://www.americastestk
 
 ## Instructions
 
-1. Preheat oven to 375&deg;F.
+1. Preheat oven to 375°F.
 2. Toast 3 tablespoons of the butter until brown and nutty. Transfer to a bowl and add the remaining tablespoon of butter.
 3. Whisk in brown sugar, sugar, vanilla, and salt.
 4. Stir in flour, baking soda, and chocolate chips.

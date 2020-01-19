@@ -5,7 +5,7 @@ Adapted from [Chef John's pita bread](http://foodwishes.blogspot.com/2013/04/pit
 ## Ingredients
 
 - 2 1/4 teaspoons dry active yeast
-- 1 cup warm water (about 100&deg;F)
+- 1 cup warm water (about 100°F)
 - 13 1/2 ounces all-purpose flour
 - 1 1/2 tablespoons olive oil
 - 1 3/4 teaspoons salt

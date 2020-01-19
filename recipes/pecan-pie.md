@@ -19,7 +19,7 @@ Adapted from [Chef John's pecan pie](http://foodwishes.blogspot.com/2014/04/an-a
 
 ## Instructions
 
-1. Preheat oven to 350&deg;F.
+1. Preheat oven to 350°F.
 2. Put butter, brown sugar, white sugar, corn syrup, flour, milk, salt, vanilla, and bourbon in saucepan.
 3. Place on medium heat and cook until boiling, stirring continuously. Cool about 5-10 minutes.
 4. Whisk eggs in large bowl. Slowly drizzle in sugar mixture.

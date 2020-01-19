@@ -9,6 +9,6 @@
 
 ## Instructions
 
-1. Bring water to a boil and allow to cool slightly to somewhere near 195&deg;-205&deg;F.
+1. Bring water to a boil and allow to cool slightly to somewhere near 195°-205°F.
 2. Pour water over tea leaves, suspended over a teapot in an infuser.
 3. Brew 4 minutes, or as long as recommended by your tea of choice.

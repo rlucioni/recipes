@@ -24,11 +24,11 @@ For batter:
 
 1. Combine chicken, grated onion, grated garlic, salt, and pepper in a bowl. Cover and refrigerate for at least 4 hours, up to overnight.
 3. Whisk together flour, baking powder, cornstarch, salt, sugar, and pepper.
-4. Preheat oil to 310&deg;F.
+4. Preheat oil to 310°F.
 5. Add enough ice water to dry ingredients to create a thick batter.
 6. Add chicken to the batter and coat evenly. Transfer chicken pieces to hot oil.
 7. Cook for 3 minutes and transfer to a rack to drain.
-8. Raise oil to 350&deg;F.
+8. Raise oil to 350°F.
 9. Fry chicken for an addition 2 minutes until golden brown and crispy.
 
-Serve with ketchup, Sriracha, or Sriracha mayo. Reheat for 10-12 minutes in a 325&deg;F. oven on convection.
+Serve with ketchup, Sriracha, or Sriracha mayo. Reheat for 10-12 minutes in a 325°F. oven on convection.

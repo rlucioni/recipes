@@ -15,7 +15,7 @@ Adapted from [Chef John's beef on weck](http://foodwishes.blogspot.com/2014/10/b
 ## Instructions
 
 1. Cut sirloin tips so that no piece is more than 1 inch thick. 
-2. Season beef with salt and pan-fry on med-high heat in some vegetable oil until meat reaches an internal temperature of 125&deg;F.
+2. Season beef with salt and pan-fry on med-high heat in some vegetable oil until meat reaches an internal temperature of 125°F.
 3. Set aside meat to rest. Add flour to remaining fat and cook about 1 minute. 
 4. Pour in cold beef broth and balsamic vinegar. Reduce to desired consistency. Season to taste with salt and pepper.
 5. Slice beef as thinly as possible against the grain. Cut rolls in half and toast in oven.

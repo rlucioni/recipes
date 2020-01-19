@@ -13,7 +13,7 @@
 
 ## Instructions
 
-1. Preheat oven to 250&deg;F.
+1. Preheat oven to 250°F.
 2. Pop popcorn in vegetable oil. Be sure not to salt it at this point. Set aside.
 3. Melt butter in a saucepan over medium heat. Mix in brown sugar, corn syrup, and salt.
 4. Bring caramel mixture to a boil, stirring continuously. Once boiling, boil without stirring for 4 minutes. 

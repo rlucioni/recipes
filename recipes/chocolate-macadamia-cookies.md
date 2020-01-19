@@ -16,7 +16,7 @@
 
 ## Instructions
 
-1. Preheat oven to 350&deg;F.
+1. Preheat oven to 350°F.
 2. Cream butter and sugar in a large bowl. Mix in egg and vanilla extract until combined.
 3. Combine flour, cocoa powder, baking soda, and salt in a separate bowl. Gradually add dry ingredients to wet ingredients, mixing until just combined.
 4. Mix in nuts and chocolate.

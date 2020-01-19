@@ -21,7 +21,7 @@ Adapted from [Chef John's crab and artichoke dip](http://foodwishes.blogspot.com
 
 ## Instructions
 
-1. Preheat oven to 375&deg;F.
+1. Preheat oven to 375°F.
 2. Combine all ingredients except half of the Cheddar cheese. Mix until throughly combined.
 3. Transfer to an oven-proof dish. Top with remaining cheese and a shake of cayenne. 
 4. Bake for 30 minutes.

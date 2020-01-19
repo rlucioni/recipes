@@ -12,7 +12,7 @@ Adapted from [Surfin' Sapo's baked red snapper](https://www.youtube.com/watch?v=
 
 ## Instructions
 
-1. Preheat oven to 450&deg;F. Start rice.
+1. Preheat oven to 450°F. Start rice.
 2. Check fish for scales, then cut three deep diagonal slashes on both sides.
 3. Rub both sides with olive oil. Season both sides and cavity generously with salt and pepper.
 4. Rub garlic into the slits and cavity.

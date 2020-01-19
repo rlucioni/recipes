@@ -10,7 +10,7 @@
 
 ## Instructions
 
-1. Preheat oven to 325&deg;F.
+1. Preheat oven to 325°F.
 2. Lay ribs on a foil-lined baking sheet. Leave the membrane on; it'll help hold things together later. Season meat generously with dry rub.
 3. Flip ribs membrane-side down and top with parchment paper. Wrap foil up and over the parchment around the outside of the pan. Top everything with another piece of foil, sealing around the edges of the pan.
 4. Bake until meat is tender enough to easily push out bones, about 2 hours.

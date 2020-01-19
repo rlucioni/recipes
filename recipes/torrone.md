@@ -16,7 +16,7 @@ Adapted from [Chef John's torrone](http://foodwishes.blogspot.com/2016/02/torron
 ## Instructions
 
 1. Line a 9x5 baking dish with parchment paper. Rub with half a lemon, seeded.
-2. Roast nuts in a 350&deg;F oven for 5-8 minutes until fragrant. Toss halfway through, and keep warm in oven when done.
+2. Roast nuts in a 350°F oven for 5-8 minutes until fragrant. Toss halfway through, and keep warm in oven when done.
 3. In a pot, combine honey and sugar over low heat. Stir continuously for 30 minutes until the mixture goes from golden and grainy to pale and smooth.
 4. Add a pinch of salt to egg white and whip until soft peaks form (shaving cream stage).
 5. Whip egg white into mixture, one whiskful at a time until combined.

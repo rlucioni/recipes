@@ -19,6 +19,6 @@ Adapted from [Chef John's cheesecake](http://foodwishes.blogspot.com/2010/10/new
 2. Thoroughly combine cream cheese with sugar in a large bowl. Mix in milk.
 3. Beat in eggs one at a time.
 4. Mix in sour cream mixture, trying not to make many bubbles. Pour batter into graham cracker crust.
-6. Bake at 350&deg;F until center barely jiggles. (30 minutes for ramekins, 45 minutes for glass tupperware)
+6. Bake at 350°F until center barely jiggles. (30 minutes for ramekins, 45 minutes for glass tupperware)
 
 Let cool and refrigerate. Serve topped with raspberry sauce.

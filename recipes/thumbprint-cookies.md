@@ -20,7 +20,7 @@ For glaze:
 
 ## Instructions
 
-1. Preheat oven to 350&deg;F.
+1. Preheat oven to 350°F.
 2. Cream sugar and butter in a large mixing bowl. Add almond extract.
 3. Add flour, mixing until well combined. Scrape the bowl often!
 4. Shape dough into 1-inch balls. Make indentations in the center of each cookie.

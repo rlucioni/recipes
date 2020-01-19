@@ -11,7 +11,7 @@ Makes 3 servings.
 
 ## Instructions
 
-1. Preheat oven to 325&deg;F.
+1. Preheat oven to 325°F.
 2. Bring some water to a boil for the water bath.
 3. Heat cream until almost simmering.
 4. Beat egg yolks and sugar until light in color. Add vanilla.

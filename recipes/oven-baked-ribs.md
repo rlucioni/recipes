@@ -10,7 +10,7 @@ Adapted from [Chef John's oven-baked ribs](http://foodwishes.blogspot.com/2011/0
 
 ## Instructions
 
-1. Preheat oven to 225&deg;F.
+1. Preheat oven to 225°F.
 2. Rub ribs generously with dry rub.
 3. Wrap in foil packet.
 4. Bake on foil lined sheet with membrane side up for 2 hours. Let sit for 15 minutes.

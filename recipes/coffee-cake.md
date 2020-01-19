@@ -25,7 +25,7 @@ Cake
 
 ## Instructions
 
-1. Preheat oven to 350&deg;F. Butter a 9x5 inch loaf pan.
+1. Preheat oven to 350°F. Butter a 9x5 inch loaf pan.
 2. Whisk together flour, salt, baking powder, and baking soda.
 3. Cream butter and sugar. Whisk in egg, then vanilla and sour cream.
 4. Dump dry ingredients into wet ingredients and stir until flour disappears.

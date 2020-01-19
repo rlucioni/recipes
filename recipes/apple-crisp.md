@@ -23,7 +23,7 @@ For the filling:
 
 ## Instructions
 
-1. Preheat oven to 375&deg;F.
+1. Preheat oven to 375°F.
 2. Peel apples and cut into 1/4 inch slices. Sprinkle on lemon juice to keep from browning.
 3. Brown butter in a saute pan. Add apples, salt, both sugars, and cinnamon. 
 4. Cook over medium heat until all the water has evaporated and the apples are coated in a thick caramel sauce. Add a splash of water to deglaze pan if necessary. Place cooked apples in a 1.5 quart casserole dish

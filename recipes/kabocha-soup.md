@@ -18,7 +18,7 @@ Adapted from [Simply Recipes' roasted kabocha squash soup](http://www.simplyreci
 
 ## Instructions
 
-1. Preheat oven to 400&deg;F. Rub squash quarters with olive oil and sprinkle with salt. Roast squash skin-side up for 45 minutes until cooked through, soft, and caramelized at the edges. Remove from oven and reserve.
+1. Preheat oven to 400°F. Rub squash quarters with olive oil and sprinkle with salt. Roast squash skin-side up for 45 minutes until cooked through, soft, and caramelized at the edges. Remove from oven and reserve.
 2. In a pot, sweat onions and celery. Add garlic, ginger, cumin, and coriander, and cook for a few minutes to wake up spices.
 3. Add kabocha squash flesh to pot. Add the stock, salt and pepper. Bring soup to a simmer and cook for about 10 minutes.
 4. Remove from heat and purée. Optionally, stir in coconut milk. Season to taste.

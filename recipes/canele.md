@@ -15,7 +15,7 @@ Adapted from [Chef John's canelé](https://foodwishes.blogspot.com/2017/10/canel
 
 ## Instructions
 
-1. Preheat oven to 375&deg;F on convection.
+1. Preheat oven to 375°F on convection.
 2. Mix flour, sugar, egg yolks, salt, vanilla extract, and rum in a bowl.
 3. Bring milk and butter to a simmer over medium-high heat. Whisk into mixed ingredients in two additions to form a thin, smooth batter.
 4. Prep muffin pan by brushing generously with melted butter. Evenly portion batter into the greased pan.

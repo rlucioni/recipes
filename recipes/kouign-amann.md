@@ -31,7 +31,7 @@ Yields 12 kouign-amanns. Adapted from [Chef John's kouign-amann](https://foodwis
 4. Roll out into a rectangle again, then grate over another stick of butter. Press it into the dough, fold into thirds, square up, and dust with flour. Roll back out into a rectangle and fold into thirds again. Roll out a final time, and fold into thirds one more time. Transfer to sheet pan, cover in plastic, and refrigerate 30 minutes. Or, freeze the dough to finish later.
 5. Make seasoned sugar by mixing sugar and salt.
 6. Prep muffin pan by brushing generously with melted butter, then spooning in sugar and tossing until insides are coated. Dump out and save any excess.
-7. Preheat oven to 375&deg;F. Sprinkle seasoned sugar onto work surface. Place dough on top of sugar, dust sugar over the top, then roll out into a rectangle 1/8-1/4" thick, applying sugar often to both sides as you roll. When it feels like the sugar you've added has been rolled in, put more on. The sugar will pull moisture out of the dough and make it soft, so work quickly.
+7. Preheat oven to 375°F. Sprinkle seasoned sugar onto work surface. Place dough on top of sugar, dust sugar over the top, then roll out into a rectangle 1/8-1/4" thick, applying sugar often to both sides as you roll. When it feels like the sugar you've added has been rolled in, put more on. The sugar will pull moisture out of the dough and make it soft, so work quickly.
 8. Trim edges. Keep and bake the scraps! Cut the dough into 12 squares. Top with more sugar, then transfer to muffin pan. Pinch each square so the corners meet in the middle. Top with more sugar. Let proof for 10 minutes before baking.
 9. Bake until browned and puffed, about 25 minutes. Immediately remove each kouign-amann to prevent them from sticking.
 

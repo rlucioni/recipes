@@ -26,7 +26,7 @@ For the crumbs:
 
 ## Instructions
 
-1. Preheat oven to 400&deg;F.
+1. Preheat oven to 400°F.
 2. Cut lobster tails length-wise.
 3. Sear tails on high heat in a skillet with some vegetable oil on both sides.
 4. Remove partially cooked tails, turn the heat to medium, and add the butter to the pan.

@@ -19,7 +19,7 @@ Adapted from [Chef John's Baked Alaska](http://foodwishes.blogspot.com/2015/02/b
 2. Layer thick slice of pound cake on top of ice cream. Fold plastic over to cover completely.
 3. Freeze 3-4 hours or overnight. Place serving plate in freezer.
 4. Beat egg whites and lemon with electric mixer to soft, fuzzy peaks.
-5. Cook sugar and water to 240&deg;F (soft ball stage).
+5. Cook sugar and water to 240°F (soft ball stage).
 6. Slowly drizzle syrup into meringue while beating on high until very stiff peaks form.
 7. Invert ice cream and cake onto cold plate. Cover uniformly with meringue, making sure meringue layer is not too thick.
 8. Texturize surface of meringue and torch (whee!) with blowtorch.

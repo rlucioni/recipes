@@ -16,7 +16,7 @@
 
 ## Instructions
 
-1. Preheat oven to 325&deg;F.
+1. Preheat oven to 325°F.
 3. Saute onion/leek/shallot with olive oil and a pinch of salt until browned. Reserve.
 4. Saute spinach until wilted. Run under cold water to preserve color, then squeeze with a paper towel to remove excess moisture. Reserve.
 5. Make the custard by whisking eggs, egg yolks, cream, milk, thyme, and black pepper. Reserve.

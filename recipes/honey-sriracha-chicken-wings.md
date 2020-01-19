@@ -19,7 +19,7 @@ For the honey Sriracha glaze:
 
 ## Instructions
 
-1. Preheat oven to 425&deg;F.
+1. Preheat oven to 425°F.
 2. Mix salt, pepper, paprika, and baking powder in a ramekin.
 3. Separate wings into flats and drumettes. Coat wings with dry rub evenly. Lay out on cooling rack on a baking sheet.
 4. Bake about 1 hour, turning every 15 minutes, until crispy. 

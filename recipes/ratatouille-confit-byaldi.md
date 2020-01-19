@@ -27,7 +27,7 @@ For the vinaigrette:
 
 ## Instructions
 
-1. Preheat the oven to 450&deg;F.
+1. Preheat the oven to 450°F.
 2. When oven is heated, roast peppers skin side up for 15 minutes, or until skin loosens. Broil briefly to char. Transfer to a bowl and cover to steam the peppers.
 3. Cook the onion and garlic in a 10" oven-proof skillet over low heat until very soft but not browned.
 4. Add canned tomatoes, thyme, and bay leaf. Cook on low until all the liquid has evaporated.
@@ -36,11 +36,11 @@ For the vinaigrette:
 7. Blend mixture well and add about half (reserving at least a tablespoon) back into the bottom of the 10" skillet. Spread evenly.
 8. Use a serrated knife to slice the tomatoes as thinly as possible. Do the same for the eggplant.
 9. Use a mandoline to slice the zucchini and squash.
-10. Heat oven to 275&deg;F. While the oven is warming up, shingle the vegetables into the 10" pan on top of the piperade. There may be vegetables left over.
+10. Heat oven to 275°F. While the oven is warming up, shingle the vegetables into the 10" pan on top of the piperade. There may be vegetables left over.
 11. Drizzle with olive oil and sprinkle over salt, pepper, and thyme leaves.
 12. Cover ratatouille with a circle of parchment paper and bake for 90 minutes, until vegetables are tender.
 13. Remove parchment paper and bake an additional 30 minutes, uncovered.
 14. Let cool to room temperature before serving. Alternatively, chill and serve the next day.
 15. Before serving, mix together olive oil, vinegar, and a tablespoon of the piperade. Drizzle on top of the ratatouille.
 
-To reheat, put the pan in a 275&deg;F oven until warm.
+To reheat, put the pan in a 275°F oven until warm.

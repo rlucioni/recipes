@@ -15,7 +15,7 @@ Adapted from [Chef John's garlic soup](http://foodwishes.blogspot.com/2013/04/ce
 
 ## Instructions
 
-1. Toast bread cubes coated in olive oil at 350&deg;F until golden brown, about 15-20 minutes.
+1. Toast bread cubes coated in olive oil at 350°F until golden brown, about 15-20 minutes.
 2. Heat olive oil over medium heat until it shimmers. Add ham and warm through.
 3. Add paprika and toast for a few seconds, then toss in garlic and stir briefly. Don't let it brown! Add bread and toss to coat in paprika-and-garlic-infused oil.
 4. Add chicken broth and bring to a boil, then reduce to medium. Season with salt, pepper, and cayenne.

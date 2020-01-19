@@ -15,7 +15,7 @@
 
 ## Instructions
 
-1. Preheat oven to 350&deg;F. Line glass baking dish with foil.
+1. Preheat oven to 350°F. Line glass baking dish with foil.
 2. To make crust: Beat 3/4 cup butter and 3/4 cup brown sugar with electric mixer until light and fluffy.
 3. Beat in egg yolk, then flour and salt. 
 4. Press mixture evenly into baking dish. Bake crust 17 minutes until golden brown. Cool slightly.

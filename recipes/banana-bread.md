@@ -20,7 +20,7 @@ Adapted from [Chef John's banana bread](http://foodwishes.blogspot.com/2012/01/b
 
 ## Instructions
 
-1. Preheat oven to 325&deg;F.
+1. Preheat oven to 325°F.
 2. Cream together butter and sugar in a large bowl.
 3. Mix in bananas.
 4. Beat in eggs. Add vanilla and milk.

@@ -21,7 +21,7 @@ For lemon layer:
 
 ## Instructions
 
-1. Preheat oven to 350&deg;F.
+1. Preheat oven to 350°F.
 2. Cream butter and sugar. Mix in vanilla extract. Add flour and salt; mix until combined.
 3. Press into bottom of lightly oiled 8"x8" baking dish, or equivalent. Dock with fork.
 4. Bake for 22 minutes.

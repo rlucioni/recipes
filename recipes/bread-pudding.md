@@ -16,7 +16,7 @@ Adapted from [All Recipes' Bread Pudding](http://allrecipes.com/recipe/7177/brea
 
 ## Instructions
 
-1. Preheat oven to 350&deg;F.
+1. Preheat oven to 350°F.
 2. Cut bread into small cubes. Add most of the bread into a 9x5 bread tin. Sprinkle on raisins, then the rest of the bread. Drizzle over melted butter.
 3. Whisk together eggs and sugar. Add in milk, cinnamon, vanilla, and salt.
 4. Pour egg custard over bread. Make sure every piece of bread is soaked.

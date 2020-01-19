@@ -26,7 +26,7 @@ Frosting
 
 ## Instructions
 
-1. Preheat oven to 350&deg;F.
+1. Preheat oven to 350°F.
 2. Grate carrots using the coarse side of the grater.
 3. Whisk sugars and oil in a bowl until well-combined.
 4. Whisk in eggs one at a time.

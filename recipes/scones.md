@@ -12,7 +12,7 @@
 
 ## Instructions
 
-1. Preheat oven to 425&deg;F.
+1. Preheat oven to 425°F.
 2. Whisk together flour, sugar, baking powder, and salt.
 3. Cut in butter until dough resembles coarse crumbs. Add any additions.
 4. Mix cream and milk and stir into dry ingredients until just combined.

@@ -16,12 +16,12 @@ Serves 4.
 
 ## Instructions
 
-1. Preheat oven to 475&deg;F.
+1. Preheat oven to 475°F.
 2. Place dough in oiled cast-iron pan (don't oil sides of pan), and pull up sides 1.5 inches.
 3. Add mozzarella, then top with meats and vegetables.
 4. Ladle on sauce evenly.
 5. Top with parmesan.
-6. Bake 25-30 minutes at 475&deg;F.
+6. Bake 25-30 minutes at 475°F.
 
 Let sit for at least 10 minutes before serving.
 
