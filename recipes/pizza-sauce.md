@@ -4,23 +4,24 @@ Adapted from [Serious Eats' New York Style Pizza Sauce](http://www.seriouseats.c
 
 ## Ingredients
 
-- 1 (28-ounce) can whole peeled tomatoes
-- 1 tablespoon olive oil
-- 1 tablespoon unsalted butter
-- 2 cloves garlic, grated on microplane grater (about 2 teaspoons)
+- 1 medium onion, chopped
+- 2 tablespoons olive oil
+- 2 cloves garlic, grated
 - 1 teaspoon dried oregano
-- pinch red pepper flakes
-- Kosher salt
-- 1 anchovy fillet
-- 2 (6-inch) sprigs fresh basil, with leaves attached
-- 1 medium yellow onion, coarsely chopped
+- 1 teaspoon dried basil
+- 1/2 teaspoon marjoram
+- 1/2 teaspoon black pepper
+- cayenne, to taste
+- 1 (28-ounce) can whole peeled tomatoes
+- 1 tablespoon tomato paste
+- 1 anchovy fillet and/or crumbled Parmesan cheese
 - 1 teaspoon honey
+- splash of balsamic vinegar
 
 ## Instructions
 
-1. Combine butter and oil in saucepan over medium-low heat until butter is melted. Add garlic, oregano, pepper flakes, and a large pinch of salt. Cook, stirring frequently, until fragrant but not browned.
+1. Saute onion in olive oil with some salt until soft. Add garlic, oregano, basil, marjoram, black pepper, and cayenne. Cook, stirring frequently, until fragrant but not browned.
 2. Add tomatoes and quickly puree with an immersion blender. Puree should not be completely smooth.
-3. Add anchovy, basil sprigs, onion, and honey. Bring to a simmer, reduce heat to lowest setting (bubbles should barely be breaking the surface), and cook, stirring occasionally, until reduced by 1/2, about 2 hours.
-4. Discard any basil stems. Season to taste.
+3. Add tomato paste, anchovy and/or parmesan, honey, and balsamic vinegar. Bring to a simmer, reduce heat to lowest setting (bubbles should barely be breaking the surface), and cook, stirring occasionally, until reduced by half, about 2 hours.
 
 This recipe makes a lot of sauce. It freezes well!
