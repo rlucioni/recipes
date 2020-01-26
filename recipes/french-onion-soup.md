@@ -4,20 +4,24 @@ Serves 4.
 
 ## Ingredients
 
-- 4 large yellow onions, coarsely chopped
-- 4 tablespoons butter
-- 2-3 sprigs fresh thyme
+- 3 pounds yellow onions, sliced pole to pole (through the root end)
+- 2 tablespoons vegetable oil
+- 3/4 teaspoon salt
+- 3/4 cup water
+- 1/8 teaspoon baking soda
+- 2 sprigs thyme
 - 1 bay leaf
 - 1/4 cup dry sherry wine
-- 4 cups beef broth
-- 1 cup chicken broth
+- 4 cups beef stock
+- 1 cup chicken stock
 - sherry vinegar, to taste
 - crusty bread, cubed
-- shredded Gruyère cheese
+- Gruyère cheese, grated
 
 ## Instructions
 
-1. Add onions, butter, and a few generous pinches of salt to a stock pot. Sweat until onions are golden, about 45 minutes.
-2. Add thyme, bay leaf, black pepper, sherry, and broth. Bring to a simmer. Pressurize and cook for 8 minutes at high pressure.
-3. Depressurize and adjust seasoning. If desired, add sherry vinegar. Ladle into oven-proof bowls.
-4. Fry bread cubes in olive oil until golden brown and crunchy. Float croutons on soup and top with cheese. Melt cheese under broiler.
+1. Add onions, oil, salt, and water to a pot over medium-high heat. When the water reaches a boil, cover and cook until water is evaporated, about 10 minutes. Onions should have collapsed significantly.
+2. Stir onions every 30 seconds or so until they're browned and soft, about 15-20 minutes.
+3. Mix baking soda with 1 tablespoon water. Stir into onions and wait for water to evaporate.
+4. Add thyme, bay leaf, black pepper, sherry, and stock. Simmer for 15 minutes. Add sherry vinegar (optional). Ladle into oven-proof bowls.
+5. Fry bread cubes in olive oil until golden brown and crunchy. Float croutons on soup and top with cheese. Melt cheese under broiler.
