@@ -1,6 +1,6 @@
 # Lemon Bars
 
-Fits in an 8x8 pan.
+For an 8x8 pan
 
 ## Ingredients
 
