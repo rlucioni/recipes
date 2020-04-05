@@ -13,7 +13,7 @@ Adapted from [Alton Brown's popcorn](http://www.foodnetwork.com/recipes/alton-br
 
 ## Instructions
 
-1. In a large steel bowl, combine oil, popcorn, and salt to make a slurry.
-2. Cover bowl with foil and poke several small holes to let steam escape.
-3. Keep the bowl moving over medium heat until popping stops.
-4. Scrape down and stir in any salt on the sides of the bowl. Mix in herbs and butter.
+1. In a pot, add oil and 2 popcorn kernels. Cover and cook on medium heat until one of the kernels pops.
+2. Take off the heat and add rest of popcorn. Cover and wait 30 seconds.
+3. Put back on medium heat with lid ajar and cook until popping subsides.
+4. Sprinkle over salt and herbed butter (optional) and shake to coat popcorn evenly.
