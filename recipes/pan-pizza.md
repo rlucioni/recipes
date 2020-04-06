@@ -22,6 +22,5 @@ Toppings:
 4. Preheat oven to 500°F, or as high as the oven will go.
 5. Push dough to fill all corners of the pan and deflate any large bubbles. Lift dough edges to release any bubbles underneath.
 6. Top with sauce, cheese, and any toppings. Bake for 15 minutes.
-7. Optional: continue to cook on the stove until the bottom reaches the desired level of crispiness.
 
 Top with fresh basil and red pepper flakes.
