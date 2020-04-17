@@ -18,7 +18,8 @@ Serves 2.
 - 1 1/2 tablespoons soy sauce
 - 2 tablespoons Chinkiang black vinegar
 - 2 tablespoons [chili oil](chili-oil.md)
-- vegetables for topping (e.g., yu choy, bok choy)
+- vegetables (e.g., yu choy, bok choy)
+- [seared lamb](tandoori-lamb.md)
 
 ## Instructions
 
