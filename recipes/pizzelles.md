@@ -18,4 +18,4 @@ Makes about 16 cookies.
 1. Heat a nonstick pizzelle iron. Whisk together flour, baking powder, and salt in a bowl.
 2. In a separate bowl, whisk eggs. Slowly incorporate sugar, mixing until combined. Whisk in vanilla and lemon extracts. Gradually whisk in melted butter until batter is smooth and sugar granules have dissolved.
 3. Use a spatula to slowly incorporate dry ingredients until just combined.
-4. Pipe or scoop roughly 2 tablespoons of batter in a circle in the center of each pattern on the pizzelle iron. Close the iron, seal with the clasp, and cook until golden brown, about 1 minute. Use a spatula to remove the pizzelles, mold into shapes if desired (e.g., upside-down bowl), and move to a wire rack to cool.
+4. Pipe or scoop roughly 1 tablespoon (#50 disher) of batter in a circle in the center of each pattern on the pizzelle iron. Close the iron, seal with the clasp, and cook until golden brown, about 1 minute. Use a spatula to remove the pizzelles, mold into shapes if desired (e.g., upside-down bowl), and move to a wire rack to cool.
