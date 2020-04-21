@@ -11,7 +11,7 @@ For marinade:
 - 2 tablespoons vodka
 - 1/4 teaspoon baking soda
 - 3 tablespoons cornstarch
-- 1 pound boneless skinless chicken thighs, cubed
+- 1 1/2 pounds boneless skinless chicken thighs, cubed
 
 For dry coating
 - 1/2 cup flour
