@@ -12,7 +12,7 @@ For wontons:
 - 1 teaspoon ground pepper
 - 2 teaspoons sugar
 - 2 teaspoons Shaoxing wine or dry sherry
-- 50 square wonton wrappers
+- 50 square [wonton wrappers](wonton-wrappers.md)
 
 For sauce:
 - 4 tablespoons [chili oil](chili-oil.md)
@@ -29,5 +29,5 @@ For sauce:
 1. Add all filling ingredients to a bowl and mix with hands until homogenous.
 2. Microwave a small portion for 15 seconds and taste for seasoning.
 3. Mix all sauce ingredients.
-4. Fill wontons and boil for 4 minutes. Remove with a spider and place into serving bowls.
+4. Fill wontons and boil for 3 minutes. Remove with a spider and place into serving bowls.
 5. Spoon over sauce and toss to coat.
