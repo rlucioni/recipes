@@ -18,7 +18,7 @@ Makes 8.
 
 1. Heat garlic, 1 tablespoon butter, and 1/2 teaspoon water in a nonstick skillet over low heat. Cook 5-10 minutes until fragrant and barely toasted. Remove from heat and melt in remaining 3 tablespoons butter.
 2. Strain garlic butter through a fine-mesh strainer. Add the garlic solids to a large bowl and reserve the garlic butter.
-3. Dissolve yeast in warmed water and mix in 2 teapoons garlic butter.
+3. Dissolve yeast in warmed water and mix in 2 teaspoons garlic butter.
 4. Add flour and salt to the bowl with the garlic solids. Stir in yeast mixture until combined. Knead on a floured surface until dough is supple and slightly sticky, about 10 minutes, kneading in more flour as necessary.
 5. Cover lightly with garlic butter and let rise, covered, for 45 minutes in a warm oven.
 6. Cut half of the mozzarella into 8 equal chunks. Grate the rest. Grease the bottom of a cast iron skillet with half of the remaining garlic butter.
