@@ -2,13 +2,17 @@
 
 ## Ingredients
 
-- 12 ounces salmon
-- Salt
-- Olive oil
+- salmon fillets
+- soy sauce
+- sake
+- brown sugar
+- ground ginger
+- sesame oil
+- black sesame seeds, optional
 
 ## Instructions
 
-1. Rinse fillets and dry well with paper towels. Salt skin side.
-2. Heat oil over medium high heat until it shimmers. Reduce heat to medium low and add fillets, skin side down. Press down firmly for a few seconds to prevent skin from buckling.
-3. Cook until skin releases easily from pan, roughly 4 minutes. Shoot for 120°F for medium rare.
-4. Flip fillets and cook on other side for 15 seconds, then transfer to paper towel lined plate to drain.
+1. Mix marinade ingredients, then add sesame oil. Marinate salmon for 15-30 minutes.
+2. Heat a pan over medium-high heat. Put salmon in skin-side down. Cover and cook until skin releases easily, about 4 minutes. 120°F for medium rare.
+
+Drizzle pan sauce on rice to serve.

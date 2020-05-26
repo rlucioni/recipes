@@ -4,25 +4,21 @@ Adapted from [Serious Eats' Suanla Chaoshou](https://www.seriouseats.com/recipes
 
 ## Ingredients
 
-For wontons:
-- 1 pound ground pork (80% lean)
-- 180 grams (large bunch) Chinese chives, chopped finely
-- 2 cloves garlic, grated
-- 1 teaspoon kosher salt
-- 1 teaspoon ground pepper
-- 2 teaspoons sugar
-- 2 teaspoons Shaoxing wine or dry sherry
+### Wontons
+
+- [bao](pan-fried-baozi.md) filling
 - 50 square [wonton wrappers](wonton-wrappers.md)
 
-For sauce:
-- 4 tablespoons [chili oil](chili-oil.md)
-- 1 tablespoon sesame oil
-- 3 tablespoons Chinkiang black vinegar
-- 1 1/2 tablespoons soy sauce
-- 1 tablespoon sugar
-- 4 cloves garlic, minced
-- 1 tablespoon toasted sesame seeds
+### Sauce
+
 - 2 green onions, finely chopped
+- 4 cloves garlic, grated
+- 1 tablespoon sugar
+- 1 tablespoon toasted sesame seeds
+- 1 tablespoon sesame oil
+- 1 1/2 tablespoons soy sauce
+- 3 tablespoons Chinkiang black vinegar
+- 2 teaspoons [chili oil](chili-oil.md)
 
 ## Instructions
 
