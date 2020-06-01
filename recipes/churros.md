@@ -10,7 +10,7 @@ Inspired by Chocolateria San Gines in Madrid
 - 1/2 cup butter
 - 1/4 teaspoon salt
 - 160 grams all-purpose flour
-- 3 eggs, beaten
+- 2 large eggs, beaten
 - vegetable oil
 - open star piping tip (Wilton 1M)
 
