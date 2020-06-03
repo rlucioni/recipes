@@ -23,7 +23,6 @@ Adapted from America's Test Kitchen's chocolate chip cookies.
 3. Heat 10 tablespoons butter in pan over medium heat until golden brown and fragrant. Transfer to large bowl and melt in remaining butter.
 4. Whisk in sugar, salt, and vanilla. Whisk in egg and egg yolk until smooth.
 5. Stir in flour mixture until just combined. Fold in chocolate chips and walnuts.
-6. Refrigerate batter at least 10 minutes.
-7. Scoop and bake 10-14 minutes. Rotate halfway through.
+6. Scoop and bake 10-14 minutes.
 
-Cool to room temperature on cooling rack. Store at room temperature in air-tight container.
+Cool to room temperature on cooling rack.
