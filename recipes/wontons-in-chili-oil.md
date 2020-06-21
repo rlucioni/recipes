@@ -22,8 +22,9 @@ Adapted from [Serious Eats' Suanla Chaoshou](https://www.seriouseats.com/recipes
 
 ## Instructions
 
-1. Add all filling ingredients to a bowl and mix with hands until homogenous.
-2. Microwave a small portion for 15 seconds and taste for seasoning.
-3. Mix all sauce ingredients.
-4. Fill wontons and boil for 3 minutes. Remove with a spider and place into serving bowls.
-5. Spoon over sauce and toss to coat.
+1. Add all filling ingredients to a bowl and mix with hands until homogenous. Microwave a small portion for 15 seconds and taste for seasoning.
+2. Mix all sauce ingredients.
+3. Fill wontons and boil for 3 minutes. Remove with a spider and place into serving bowls.
+4. Spoon over sauce and toss to coat.
+
+Alternatively, fry 2-3 minutes per side at 350°F.
