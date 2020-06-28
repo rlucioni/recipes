@@ -1,6 +1,6 @@
 # Yeasted Waffles
 
-Yields 6 waffles.
+Yields 6 waffles
 
 ## Ingredients
 
