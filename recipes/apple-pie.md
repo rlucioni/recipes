@@ -1,28 +1,27 @@
 # Apple Pie
 
-Adapted from [Chef John's apple pie](http://foodwishes.blogspot.com/2009/11/classic-american-apple-pie-warning-this.html).
+For a 9.5" pie
 
 ## Ingredients
 
 - 2 batches of [pie crust](pie-crust.md)
-- 6 large apples (2 braeburn, 2 golden delicious, 2 granny smith, or a similar combination)
-- 1/2 lemon, juiced
+- 4-4 1/2 pounds apples (8 apples: 4 honeycrisp, 2 golden delicious, 2 granny smith, or similar combination)
+- 1 lemon, zested and juiced
 - 1/2 cup white sugar
-- 1/8 teaspoon nutmeg
-- 1/2 teaspoon cinnamon
-- pinch of salt
-- 3 tablespoons cornstarch
+- 2 tablespoons all-purpose flour
+- 1/4 teaspoon salt
+- 1/4 teaspoon nutmeg
+- 1/4 teaspoon cinnamon
 - heavy cream
 - demerara sugar
 
 ## Instructions
 
-1. Preheat oven to 375°F.
-2. Peel and core apples. Cut into thin slices.
-3. Mix in lemon juice, sugar, nutmeg, cinnamon, and salt. Allow to macerate for 15 minutes. Stir in cornstarch.
-4. Roll out one batch of pie crust and line the bottom of the pie dish. Layer in apple slices and top with accumulated juices.
-5. Top with second batch of pie crust and crimp the edges. Use a knife to cut air vents in the crust top (or do a lattice).
-6. Brush top with cream and sprinkle with sugar.
-7. Bake on foil-lined pan for 60-75 minutes.
+1. Adjust oven rack to lowest possible position, put a foil-lined baking sheet in, and preheat to 500°F.
+2. Roll out one batch of pie crust, put it in the pie plate, and refrigerate.
+3. Peel, quarter, and core apples. Mandoline into very thin slices.
+4. Combine apples with lemon zest, lemon juice, sugar, flour, salt, nutmeg, and cinnamon. Toss to coat. Making a clamshell out of 2 large bowls works well.
+5. Fill pie plate with apple mixture and any juices. Mound it slightly in the center. Cover with second rolled out crust, trimming overhang to about 1/2". Crimp crusts together. Brush with cream and sprinkle with sugar. Cut 4 2" slits.
+6. Place on preheated baking sheet, lower oven temperature to 425°F, and bake until crust is light brown, about 25 minutes. Lower oven temperature to 375°F and bake until crust is deep brown, about 35 minutes more.
 
-Chill before slicing. Serve with vanilla ice cream.
+Let cool on wire rack and chill before slicing.
