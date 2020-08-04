@@ -1,21 +1,26 @@
 # Blueberry Pie
 
+For a 9.5" pie
+
 ## Ingredients
 
 - 2 batches [pie crust](pie-crust.md)
-- 2 pounds blueberries
-- 1 cup sugar
-- 1/4 cup minute tapioca (see [here](https://www.kingarthurflour.com/guides/pie-baking/pie-thickener.html) for alternatives)
-- 1/4 teaspoon cinnamon
-- 2 tablespoons lemon juice
+- 2 1/2 - 3 pounds wild blueberries
+- 1 granny smith apple, peeled, grated, and squeezed
+- zest and juice of 1 lemon
+- 2/3 cup sugar
+- 2 tablespoons minute tapioca, ground (see [here](https://www.kingarthurflour.com/guides/pie-baking/pie-thickener.html) for alternatives)
+- 1/4 teaspoon salt
+- heavy cream and demerara sugar for topping
 
 ## Instructions
 
-1. Preheat oven to 425°F.
-2. Roll out pie crust and place in pie dish. Reserve in the refrigerator.
-3. Whisk together the sugar, tapioca, and cinnamon. Fold into the blueberries. Add lemon juice and allow to macerate for 15 minutes.
-4. Carefully spoon fruit and any juices into reserved crust.
-5. Roll out remaining crust and use it to seal the pie, trimming and crimping the edges. Brush with cream and sprinkle with sugar.
-6. Bake for 15 minutes. Reduce heat to 350°F and bake until crust has browned and filling begins to bubble, about 45 minutes longer.
+1. Roll out one batch of pie crust, put it in the pie plate, and refrigerate.
+2. Cook half of the blueberries on medium heat for 8-10 minutes, stirring and mashing occasionally. Let cool briefly.
+3. Preheat oven to 400°F. Adjust the oven rack to the lowest position and place a foil-lined baking sheet on the rack to preheat.
+4. Combine the rest of the filling ingredients in a large bowl. Add the cooked blueberries and mix thoroughly.
+5. Roll out top crust. Add filling to prepared pie plate and top with top crust. Leave about 1/2 inch overhang of dough on all sides. Fold this overhang under itself and crimp to seal.
+6. Cut venting slits in the top crust. Brush with cream and sprinkle with demerara sugar.
+7. Bake for 30 minutes. Reduce heat to 350°F and continue to bake until the crust is golden brown and the filling is bubbling, about 40 more minutes.
 
-Chill pie before slicing. Serve with whipped cream or vanilla ice cream.
+Chill pie thoroughly before slicing. Serve with whipped cream or vanilla ice cream.
