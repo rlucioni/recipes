@@ -4,7 +4,7 @@
 
 - rolled oats
 - milk
-- cinammon
+- cinnamon
 - brown sugar
 - walnuts
 - dried fruit
