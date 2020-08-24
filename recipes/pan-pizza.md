@@ -21,7 +21,6 @@ Toppings:
 3. Add a tablespoon of olive oil to a 10" cast iron skillet. Place a dough ball in the center and use your hands to push it down into a disc. Cover and let rise for 2 hours.
 4. Preheat oven to 500°F, or as high as the oven will go.
 5. Push dough to fill all corners of the pan and deflate any large bubbles. Lift dough edges to release any bubbles underneath.
-6. Top with sauce, cheese, and any toppings. Bake for 15-20 minutes.
-7. (Optional) Continue cooking on the stove on medium heat until the bottom crust is sufficiently browned, about 2 minutes.
+6. Top with sauce, cheese, and any toppings. Bake for 20 minutes.
 
-Top with fresh basil and red pepper flakes.
+Top with fresh basil.
