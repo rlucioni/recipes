@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-- 1 [pie-crust](pie-crust.md)
+- 1 [pie crust](pie-crust.md)
 - 4 ounces ham, diced
 - 1 1/2 cup onion, leek, and/or shallot, chopped
 - 1 bunch spinach, chopped
