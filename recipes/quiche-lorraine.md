@@ -3,12 +3,12 @@
 ## Ingredients
 
 - 1 [pie crust](pie-crust.md)
-- 4 ounces ham, diced
-- 1 1/2 cup onion, leek, and/or shallot, chopped
-- 1 bunch spinach, chopped
-- 6 ounces Gruyere cheese, shredded
-- 3 eggs
-- 2 egg yolks
+- 4 ounces bacon or ham, diced
+- 1 1/2 cup onion, leek, or shallot, chopped
+- 1 bunch spinach or tatsoi
+- 6-8 ounces Gruyere cheese, shredded
+- 4 eggs
+- 1 egg yolk
 - 1 cup cream
 - 3/4 cup milk
 - 1 teaspoon thyme
@@ -17,11 +17,12 @@
 ## Instructions
 
 1. Preheat oven to 325°F.
+2. Cook bacon/ham until foamy. Reserve on a paper-towel lined plate.
 3. Saute onion/leek/shallot with olive oil and a pinch of salt until browned. Reserve.
-4. Saute spinach until wilted. Run under cold water to preserve color, then squeeze with a paper towel to remove excess moisture. Reserve.
-5. Make the custard by whisking eggs, egg yolks, cream, milk, thyme, and black pepper. Reserve.
-6. Roll out pie crust and place in pie dish.
-7. Layer half of the vegetables, ham, and cheese in the crust. Add the custard. Add the remaining half of the vegetables, ham, and cheese.
-8. Bake until golden brown and just set, about 1 hour.
+4. Saute spinach/tatsoi until wilted. Run under cold water to preserve color, then squeeze with a paper towel to remove excess moisture. Chop and reserve.
+5. Make the custard by whisking eggs, egg yolk, cream, milk, and thyme. Reserve.
+6. Roll out crust and put in pie dish.
+7. Construct as follows: 1/3 cheese, 1/2 bacon, 1/2 vegetables, pepper, 1/3 cheese, 1/2 bacon, 1/2 vegetables, pepper, pour over custard, 1/3 cheese.
+8. Bake until golden brown and just set, about 60-75 minutes.
 
 Let cool before serving.
