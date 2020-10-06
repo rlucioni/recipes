@@ -9,7 +9,7 @@ Makes 2. Chorizo can be substituted with breakfast sausage or bacon.
 - 2 tablespoons hatch green chile, or to taste
 - 1 batch [hash browns](hash-browns.md)
 - 2 large flour tortillas
-- 2 ounces sharp chedder, grated
+- 2 ounces sharp cheddar, grated
 
 ## Instructions
 
