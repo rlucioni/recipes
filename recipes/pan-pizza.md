@@ -10,7 +10,7 @@
 ## Instructions
 
 1. Add a tablespoon of olive oil to a 10" cast iron skillet. Place a dough ball in the center and use your hands to push it down into a disc.
-2. Preheat oven to 500°F, or as high as the oven will go.
+2. Preheat oven to 525°F, or as high as the oven will go.
 3. Top with sauce, cheese, and any toppings. Bake for 20 minutes.
 
 Top with fresh basil.
