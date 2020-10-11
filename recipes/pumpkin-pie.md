@@ -7,8 +7,8 @@ Adapted from [Chef John's pumpkin pie](http://foodwishes.blogspot.com/2012/11/be
 - 1 batch [pie crust](pie-crust.md)
 - 15 ounces canned or homemade [pumpkin puree](pumpkin-puree.md)
 - 14 ounces canned sweetened condensed milk
-- 1 egg
-- 3 egg yolks
+- 2 eggs
+- 2 egg yolks
 - 1/4 teaspoon nutmeg
 - 1 teaspoon cinnamon
 - 1/2 teaspoon ground ginger
