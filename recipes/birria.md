@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-- 6-8 dried guajillo chiles
+- 6-8 dried guajillo chiles (can substitute a couple ancho)
 - 1 onion, quartered
 - 4 cloves garlic, crushed
 - 1 inch piece of ginger, sliced
