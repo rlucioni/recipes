@@ -7,7 +7,7 @@ Yields 3
 - 3 lobsters, around 1 1/3 pounds each
 - 3 New England style hot dog buns (AKA split-top buns)
 - 1 tablespoon mayonnaise
-- 1/2 rib celery, finely diced
+- 1 rib celery, finely diced
 - Old Bay, to taste
 - 1 1/2 tablespoons butter
 
