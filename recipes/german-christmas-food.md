@@ -6,5 +6,5 @@
 - milchbrötchen (bread rolls)
 - Schwarzwälder schinken (black forest ham)
 - schinkenwurst (ham sausage)
-- Schwarzwälder Kirschwasser salami
+- Schwarzwälder kirschwasser salami
 - Westphalian ham

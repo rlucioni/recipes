@@ -1,5 +1,7 @@
 # Suet
 
+Adapted from the National Audubon Society's [suet](https://www.audubon.org/news/make-your-own-suet).
+
 ## Ingredients
 
 - 3 1/2 cups unsalted sunflower kernels and/or chopped peanuts
