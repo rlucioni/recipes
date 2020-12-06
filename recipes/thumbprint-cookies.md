@@ -26,6 +26,6 @@ For glaze:
 4. Shape dough into 1-inch balls. Make indentations in the center of each cookie.
 5. Fill indentations with jam. Cutting the corner off a Ziploc bag works well for this.
 6. Bake until edges are lightly browned, about 14 to 18 minutes.
-7. Stir together powdered sugar, almond extract, and water to make a thin glaze. Drizzle over warm cookies. Again, cutting the corner off a Ziploc bag works well.
+7. Stir together powdered sugar, almond extract, and water to make a thin glaze. Drizzle over cookies. Again, cutting the corner off a Ziploc bag works well.
 
 Allow icing to harden before eating!
