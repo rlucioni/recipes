@@ -6,9 +6,9 @@ Adapted from a Land O Lakes Holiday Recipe collection.
 
 For cookie dough:
 - 2/3 cup sugar
-- 1 cup butter, softened
+- 1 cup butter (2 sticks), softened
 - 1/2 teaspoon almond extract
-- 2 cups all-purpose flour
+- 320 grams all-purpose flour
 
 For filling:
 - 1/2 cup jam
