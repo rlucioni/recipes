@@ -15,5 +15,5 @@ Adapted from the National Audubon Society's [suet](https://www.audubon.org/news/
 
 1. Mix sunflower seeds, peanuts, oats, and cornmeal. Reserve.
 2. Melt shortening and peanut butter in a saucepan. Add cayenne. Mix until well combined.
-3. Stir dry ingredients into melted fats.
+3. Stir melted fats into dry ingredients.
 4. Pour into a square pan or other mold. Freeze until hard, 1-2 hours.
