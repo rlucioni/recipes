@@ -9,6 +9,7 @@ Adapted from the National Audubon Society's [suet](https://www.audubon.org/news/
 - 1/2 cup cornmeal
 - 1 1/2 cups vegetable shortening or beef suet
 - 3/4 cups unsalted, unsweetened natural peanut butter
+- 1/4 cup cayenne pepper (for squirrels)
 
 ## Instructions
 
