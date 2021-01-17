@@ -13,7 +13,7 @@ Serves 8.
 - 1 teaspoon dried rosemary
 - 1 teaspoon dried thyme
 - 1 bay leaf
-- 2 (14.5-ounce) cans diced tomatoes
+- 1 (28-ounce) cans diced tomatoes
 - 4 cups low-sodium beef or chicken broth
 - 1 cup pearl barley
 
