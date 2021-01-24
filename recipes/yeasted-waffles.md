@@ -5,7 +5,7 @@ Yields 6 waffles
 ## Ingredients
 
 - 1 3/4 cups milk (440 grams), warmed
-- 1 1/2 teaspoons active dry yeast
+- 1 teaspoon instant yeast
 - 1/2 cup (105 grams) vegetable oil
 - 2 eggs
 - 1/4 teaspoon vanilla extract
