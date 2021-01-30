@@ -4,7 +4,7 @@
 
 - 1 pound spicy Italian sausage
 - 1 onion, diced
-- 1 bunch broccoli rabe, chopped
+- 2 bunches broccoli rabe, chopped
 - oregano
 - basil
 - marjoram
