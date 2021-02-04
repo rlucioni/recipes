@@ -21,5 +21,5 @@
 
 1. Whisk together flour, baking soda, ginger, cinnamon, cloves, nutmeg, and salt.
 2. Cream butter and both sugars until light and fluffy. Beat in molasses until combined. Beat in egg and vanilla extract.
-3. Slowly mix dry ingredients into wet ingredients until just combined. Refrigerate 30-60 minutes.
+3. Slowly mix dry ingredients into wet ingredients until just combined.
 4. Preheat oven to 350°F. Roll dough into balls of about 1 tablespoon each, rolling each in coarse sugar. Bake until tops are cracked, about 12 minutes.
