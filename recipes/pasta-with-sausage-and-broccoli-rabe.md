@@ -11,8 +11,9 @@
 - pepper
 - cayenne
 - 1 tablespoon tomato paste
-- 1 clove garlic, garlic
+- 1 clove garlic, grated
 - 28 ounce can whole tomatoes
+- 4 sun dried tomatoes, chopped
 - 1 pound pasta (orecchiette, small shells)
 - parmesan
 
