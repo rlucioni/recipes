@@ -11,6 +11,8 @@ Adapted from [Allrecipes](http://allrecipes.com/recipe/162760/fluffy-pancakes/).
 - 1 teaspoon baking powder
 - 1/2 teaspoon baking soda
 - 1/2 teaspoon salt
+- 2 tablespoons cocoa powder (optional)
+- 1 tablespoon espresso powder (optional)
 - 1 egg
 - 2 tablespoons melted butter
 - 1/4 teaspoon vanilla extract
