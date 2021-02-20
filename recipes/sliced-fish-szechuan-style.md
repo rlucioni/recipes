@@ -1,6 +1,6 @@
 # Sliced Fish Szechuan Style
 
-Inspired by the [Sliced Fish Szechuan Style](https://www.dropbox.com/s/mt9hbhxml8458m8/sliced-fish-szechuan-style.mp4) at Gourmet Dumpling House in Boston.
+Inspired by the Sliced Fish Szechuan Style at Gourmet Dumpling House in Boston.
 
 ## Ingredients
 
