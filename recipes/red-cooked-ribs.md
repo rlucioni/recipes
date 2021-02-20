@@ -1,4 +1,4 @@
-# Red-cooked Ribs
+# Red Cooked Ribs
 
 ## Ingredients
 
@@ -10,7 +10,7 @@
 - 1/2 teaspoon black peppercorns
 - 2 teaspoons hoisin sauce
 - 1/3 cup soy sauce
-- splash of Xiaoxing wine or sherry
+- splash of Shaoxing wine or dry sherry
 - 2 scallions, chopped
 
 ## Instructions

@@ -2,17 +2,16 @@
 
 ## Ingredients
 
-- 12-16 dried Chinese chilies
-- 2 teaspoons Sichuan peppercorns
+- 12-16 dried red chili peppers
+- 2 teaspoons green and/or red Sichuan peppercorns
 - 1 star anise
 - 1/2 cup vegetable oil
 
 ## Instructions
 
-1. Toast spices in the microwave for two increments of 10 seconds each.
-2. Grind chilies and peppercorns in a spice grinder until the consistency of red pepper flakes.
-3. Add ground spices and star anise to a small saucepan.
-4. Heat oil in a skillet until almost smoking (around 300°F).
-5. Pour hot oil over spices and stir. Spices should sizzle vigorously.
-6. Allow to cool, remove the star anise, and transfer to a jar.
-7. Store in the refrigerator for up to 6 months.
+1. Grind chilies and peppercorns in a spice grinder until the consistency of red pepper flakes.
+2. In a small pot, heat 1/2 cup oil. It's hot enough if you dip a chopstick in and see 🎶tiny bubbles🎶. Should _not_ be smoking hot! You'll burn the spices.
+3. Kill heat, add peppers, peppercorns, and star anise, and stir. Should sizzle vigorously.
+4. Allow to cool, then remove the star anise.
+
+Can be kept in the refrigerator for up to 6 months.
