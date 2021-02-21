@@ -13,8 +13,8 @@ Adapted from America's Test Kitchen's chocolate chip cookies.
 - 2 teaspoons vanilla extract
 - 1 egg
 - 1 egg yolk
-- 1 1/4 cup semisweet chocolate chips
-- 3/4 cup chopped toasted walnuts
+- 170 grams semisweet chocolate, chopped
+- 3/4 cup walnuts, toasted and chopped 
 
 ## Instructions
 
