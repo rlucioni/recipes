@@ -3,7 +3,7 @@
 ## Ingredients
 
 - 12-16 dried red chili peppers
-- 2 teaspoons green and/or red Sichuan peppercorns
+- 1-3 tablespoons green and/or red Sichuan peppercorns
 - 1 star anise
 - 1/2 cup vegetable oil
 
