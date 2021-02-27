@@ -19,6 +19,6 @@
 1. Rinse fish and pat dry. Score both sides three times and dust with a thin layer of cornstarch.
 2. Heat oil, ginger, garlic, and chilies over medium heat. Just before they start to brown, remove and reserve.
 3. Brown both sides of the fish, moving it as little as possible, about 5 minutes per side.
-4. Add back reserved ginger and garlic, plus scallions, wine, sugar, vinegar, and soy sauce. Cook over medium-low heat, basting constantly until fish is done and sauce is syrupy, about 5 minutes per side.
+4. Add back reserved ginger and garlic, plus scallions, wine, sugar, vinegar, and soy sauce. Cook over medium-low heat, basting constantly until fish is done (130-135°F) and sauce is syrupy, about 5 minutes per side.
 
 Serve with rice.
