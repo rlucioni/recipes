@@ -23,4 +23,3 @@ Makes 12 rolls
 5. Oil 9" round cake pan. Transfer dough to counter, pressing gently to expel air (no flour should be necessary). Pat and stretch into an 8x9" rectangle, short side facing you. Cut lengthwise into 4 strips, then across each strip into 3 pieces. One piece at a time, pat and stretch into 2x8" strips, then roll from the short side to make a tight cylinder. Arrange rolls seam side down in the cake pan, 10 around the edge pointing inward and 2 in the center. Cover and proof until doubled in size, 45-60 minutes.
 6. Adjust oven rack to lowest position and preheat to 375°F. Bake rolls until golden brown, 25-30 minutes. Let rolls cool in pan for a few minutes, then invert them onto a wire rack. Flip them back over and paint the tops and sides with melted butter. Let them cool a while longer before serving.
 
-To reheat, wrap in foil and heat in a 350°F oven for 15 minutes.
