@@ -14,7 +14,7 @@ Serves 8.
 - 1 teaspoon dried thyme
 - 1 bay leaf
 - 1 28-ounce can whole tomatoes
-- 4 cups low-sodium beef or chicken broth
+- Beef or chicken broth
 - 1 cup pearl barley
 
 ## Instructions
