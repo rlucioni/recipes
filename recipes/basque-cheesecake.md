@@ -18,6 +18,6 @@ For a 9x3 round cake pan. Inspired by Santiago Rivera's [tarta de queso](https:/
 2. In the bowl of a stand mixer, combine cream cheese and sugar. Mix on medium speed until mixture is smooth, scraping down sides as necessary.
 3. With mixer running, add eggs one at a time.
 4. Add cream, flour, vanilla, and salt. Mix on medium speed until smooth. Pour batter into prepared pan.
-5. Bake until light brown and beginning to set, 25-30 minutes. Crank oven to 475°F and bake until dark brown and center registers 150-155°F, 20-25 minutes.
+5. Bake until dark brown and center registers 150-155°F, 45-55 minutes.
 
 Cool in pan to room temperature before serving. Goes well with sherry!
