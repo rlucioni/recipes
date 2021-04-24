@@ -5,7 +5,7 @@ Adapted from [Chef John's beef rouladen](http://foodwishes.blogspot.com/2015/05/
 ## Ingredients
 
 - 2 skirt steaks, about 1 pound each (or other long-cooking cut, such as round, rump, chuck, or flap meat)
-- Dijon mustard, to taste
+- Hot German mustard (e.g., Landsberg), to taste
 - 8 strips bacon
 - paprika, to taste
 - 1/4 onion, thinly sliced
