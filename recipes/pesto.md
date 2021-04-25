@@ -13,7 +13,7 @@ Makes 3/4 cup, enough for 1 pound of pasta
 
 ## Instructions
 
-1. Toast nuts in the microwave until just golden and fragrant.
+1. Toast nuts until just golden and fragrant.
 2. (Optional) Bruise basil by crushing the leaves in your hand.
 3. Process the nuts, garlic, basil, and salt in a food processor until mostly smooth, stopping as necessary to scrape down the sides of the bowl.
 4. Drizzle in olive oil while the food processor is running.
