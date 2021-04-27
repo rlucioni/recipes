@@ -5,7 +5,7 @@ Serves 6-8
 ## Ingredients
 
 - 1 pound pasta
-- 1 1/2 pounds shrimp, peeled and deveined
+- 1 1/2 pounds shrimp, peeled, deveined, and tossed with a pinch of baking soda
 - 1-2 zucchinis, diced (optional)
 - 10-12 cherry tomatoes, quartered
 - 3/4 cup [pesto](pesto.md)
