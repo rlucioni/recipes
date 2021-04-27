@@ -1,10 +1,8 @@
 # Beef Rouladen
 
-Adapted from [Chef John's beef rouladen](http://foodwishes.blogspot.com/2015/05/beef-rouladen-german-engineering-you.html). Serves 4.
-
 ## Ingredients
 
-- 2 skirt steaks, about 1 pound each (or other long-cooking cut, such as round, rump, chuck, or flap meat)
+- 2 skirt steaks, about 1 pound each (or other long-cooking cut like round, rump, chuck, bavette, or flap)
 - Hot German mustard (e.g., Landsberg), to taste
 - 8 strips bacon
 - paprika, to taste
@@ -27,7 +25,7 @@ Adapted from [Chef John's beef rouladen](http://foodwishes.blogspot.com/2015/05/
 7. Melt butter, then add flour. Cook roux for about a minute, then whisk in *cold* stock. Hot roux, cold liquid, no lumps.
 8. Bring to a simmer over medium-high heat. Transfer rouladen back to the pot along with any accumulated juices. The meat doesn't need to be completely covered!
 9. Place lid on pressure cooker, bring to high pressure, and cook on high pressure for 20 minutes.
-10. Allow pot to return to normal pressure naturally and remove lid. Reserve rouladen to a bowl; allow to rest for about 5 minutes. In the meantime, reduce gravy on high until desired consistency. Taste for seasoning.
+10. Allow pot to return to normal pressure naturally and remove lid. Reserve rouladen to a bowl and let rest for about 5 minutes. In the meantime, reduce gravy to desired consistency. Taste for seasoning.
 11. Remove twine and cut rouladen into slices, perpendicular to the grain.
 
-Serve with veggies and mashed potatoes. Don't forget to spoon over the gravy!
+Serve with [braised red cabbage](braised-red-cabbage.md) and [spaetzle](spaetzle.md). Don't forget to spoon over the gravy!

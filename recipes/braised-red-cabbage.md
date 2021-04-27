@@ -1,24 +1,18 @@
 # Braised Red Cabbage
 
-Adapted from [Chef John's braised red cabbage](http://foodwishes.blogspot.com/2012/04/braised-red-cabbage-that-is-all.html).
-
 ## Ingredients
 
-- 1 red cabbage (about 3 pounds), cored and sliced thin
-- 2 tablespoons olive oil
-- 2/3 cup water
-- 1/2 cup red wine
-- 4 tablespoons red wine vinegar
-- 2 tablespoons white sugar
-- Pinch of caraway seeds, ground
-- Salt and pepper to taste
+- 1 red cabbage, washed, quartered, and sliced thin
+- 1-2 tart apples, sliced thin (e.g., Honeycrisp, Granny Smith)
+- 2 cups dry red wine
+- 4 whole cloves
+- 1 tablespoon sugar
+- pinch of caraway seeds, optional
+- salt to taste
+- dash red wine vinegar
 
 ## Instructions
 
-1. Halve and core cabbage. Thinly slice both halves.
-2. Heat olive oil over medium heat in a skillet. Add cabbage and season with salt.
-3. Add water, red wine, red wine vinegar, sugar, and ground caraway seeds.
-4. Keeping the cabbage moving, braise until cabbage is tender and liquid has evaporated, about 20 minutes. Add more water as necessary.
-5. Taste for seasoning. If it's not sweet enough, try adding some honey.
-
-Optionally, start the recipe with bacon and onions. Depending on how much bacon is used, reduce the amount of other fat used.
+1. Mix everything except the vinegar in a large pan.
+2. Bring to a boil, then simmer, covered, on low heat until the liquid evaporates, about 1 1/2 hours. Stir occasionally. Be careful, the cabbage burns easily towards the end.
+3. Add some red wine vinegar and taste for seasoning.
