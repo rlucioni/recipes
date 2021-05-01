@@ -11,7 +11,7 @@ Yields 24 cookies
 - 1/4 cup orange marmalade
 - 3 tablespoons all-purpose flour
 - 1 teaspoon vanilla extract
-- 1/4 teaspoon orange zest
+- zest of 1 orange
 - 1/4 teaspoon salt
 - 4 ounces bittersweet chocolate, chopped
 - pinch of instant espresso powder (optional)
