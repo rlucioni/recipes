@@ -16,7 +16,7 @@
 - 3 tablespoons ghee or browned butter
 - 1 1/2 teaspoons brown mustard seeds
 - 1 1/2 teaspoons cumin seeds
-- 1 onion, chopped
+- 1/2 onion, chopped
 - 15 curry leaves, torn (optional)
 - 6 garlic cloves, sliced
 - 4 whole dried chiles (e.g., arbol, kashmiri)
