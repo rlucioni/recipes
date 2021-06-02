@@ -10,7 +10,7 @@
 - 3/4 teaspoon ground turmeric
 - 6 ounces (~6 cups) greens (e.g., spinach)
 - 1 1/2 teaspoons salt
-- 1 1/2 teaspoons lemon juice
+- juice of 1 lemon
 - cilantro, chopped
 
 ### Tadka
