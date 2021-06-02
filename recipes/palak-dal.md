@@ -10,6 +10,8 @@
 - 3/4 teaspoon ground turmeric
 - 6 ounces (~6 cups) greens (e.g., spinach)
 - 1 1/2 teaspoons salt
+- 1 1/2 teaspoons lemon juice
+- cilantro, chopped
 
 ### Tadka
 
@@ -21,8 +23,6 @@
 - 6 garlic cloves, sliced
 - 4 whole dried chiles (e.g., arbol, kashmiri)
 - 1 serrano chile, halved lengthwise (optional)
-- 1 1/2 teaspoons lemon juice
-- cilantro, chopped
 
 ## Instructions
 
