@@ -6,7 +6,7 @@
 - 1 onion, finely diced
 - 2 cloves garlic, grated
 - 8 cups chicken broth and/or water
-- 3 pounds russet potatoes, peeled and sliced or 60 ounces canned white beans (including canning liquid)
+- 3 pounds russet potatoes, sliced, or 60 ounces canned white beans (including canning liquid)
 - 2 pounds Lacinato kale, washed, de-ribbed, and chopped
 
 ## Instructions
