@@ -18,6 +18,7 @@
 - 2 celery ribs, chopped
 - 1/2 teaspoon salt
 - 1/2 teaspoon pepper
+- roasted garlic cloves from roasted chicken, optional, minced
 - 6 tablespoons all-purpose flour
 - 2 1/4 cups chicken broth
 - 1/2 cup half-and-half
@@ -36,7 +37,7 @@
 1. Whisk egg in a bowl, then whisk in sour cream. Chill. Process flour and salt. Add butter and process until it looks like coarse sand. Add half of sour cream mixture, 5 pulses, then add rest of sour cream mixture and process until dough starts to form, about 10 pulses.
 2. Turn dough out onto floured surface and knead until it comes together. Halve and chill at least 1 hour.
 3. Roll out a chilled dough piece and ease into 9" pie plate. Chill.
-4. To make filling, melt butter in large saucepan. Add onion, carrots, celery, salt, and pepper. Cook until vegetables soften. Add flour and cook, stirring constantly, until golden, 1-2 minutes. Stir in broth and half-and-half, then bring to boil.
+4. To make filling, melt butter in large saucepan. Add onion, carrots, celery, salt, and pepper. Cook until vegetables soften. Add roasted garlic, if using. Add flour and cook, stirring constantly, until golden, 1-2 minutes. Stir in broth and half-and-half, then bring to boil.
 5. Stir in potato and thyme. Simmer until sauce thickens and potato is tender, about 8 minutes. Kill heat and stir in chicken, peas, and corn.
 6. Preheat oven to 450°F.
 7. Transfer cooled filling into pie plate. Roll out remaining dough piece and use it to seal pie, pinching crusts together, tucking overhang under itself, and crimping edges. Cut slits in top and brush with egg wash.
