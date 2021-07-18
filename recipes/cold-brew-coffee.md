@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-- 80 grams coarsely ground coffee
+- 80 grams coarsely ground coffee (35 on an Encore burr grinder)
 - 1400 grams cold water
 
 ## Instructions
