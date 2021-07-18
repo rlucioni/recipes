@@ -7,7 +7,7 @@
 
 ## Instructions
 
-1. Pour water over grounds. Stir, cover, and allow to steep at room temperature for 12+ hours.
+1. Pour water over grounds. Stir, cover, and allow to steep at room temperature for 24 hours.
 2. Filter grounds from coffee and refrigerate. A Chemex filter works great!
 
 To serve, combine with ice and whole milk or half-and-half. 
