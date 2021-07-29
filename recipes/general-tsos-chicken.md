@@ -4,7 +4,8 @@ Adapted from [Serious Eats' General Tso's Chicken](http://www.seriouseats.com/re
 
 ## Ingredients
 
-For marinade:
+### Marinade
+
 - 1 egg white
 - 2 tablespoons soy sauce
 - 2 tablespoons Shaoxing wine (or dry sherry)
@@ -13,13 +14,15 @@ For marinade:
 - 3 tablespoons cornstarch
 - 1 1/2 pounds boneless skinless chicken thighs, cubed
 
-For dry coating
+### Dry coating
+
 - 1/2 cup flour
 - 1/2 cup cornstarch
 - 1/2 teaspoon baking powder
 - 1/2 teaspoon kosher salt
 
-For sauce:
+### Sauce
+
 - 3 tablespoons soy sauce
 - 2 tablespoons Shaoxing wine (or dry sherry)
 - 2 tablespoons rice vinegar
@@ -33,7 +36,8 @@ For sauce:
 - 4 scallions, sliced (greens can be cut slightly longer than whites)
 - Some dried chilis
 
-For frying:
+### Frying
+
 - 4-6 cups oil
 
 ## Instructions
