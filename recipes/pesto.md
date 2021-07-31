@@ -7,7 +7,7 @@ Makes 3/4 cup, enough for 1 pound of pasta
 - 1/4 cup pine nuts or walnuts, toasted
 - 3 cloves garlic, grated
 - 2 cups packed fresh basil leaves
-- 7 tablespoons extra-virgin olive oil
+- 5 tablespoons extra-virgin olive oil
 - 1/2 teaspoon salt
 - 1/4 cup finely grated Parmesan cheese
 
