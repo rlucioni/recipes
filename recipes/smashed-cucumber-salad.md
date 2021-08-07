@@ -10,7 +10,7 @@
 - 1 teaspoon sesame oil
 - 1 teaspoon chili oil
 - 1 clove garlic, grated
-- small handfull cilantro, roughly chopped
+- small handful cilantro, roughly chopped
 - toasted sesame seeds
 
 ## Instructions
