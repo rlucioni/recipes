@@ -13,6 +13,7 @@
 - Chinese spinach, chopped
 - napa cabbage, chopped
 - eggs, chopped
+- dried scallop, optional 
 
 ## Instructions
 
