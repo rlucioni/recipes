@@ -13,7 +13,8 @@
 - Chinese spinach, chopped
 - napa cabbage, chopped
 - eggs, chopped
-- dried scallop, optional 
+- dried scallop, optional
+- bonito flakes, optional
 
 ## Instructions
 
