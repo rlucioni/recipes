@@ -22,4 +22,4 @@ For an 8x8 pan
 3. Whisk together eggs, sugar, vanilla, and salt in a separate bowl. Whisk in warm chocolate mixture. Fold in flour until just combined. Transfer to prepared pan, using a spatula to spread it out.
 4. Bake until a toothpick comes out mostly clean, about 40 minutes.
 
-Let cool (about 2 hours) before cutting into squares. Store at room temperature in airtight container, or freeze.
+Let cool (about 2 hours) before cutting into squares. Store at room temperature in airtight container or freeze.
