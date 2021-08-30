@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-- 2 pounds baby back ribs
+- 2 pounds baby back ribs, cut in half down the middle
 - 1 nub ginger, sliced
 - 3 cloves garlic, crushed
 - 1 Thai bird chile, halved
