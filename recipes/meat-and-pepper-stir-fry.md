@@ -30,7 +30,7 @@
 1. Thinly slice the flank steak across the grain. If using chicken, cut into bite-sized pieces. Mix with water in a bowl until the meat has absorbed all the water.
 2. Add all the other marinade ingredients except the vegetable oil and mix thoroughly. Skip the baking soda if using chicken. Then mix in vegetable oil. Let sit for 30 minutes.
 3. Cut peppers into strips. Cut milder peppers larger and spicier peppers smaller.
-4. Stir fry meat is barely cooked through. Reserve.
+4. Stir fry meat until barely cooked through. Reserve.
 5. Stir fry peppers and garlic in oil until softened. Add in soy sauce, Shaoxing wine, water, sugar, and white pepper and bring to a simmer. Add hoisin sauce if using.
 6. Add in reserved meat and toss until meat is fully cooked and the sauce has the desired consistency. Taste and adjust for seasoning.
 
