@@ -6,6 +6,7 @@
 - 5 cloves
 - 5 black peppercorns
 - 13 allspice berries
+- 1 star anise pod
 - 1 bottle dry red wine
 - 2 strips orange peel
 - 1/4 cup sugar
