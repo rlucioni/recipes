@@ -14,7 +14,7 @@
 
 ## Instructions
 
-1. Toast cinnamon, cloves, peppercorns, and allspice in saucepan over medium heat until fragrant, about 2 minutes.
+1. Toast cinnamon, cloves, peppercorns, allspice, and star anise in saucepan over medium heat until fragrant, about 2 minutes.
 2. Add wine, orange peel, and sugar. Bring to simmer, stirring to dissolve sugar. Partially cover and simmer 1 hour.
 2. Fish out spices and orange peel. Stir in Grand Marnier.
 
