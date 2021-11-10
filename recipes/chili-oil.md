@@ -10,7 +10,7 @@
 ## Instructions
 
 1. Grind chilies and peppercorns in a spice grinder until the consistency of red pepper flakes.
-2. In a small pot, heat 1/2 cup oil. It's hot enough if you dip a chopstick in and see 🎶tiny bubbles🎶. Should _not_ be smoking hot! You'll burn the spices.
+2. Heat oil in a small pot. It's hot enough if you dip a chopstick in and see 🎶tiny bubbles🎶. Should _not_ be smoking hot! You'll burn the spices.
 3. Kill heat, add peppers, peppercorns, and star anise, and stir. Should sizzle vigorously.
 4. Allow to cool, then jar. 
 
