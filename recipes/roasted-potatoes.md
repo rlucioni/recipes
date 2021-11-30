@@ -1,16 +1,14 @@
 # Roasted Potatoes
 
-Adapted from [Chef John's Crusty Roasted Yellow Potatoes](http://foodwishes.blogspot.com/2010/07/crusty-roasted-yellow-potatoes-now-with.html).
-
 ## Ingredients
 
-- 2 pounds small yellow potatoes, washed and halved.
-- 3 sprigs rosemary
-- 3 cloves garlic, crushed
-- 2 tablespoons salt
-- 2 tablespoons olive oil (or butter)
+- potatoes, scrubbed, dried, halved
+- olive oil
+- salt
 
 ## Instructions
 
-1. Parboil potatoes, rosemary, garlic, and salt in some water for about 5 minutes. Drain and allow to air dry.
-2. Once dry, add potatoes back to the pot (or a pan) and cover with olive oil and/or butter. Move to a 375°F until golden brown, about 30 minutes. You can also fry them in a pan until golden brown.
+1. Preheat oven to 425°F.
+2. Toss potatoes in oil and salt. Place cut side down in a single layer. Cover with foil and roast about 20 minutes.
+3. Remove foil and continue roasting until cut side is browned, about 15 minutes longer.
+4. Turn cut side up and roast until skins are wrinkled, another 5-10 minutes.
