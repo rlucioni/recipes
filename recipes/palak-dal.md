@@ -21,7 +21,7 @@
 - 1/2 onion, chopped
 - 15 curry leaves, torn (optional)
 - 6 garlic cloves, sliced
-- 4 whole dried chiles (e.g., arbol, kashmiri)
+- 4 dried chiles (e.g., arbol, kashmiri), chopped
 - 1 serrano chile, halved lengthwise (optional)
 
 ## Instructions
