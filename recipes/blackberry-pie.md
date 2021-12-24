@@ -6,7 +6,7 @@
 - 1250 grams blackberries (8 cups)
 - 1 1/2 cups sugar
 - 1 lemon, juice and zest
-- 6-7 tablespoons tapioca (shake box!)
+- 6 tablespoons tapioca (shake box!)
 - Cream and sugar for topping
 
 ## Instructions
