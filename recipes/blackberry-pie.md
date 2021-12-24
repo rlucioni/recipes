@@ -11,9 +11,9 @@
 
 ## Instructions
 
-1. Preheat oven to 375°F.
+1. Preheat oven to 400°F.
 2. Mix tapioca and sugar together. Shake over berries and mix together. Let sit for 15 minutes to draw out juice.
 3. Add lemon juice and zest. Mix, then add to crust. Cover with top crust and cut air holes.
-4. Place on foil-lined sheet pan and bake until crust is browned and filling is bubbling, about 40 minutes. You might need to cover the crust to keep it from getting burned.
+4. Place on foil-lined sheet pan and bake until crust is browned and filling is bubbling, about 45-60 minutes. You might need to cover the crust to keep it from getting burned.
 
 Chill thoroughly in the fridge before slicing. Serve with vanilla ice cream.
