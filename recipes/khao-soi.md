@@ -36,9 +36,8 @@ Serves 4.
 ## Instructions
 
 1. Add all the curry paste ingredients into a food processor and process until smooth.
-2. Heat oil in a large pot and brown the chicken thigh pieces or shrimp. Reserve.
-3. Add the curry paste and fry until fragrant, 3-5 minutes.
-4. Add the Maesri red curry paste, chicken stock, and sugar. Bring to a simmer. Start boiling water in a separate pot to cook the noodles.
-5. Add the coconut milk, fish sauce, and reserved chicken or shrimp. Bring back to a simmer, taste for seasoning, and shut off the heat.
-6. Cook the noodles according to the package instructions. Drain and portion into bowls. Ladle over soup.
-7. Top with toppings and serve.
+2. Heat oil in a large pot and add the curry paste. Fry until fragrant, 3-5 minutes.
+3. Add the Maesri red curry paste, chicken stock, and sugar. Bring to a simmer. Start boiling water in a separate pot to cook the noodles.
+4. Add the coconut milk, fish sauce, and chicken or shrimp. Bring back to a simmer, cook until the meat is barely poached, and taste for seasoning.
+5. Cook the noodles according to the package instructions. Drain and portion into bowls. Ladle over soup.
+6. Top with toppings and serve.
