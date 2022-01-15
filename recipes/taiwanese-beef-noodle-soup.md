@@ -1,37 +1,40 @@
 # Taiwanese Beef Noodle Soup
 
-Adapted from [Serious Eats' Taiwanese Beef Noodle Soup](http://www.seriouseats.com/recipes/2014/01/taiwan-eats-taiwanese-beef-noodle-soup-recipe.html).
+Serves 8.
 
 ## Ingredients
 
-- 3 pounds beef (oxtail and/or leg shank with bone)
-- 1 onion, halved
+- 3 pounds beef (boneless shank or chuck)
 - 6 large slices fresh ginger
-- 3 small Thai bird chilies, stems removed
-- 3 large plum tomatoes, roughly chopped
 - 6 cloves garlic, crushed
-- 1 tablespoon Sichuan chili bean sauce (doubanjiang)
-- 4 whole star anise cloves
+- 5-6 scallions, cut into thirds
+- 3 heaven-facing chilies, stems removed
+- 4 whole star anise pods
 - 1 1/2 tablespoons Sichuan peppercorns
 - 1/2 tablespoon black peppercorns
-- 1 cinammon stick
+- 2 generous tablespoons Pixian doubanjiang
 - 3/4 cup sake
+- 1/4 cup dark soy sauce
 - 1/3 cup soy sauce
-- 1 tablespoon sugar
-- 5 cups water
-- 2 pounds Asian wheat flour noodles (wider is better)
-- vegetables for topping (e.g., baby bok choy, yu choy, spinach, daikon)
-- 2 green onions, chopped
-- 1 package silken tofu (optional)
+- 8 cups water
+- 1 onion, quartered
+- 2 tomatoes, cut into wedges
+- 1 1/2 tablespoons sugar
+- 1 cinammon stick
+- 1 bay leaf
+- 1 tablespoon goji berries (optional)
+- 2 pounds Asian wheat flour noodles
+- baby bok choy
+- chopped scallions and cilantro for topping
 
 ## Instructions
 
-1. In a pressure cooker, brown meat well over medium-high heat, about 4 minutes per side. Reserve.
-2. In the same pot, add onion halves face down and ginger. Brown for a few minutes before adding chilies, tomatoes, and garlic. Stir briefly.
-4. Add chili bean sauce and spices and sizzle for about 30 seconds. Deglaze with sake and soy sauce. Be sure to scrape up the fond.
-5. Return beef to the pot. Add sugar. Stir to coat the meat.
-6. Add water. Bring to a simmer, then lock the lid on the pressure cooker. Cook for 90 minutes at high pressure.
-7. Depressurize. Fish out beef and reserve. Strain stock into bowls, skimming fat if desired.
-8. Blanch baby bok choy and reserve. Cook noodles and add to bowls of broth.
+1. Cut meat into large chunks. Add to a pressure cooker, cover with water, and bring to a boil. Boil vigorously for 1 minute before draining and rinsing the meat.
+2. Wipe down the pressure cooker and heat over medium-high heat with 4 tablespoons oil. Add ginger, garlic, scallions, chilies, star anise pods, and both type of peppercorns. Sizzle until aromatic.
+3. Add doubanjiang and sizzle for about 30 seconds. Deglaze with sake and soy sauces.
+4. Return beef to the pot. Add water, onion, tomatoes, sugar, cinammon stick, bay leaf, and goji berries.
+5. Bring to a simmer. Apply lid and bring the pressure cooker to high pressure. Cook for 30 minutes at high pressure.
+6. Depressurize. Fish out beef and reserve. Strain stock into bowls, skimming fat if desired.
+7. Cook noodles and add to bowls of broth. Blanch baby bok choy and reserve. 
 
-Top with vegetables, beef pieces, tofu, and green onions.
+Top with vegetables, beef pieces, green onions, and cilantro.
