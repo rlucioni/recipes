@@ -12,7 +12,8 @@
 - 3/4 cup Shaoxing wine or dry sherry
 - 2 tablespoons sugar
 - 2 1/2 tablespoons Chinkiang black vinegar
-- 3 tablespoons soy sauce
+- 1 tablespoon dark soy sauce
+- 2 tablespoons soy sauce
 
 ## Instructions
 
