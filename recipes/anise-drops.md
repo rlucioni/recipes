@@ -2,6 +2,8 @@
 
 Relative humidity must be below 50% for these to work! They won't "self-frost" when baked otherwise.
 
+Next time: try [powdered sugar](https://www.chefkoch.de/rezepte/2445651385375877/Anisplaetzchen.html)?
+
 ## Ingredients
 
 - 3 eggs
