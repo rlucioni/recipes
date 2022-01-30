@@ -1,6 +1,6 @@
 # Chemex
 
-Adapted from [Chemex 101](https://www.chemexcoffeemaker.com/brewing-product-care-instructions) and [Blue Bottle Coffee](https://bluebottlecoffee.com/preparation-guides/chemex?type=whole-bean). Yields 2 cups.
+Yields 2-3 cups
 
 ## Ingredients
 
