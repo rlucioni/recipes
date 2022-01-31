@@ -6,7 +6,6 @@ Yields 2-3 cups
 
 - 40 grams coffee, ground to a coarseness resembling sea salt (25 on an Encore burr grinder)
 - 600 grams water plus more for rinsing filter and warming cups (~1 L), 96-100°C
-- warmed cups
 
 ## Instructions
 
@@ -19,7 +18,7 @@ Yields 2-3 cups
 
 ## Scaling up
 
-Single-cup ratio is 20 grams coffee to 300 grams water (1:15). Rule of thumb is to multiply single-cup ratio by desired number of cups and grind coarser. Goal is 6 minute brew time. For 3 cups:
+Single-cup ratio is 20 grams coffee to 300 grams water (1:15). Rule of thumb is to multiply single-cup ratio by desired number of cups and grind coarser. Goal is 4-5 minute brew time. For 3 cups:
 
 - 60 grams coffee, ground at 28
 - 900 grams water
