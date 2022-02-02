@@ -16,7 +16,7 @@ Adapted from [Chef John's sausage and beef chili](http://foodwishes.blogspot.com
 - 1 teaspoon salt
 - 1 pound ground beef
 - 2 cups water
-- 1 cup crushed San Marzano tomatoes
+- 1 cup crushed tomatoes
 - 1 red bell pepper
 - 1 green bell pepper
 - 24-30 ounces cannellini or other white beans, drained and rinsed

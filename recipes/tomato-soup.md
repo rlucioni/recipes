@@ -6,7 +6,7 @@ Serves 4.
 
 - 1 tablespoon olive oil
 - 1 onion, diced
-- 2 (28 ounce) cans whole San Marzano tomatoes
+- 2 (28 ounce) cans whole tomatoes
 - 2 tablespoons tomato paste
 - 1 bay leaf
 - 3/4 cup water

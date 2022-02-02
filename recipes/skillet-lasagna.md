@@ -4,7 +4,7 @@ Adapted from America's Test Kitchen's Skillet Lasagna. Serves 4.
 
 ## Ingredients
 
-- 14 ounces diced San Marzano tomatoes (canned)
+- 14 ounces diced tomatoes (canned)
 - 1/2 tablespoon olive oil
 - 1 onion, grated
 - 3 cloves garlic, grated

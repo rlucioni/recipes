@@ -2,25 +2,32 @@
 
 Adapted from the [New York Times' Confit Byaldi](http://www.nytimes.com/2007/06/13/dining/131rrex.html). Fills one 10" pan.
 
-For the piperade (two 10" ratatouilles):
 ## Ingredients
+
+### Piperade
+
+Enough for 2 10" pans
 
 - 1/2 yellow bell pepper
 - 1/2 orange bell pepper
 - 1/2 red bell pepper
 - 1/2 yellow onion, diced
 - 3 cloves garlic, grated
-- 4 San Marzano tomatoes, canned
+- 4 whole canned tomatoes
 - 1 sprig thyme
 - 1 bay leaf
 
-For the vegetables (one 10" pan):
+### Vegetables
+
+Enough for 1 10" pan
+
 - 1 zucchini
 - 1 yellow squash
 - 1 Japanese eggplant
 - 4 Roma tomatoes
 
-For the vinaigrette:
+### Vinaigrette
+
 - 1 tablespoon olive oil
 - 1 teaspoon balsamic vinegar
 - 1 tablespoon reserved piperade
