@@ -36,7 +36,7 @@ Serves 6
 
 1. Add bones and meat to a pressure cooker, cover with water, and bring to a boil. Boil vigorously for 3 minutes before draining and rinsing the meat.
 2. Char onions and ginger (e.g., under broiler, over flame).
-3. Toast spices - star anise, cinnamon, cardamom, cloves, fennel seeds, and coriander - until fragrant. Return bones and meat to pot. Top with 2-3 quarts of water. Add scallions, fish sauce, sugar, and salt.
+3. Toast spices - star anise, cinnamon, cardamom, cloves, fennel, and coriander - until fragrant. Return bones and meat to pot. Top with 2-3 quarts of water. Add scallions, fish sauce, sugar, and salt.
 4. Bring to a boil and put on the lid. Cook at high pressure for 40 minutes.
 5. Release pressure and remove the lid. Remove the meat and bones. Strain the concentrated broth into a bowl. Taste for seasoning, dilute as necessary.
 6. Boil noodles according to package instructions. Add to bowl and top with thinly sliced onions, scallions, chilis, and meat. Ladle hot broth over noodles. Top with herbs, bean sprouts, and lime.
