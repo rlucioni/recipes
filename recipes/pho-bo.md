@@ -16,7 +16,7 @@ Serves 6
 - 1 red cardamom pod (cau guo, Chinese black cardamom)
 - 4 cloves
 - 1 teaspoon fennel seeds
-- 1 teaspoon coriander seeds (or 1 tablespoon ground)
+- 1 teaspoon coriander seeds
 - 4 scallions, whites cut into large pieces, greens saved for topping
 - 1/4 cup fish sauce
 - 2 tablespoons sugar
