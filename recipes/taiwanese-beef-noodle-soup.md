@@ -1,6 +1,6 @@
 # Taiwanese Beef Noodle Soup
 
-Serves 8.
+Serves 8
 
 ## Ingredients
 
