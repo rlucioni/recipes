@@ -6,9 +6,9 @@
 - 1 nub ginger, sliced
 - 2 cloves garlic, crushed
 - 2 heaven-facing chilies
-- 2 scallions, cut into 1-inch pieces
+- 3 scallions, cut into 1-inch pieces
 - 1 1/2 tablespoons sugar
-- 3 tablespoons Shaoxing wine or dry sherry
+- 1/2 cup Shaoxing wine or dry sherry
 - 1 1/2 tablespoons dark soy sauce
 - 3 tablespoons soy sauce
 - 2 star anise
