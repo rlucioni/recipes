@@ -13,7 +13,8 @@
 - 3 tablespoons soy sauce
 - 2 star anise
 - 1/2 teaspoon Szechuan peppercorns
-- 1 small stick cinnamon
+- 1 cinnamon stick
+- 1 red cardamom pod
 - 1 bay leaf
 
 ## Instructions
