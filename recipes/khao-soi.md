@@ -17,7 +17,7 @@ Serves 4.
 - 2 tablespoons Thai shrimp paste
 
 ### Soup
-- 1 pound chicken thighs, cut into strips, or whole shrimp
+- 1 pound chicken thighs, cut into strips
 - 2 tablespoons Maesri Thai red curry paste
 - 4 cups low sodium chicken stock
 - 2 teaspoons brown sugar
@@ -35,9 +35,10 @@ Serves 4.
 
 ## Instructions
 
-1. Add all the curry paste ingredients into a food processor and process until smooth.
-2. Heat oil in a large pot and add the curry paste. Fry until fragrant, 3-5 minutes.
-3. Add the Maesri red curry paste, chicken stock, and sugar. Bring to a simmer. Start boiling water in a separate pot to cook the noodles.
-4. Add the coconut milk, fish sauce, and chicken or shrimp. Bring back to a simmer, cook until the meat is barely poached, and taste for seasoning.
-5. Cook the noodles according to the package instructions. Drain and portion into bowls. Ladle over soup.
-6. Top with toppings and serve.
+1. Brown chicken and reserve. 
+2. Add all the curry paste ingredients into a food processor and process until smooth.
+3. Heat oil in a large pot and add the curry paste. Fry until fragrant, 3-5 minutes.
+4. Add the Maesri red curry paste, chicken stock, and sugar. Bring to a simmer. Start boiling water in a separate pot to cook the noodles.
+5. Add the coconut milk, fish sauce, and chicken or shrimp. Bring back to a simmer, cook until the meat is barely poached, and taste for seasoning.
+6. Cook the noodles according to the package instructions. Drain and portion into bowls. Ladle over soup.
+7. Top with toppings and serve.
