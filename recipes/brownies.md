@@ -10,7 +10,7 @@ For an 8x8 pan
 - 3 tablespoons Dutch-processed cocoa powder
 - 1 1/2 tablespoons instant espresso powder
 - 3 eggs
-- 1 1/4 cups (8 3/4 ounces) sugar
+- 220 grams sugar
 - 2 teaspoons vanilla extract
 - 1/2 teaspoon salt
 - 140 grams all-purpose flour
