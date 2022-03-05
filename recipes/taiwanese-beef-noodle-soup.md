@@ -10,6 +10,7 @@ Serves 8
 - 5-6 scallions, cut into thirds
 - 3 heaven-facing chilies, stems removed
 - 4 whole star anise pods
+- 1 red cardamom pod
 - 1 1/2 tablespoons Sichuan peppercorns
 - 1/2 tablespoon black peppercorns
 - 2 generous tablespoons Pixian doubanjiang
@@ -30,7 +31,7 @@ Serves 8
 ## Instructions
 
 1. Cut meat into large chunks. Add to a pressure cooker, cover with water, and bring to a boil. Boil vigorously for 1 minute before draining and rinsing the meat.
-2. Wipe down the pressure cooker and heat over medium-high heat with 4 tablespoons oil. Add ginger, garlic, scallions, chilies, star anise pods, and both type of peppercorns. Sizzle until aromatic.
+2. Wipe down the pressure cooker and heat over medium-high heat with 4 tablespoons oil. Add ginger, garlic, scallions, chilies, star anise pods, cardamom pod, and both type of peppercorns. Sizzle until aromatic.
 3. Add doubanjiang and sizzle for about 30 seconds. Deglaze with sake and soy sauces.
 4. Return beef to the pot. Add water, onion, tomatoes, sugar, cinammon stick, bay leaf, and goji berries.
 5. Bring to a simmer. Apply lid and bring the pressure cooker to high pressure. Cook for 30 minutes at high pressure.
