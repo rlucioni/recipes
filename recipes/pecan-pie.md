@@ -1,7 +1,5 @@
 # Pecan Pie
 
-Adapted from [Chef John's pecan pie](http://foodwishes.blogspot.com/2014/04/an-amazing-award-winning-pecan.html).
-
 ## Ingredients
 
 - 1 batch [pie crust](pie-crust.md)
@@ -24,7 +22,6 @@ Adapted from [Chef John's pecan pie](http://foodwishes.blogspot.com/2014/04/an-a
 3. Place on medium heat and cook until boiling, stirring continuously. Cool about 5-10 minutes.
 4. Whisk eggs in large bowl. Slowly drizzle in sugar mixture.
 5. Add pecans to pie shell. Pour on filling. Make sure every nut is coated. Add more pecans as needed. Tap and shake to settle.
-6. Bake until crust begins to brown and edges are set, but center is just slightly loose, about 1 hour.
-7. Let cool completely before slicing.
+6. Bake until internal temp registers 185°F, about 1 hour.
 
-Serve chilled, topped with vanilla ice cream or whipped cream.
+Let cool completely before slicing! Serve chilled, topped with vanilla ice cream or whipped cream.
