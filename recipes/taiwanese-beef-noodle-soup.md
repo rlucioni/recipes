@@ -14,7 +14,7 @@ Serves 8
 - 1 1/2 tablespoons Sichuan peppercorns
 - 1/2 tablespoon black peppercorns
 - 2 generous tablespoons Pixian doubanjiang
-- 3/4 cup sake
+- 3/4 cup dry sherry
 - 1/4 cup dark soy sauce
 - 1/3 cup soy sauce
 - 8 cups water
