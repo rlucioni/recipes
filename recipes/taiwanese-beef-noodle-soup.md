@@ -32,7 +32,7 @@ Serves 8
 
 1. Cut meat into large chunks. Add to a pressure cooker, cover with water, and bring to a boil. Boil vigorously for 1 minute before draining and rinsing the meat.
 2. Wipe down the pressure cooker and heat over medium-high heat with 4 tablespoons oil. Add ginger, garlic, scallions, chilies, star anise pods, cardamom pod, and both type of peppercorns. Sizzle until aromatic.
-3. Add doubanjiang and sizzle for about 30 seconds. Deglaze with sake and soy sauces.
+3. Add doubanjiang and sizzle for about 30 seconds. Deglaze with sherry and soy sauces.
 4. Return beef to the pot. Add water, onion, tomatoes, sugar, cinammon stick, bay leaf, and goji berries.
 5. Bring to a simmer. Apply lid and bring the pressure cooker to high pressure. Cook for 30 minutes at high pressure.
 6. Depressurize. Fish out beef and reserve. Strain stock into bowls, skimming fat if desired.
