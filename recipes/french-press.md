@@ -12,4 +12,6 @@ Makes 2 cups
 
 1. Put grounds in French press carafe. Add boiling water. Stir if you see any dry clumps. Let steep 4 minutes.
 2. Rinse paper filter with remaining water.
-3. Stir, pour everything into paper filter, and let drain. Should take another 4-5 minutes.
+3. Stir, transfer slurry into paper filter, and let drain. Should take another 4-5 minutes.
+
+Alternate method: steep 5 minutes, drain 3 minutes.
