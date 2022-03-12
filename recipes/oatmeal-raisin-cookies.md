@@ -1,26 +1,29 @@
 # Oatmeal Raisin Cookies
 
+Makes about 20 cookies
+
 ## Ingredients
 
-- 6 tablespoons butter, softened
-- generous 1/4 cup white sugar
-- generous 1/4 cup brown sugar, packed
-- 1 egg
-- 1/2 teaspoon vanilla extract
-- 100 grams all-purpose flour
+- 140 grams all-purpose flour
+- 1/2 teaspoon salt
 - 1/2 teaspoon baking soda
 - 1/4 teaspoon ground cinnamon
-- 1/4 teaspoon salt
-- generous 1 1/3 cup rolled oats
-- 1/2 cup golden raisins
+- 1/4 teaspoon nutmeg
+- 145 grams brown sugar
+- 100 grams sugar
+- 4 tablespoons unsalted butter
+- 1/2 cup vegetable oil
+- 1 egg
+- 1 egg yolk
+- 1 teaspoon vanilla extract
+- 255 grams old-fashioned rolled oats
+- 3/4 cup raisins or other dried fruit
 
 ## Instructions
 
-1. Cream butter and sugars until smooth.
-2. Beat in egg and vanilla until fluffy.
-3. Sift together flour, baking soda, cinnamon, and salt. Mix into wet ingredients.
-4. Fold in oats and raisins. Preheat oven to 375°F.
-5. Place tablespoon-size balls on lined baking sheet.
-6. Bake until golden brown, about 14 minutes, turning halfway through. Refrigerate dough between batches.
-
-Let cool on cooling rack before eating. Store at room temperature in an air-tight container.
+1. Preheat oven to 375°F.
+2. Whisk together flour, salt, baking soda, cinnamon, and nutmeg. Reserve.
+3. Measure sugars into a heatproof bowl. Brown butter in a skillet, then pour over sugars. Whisk together. Whisk in oil, then egg, egg yolk, and vanilla.
+4. Incorporate flour mixture with wooden spoon or spatula. Stir in oats and dried fruit.
+5. Scoop and roll into balls, pressing into 2-3" disks. Damp hands prevent sticking.
+6. Bake one sheet at a time until edges are set and lightly browned and centers are soft but not wet, about 10 minutes. Let cool on sheet for 5 minutes before transfering to wire rack.
