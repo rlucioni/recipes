@@ -15,8 +15,9 @@
 1. Preheat oven to 425°F.
 2. Whisk together flour, sugar, baking powder, and salt.
 3. Cut in butter until dough resembles coarse crumbs. Add any additions.
-4. Mix cream and milk and stir into dry ingredients until just combined.
+4. Mix milk into dry ingredients until just combined.
 5. Turn out on floured surface and fold dough into thirds three times.
 6. Shape into flat rectangle about 1 inch thick. Cut rectangle into fourths and cut each fourth into two triangles.
 7. Place on baking sheet lined with parchment paper. Paint scones with cream and sprinkle with sugar. Bake for 12-15 minutes until lightly browned.
-8. Let cool on cooling rack before serving.
+
+Let cool on cooling rack before serving.
