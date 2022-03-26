@@ -15,7 +15,8 @@ Yields 16
 
 - napa cabbage, salted and drained
 - Chinese chives, finely chopped
-- ground pork
+- 2 pounds ground pork
+- 1 pound shrimp, chopped fine
 - soy sauce
 - sake
 - sesame oil
