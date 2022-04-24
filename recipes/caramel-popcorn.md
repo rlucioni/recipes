@@ -10,6 +10,7 @@
 - 1 teaspoon salt
 - 1 teaspoon vanilla extract
 - 1/4 teaspoon baking soda
+- nuts (e.g., peanuts, almonds, pecans)
 
 ## Instructions
 
