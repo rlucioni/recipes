@@ -23,6 +23,6 @@ For an 8x8 pan
 2. Whisk flour, salt, and baking powder in a bowl. Put brown sugar in a separate, heat-proof bowl.
 3. Brown butter. Whisk into brown sugar. Whisk in egg, egg yolk, corn syrup, and vanilla.
 4. Stir in dry ingredients. Stir in nuts and chocolate.
-5. Transfer batter to pan. Sprinkle with salt if using. Bake until golden brown, about 35 minutes.
+5. Transfer batter to pan. Sprinkle with salt if using. Bake until golden brown and internal temp reaches 200°F, about 30 minutes.
 
 Let cool (about 2 hours) before cutting. Store at room temperature in airtight container or freeze.
