@@ -5,7 +5,7 @@ For an 8x8 pan
 ## Ingredients
 
 - 160 grams flour
-- 5/8 teaspoons salt
+- 5/8 teaspoon salt
 - 1/4 teaspoon baking powder
 - 170 grams brown sugar
 - 6 tablespoons unsalted butter
