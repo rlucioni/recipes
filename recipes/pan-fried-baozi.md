@@ -18,7 +18,7 @@ Yields 16
 - 2 pounds ground pork
 - 1 pound shrimp, chopped fine
 - soy sauce
-- sake
+- dry sherry
 - sesame oil
 - garlic powder
 
