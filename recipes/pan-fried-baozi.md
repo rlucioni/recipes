@@ -21,6 +21,7 @@ Yields 16
 - dry sherry
 - sesame oil
 - garlic powder
+- white pepper
 
 ## Instructions
 
