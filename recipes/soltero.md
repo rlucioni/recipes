@@ -9,7 +9,7 @@ Serves 6.
 - 1/2 cup red wine vinegar
 - 3 cups diced cherry tomatoes
 - 3 ears corn (2 generous cups), cut off the cob
-- 8 ounces queso fresco, diced
+- 16 ounces queso fresco, diced
 - 30 ounces fava beans (shelled, blanched in salted water, peeled)
 - 3 green onions, sliced
 - 1-2 chiles (e.g., rocoto, heaven facing), chopped fine
