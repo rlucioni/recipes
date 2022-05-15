@@ -10,6 +10,7 @@ Yields 6 waffles
 - 2 eggs
 - 1/4 teaspoon vanilla extract
 - 260 grams flour
+- 45 grams malted milk powder
 - 1 tablespoon sugar
 - 1/2 teaspoon salt
 - 1/4 teaspoon baking soda
