@@ -18,7 +18,7 @@ Yields 6 waffles
 ## Instructions
 
 1. Mix yeast and warm milk, let sit for 5 minutes to check that yeast is active.
-2. Mix flour, sugar, salt, and baking soda in a large bowl.
+2. Mix flour, milk powder, sugar, salt, and baking soda in a large bowl.
 3. Mix oil, eggs, and vanilla extract into milk mixture.
 4. Stir wet ingredients into dry ingredients until just combined. Let rise overnight in the refrigerator.
 5. Spoon batter into waffle iron.
