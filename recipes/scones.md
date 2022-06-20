@@ -8,7 +8,12 @@
 - 1/2 teaspoon salt
 - 6 tablespoons unsalted butter, cut into small pieces and chilled
 - 2/3 cup whole milk
-- Optional additions: zest of 1 orange or lemon, 1 cup craisins or dried blueberries
+
+## Optional additions (choose 1)
+
+- 1 cup craisins + zest of 1 orange
+- 1 cup dried blueberries + zest of 1 lemon
+- 1 cup diced rhubarb + 1 tablespoon lightly crushed anise seeds
 
 ## Instructions
 
