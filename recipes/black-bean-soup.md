@@ -6,7 +6,7 @@
 - 2 large onions, chopped
 - 2-3 carrots, chopped
 - 4 ribs celery, chopped
-- 3 serrano chilies, finely minced
+- 1 serrano chili, finely minced
 - 7 cloves garlic, grated
 - 2 tablespoons ground cumin
 - 3 whole chipotle peppers in adobo sauce, finely minced, plus 1 tablespoon sauce from can
