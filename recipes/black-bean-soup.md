@@ -2,16 +2,16 @@
 
 ## Ingredients
 
-- 8 ounces ham or chorizo, diced
+- 8-12 ounces ham or chorizo, diced
 - 2 large onions, chopped
-- 1 carrot, chopped
+- 2-3 carrots, chopped
 - 4 ribs celery, chopped
 - 3 serrano chilies, finely minced
 - 7 cloves garlic, grated
 - 2 tablespoons ground cumin
 - 3 whole chipotle peppers in adobo sauce, finely minced, plus 1 tablespoon sauce from can
 - 1 1/2 pounds black beans
-- 10 cups chicken stock
+- 12 cups chicken stock
 - 2 bay leaves
 - avocado, cubed
 - cilantro, chopped
