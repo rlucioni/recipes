@@ -10,7 +10,7 @@ For a 9.5" pie
 - 1/2 cup sugar
 - 1/2 cup brown sugar
 - 1/4 teaspoon salt
-- 4 tablespoons minute tapioca, ground (see [here](https://www.kingarthurflour.com/guides/pie-baking/pie-thickener.html) for alternatives)
+- 4 tablespoons minute tapioca, ground (optional)
 - heavy cream and demerara sugar for topping
 
 ## Instructions
