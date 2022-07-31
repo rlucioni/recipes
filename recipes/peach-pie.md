@@ -10,12 +10,12 @@ For a 9.5" pie
 - 1/2 cup sugar
 - 1/2 cup brown sugar
 - 1/4 teaspoon salt
-- 4 tablespoons minute tapioca, ground (optional)
+- 4 tablespoons minute tapioca, ground
 - heavy cream and demerara sugar for topping
 
 ## Instructions
 
-1. Remove pits from peaches and cut into chunks. Toss with lemon juice, lemon zest, sugars, and salt. Let sit for at least 30 minutes, stirring occasionally.
+1. Remove pits from peaches and cut into chunks. Toss with lemon juice, lemon zest, sugars, salt, and tapioca. Let sit for at least 30 minutes, stirring occasionally.
 1. Preheat oven to 400°F.
 1. Roll out one batch of pie crust, put it in a pie plate, and refrigerate.
 1. Roll out the second batch of pie crust. Cut slits to allow steam to escape.
