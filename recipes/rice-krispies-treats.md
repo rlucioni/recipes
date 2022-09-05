@@ -2,11 +2,11 @@
 
 ## Ingredients
 
-- 4 tablespoons butter
-- 1 package (10 oz) large marshmallows
-- 1 teaspoon vanilla extract
-- 1/8 teaspoon salt
-- 6 cups (170 grams) crisped rice cereal
+- 8 tablespoons butter
+- 2 packages (20 oz) large marshmallows
+- 2 teaspoons vanilla extract
+- 1/4 teaspoon salt
+- 12 cups (340 grams) crisped rice cereal
 
 ## Instructions
 
