@@ -8,12 +8,12 @@
 - 1 nub ginger, sliced
 - 3 cloves garlic, crushed
 - 2 Thai bird chilies, optional, halved
-- 3 scallions, cut into large pieces
-- 3/4 cup Shaoxing wine or dry sherry
-- 2 tablespoons sugar
-- 2 1/2 tablespoons Chinkiang black vinegar
-- 1 tablespoon dark soy sauce
-- 2 tablespoons soy sauce
+- 8 scallions, cut into large pieces
+- 1 cup Shaoxing wine or dry sherry
+- 2 1/2 tablespoons sugar
+- 3 1/2 tablespoons Chinkiang black vinegar
+- 1 1/2 tablespoons dark soy sauce
+- 3 tablespoons soy sauce
 
 ## Instructions
 
