@@ -3,7 +3,8 @@
 ## Ingredients
 
 - [roasted chicken](roasted-chicken.md), chopped
-- green onion or red onion, finely diced
+- green onion, chopped
+- red onion, finely diced
 - celery, finely diced
 - dried cranberries, chopped grapes, or diced apple
 - chopped almonds
