@@ -41,4 +41,4 @@ Note: season new tin-lined copper molds before first use. Preheat oven to 400°F
 5. Whisk batter before use. Fill molds to 1 cm from the top, no more than 60 grams batter per mold. Don't overfill or you'll get white butts!
 6. Bake filled molds at 500°F for 10 minutes. Lower temp to 375°F and bake until dark mahogany brown, an extra 45-55 minutes. Tip out each canele onto a wire rack and let cool completely. Leave molds inverted so they can drain.
 
-Don't wash molds! Just wipe them out. To refresh, heat at 450°F for 5 minutes. 
+Best within hours of baking. Can be reheated at 450°F for 5 minutes next day, but it's not the same. Don't wash molds! Just wipe them out.
