@@ -6,15 +6,10 @@
 - kosher salt
 - black pepper
 - olive oil
-- 4 sprigs thyme
-- 2 sprigs rosemary
-- 6 cloves garlic, crushed
-- 1 lemon, halved (optional)
 
 ## Instructions
 
 1. Preheat oven to 400°F.
-2. Salt and pepper chicken cavity. Oil skin and sprinkle generously with salt.
-3. Stuff cavity with thyme, rosemary, garlic, and lemon, if using.
-4. Move to a roasting pan, tucking wing tips underneath. Tie legs together loosely with twine.
-5. Roast until internal temperature reaches 145°F, about 1 hour and 15 minutes. Check after an hour!
+2. Line a sheet pan with foil and place a rack on the pan.
+3. Pat chicken dry with a paper towel. Salt and pepper chicken cavity. Oil skin and sprinkle generously with salt. It works well to do this step directly on the rack on the sheet pan.
+4. Tuck the wing tips underneath the breast. Roast until internal temperature in the thickest part of the breast reaches 145°F. This can take anywhere from 45 minutes to 75 minutes, depending on the size of the chicken.
