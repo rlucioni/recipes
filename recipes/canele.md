@@ -1,6 +1,6 @@
 # Canele
 
-Yields 14-16 2" caneles (Matfer mold)
+Yields 14-16 2" caneles (Matfer molds)
 
 Note: season new tin-lined copper molds before first use. Preheat oven to 400°F. Apply a thin coat of vegetable shortening to each mold. Invert on a wire rack over a pan. Bake for 20-45 minutes. Wipe away any excess and let cool completely. Repeat 2-3 times. Seasoned tin should have a dark brown or black color.
 
@@ -38,7 +38,7 @@ Note: season new tin-lined copper molds before first use. Preheat oven to 400°F
 2. Combine beeswax and ghee in a glass jar or other heatproof container. Place in a simmering pot of water until totally melted, stirring occasionally.
 3. Very briefly warm molds in preheating oven.
 4. To coat each mold: set on a wire rack, fill to the top with melted mixture, quickly dump back into the original container, then invert on rack to drip. Put coated molds in freezer for 15 minutes.
-5. Whisk batter before use. Fill molds to 1 cm from the top, no more than 60 grams batter per mold. Don't overfill or you'll get white butts!
+5. Whisk batter before use. Fill molds to 1 cm from the top, about 60 grams batter per mold. Don't overfill or you'll get white butts!
 6. Bake filled molds at 500°F for 10 minutes. Lower temp to 375°F and bake until dark mahogany brown, an extra 45-55 minutes. Tip out each canele onto a wire rack and let cool completely. Leave molds inverted so they can drain.
 
-Best within hours of baking. Can be reheated at 450°F for 5 minutes next day, but it's not the same. Don't wash molds! Just wipe them out.
+Best within hours of baking. Don't wash molds! Just wipe them out while warm.
