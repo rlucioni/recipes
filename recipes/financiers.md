@@ -19,6 +19,6 @@ Yields 12-14 financiers (Gobel 15" x 7" 6-compartment tins)
 3. Brown butter and reserve.
 4. Add egg whites to dry ingredients. Stir with a spatula until well combined, mashing lumps against side of bowl until mixture is smooth. Stir in browned butter until well combined.
 5. Fill tins about 3/4 full with batter. A scooper works well. Top with any garnishes. Bake until edges are well-browned and tops are golden, about 14-15 minutes.
-6. Immediately remove from tins by placing a wire rack on top and flipping.
+6. Let them sit in the tins for a couple minutes to set, then turn out and place on a wire rack to cool.
 
 Let cakes cool completely before serving or they won't be crispy! Don't wash the tins, just wipe them out while warm.
