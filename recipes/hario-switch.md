@@ -9,7 +9,7 @@ Yields 2 cups
 
 ## Instructions
 
-1. Rinse filter. Pour out water and close switch.
+1. Warm brewer and rinse filter by filling with hot water and letting sit a few minutes. Drain. 
 2. Add coffee, shake to settle. Add water, ensuring no dry pockets of coffee remain. Steep 2 minutes.
 3. Stir. Wait about 15 seconds. Open switch to drain.
 
