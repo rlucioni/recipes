@@ -28,6 +28,6 @@ Adapted from [Chef John's banana bread](http://foodwishes.blogspot.com/2012/01/b
 5. Fold in dry ingredients.
 6. Fold in walnuts, apricots, and chocolate.
 7. Grease and flour 9x5 loaf pan. Pour in batter.
-8. Bake until center registers 200°F, about 75 minutes.
+8. Bake until center registers 165-200°F - probe should come out dry - about 75 minutes.
 
 Let cool in pan until just warm before removing to cool completely on a wire rack. Nice toasted with ricotta, almond brittle or granola, honey, and fruit.
