@@ -29,4 +29,4 @@ For lemon icing:
 7. For the icing, mix powdered sugar with lemon juice and lemon oil. The icing should be slightly runny so that it spreads easily and dries hard.
 8. Ice cookies and decorate with sprinkles. Allow icing to harden before eating!
 
-Be careful with the lemon oil; too much wil make the icing bitter. The icing generally takes a few hours to harden.
+Be careful with the lemon oil; too much will make the icing bitter. The icing generally takes a few hours to harden.
