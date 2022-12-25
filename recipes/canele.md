@@ -20,7 +20,7 @@ Note: season new tin-lined copper molds before first use. Preheat oven to 400°F
 
 ### Mold coating
 
-- 25 grams beeswax, cut into small cubes
+- 40 grams beeswax, cut into small cubes
 - 100 grams ghee
 
 ## Instructions
