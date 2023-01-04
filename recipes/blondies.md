@@ -1,6 +1,6 @@
 # Blondies
 
-For a 9"x13" pan
+For a 9x13" pan
 
 ## Ingredients
 
