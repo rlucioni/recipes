@@ -5,13 +5,13 @@ For a 9x13" pan
 ## Ingredients
 
 - 320 grams flour
-- 1 1/4 teaspoon salt
+- 1 1/4 teaspoons salt
 - 1/2 teaspoon baking powder
 - 340 grams brown sugar
 - 12 tablespoons unsalted butter
 - 3 eggs
 - 1/2 cup corn syrup
-- 2 tablespoon vanilla extract
+- 2 tablespoons vanilla extract
 - 1 cup pecans or walnuts, toasted and chopped
 - 100 grams chocolate, chopped
 - 1/2 teaspoon large flake salt, optional
