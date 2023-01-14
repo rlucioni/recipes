@@ -5,7 +5,6 @@
 - 1 1/2 cups rice, rinsed
 - 10 cups water
 - onion, diced
-- shrimp, pork, or lamb, diced
 - soy sauce
 - sake
 - shrimp, chopped
