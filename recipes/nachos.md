@@ -6,7 +6,7 @@
 - sharp cheddar cheese, grated
 - 1 can refried pinto beans
 - 1 can refried black beans
-- chicken, shredded (rotisserie works well)
+- [roasted chicken](roasted-chicken.md), chopped
 - cherry tomatoes, quartered
 - 4 green onions
 
