@@ -9,7 +9,7 @@
 - 1 serrano chili, finely minced and/or a lot of Hatch green chile
 - 7 cloves garlic, grated
 - 2 tablespoons ground cumin
-- 3 whole chipotle peppers in adobo sauce, finely minced, plus 1 tablespoon sauce from can
+- 7 ounce can of chipotle peppers in adobo sauce, chopped
 - 1 1/2 pounds black beans
 - 9-10 cups chicken stock if pressure cooking, otherwise 12 cups
 - 2 bay leaves

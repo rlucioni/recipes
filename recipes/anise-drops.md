@@ -1,23 +1,22 @@
 # Anise Drops
 
-Relative humidity must be below 50% for these to work! They won't "self-frost" when baked otherwise.
+Makes about 64 slightly-larger-than-a-quarter-sized cookies (2 half sheets).
 
-Next time: try [powdered sugar](https://www.chefkoch.de/rezepte/2445651385375877/Anisplaetzchen.html)?
+Getting these to "self-frost" is tricky. Completely dissolving the powdered sugar into the egg is critical. Think of making a pavlova or a French meringue. There should be absolutely no doubt that all the sugar is dissolved! The cookies also need to dry out and harden before baking, which works best when it's really dry, like on a cold, low humidity winter night.
 
 ## Ingredients
 
-- 3 eggs
-- 210 grams sugar
-- 210 grams all-purpose flour
+- 3 eggs, room temperature
+- 250 grams powdered sugar
+- 250 grams all-purpose flour
 - 1/2 teaspoon baking powder
 - 1/2 teaspoon salt
-- 2 1/2 teaspoons anise seed
+- 1 tablespoon anise seed, ground
 
 ## Instructions
 
-1. Beat eggs until frothy. Add sugar gradually, beating continuously. Keep beating at medium-high speed for 5 minutes.
-2. Whisk together flour, baking powder, and salt. Add dry ingredients to egg and sugar mixture. Beat at medium speed for another 3 minutes.
-3. Stir in anise seed. Drop dough by teaspoonfuls onto parchment-lined baking sheets.
-4. Let cookies sit at room temperature, uncovered, for at least 8 hours, up to 24. 
-5. Preheat oven to 325°F. Bake until cookies are a creamy, barely-golden color, about 10 minutes.
-6. Remove cookies from oven, wait 5 minutes, then loosen them from the parchment with a spatula. Let them cool completely on the pan.
+1. Sift powdered sugar into a bowl. In a separate bowl, whisk together flour, baking powder, salt, and ground anise seed. Prep two half sheets with Silpats or parchment.
+2. Using a hand mixer, beat eggs until very frothy. Add the powdered sugar a little bit at a time, beating thoroughly as you go. Once all the sugar is incorporated, keep beating at medium-high speed for at least 5 minutes. Beat it to death and make sure the sugar is completely dissolved!
+3. Add the dry ingredients to the egg and sugar mixture. Beat everything together very thoroughly on medium-high speed for another 5 minutes.
+4. Using a piping bag (don't overfill it), pipe slightly-larger-than-a-quarter-sized circles onto the prepared half sheets. Let cookies sit out at room temperature for 12-24 hours (e.g., overnight). They should be dry and hard to the touch before baking.
+5. Preheat oven to 325°F. Bake cookies until they're barely golden brown, about 15-18 minutes. Let them cool on the pan.
