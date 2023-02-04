@@ -19,4 +19,4 @@ Getting these to "self-frost" is tricky. Completely dissolving the powdered suga
 2. Using a hand mixer, beat eggs until very frothy. Add the powdered sugar a little bit at a time, beating thoroughly as you go. Once all the sugar is incorporated, keep beating at medium-high speed for at least 5 minutes. Beat it to death and make sure the sugar is completely dissolved!
 3. Add the dry ingredients to the egg and sugar mixture. Beat everything together very thoroughly on medium-high speed for another 5 minutes.
 4. Using a piping bag (don't overfill it), pipe slightly-larger-than-a-quarter-sized circles onto the prepared half sheets. Let cookies sit out at room temperature for 12-24 hours (e.g., overnight). They should be dry and hard to the touch before baking.
-5. Preheat oven to 325°F. Bake cookies until they're barely golden brown, about 15 minutes. Let them cool on the pan.
+5. Preheat oven to 325°F. Bake cookies until they're barely golden brown, about 13 minutes. Let them cool on the pan.
