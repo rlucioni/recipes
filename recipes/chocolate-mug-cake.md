@@ -27,7 +27,7 @@ Optional fillings
 2. Stir in milk and any fillings.
 3. Mix flour and baking powder thoroughly. Stir into batter until just combined.
 4. Split batter between two coffee mugs. Tap to settle.
-5. Microwave on high for 45 seconds at 1000W.
+5. Microwave one at a time on high for 45 seconds at 1000W.
 6. Let sit for at least 2-3 minutes.
 
 Serve with vanilla ice cream.
