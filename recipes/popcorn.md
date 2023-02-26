@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-- 3 tablespoons vegetable oil
+- 3 tablespoons vegetable oil (or 40 grams ghee)
 - 1/2 cup popcorn
 - 1/2 teaspoon fine salt (pickling salt or blended table salt)
 
