@@ -1,25 +1,32 @@
 # Somen
 
+Serves 2.
+
 ## Ingredients
 
-- ginger, sliced
-- onion, sliced
-- pork tenderloin, cut into small pieces
-- shrimp, halved lengthwise
-- soy sauce
-- corn starch
-- garlic powder
+- 1/2 pound shrimp, halved lengthwise
+- 1/4 teaspoon corn starch
 - sake
 - 3 eggs
-- 4 cups chicken stock
-- napa cabbage, sliced
-- somen (wheat noodles)
+- garlic powder
+- 1 nub ginger, sliced
+- 1 onion, cut into strips
+- 1 heaving-facing chile, cut in half lengthwise
+- 1 star anise
+- 3 cups chicken stock
+- soy sauce
+- leafy vegetables (napa cabbage, baby bok choy, etc)
+- 1 bundle somen
 - 2 green onions, chopped
+- sesame oil
 
 ## Instructions
 
-1. Heat vegetable oil in a pan with ginger. Add onion when it starts to sizzle.
-2. Mix pork, soy sauce, and corn starch in a bowl. Saute with the ginger and onion until almost cooked through. Add some sake towards the end to deglaze the pan. Transfer to serving bowls.
-3. Mix shrimp, soy sauce, corn starch, and garlic powder in a bowl. Saute until almost cooked through in the pan. Transfer to serving bowls.
-4. Scramble eggs until slightly browned. Transfer to serving bowls.
-5. Boil chicken stock in a pot. Add thickest parts of the napa. When it returns to a boil, add the noodles. Start a timer for 2 1/2 minutes. When it returns to a boil, add the rest of the napa. When time is up, add the green onions and transfer to serving bowls.
+1. Mix shrimp with a pinch of salt and corn starch. Heat oil in a nonstick pan and saute shrimp until almost cooked.
+2. Add a splash of sake and saute until shrimp are cooked through. Reserve.
+3. Beat eggs with salt and garlic powder. Scramble in the same nonstick pan until done. Reserve.
+4. Start boiling water in a kettle.
+5. Heat oil in a saucepan. Add ginger, onion, chile, and star anise and saute until onions have softened. Add chicken stock and soy sauce and bring to a simmer. Taste and adjust for seasoning.
+6. Add vegetables. When they reach desired texture, add scallions and serve into serving bowls.
+7. Adding boiling water from the kettle into the same (now empty) saucepan and bring to a boil. Cook noodles according to package instructions. Drain and add to bowls of broth.
+8. Top with reserved shrimp, eggs, and a drizzle of sesame oil.
