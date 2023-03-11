@@ -28,10 +28,8 @@ For dumplings:
 1. Add whole chicken, vegetables, bay leaf, thyme, and water in a large pot. 
 2. Bring to a simmer and simmer on low for 1 hour, covered. Skim fat occasionally
 3. Remove chicken to a bowl to cool. Season stock with salt, pepper, and cayenne. Keep stock warm on stove.
-4. Pick chicken meat off bones. Place a small handfull of chicken at the bottom of the serving bowls.
+4. Pick chicken meat off bones. Place a small handful of chicken at the bottom of the serving bowls.
 5. In a bowl, mix crème fraiche, milk, eggs, and thyme leaves. Sift in dry ingredients and stir until barely combined.
 6. Bring stock to a light simmer.
 7. Spoon large dollops onto the surface of the stock. Cover and cook for 10-15 minutes.
 8. Spoon dumplings and soup over chicken meat.
-
-Serve with Louisiana hot sauce.
