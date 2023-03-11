@@ -2,8 +2,9 @@
 
 Adapted from [Chef John's chicken and dumplings](http://foodwishes.blogspot.com/2012/05/chicken-dumplings-stewed-chicken-with.html). Makes 4 servings and leftover chicken.
 
-For the stewed chicken:
 ## Ingredients
+
+### Chicken
 
 - 1 whole chicken (about 3.5-4 pounds)
 - 1 onion, cubed
@@ -14,7 +15,8 @@ For the stewed chicken:
 - 2 1/2 quarts cold water
 - salt, cayenne, and freshly ground black pepper to taste
 
-For dumplings:
+### Dumplings
+
 - 1/2 cup crème fraiche, sour cream, buttermilk, or yogurt
 - 1/2 cup milk
 - 2 eggs
