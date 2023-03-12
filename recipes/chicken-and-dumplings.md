@@ -21,7 +21,7 @@ Adapted from [Chef John's chicken and dumplings](http://foodwishes.blogspot.com/
 - 1/2 cup milk
 - 2 eggs
 - 2 teaspoons fresh chopped thyme leaves
-- 2 cups all-purpose flour
+- 310 grams all-purpose flour
 - 3 teaspoons baking powder
 - 1 teaspoon salt
 
