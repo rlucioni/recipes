@@ -6,32 +6,28 @@ Adapted from [Chef John's chicken and dumplings](http://foodwishes.blogspot.com/
 
 ### Chicken
 
-- 1 whole chicken (about 3.5-4 pounds)
-- 1 onion, cubed
-- 1 large celery rib, cubed
-- 1 large carrot, cubed
+- 1 [roasted chicken](roasted-chicken.md), picked and chopped
+- 1 onion, diced
+- 3 celery ribs, diced
+- 3 carrots, diced
 - 1 bay leaf
 - 3-4 springs of thyme
-- 2 1/2 quarts cold water
-- salt, cayenne, and freshly ground black pepper to taste
+- water
+- chicken bouillon
+- frozen peas, corn, etc.
 
 ### Dumplings
 
-- 1/2 cup crème fraiche, sour cream, buttermilk, or yogurt
+- 310 grams all-purpose flour
+- 1 tablespoon baking powder
+- 1 teaspoon salt
+- 1/2 cup sour cream or yogurt
 - 1/2 cup milk
 - 2 eggs
-- 2 teaspoons fresh chopped thyme leaves
-- 310 grams all-purpose flour
-- 3 teaspoons baking powder
-- 1 teaspoon salt
+- 2 teaspoons fresh thyme leaves, chopped
 
 ## Instructions
 
-1. Add whole chicken, vegetables, bay leaf, thyme, and water in a large pot. 
-2. Bring to a simmer and simmer on low for 1 hour, covered. Skim fat occasionally
-3. Remove chicken to a bowl to cool. Season stock with salt, pepper, and cayenne. Keep stock warm on stove.
-4. Pick chicken meat off bones. Place a small handful of chicken at the bottom of the serving bowls.
-5. In a bowl, mix crème fraiche, milk, eggs, and thyme leaves. Sift in dry ingredients and stir until barely combined.
-6. Bring stock to a light simmer.
-7. Spoon large dollops onto the surface of the stock. Cover and cook for 10-15 minutes.
-8. Spoon dumplings and soup over chicken meat.
+1. Saute vegetables with oil, salt, and chicken juices. Throw in thyme and bay leaf. Add water and chicken bouillon. Add any frozen vegetables and bring to a simmer.
+2. Whisk dry ingredients. In a separate bowl, whisk sour cream, milk, eggs, and thyme leaves. Stir in dry ingredients until just combined.
+3. Spoon tablespoon-size balls of dough onto the surface of the simmering soup. Cover and cook for 10-15 minutes.
