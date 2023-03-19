@@ -30,4 +30,4 @@ Adapted from [Chef John's chicken and dumplings](http://foodwishes.blogspot.com/
 
 1. Saute vegetables with oil, salt, and chicken juices. Throw in thyme and bay leaf. Add water and chicken bouillon. Add any frozen vegetables and bring to a simmer.
 2. Whisk dry ingredients. In a separate bowl, whisk sour cream, milk, eggs, and thyme leaves. Stir in dry ingredients until just combined.
-3. Spoon tablespoon-size balls of dough onto the surface of the simmering soup. Cover and cook for 10-15 minutes.
+3. Spoon tablespoon-size balls of dough onto the surface of the simmering soup. Cover and cook for 10 minutes. Stir to separate dumplings and cook 5 more minutes.
