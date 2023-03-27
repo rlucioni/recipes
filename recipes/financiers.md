@@ -21,4 +21,4 @@ Yields 12-14 financiers (Gobel 15" x 7" 6-compartment tins)
 5. Fill tins about 1/2 to 3/4 full with batter. Top with any garnishes. Bake until edges are well-browned and tops are golden, about 14-15 minutes.
 6. Let them sit in the tins for a couple minutes to set, then turn out and place on a wire rack to cool.
 
-Let cakes cool completely before serving or they won't be crispy!
+Let cakes cool completely before serving or they won't be crispy! Consider using the leftover yolks for [creme brulee](creme-brulee.md).
