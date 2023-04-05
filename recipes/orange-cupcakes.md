@@ -19,6 +19,6 @@ Makes 12 cupcakes.
 2. Cream butter and sugar until fluffy.
 3. Mix in eggs one at a time. Add orange zest.
 4. Sift dry ingredients together. Add to wet ingredients, alternating with orange juice. Start and end with dry ingredients.
-5. Add to cupcake pan. Bake about 30 minutes until knife comes out clean.
+5. Add to cupcake pan. Bake about 30 minutes until toothpick comes out clean.
 
-Cool on cooking rack and enjoy. Store at room temperature in air-tight container.
+Cool on cooling rack. Store at room temperature in air-tight container.
