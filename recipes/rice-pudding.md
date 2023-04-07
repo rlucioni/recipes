@@ -1,30 +1,31 @@
 # Rice Pudding
 
-Adapted from [Chef John's rice pudding](http://foodwishes.blogspot.com/2012/03/coconut-milk-rice-pudding-with-fresh.html). Serves 4. Fills 2 dessert cups.
+Adapted from [Chef John's rice pudding](http://foodwishes.blogspot.com/2012/03/coconut-milk-rice-pudding-with-fresh.html).
 
 ## Ingredients
 
-- 1 tablespoon butter
-- 1/3 cup Arborio rice
-- 1 cup coconut milk (Aroy-D 100% coconut milk, found in cartons, works well)
-- 3 cups milk
-- 1/4 cup white sugar
-- 1/8 teaspoon vanilla
-- pinch of salt
-- 1 egg yolk
+### Pudding
 
-Garnish
-- 1/4 cup finely diced mango
-- pinch of Chinese five-spice
+- 2 tablespoons butter
+- 2/3 cup arborio rice
+- 2 cups coconut milk (Aroy-D is best)
+- 6 cups milk
+- 1/2 cup sugar
+- 1/8 teaspoon salt
+- 1/4 teaspoon vanilla
+- 2 egg yolks, optional
+
+### Garnishes
+
+- grated nutmeg
+- 1/4 cup mango, finely diced, with pinch of Chinese five-spice
+- 1/4 cup pineapple, finely diced
 
 ## Instructions
 
-1. Melt butter in a medium saucepan. Add rice and sizzle for a couple minutes or until fragrant.
-3. Add coconut milk and milk. Bring to a simmer.
-4. Simmer, stirring constantly, until the rice is cooked to the desired texture.
-5. Turn off the heat and stir in the sugar, vanilla, salt, and egg yolk.
-6. Portion into dessert cups and cover with plastic.
-7. Chill thoroughly in the refrigerator.
-8. Mix finely diced mango with the Chinese five-spice right before serving.
+1. Melt butter in a saucepan. Add rice and sizzle for a couple minutes or until fragrant.
+2. Add coconut milk, milk, sugar, and salt. Bring to a simmer.
+3. Simmer, stirring constantly, until the rice is cooked to the desired texture. Remember it thickens when cooled; if it looks perfect in the pot, it'll be too thick.
+4. Kill heat and stir in vanilla and egg yolks, if using.
 
-Serve cold with mango garnish on top.
+Portion into dessert cups and cover with plastic. Chill thoroughly in the refrigerator or serve at room temperature.
