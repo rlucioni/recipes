@@ -5,6 +5,7 @@ Serves 4.
 ## Ingredients
 
 ### Curry paste
+
 - 2 Thai bird chilies
 - 2 shallots, bruised with the back of a knife and roughly chopped
 - 6 cloves garlic, crushed
@@ -17,6 +18,7 @@ Serves 4.
 - 2 tablespoons Thai shrimp paste
 
 ### Soup
+
 - 1-2 pounds chicken thighs, cut into chunks
 - 2-3 tablespoons Maesri Thai red curry paste
 - 4 cups low sodium chicken stock
@@ -26,12 +28,14 @@ Serves 4.
 - 1 pound fresh Chinese egg noodles
 
 ### Toppings
+
 - thinly-sliced shallots (extra on top of the 2 above)
 - chopped cilantro
 - lime wedges
+- Shanghai tips or other greens, blanched
 - crispy egg noodles (or sliced wonton egg wrappers, fried at 350°F)
 - pickled mustard stems/greens
-- Nam Prik Pao
+- nam prik pao (Thai chile jam)
 
 ## Instructions
 
