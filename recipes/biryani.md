@@ -4,19 +4,21 @@ Serves 8.
 
 ## Ingredients
 
-### Biryani masala (keep extra in a glass jar in the freezer)
+### Biryani masala
+
+Makes a lot, keep extra in the freezer.
 
 - 3 bay leaves
 - 2 star anise
 - 10 green cardamom pods
 - 3 black cardamom pods
-- 5 grams cinnamon, broken into pieces
+- 1 cinnamon stick, broken into pieces
 - 1 teaspoon cloves
 - 1 tablespoon fennel seeds
 - 1 teaspoon black peppercorns
 - 3 tablespoons coriander seeds
 - 2 tablespoons caraway seeds
-- 1 mace
+- 1 mace (enough to cover the surface of a whole nutmeg)
 - 1/2 teaspoon grated nutmeg
 
 ### Marinated chicken
@@ -28,9 +30,9 @@ Serves 8.
 - 6 cloves garlic, grated
 - 4-inch piece of ginger, grated
 - 3 green chilies, split in half
-- 2 tablespoons lemon juice
+- 2 tablespoons lemon juice (~1/2 lemon)
 - 1 1/2 teaspoons salt
-- 2-3 pounds bone-in chicken thighs, skin off (around 8 thighs)
+- 2-3 pounds bone-in chicken thighs, skin removed (around 8 thighs)
 
 ### Parboiled rice
 
