@@ -36,7 +36,7 @@ Note: season new tin-lined copper molds before first use. Preheat oven to 400°F
 
 1. Preheat oven to 500°F.
 2. Combine beeswax and ghee in a glass jar or other heatproof container. Place in a simmering pot of water until totally melted, stirring occasionally.
-3. To coat each mold: warm very briefly in the oven, set on a wire rack, fill to the top with melted mixture, quickly dump back into the original container, then invert on rack to drip and set. Optionally chill the molds for 15 minutes; unclear how important this is.
+3. To coat each mold: optionally warm _very_ briefly in the oven, set on a wire rack, fill to the top with melted mixture, quickly dump back into the original container, then invert on rack to drip and set. Freeze the molds for 15 minutes.
 4. Remove vanilla bean from batter and whisk before use. Fill molds to 1 cm from the top, about 60 grams batter per mold. Don't overfill or you'll get white butts!
 5. Bake filled molds at 500°F for 10 minutes. Lower temp to 375°F and bake until dark mahogany brown, an extra 45-55 minutes. Tip out each canele onto a wire rack and let cool completely. Leave molds inverted so they can drain.
 
