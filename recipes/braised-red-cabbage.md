@@ -7,7 +7,7 @@
 - 2 cups dry red wine
 - 4 whole cloves
 - 1 tablespoon sugar
-- pinch of caraway seeds, optional
+- big pinch of caraway seeds, optional
 - salt to taste
 - dash red wine vinegar
 
