@@ -1,4 +1,4 @@
-# Beef Rouladen
+# Rouladen
 
 ## Ingredients
 
@@ -12,7 +12,7 @@
 - 1 tablespoon vegetable oil
 - 2 tablespoons butter
 - 1/4 cup flour
-- 4 cups low-sodium beef or chicken stock, cold!
+- 4 cups low-sodium beef stock, chilled
 
 ## Instructions
 

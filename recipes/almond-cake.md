@@ -4,13 +4,13 @@
 
 ### Batter
 
-- 150 grams blanched, sliced almonds, toasted
+- 150 grams blanched, slivered or sliced almonds, toasted
 - 110 grams all-purpose flour
 - 3/4 teaspoon salt
 - 1/4 teaspoon baking powder
 - 1/8 teaspoon baking soda
 - 4 eggs
-- 250 grams sugar
+- 225 grams sugar
 - 1 tablespoon lemon zest (2 lemons)
 - 3/4 teaspoon almond extract
 - 5 tablespoons unsalted butter, melted
@@ -18,7 +18,7 @@
 
 ### Topping
 
-- 1/3 cup blanched, sliced almonds, toasted
+- 1/3 cup blanched, slivered or sliced almonds, toasted
 - 2 tablespoons sugar
 - 1/2 teaspoon lemon zest
 
