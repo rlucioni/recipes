@@ -1,11 +1,11 @@
 # Graham Cracker Crust
 
-Adapted from [Allrecipes' Graham Cracker Crust I](http://allrecipes.com/recipe/12254/graham-cracker-crust-i/).
+For a 10" pie plate. Adapted from [Allrecipes' Graham Cracker Crust I](http://allrecipes.com/recipe/12254/graham-cracker-crust-i/).
 
 ## Ingredients
 
-- 9 graham crackers, processed or crushed into fine crumbs
-- 6 tablespoons butter, melted
+- 10 graham crackers, processed or crushed into fine crumbs
+- 7 tablespoons butter, melted
 - 1/3 cup white sugar
 
 ## Instructions
