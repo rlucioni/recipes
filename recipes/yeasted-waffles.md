@@ -12,10 +12,9 @@
 - 105 grams vegetable oil or ghee
 - 2 eggs
 - 1/4 teaspoon vanilla extract
-- 50 grams rum, optional
 
 ## Instructions
 
 1. Whisk together flour, yeast, malted milk powder, sugar, salt, and baking soda.
-2. In a separate bowl, whisk together milk, oil or ghee, eggs, vanilla extract, and rum, if using.
+2. In a separate bowl, whisk together milk, oil or ghee, eggs, and vanilla extract.
 3. Whisk dry ingredients into wet ingredients. Leave overnight in the refrigerator.
