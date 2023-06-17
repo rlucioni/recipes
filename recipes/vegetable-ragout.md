@@ -12,7 +12,7 @@
 - 2 cloves garlic, grated
 - 2 cups water or stock
 - 6 Yukon gold potatoes, cubed
-- red wine vinegar, apple cider, or sherry vinegar (optional, to taste)
+- red wine, apple cider, or sherry vinegar (optional, to taste)
 
 ## Instructions
 
