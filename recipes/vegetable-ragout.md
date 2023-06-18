@@ -21,4 +21,4 @@
 3. Add garlic and cook briefly until fragrant. Stir in the beans and water.
 4. Scatter the potatoes on top of the ragout and cover. Steam the potatoes until tender, 15-20 minutes. Then stir in chard leaves and cook until everything is melded together and tender, up to 15 minutes more.
 
-Before serving, stir in a 1-2 tablespoons of vinegar. Serve with bread or over rice.
+Before serving, stir in 1-2 tablespoons of vinegar. Serve with bread or over rice.
