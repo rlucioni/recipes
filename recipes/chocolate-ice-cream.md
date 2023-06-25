@@ -18,7 +18,7 @@ Yields 1 1/2 quarts.
 
 1. Whisk cream, cocoa powder, and espresso powder in a small saucepan. Bring to a simmer and simmer 30 seconds, whisking constantly.
 2. Transfer to a large bowl, add chopped chocolate, and whisk until smooth.
-3. In a small bowl, whisk together egg yolks.
+3. In a separate bowl, whisk together egg yolks.
 4. In the same saucepan as before, whisk together milk, sugar, and salt over medium heat.
 5. Once the milk mixture is steaming, add a ladle to the beaten egg yolks and whisk to combine. Add the milk/egg mixture back into the saucepan, whisking constantly.
 6. Continue to cook the custard over medium heat, stirring constantly with a spatula, until it reaches 170°F. It should be slightly thickened and coat the back of the spatula.
