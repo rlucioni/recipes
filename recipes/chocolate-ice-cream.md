@@ -17,7 +17,7 @@ Yields 1 1/2 quarts.
 ## Instructions
 
 1. Whisk cream, cocoa powder, and espresso powder in a small saucepan. Bring to a simmer and simmer 30 seconds, whisking constantly.
-2. Transfer to a large bowl, add chopped chocolate, and whisk until smooth.
+2. Combine with chopped chocolate in a large bowl and whisk until smooth.
 3. In a separate bowl, whisk together egg yolks.
 4. In the same saucepan as before, whisk together milk, sugar, and salt over medium heat.
 5. Once the milk mixture is steaming, slowly drizzle about a third into the beaten egg yolks, whisking constantly to combine and temper. Add the milk/egg mixture back into the saucepan, whisking constantly.
