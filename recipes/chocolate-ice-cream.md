@@ -8,10 +8,10 @@ Yields 1 1/2 quarts.
 - 1/4 cup unsweetened cocoa powder
 - 1 tablespoon espresso powder
 - 6 ounces 70% chocolate, chopped
+- 3 egg yolks
 - 1 1/2 cups whole milk
 - 3/4 cup granulated sugar
 - 1/4 teaspoon kosher salt
-- 3 egg yolks
 - 1/2 teaspoon vanilla extract
 
 ## Instructions
