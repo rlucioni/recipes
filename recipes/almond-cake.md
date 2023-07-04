@@ -1,5 +1,7 @@
 # Almond Cake
 
+For a 9" cake pan
+
 ## Ingredients
 
 ### Batter
