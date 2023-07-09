@@ -8,7 +8,7 @@ For a 9" cake pan
 
 - 2 tablespoons butter
 - 100 grams sugar
-- 200 grams blueberries (if frozen, toss with 1 tablespoon flour?)
+- 200-210 grams blueberries (if frozen, toss with 1 tablespoon flour)
 
 ### Batter
 
@@ -31,10 +31,12 @@ For a 9" cake pan
 ## Instructions
 
 1. Preheat oven to 300°F.
-2. Melt butter in 9" cake pan; you can use the preheating oven. Sprinkle an even layer of sugar on top, followed by an even layer of blueberries.
+2. Coat bottom of 9" cake pan with a light layer of vegetable oil, then line with parchment round. Melt butter in pan; you can use the preheating oven. Sprinkle an even layer of sugar on top, followed by an even layer of blueberries.
 3. In a food processor, pulse together almonds, flour, salt, baking powder, and baking soda until almonds are finely ground. Reserve.
 4. In the now-empty food processor, process together eggs, sugar, lemon zest, and almond extract until pale yellow, about 2 minutes. Add in melted butter and vegetable oil with the processor running.
 5. Add almond mixture back to the food processor and pulse to combine with wet ingredients.
 6. Carefully pour batter over the blueberry layer in the pan, smoothing it evenly.
 7. Bake until golden brown and a toothpick inserted into the center comes out clean, about 55-65 minutes. Internal temp should be around 200-210°F.
-8. Let cake cool for about 15 minutes. Run a paring knife around the sides to loosen, then invert onto a wire rack. Top with toasted sliced almonds.
+8. Let cake cool for about 15 minutes. Run a paring knife around the sides to loosen, then invert onto a wire rack and carefully peel off parchment; save to line storage plate. Top with toasted sliced almonds.
+
+Nice served with vanilla whipped cream.
