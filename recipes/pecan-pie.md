@@ -5,7 +5,7 @@ Next time: try tossing toasted nuts in filling before adding to pie shell?
 ## Ingredients
 
 - 1 batch [pie crust](pie-crust.md)
-- 6 cups pecan halves
+- 2 pounds pecan halves
 - 1/2 cup butter
 - 1/2 cup brown sugar
 - 1/2 cup white sugar
