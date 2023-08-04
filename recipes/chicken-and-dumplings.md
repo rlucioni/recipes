@@ -11,7 +11,7 @@ Adapted from [Chef John's chicken and dumplings](http://foodwishes.blogspot.com/
 - 3 celery ribs, diced
 - 3 carrots, diced
 - 1 bay leaf
-- 3-4 springs of thyme
+- 3-4 thyme sprigs
 - water
 - chicken bouillon
 - frozen peas, corn, etc.
