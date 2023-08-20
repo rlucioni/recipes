@@ -8,6 +8,7 @@
 - 1/4 teaspoon salt
 - 2 pounds ripe but firm peaches, peeled, pitted, and quartered
 - 1 tablespoon bourbon
+- cream for topping
 
 ## Instructions
 
