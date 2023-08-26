@@ -4,7 +4,7 @@ Serves 2. The soup does not reheat well, so it's better to make a large batch of
 
 ## Ingredients
 
-- 1 batch [dashi](dashi.md)
+- 1 batch [dashi](dashi.md) (or 4 cups water + 1 tablespoon dashi powder)
 - 1 generous tablespoon dried wakame, soaked in water for 10 minutes and drained
 - 1/3 pound soft or silken tofu, cut into small cubes
 - mushrooms, such as shimeji mushrooms or sliced shiitake mushrooms
