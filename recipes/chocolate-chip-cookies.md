@@ -18,11 +18,11 @@ Adapted from America's Test Kitchen's chocolate chip cookies.
 
 ## Instructions
 
-1. Preheat oven to 375°F. Line baking sheet with parchment paper.
+1. Preheat oven to 350°F on convection. Line baking sheet with parchment paper.
 2. Whisk together flour and baking soda in a bowl.
-3. Heat 10 tablespoons butter in pan over medium heat until golden brown and fragrant. Transfer to large bowl and melt in remaining butter.
+3. Heat 10 tablespoons butter in pan over medium heat until golden brown and fragrant. Transfer to a large bowl and melt in remaining butter.
 4. Whisk in sugar, salt, and vanilla. Whisk in egg and egg yolk until smooth.
 5. Stir in flour mixture until just combined. Fold in chocolate chips and walnuts.
-6. Scoop and bake 10-14 minutes.
+6. Scoop onto two trays and bake both at the same time for about 13 minutes.
 
 Cool to room temperature on cooling rack.
