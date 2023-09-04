@@ -24,7 +24,7 @@ Adapted from [Chef John's banana bread](http://foodwishes.blogspot.com/2012/01/b
 1. Preheat oven to 325°F.
 2. Cream together butter and sugar in a large bowl.
 3. Mix in bananas.
-4. Beat in eggs. Add vanilla and milk.
+4. Beat in eggs, one at a time (you're making an emulsion). Add vanilla and milk.
 5. Fold in dry ingredients.
 6. Fold in walnuts, apricots, and chocolate.
 7. Grease and flour 9x5 loaf pan. Pour in batter.
