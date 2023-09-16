@@ -24,7 +24,7 @@ Serves 8.
 2. Sprinkle on 1/2 of the remaining cheese. Spread another thin layer of chips on top, followed by the other half of the non-reserved cheese.
 3. Mix beans together, microwave briefly, then spread over cheese.
 4. Distribute meat, tomatoes, red onion, corn, and green onion over cheese. Top with reserved cheese.
-5. Heat on low convection until cheese melts and chips start to brown, 15-20 minutes.
+5. Heat on low broiler setting (rack 3 - lower middle) until cheese melts and chips start to brown, 15-20 minutes.
 6. Mash avocado with cilantro, salt, and lime juice to make guacamole.
 
-Serve with guacamole and sour cream or crema on the side. Reheat at 350°F on convection.
+Serve with guacamole and sour cream or crema (or sour cream thinned with lime juice) on the side. Reheat at 350°F on convection.

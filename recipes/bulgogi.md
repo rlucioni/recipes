@@ -18,6 +18,7 @@ Serves 8.
 - 1 tablespoon sesame oil
 
 ### Ssamjang
+
 - 3/4 cup doenjang (or substitute miso)
 - 1 1/2 tablespoons gochujang
 - 2 green onions, minced
@@ -28,9 +29,10 @@ Serves 8.
 - 1 tablespoon toasted sesame oil
 
 ### Other ingredients
+
 - lettuce leaves for wrapping (red leaf or bib lettuce works well)
 - steamed rice
-- various banchan (e.g. kimchi, [pickled daikon](pickled-radish.md))
+- various banchan (e.g., kimchi, [pickled daikon](pickled-radish.md))
 
 ## Instructions
 
