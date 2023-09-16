@@ -1,22 +1,30 @@
 # Nachos
 
+Serves 8.
+
 ## Ingredients
 
-- tortilla chips
-- sharp cheddar cheese, grated
+- 1 large bag tortilla chips
+- 24 ounces cheese, grated (pepperjack and mild chedder work well)
 - 1 can refried pinto beans
 - 1 can refried black beans
-- [roasted chicken](roasted-chicken.md), chopped
-- cherry tomatoes, quartered
+- 1 pound chorizo, cooked and broken down into small pieces or [roasted chicken](roasted-chicken.md), chopped
+- 1 pint cherry tomatoes, halved
+- 1/2 red onion, diced
+- 2 ears corn, kernels removed
 - 4 green onions
+- 4 avocados
+- 1 small bunch cilantro, minced
+- 1 lime
+- sour cream or crema
 
 ## Instructions
 
-1. Preheat oven to 350°F.
-2. Spread chips in an even layer on a foil-lined baking sheet.
-3. Spread an even layer of cheese over chips. Reserve some for topping.
-4. Mix beans together, microwave briefly, then spread over cheese.
-5. Distribute chicken, tomatoes, and green onions over beans. Top with reserved cheese.
-6. Bake until cheese melts and chips start to brown, 15-20 minutes.
+1. Spread a thin layer of chips on a foil-lined baking sheet. Reserve a large handful of grated cheese.
+2. Sprinkle on 1/2 of the remaining cheese. Spread another thin layer of chips on top, followed by the other half of the non-reserved cheese.
+3. Mix beans together, microwave briefly, then spread over cheese.
+4. Distribute meat, tomatoes, red onion, corn, and green onion over cheese. Top with reserved cheese.
+5. Heat on low convection until cheese melts and chips start to brown, 15-20 minutes.
+6. Mash avocado with cilantro, salt, and lime juice to make guacamole.
 
-Serve with sour cream and avocado. Reheat at 350°F on convection.
+Serve with guacamole and sour cream or crema on the side. Reheat at 350°F on convection.
