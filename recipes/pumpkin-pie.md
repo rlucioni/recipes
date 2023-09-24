@@ -18,10 +18,10 @@ Adapted from [Chef John's pumpkin pie](http://foodwishes.blogspot.com/2012/11/be
 
 ## Instructions
 
-1. Preheat oven to 450°F.
+1. Preheat oven to 425°F.
 2. Roll out pie crust and place in pie dish (the filling fits better in a shallower 9" pie dish).
 3. Add all remaining ingredients to a bowl and whisk until smooth. If using previously-frozen homemade puree, remember to pour off any extra water that came out while defrosting!
 4. Pour filling into crust and bake for 15 minutes.
-5. Reduce heat to 365°F and bake until internal temp registers 175°F, about 35-40 minutes. Keep an eye on the crust. You might need to put a foil ring on it about halfway through to keep it from burning.
+5. Reduce heat to 325°F and bake until internal temp registers 175°F, another 45-60 minutes. Keep an eye on the crust. You might need to put a foil ring on it about halfway through to keep it from burning.
 
-Cool to room temperature and chill pie before slicing. Serve with freshly whipped cream.
+Cool to room temperature and chill pie before slicing. Serve with whipped cream.
