@@ -14,6 +14,7 @@
 - 1 cup craisins + zest of 1 orange
 - 1 cup dried blueberries + zest of 1 lemon
 - 1 cup diced rhubarb + 1 tablespoon lightly crushed anise seeds
+- 2/3 cup dried cherries, 1/3 cup chocolate
 
 ## Instructions
 
