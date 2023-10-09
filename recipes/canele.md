@@ -38,6 +38,6 @@ Note: season new tin-lined copper molds before first use. Preheat oven to 400°F
 2. Combine beeswax and ghee in a glass jar or other heatproof container. Place in a simmering pot of water until totally melted, stirring occasionally.
 3. To coat the molds, fill to the top with melted mixture, quickly dump back into the original container, then invert on rack to drip and set. Freeze the molds at least 15 minutes.
 4. Remove vanilla bean from batter and gently whisk before use. Fill molds to about 1 cm from the top. Don't overfill or you'll get white butts; this seems to happen when the batter souffles out of the mold while baking.
-5. Bake filled molds on foil-lined pan on top of baking steel for 1 hour. The bottoms should be mahogany brown, the color of dark maple syrup. Quickly tip out each canele onto a wire rack and let cool completely. Leave molds inverted so they can drain.
+5. Bake filled molds on foil-lined pan on top of baking steel for 60-75 minutes. The bottoms should be mahogany brown, the color of dark maple syrup. Quickly tip out each canele onto a wire rack and let cool completely. Leave molds inverted so they can drain.
 
 Best within hours of baking. Wipe out the molds, don't wash them.
