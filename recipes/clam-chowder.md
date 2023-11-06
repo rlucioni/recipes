@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-- 6 pounds clams (e.g., littleneck, cherrystone, topneck), washed and scrubbed
+- 6 pounds (about 48) clams (e.g., littleneck, cherrystone, topneck), washed and scrubbed
 - 4 slices thick-cut bacon, diced
 - 1 onion, diced
 - 2 tablespoons all-purpose flour
