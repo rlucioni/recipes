@@ -4,7 +4,7 @@ Serves 8
 
 ## Ingredients
 
-- 3 pounds beef (boneless shank or chuck)
+- 3 pounds beef chuck or 4 pounds bone-in beef short rib
 - 6 large slices fresh ginger
 - 6 cloves garlic, crushed
 - 5-6 scallions, cut into thirds
@@ -13,14 +13,14 @@ Serves 8
 - 1 red cardamom pod
 - 1 1/2 tablespoons Sichuan peppercorns
 - 1/2 tablespoon black peppercorns
-- 2 generous tablespoons Pixian doubanjiang
+- 3 tablespoons Pixian doubanjiang
 - 3/4 cup dry sherry
 - 1/4 cup dark soy sauce
 - 1/3 cup soy sauce
 - 8 cups water
 - 1 onion, quartered
 - 2 tomatoes, cut into wedges
-- 1 1/2 tablespoons sugar
+- 2 tablespoons sugar
 - 1 cinammon stick
 - 1 bay leaf
 - 1 tablespoon goji berries (optional)
