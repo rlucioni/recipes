@@ -13,6 +13,7 @@ Intended for a 6" cast-iron skillet.
 - 1/2 cup whole milk
 - 1 egg
 - 4 tablespoons butter
+- Optional additions: 1/2 cup blueberries or Hatch green chile
 
 ## Instructions
 
