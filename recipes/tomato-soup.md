@@ -1,6 +1,6 @@
 # Tomato Soup
 
-Serves 4.
+Serves 4. Will probably want to double.
 
 ## Ingredients
 
