@@ -1,4 +1,4 @@
-# Pasta with Sausage and Broccoli Rabe
+# Pasta with Sausage, Tomato, and Broccoli Rabe
 
 ## Ingredients
 
