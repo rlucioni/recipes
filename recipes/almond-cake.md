@@ -31,7 +31,7 @@ For a 9" cake pan
 3. In a food processor, pulse together almonds, flour, salt, baking powder, and baking soda until almonds are finely ground. Reserve.
 4. In the now-empty food processor, process together eggs, sugar, lemon zest, and almond extract until pale yellow, about 2 minutes. Add in melted butter and vegetable oil with processor running.
 5. Add almond mixture back to food processor and pulse to combine with wet ingredients.
-6. Transfer batter to pan. Sprinkle over the extra toasted almonds. Mix together sugar and lemon zest and top with the mixture.
+6. Transfer batter to pan. If you want, add half, chill briefly, spread over (raspberry) jam, then add remaining batter. Sprinkle over the extra toasted almonds. Mix together sugar and lemon zest and top with the mixture.
 7. Bake until golden brown and toothpick inserted into center comes out clean, about 55-65 minutes. Internal temp should be around 200-210°F.
 
 To release the cake, first let it cool about 15 minutes. Run a paring knife around the sides to loosen, then invert onto a wire rack. Peel off parchment, then reinvert onto a second wire rack.
