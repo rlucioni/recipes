@@ -15,7 +15,7 @@
 - 1 green cabbage, halved, cored, and cut into 1/2-inch pieces (~4 cups)
 - 1 1/2 cups cooked dried beans (or 1 15-ounce can, rinsed)
 - 1-2 cups water, heated
-- 1 ounce Parmesan, grated (1/2 cup)
+- 1 ounce Parmesan, grated
 - 2 tablespoons butter
 - 2 teaspoons red wine vinegar
 - parsley, chopped
