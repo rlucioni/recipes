@@ -4,30 +4,31 @@ Adapted from [Chef John's chocolate mug cake](http://foodwishes.blogspot.com/201
 
 ## Ingredients
 
+- 1/4 cup flour
+- 1/4 teaspoon baking powder
 - 1 large egg
 - 1/4 cup sugar
 - pinch salt
 - 2 tablespoons unsweetened cocoa powder
+- 1 tablespoon espresso powder
 - 1 tablespoon vegetable oil
-- 2 tablespoons melted butter
+- 2 tablespoons butter, melted
 - 1/8 teaspoon vanilla extract
 - 3 tablespoons milk
-- 1/4 cup flour
-- 1/4 teaspoon baking powder
 
-Optional fillings
-- 1 tablespoon shredded coconut
-- 2 tablespoons toasted sliced almonds
-- 2 tablespoons chopped dark baking chocolate
-- 2 tablespoons chopped toasted walnuts
+### Filling ideas
+
+- 2 tablespoons dark chocolate, chopped
+- 2 tablespoons walnuts, toasted and chopped
+- 2 tablespoons sliced almonds, toasted
 
 ## Instructions
 
-1. Whisk together egg, sugar, salt, cocoa powder, vegetable oil, melted butter, and vanilla extract.
-2. Stir in milk and any fillings.
-3. Mix flour and baking powder thoroughly. Stir into batter until just combined.
-4. Split batter between two coffee mugs. Tap to settle.
+1. In one bowl, whisk together flour and baking powder. Reserve.
+2. In another bowl, whisk together egg, sugar, salt, cocoa powder, espresso powder, vegetable oil, butter, and vanilla extract. Whisk in milk.
+3. Fold in dry ingredients. When halfway combined, add any fillings and finish folding until just combined.
+4. Split batter between two coffee mugs.
 5. Microwave one at a time on high for 45 seconds at 1000W.
 6. Let sit for at least 2-3 minutes.
 
-Serve with vanilla ice cream.
+Serve topped with powdered sugar or ice cream.
