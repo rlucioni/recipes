@@ -1,31 +1,31 @@
 # Thumbprint Cookies
 
-Adapted from a Land O Lakes Holiday Recipe collection.
-
 ## Ingredients
 
-For cookie dough:
+### Cookies
+
+- 1 cup butter, softened
 - 2/3 cup sugar
-- 1 cup butter (2 sticks), softened
-- 1/2 teaspoon almond extract
-- 320 grams all-purpose flour
+- 2 egg yolks
+- 1 teaspoon vanilla extract
+- 1/2 teaspoon salt
+- 360 grams all-purpose flour
+- 1/3 - 1/2 cup jam
 
-For filling:
-- 1/2 cup jam
+### Glaze (optional)
 
-For glaze:
 - 1 cup powdered sugar
 - 1 1/2 teaspoons almond extract
 - 2-3 teaspoons water
 
 ## Instructions
 
-1. Preheat oven to 350°F.
-2. Cream sugar and butter in a large mixing bowl. Add almond extract.
-3. Add flour, mixing until well combined. Scrape the bowl often!
-4. Shape dough into 1-inch balls. Make indentations in the center of each cookie.
-5. Fill indentations with jam. Cutting the corner off a Ziploc bag works well for this.
-6. Bake until edges are lightly browned, about 14 to 18 minutes.
-7. Stir together powdered sugar, almond extract, and water to make a thin glaze. Drizzle over cookies. Again, cutting the corner off a Ziploc bag works well.
+1. Cream together butter and sugar (hand mixer works well).
+2. Add yolks, vanilla, and salt. Beat until well combined.
+3. Gradually add in flour until just combined.
+4. Working one at a time: scoop dough into tablespoon-sized ball, rolling smooth (and optionally rolling in sugar), then (while ball is still warm) gently flatten and press a cavity into it, pressing any cracks back together. Freeze for 30 minutes or refrigerate for 1 hour.
+5. Preheat oven to 375°F.
+6. Fill each cookie with about 1/4 teaspoon jam.
+7. Bake until edges start to turn golden brown, about 12-14 minutes.
 
-Allow icing to harden before eating!
+If glazing, stir together powdered sugar, almond extract, and water to make a thin glaze. Drizzle over cooled cookies; cutting the corner off a Ziploc bag works well. Allow icing to harden before eating!
