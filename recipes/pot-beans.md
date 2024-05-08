@@ -1,5 +1,7 @@
 # Pot Beans
 
+Adapted from [Rancho Gordo bean cooking tips](https://www.ranchogordo.com/blogs/recipes/cooking-basic-beans-in-the-rancho-gordo-manner)
+
 ## Ingredients
 
 - 1 pound dry beans, checked for debris and soaked about 6 hours
