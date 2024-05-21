@@ -13,15 +13,16 @@ Yields 16
 
 ### Filling
 
-- napa cabbage, salted and drained
+- napa cabbage, finely chopped, salted, and drained
 - Chinese chives, finely chopped
 - 2 pounds ground pork
-- 1 pound shrimp, chopped fine
+- 1 pound shrimp, finely chopped
 - soy sauce
-- dry sherry
+- sake or dry sherry
 - sesame oil
 - garlic powder
 - white pepper
+- garlic greens, finely chopped (optional)
 
 ## Instructions
 
@@ -29,4 +30,4 @@ Yields 16
 2. Stir yeast mixture into flour in a large bowl and knead for at least 10 minutes, adding more flour as necessary until a supple dough forms. If kneading with a machine and dough hook, knead on speed 2 for 2 minutes at a time, 4-6 minutes total. Lightly oil, then let rise 1 hour.
 3. While dough is rising, thoroughly combine all filling ingredients. Microwave a small patty to check for seasoning.
 4. Roll dough balls into discs. Fill, then close by pleating sides together, leaving an opening in the top. Proof 30 minutes.
-5. Steam-fry in vegetable oil and water, covered, until water is gone and bottoms are golden brown, about 6-7 minutes on medium heat (5).
+5. Steam-fry in vegetable oil and water, covered, until water is gone and bottoms are golden brown, about 6-7 minutes on medium heat.
