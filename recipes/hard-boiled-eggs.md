@@ -16,5 +16,5 @@
 ### Steamed
 
 1. Bring 1 inch of water to rolling boil.
-2. Lower eggs in steamer basket into pot, cover, and reduce heat. Steam for 13 minutes. Wisps of steam should escape from under the lid.
+2. Lower eggs in steamer basket into pot, cover, and reduce heat. Steam for 12-13 minutes. Wisps of steam should escape from under the lid.
 3. Cool under cold water.
