@@ -8,7 +8,7 @@ For a 10" pie
 - 2 1/2 pounds blueberries (defrosted if using frozen)
 - 1 lemon, zest and juice
 - 2/3 cup sugar
-- 2-4 tablespoons minute tapioca, ground (see [here](https://www.kingarthurflour.com/guides/pie-baking/pie-thickener.html) for alternatives)
+- 4 tablespoons minute tapioca, ground (see [here](../resources/pie-thickeners.pdf) for alternatives)
 - 1/4 teaspoon salt
 - egg wash (1 egg beaten with some water) and sugar for topping
 
