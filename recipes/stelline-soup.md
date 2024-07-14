@@ -16,7 +16,7 @@
 1. Saute onion, carrots, celery with some oil and salt until softened.
 2. Add garlic and stir until fragrant.
 3. Add chicken stock.
-4. Cook pasta according to package directions (maybe a little under).
+4. Cook pasta until just al dente, about 7 minutes.
 5. Kill heat and wilt in spinach and parsley.
 
 Good with a little vinegar.
