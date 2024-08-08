@@ -10,6 +10,8 @@
 - 1 bay leaf
 - 1 teaspoon fresh thyme leaves (or 1/4 teaspoon dried)
 - 1 cup cream
+- 2 ears corn, shaved
+- 2 green onions, chopped
 
 ## Instructions
 
@@ -17,7 +19,7 @@
 2. Bring clams and 3 cups water to boil in a large, covered pot. Steam until clams just open, 3-5 minutes.
 3. Remove clams from shells, discarding any that didn't open. Mince clam meat and reserve. Strain clam broth through a sieve lined with a paper towel and reserve. Rinse and dry pot.
 4. Fry bacon in pot until foamy. Reserve on a paper towel lined plate, leaving bacon fat in the pot. Add onion and cook until softened.
-5. Add flour, stirring until lightly colored, about 1 minute. Gradually whisk in reserved clam juice. Add potatoes, bay leaf, and thyme. Simmer until potatoes are tender, about 10-20 minutes, depending on the size of the potato chunks.
-6. Add bacon, clams, and cream. Bring to a simmer, then kill heat and taste for seasoning.
+5. Add flour, stirring until lightly colored, about 1 minute. Gradually whisk in reserved clam juice. Add potatoes, bay leaf, and thyme. Simmer until potatoes are tender, about 10-20 minutes, depending on the size of the potato chunks. Add corn when a few minutes are left.
+6. Add bacon, clams, cream, and green onions. Bring to a simmer, then kill heat and taste for seasoning.
 
 Serve with crusty bread. Best if reheated and served the next day.
