@@ -1,14 +1,14 @@
-# Meat and Pepper Stir-fry
+# Chicken and Pepper Stir-fry
 
 ## Ingredients
 
 ### Marinade
 
-- 1 pound flank steak or boneless skinless chicken thighs
+- 1 pound boneless skinless chicken thighs (or beef, like flank steak)
 - 3 tablespoons water
 - 2 teaspoons Shaoxing wine or dry sherry
 - 1 tablespoon soy sauce
-- 1/4 teaspoon baking soda (if using beef)
+- 1/4 teaspoon baking soda, if using beef
 - 1/2 teaspoon kosher salt
 - 2 teaspoons sugar
 - 1 tablespoon corn starch
@@ -27,8 +27,8 @@
 
 ## Instructions
 
-1. Thinly slice the flank steak across the grain. If using chicken, cut into bite-sized pieces. Mix with water in a bowl until the meat has absorbed all the water.
-2. Add all the other marinade ingredients except the vegetable oil and mix thoroughly. Skip the baking soda if using chicken. Then mix in vegetable oil. Let sit for 30 minutes.
+1. Cut chicken into bite-sized pieces. (If using beef, slice thinly across the grain.) Mix with water in a bowl until the meat has absorbed all the water.
+2. Add all the other marinade ingredients except the vegetable oil and mix thoroughly. (If using beef, add baking soda.) Then mix in vegetable oil. Let sit for 30 minutes.
 3. Cut peppers into strips. Cut milder peppers larger and spicier peppers smaller.
 4. Stir fry meat until barely cooked through. Reserve.
 5. Stir fry peppers and garlic in oil until softened. Add in soy sauce, Shaoxing wine, water, sugar, and white pepper and bring to a simmer. Add hoisin sauce if using.
