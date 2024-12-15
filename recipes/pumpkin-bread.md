@@ -22,6 +22,6 @@
 1. Preheat oven to 350°F.
 2. Butter and flour a 9x5" loaf pan.
 3. In one bowl, whisk together flour, baking soda, baking powder, cinnamon, salt, nutmeg, and ginger. In another bowl, whisk together pumpkin puree, sugar, melted butter, eggs, and vanilla.
-4. Fold dry ingredients into wet ingredients until just combined. Fold in nuts and cranberries (if using).
+4. Fold dry ingredients into wet ingredients until just combined. Fold in nuts, cranberries, and chocolate (if using).
 5. Scrape batter into prepared pan and smooth top. Bake until center registers 165-200°F and a toothpick inserted into the center comes out with just a few crumbs attached, about 75 minutes.
 6. Let the loaf cool in the pan for 10 minutes before unmolding onto a wire rack to cool completely.
