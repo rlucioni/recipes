@@ -15,7 +15,7 @@
 - 2 eggs
 - 2 teaspoons vanilla extract
 - 1 cup pecans and/or walnuts, toasted and chopped coarse
-- 1 cup dried cranberries (optional)
+- 1 cup dried cranberries and/or chopped chocolate (optional)
 
 ## Instructions
 
