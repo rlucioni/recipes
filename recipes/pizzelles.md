@@ -1,6 +1,6 @@
 # Pizzelles
 
-Makes about 16 cookies.
+Makes about 16 cookies (not very many). Usually will want to double.
 
 ## Ingredients
 
