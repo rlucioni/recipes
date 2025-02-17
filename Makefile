@@ -1,2 +1,2 @@
 run:
-	python recipebot/main.py
+	python chefbot/main.py

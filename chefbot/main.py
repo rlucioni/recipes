@@ -79,7 +79,7 @@ DEVELOPER_MESSAGE_TEMPLATE = """You're a private chef. The couple you work for h
 {recipes}
 """
 
-with open('recipebot/prompt.txt', 'w') as f:
+with open('chefbot/prompt.txt', 'w') as f:
     recipes = '\n\n'.join(contents)
     prompt = DEVELOPER_MESSAGE_TEMPLATE.format(recipes=recipes)
 
