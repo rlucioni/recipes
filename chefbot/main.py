@@ -1,9 +1,12 @@
 import logging
 import os
+import re
 from logging.config import dictConfig
 
 from dotenv import load_dotenv
+from openai import OpenAI
 from slack_bolt import App
+# from slackstyler import SlackStyler
 
 
 dictConfig({
@@ -28,11 +31,6 @@ dictConfig({
             'level': 'DEBUG',
             'propagate': True,
         },
-        # 'werkzeug': {
-        #     'handlers': ['console'],
-        #     'level': 'INFO',
-        #     'propagate': False,
-        # },
     },
 })
 
@@ -40,10 +38,12 @@ logger = logging.getLogger(__name__)
 
 load_dotenv('.env.private')
 
-DEVELOPER_MESSAGE_TEMPLATE = """You're a private chef. The couple you work for has given you examples of their favorite recipes as Markdown below. Help them meal plan, either by using these recipes or thinking of new ones that you think they'd like based on the given examples. Be concise and include no superfluous details. When sharing a recipe, use the format of the included Markdown recipes.
+DEVELOPER_MESSAGE_TEMPLATE = """You're a private chef named chefbot. The couple you work for has given you examples of their favorite recipes as Markdown below. Help them meal plan, either by using these recipes or thinking of new ones that you think they'd like based on the given examples. Be concise and include no superfluous details. When sharing a recipe, use the format of the included Markdown recipes.
 
 {recipes}
 """  # noqa
+
+oai = OpenAI(max_retries=3, timeout=60)
 
 
 # TODO: Message slack on a schedule with menu for the week.
@@ -137,18 +137,98 @@ def make_prompt(write=False):
     return prompt
 
 
+# https://openai.com/api/pricing/
+MODEL = 'o3-mini-2025-01-31'
+MODELS = {
+    'gpt-4o-2024-11-20': {
+        'input_token_cost': 2.5 / 1000000,
+        'output_token_cost': 10 / 1000000,
+    },
+    'o3-mini-2025-01-31': {
+        'input_token_cost': 1.1 / 1000000,
+        'output_token_cost': 4.4 / 1000000,
+    },
+}
+
+assert MODEL in MODELS, f'unknown model {MODEL}, add it to MODELS'
+
+
+def estimate_cost(res):
+    input_cost = res.usage.prompt_tokens * MODELS[res.model]['input_token_cost']
+    output_cost = (
+        res.usage.completion_tokens * MODELS[res.model]['output_token_cost']
+        if hasattr(res.usage, 'completion_tokens')
+        else 0
+    )
+
+    return input_cost + output_cost
+
+
 app = App(
     token=os.environ.get('SLACK_BOT_TOKEN'),
     signing_secret=os.environ.get('SLACK_SIGNING_SECRET')
 )
+user_name_cache = {}
+
+
+def get_user_name(user_id):
+    if user_id not in user_name_cache:
+        user_info = app.client.users_info(user=user_id)
+        user_name_cache[user_id] = user_info['user']['real_name']
+
+    return f'@{user_name_cache[user_id]}'
+
+
+def replace_user_mentions(text):
+    pattern = r'<@([A-Z0-9]+)>'
+
+    def replacer(match):
+        user_id = match.group(1)
+        return get_user_name(user_id)
+
+    return re.sub(pattern, replacer, text)
 
 
 @app.event('app_mention')
-def respond_in_thread(event, say):
-    ts = event.get('ts')
+def respond_to_mention(event, say):
+    # TODO: gather any previous thread context/messages?
+    ts = event['ts']
+    user_message = replace_user_mentions(event['text'])
+
+    logger.info(f'using {MODEL} to handle app mention with text: {user_message}')
+
+    messages = [
+        {
+            'role': 'developer',
+            'content': make_prompt(),
+        },
+        {
+            'role': 'user',
+            'content': user_message,
+        },
+    ]
+
+    completion = oai.chat.completions.create(
+        model=MODEL,
+        messages=messages,
+        reasoning_effort='medium',
+    )
+
+    content = completion.choices[0].message.content
+    # styler = SlackStyler()
+    # mrkdwn = styler.convert(content).strip()
+
+    # prompt_tokens = completion.usage.prompt_tokens
+    # completion_tokens = completion.usage.completion_tokens
+    # reasoning_tokens = completion.usage.completion_tokens_details.reasoning_tokens
+    cost = estimate_cost(completion)
+
+    # request_id = completion.request_id
+    logger.info(f'sending response: {content} (${cost:.4f})')
 
     say(
-        text='yo',
+        # text=mrkdwn,
+        text=content,
         thread_ts=ts
     )
 
