@@ -16,7 +16,7 @@
     "exception_handler": "app.exception_handler",
     "exclude": [
       "__pycache__",
-      "recipes",
+      "generated_recipes",
       ".env.private",
       ".flake8",
       ".gitignore",
