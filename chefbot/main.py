@@ -39,6 +39,7 @@ logger = logging.getLogger(__name__)
 
 load_dotenv('.env.private')
 
+# TODO: slight preference for vegetarian options?
 DEVELOPER_MESSAGE_TEMPLATE = """You're a private chef named chefbot. The couple you work for has given you examples of their favorite recipes as Markdown below. Help them meal plan, either by using these recipes or thinking of new ones that you think they'd like based on the given examples. Be concise and include no superfluous details. When sharing a recipe, use the format of the included Markdown recipes.
 
 {recipes}
