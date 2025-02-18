@@ -9,6 +9,7 @@ from flask import Flask, request
 from openai import OpenAI
 from slack_bolt import App
 from slack_bolt.adapter.flask import SlackRequestHandler
+from zappa.asynchronous import task
 # from slackstyler import SlackStyler
 
 
@@ -168,9 +169,11 @@ def estimate_cost(res):
     return input_cost + output_cost
 
 
+is_deployed = bool(os.environ.get('AWS_LAMBDA_FUNCTION_NAME'))
 slack_app = App(
     token=os.environ.get('SLACK_BOT_TOKEN'),
-    signing_secret=os.environ.get('SLACK_SIGNING_SECRET')
+    signing_secret=os.environ.get('SLACK_SIGNING_SECRET'),
+    process_before_response=is_deployed
 )
 user_name_cache = {}
 
@@ -209,8 +212,8 @@ def replace_user_mentions(text):
     return re.sub(pattern, replacer, text)
 
 
-@slack_app.event('app_mention')
-def respond_to_mention(event, say):
+@task
+def delayed_response(event):
     messages = [{
         'role': 'developer',
         'content': make_prompt(),
@@ -265,11 +268,17 @@ def respond_to_mention(event, say):
     # request_id = completion.request_id
     logger.info(f'sending response:\n{content} (${cost:.4f})')
 
-    say(
+    slack_app.client.chat_postMessage(
+        channel=channel_id,
         # text=mrkdwn,
         text=content,
         thread_ts=event['ts']
     )
+
+
+@slack_app.event('app_mention')
+def respond_to_mention(event):
+    delayed_response(event)
 
 
 flask_app = Flask(__name__)
