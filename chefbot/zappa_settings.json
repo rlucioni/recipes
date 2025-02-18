@@ -28,7 +28,8 @@
       "requirements.txt",
       "zappa_settings.json"
     ],
-    "keep_warm": false,
+    "keep_warm": true,
+    "keep_warm_expression": "rate(5 minutes)",
     "memory_size": 512,
     "profile_name": "default",
     "project_name": "chefbot",
