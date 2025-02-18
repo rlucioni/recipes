@@ -5,4 +5,8 @@ requirements:
 	pip install -r requirements.txt
 
 run:
-	python main.py
+	flask run
+
+deploy:
+	zappa deploy prod
+# 	zappa update prod

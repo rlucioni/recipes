@@ -5,8 +5,10 @@ import re
 from logging.config import dictConfig
 
 from dotenv import load_dotenv
+from flask import Flask, request
 from openai import OpenAI
 from slack_bolt import App
+from slack_bolt.adapter.flask import SlackRequestHandler
 # from slackstyler import SlackStyler
 
 
@@ -166,7 +168,7 @@ def estimate_cost(res):
     return input_cost + output_cost
 
 
-app = App(
+slack_app = App(
     token=os.environ.get('SLACK_BOT_TOKEN'),
     signing_secret=os.environ.get('SLACK_SIGNING_SECRET')
 )
@@ -176,13 +178,13 @@ user_name_cache = {}
 def get_user_name(user_id):
     if user_id not in user_name_cache:
         if user_id.startswith('B'):
-            bot_info = app.client.bots_info(bot=user_id)
+            bot_info = slack_app.client.bots_info(bot=user_id)
             # logger.info('bot_info')
             # logger.info(bot_info)
 
             user_name_cache[user_id] = bot_info['bot']['name']
         else:
-            user_info = app.client.users_info(user=user_id)
+            user_info = slack_app.client.users_info(user=user_id)
             # logger.info('user_info')
             # logger.info(user_info)
 
@@ -207,7 +209,7 @@ def replace_user_mentions(text):
     return re.sub(pattern, replacer, text)
 
 
-@app.event('app_mention')
+@slack_app.event('app_mention')
 def respond_to_mention(event, say):
     messages = [{
         'role': 'developer',
@@ -221,7 +223,7 @@ def respond_to_mention(event, say):
     thread_ts = event.get('thread_ts')
     parent_ts = thread_ts if thread_ts else event['ts']
 
-    replies = app.client.conversations_replies(channel=channel_id, ts=parent_ts, limit=1000)
+    replies = slack_app.client.conversations_replies(channel=channel_id, ts=parent_ts, limit=1000)
 
     for reply in replies['messages']:
         user_id = reply.get('user')
@@ -270,6 +272,19 @@ def respond_to_mention(event, say):
     )
 
 
-if __name__ == '__main__':
-    port = int(os.environ.get('PORT', 3000))
-    app.start(port=port)
+flask_app = Flask(__name__)
+handler = SlackRequestHandler(slack_app)
+
+
+@flask_app.route('/slack/events', methods=['POST'])
+def slack_events():
+    return handler.handle(request)
+
+
+def exception_handler(exception, event, context):
+    logger.error('unhandled exception:', exc_info=exception)
+
+    # Tells Zappa not to re-raise the exception, which in turn prevents Lambda
+    # from retrying invocation.
+    # https://github.com/zappa/Zappa/blob/0.59.0/zappa/handler.py#L252-L255
+    return True
