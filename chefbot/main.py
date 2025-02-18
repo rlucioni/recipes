@@ -1,3 +1,4 @@
+import json
 import logging
 import os
 import re
@@ -173,10 +174,24 @@ user_name_cache = {}
 
 def get_user_name(user_id):
     if user_id not in user_name_cache:
-        user_info = app.client.users_info(user=user_id)
-        user_name_cache[user_id] = user_info['user']['real_name']
+        if user_id.startswith('B'):
+            bot_info = app.client.bots_info(bot=user_id)
+            # logger.info('bot_info')
+            # logger.info(bot_info)
 
-    return f'@{user_name_cache[user_id]}'
+            user_name_cache[user_id] = bot_info['bot']['name']
+        else:
+            user_info = app.client.users_info(user=user_id)
+            # logger.info('user_info')
+            # logger.info(user_info)
+
+            display_name = user_info['user']['profile']['display_name']
+            real_name = user_info['user']['profile']['real_name']
+            user_name_cache[user_id] = display_name or real_name
+
+    # Since we use this name as the name field for OpenAI user messages, it must match the pattern ^[a-zA-Z0-9_-]+$
+    # TODO: slugify real_name, which should always be present?
+    return user_name_cache[user_id]
 
 
 def replace_user_mentions(text):
@@ -184,29 +199,50 @@ def replace_user_mentions(text):
 
     def replacer(match):
         user_id = match.group(1)
-        return get_user_name(user_id)
+        user_name = get_user_name(user_id)
+
+        return f'@{user_name}'
 
     return re.sub(pattern, replacer, text)
 
 
 @app.event('app_mention')
 def respond_to_mention(event, say):
-    # TODO: gather any previous thread context/messages?
-    ts = event['ts']
-    user_message = replace_user_mentions(event['text'])
+    messages = [{
+        'role': 'developer',
+        'content': make_prompt(),
+    }]
 
-    logger.info(f'using {MODEL} to handle app mention with text: {user_message}')
+    channel_id = event['channel']
 
-    messages = [
-        {
-            'role': 'developer',
-            'content': make_prompt(),
-        },
-        {
-            'role': 'user',
-            'content': user_message,
-        },
-    ]
+    # Messages in a thread will have a thread_ts identifying their parent message.
+    # Parent messages (with 0 or more replies) don't have a thread_ts.
+    thread_ts = event.get('thread_ts')
+    parent_ts = thread_ts if thread_ts else event['ts']
+
+    replies = app.client.conversations_replies(channel=channel_id, ts=parent_ts, limit=1000)
+
+    for reply in replies['messages']:
+        user_id = reply.get('user')
+        if user_id:
+            role = 'user'
+            user_name = get_user_name(user_id)
+
+        bot_id = reply.get('bot_id')
+        if bot_id:
+            role = 'assistant'
+            user_name = get_user_name(bot_id)
+
+        content = replace_user_mentions(reply['text'])
+
+        messages.append({
+            'role': role,
+            'name': user_name,
+            'content': content,
+        })
+
+    messages_str = json.dumps(messages[1:], indent=2)
+    logger.info(f'using {MODEL} to handle app mention. messages (minus developer) are:\n{messages_str}')
 
     completion = oai.chat.completions.create(
         model=MODEL,
@@ -224,12 +260,12 @@ def respond_to_mention(event, say):
     cost = estimate_cost(completion)
 
     # request_id = completion.request_id
-    logger.info(f'sending response: {content} (${cost:.4f})')
+    logger.info(f'sending response:\n{content} (${cost:.4f})')
 
     say(
         # text=mrkdwn,
         text=content,
-        thread_ts=ts
+        thread_ts=event['ts']
     )
 
 
