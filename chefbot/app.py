@@ -126,7 +126,7 @@ def make_prompt(write=False):
 
     contents = []
     for path in paths:
-        with open(f'../{path}') as f:
+        with open(path) as f:
             content = f.read()
             contents.append(content.strip())
 
@@ -279,6 +279,11 @@ handler = SlackRequestHandler(slack_app)
 @flask_app.route('/slack/events', methods=['POST'])
 def slack_events():
     return handler.handle(request)
+
+
+@flask_app.route('/')
+def status_check():
+    return 'ok'
 
 
 def exception_handler(exception, event, context):
