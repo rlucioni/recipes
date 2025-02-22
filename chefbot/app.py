@@ -268,7 +268,6 @@ def think(event):
 
     # request_id = completion.request_id
     logger.info(f'sending response:\n{content} (${cost:.4f})')
-    print(user_name_cache)
 
     slack_app.client.chat_postMessage(
         channel=channel_id,
