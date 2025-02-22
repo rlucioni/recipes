@@ -4,7 +4,8 @@ Adapted from [Chef John's Pecan Sour Cream Coffee Cake](http://foodwishes.blogsp
 
 ## Ingredients
 
-Crumb topping
+### Crumb topping
+
 - 1 cup pecans, toasted and finely chopped
 - 3 tablespoons white sugar
 - 3 tablespoons brown sugar, packed
@@ -12,7 +13,8 @@ Crumb topping
 - 2 tablespoons butter, melted
 - pinch of salt
 
-Cake
+### Cake
+
 - 125 grams all-purpose flour
 - 1/4 teaspoon salt
 - 1/2 teaspoon baking soda

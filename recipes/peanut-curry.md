@@ -2,8 +2,9 @@
 
 Adapted from [Chef John's peanut curry](http://foodwishes.blogspot.com/2015/09/peanut-curry-chicken-check-please.html). Serves 6.
 
-For the spice blend:
 ## Ingredients
+
+### Spice blend
 
 - 2 teaspoons ground coriander
 - 2 teaspoons ground cumin
@@ -11,7 +12,9 @@ For the spice blend:
 - 1 teaspoon paprika
 - 1 tablespoon kosher salt, plus more to taste
 - 1/2 teaspoon cayenne
-                                                                                  
+
+### Everything else
+
 - 2 1/2 pounds chicken boneless skinless chicken thighs, cut into bite-size chunks
 - 2 tablespoons vegetable oil
 - 1 large yellow onion, chopped

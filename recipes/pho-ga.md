@@ -16,7 +16,8 @@ Adapted from [Serious Eats' Pho Ga](http://www.seriouseats.com/recipes/2015/01/3
 - 1/4 cup fish sauce, plus more to taste
 - 2 tablespoons sugar, plus more to taste
 
-Toppings:
+### Toppings
+
 - 4 servings pho noodles, prepared according to package directions
 - 1 small white or yellow onion, thinly sliced
 - 1/2 cup thinly sliced scallions
