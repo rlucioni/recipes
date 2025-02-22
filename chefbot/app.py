@@ -1,6 +1,7 @@
 import json
 import logging
 import os
+import random
 import re
 from logging.config import dictConfig
 
@@ -213,7 +214,7 @@ def replace_user_mentions(text):
 
 
 @task
-def delayed_response(event):
+def think(event):
     messages = [{
         'role': 'developer',
         'content': make_prompt(),
@@ -267,6 +268,7 @@ def delayed_response(event):
 
     # request_id = completion.request_id
     logger.info(f'sending response:\n{content} (${cost:.4f})')
+    print(user_name_cache)
 
     slack_app.client.chat_postMessage(
         channel=channel_id,
@@ -276,9 +278,43 @@ def delayed_response(event):
     )
 
 
+CHEFBOT_USER_ID = 'U08E33CEFKK'
+thinking_indicators = [
+    'mulling it over',
+    'stirring up ideas',
+    'simmering on a solution',
+    'marinating in thought',
+    'preheating new plans',
+    'blending concepts',
+    'sautéing fresh ideas',
+    'brewing a breakthrough',
+    'whisking up inspiration',
+    'cooking up a masterpiece',
+    'chopping up fresh ideas',
+    'grilling innovative thoughts',
+    'baking a new approach',
+    'steaming some insights',
+    'searing a solution',
+    'slicing through challenges',
+    'garnishing with genius',
+    'roasting creative concepts',
+    'spicing up strategies',
+    'plating a masterpiece',
+]
+
+
 @slack_app.event('app_mention')
 def respond_to_mention(event):
-    delayed_response(event)
+    channel_id = event['channel']
+    indicator = random.choice(thinking_indicators)
+
+    slack_app.client.chat_postMessage(
+        channel=channel_id,
+        text=f'<@{CHEFBOT_USER_ID}> is {indicator}...',
+        thread_ts=event['ts']
+    )
+
+    think(event)
 
 
 flask_app = Flask(__name__)
@@ -291,7 +327,7 @@ def slack_events():
 
 
 @flask_app.route('/')
-def status_check():
+def health():
     return 'ok'
 
 

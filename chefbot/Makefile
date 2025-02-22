@@ -4,6 +4,9 @@ deploy:
 lint:
 	flake8 .
 
+logs:
+	zappa tail prod --since 1d --disable-keep-open
+
 prune:
 	python prune.py
 
@@ -22,8 +25,8 @@ schedule:
 status:
 	zappa status prod
 
-logs:
-	zappa tail prod --since 1d --disable-keep-open
+tunnel:
+	ngrok http 5000
 
 undeploy:
 	zappa undeploy prod --remove-logs
