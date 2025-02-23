@@ -11,6 +11,7 @@ from flask import Flask, request
 from openai import OpenAI
 from slack_bolt import App
 from slack_bolt.adapter.flask import SlackRequestHandler
+from slugify import slugify
 from zappa.asynchronous import task
 # from slackstyler import SlackStyler
 
@@ -114,21 +115,17 @@ def get_user_name(user_id):
     if user_id not in user_name_cache:
         if user_id.startswith('B'):
             bot_info = slack_app.client.bots_info(bot=user_id)
-            # logger.info('bot_info')
-            # logger.info(bot_info)
 
-            user_name_cache[user_id] = bot_info['bot']['name']
+            # We use these user names to populate the `name` field on OpenAI messages,
+            # and they require that it match the pattern ^[a-zA-Z0-9_-]+$
+            user_name_cache[user_id] = slugify(bot_info['bot']['name'])
         else:
             user_info = slack_app.client.users_info(user=user_id)
-            # logger.info('user_info')
-            # logger.info(user_info)
 
             display_name = user_info['user']['profile']['display_name']
             real_name = user_info['user']['profile']['real_name']
-            user_name_cache[user_id] = display_name or real_name
+            user_name_cache[user_id] = slugify(display_name or real_name)
 
-    # Since we use this name as the name field for OpenAI user messages, it must match the pattern ^[a-zA-Z0-9_-]+$
-    # TODO: slugify real_name, which should always be present?
     return user_name_cache[user_id]
 
 

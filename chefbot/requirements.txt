@@ -3,6 +3,7 @@ flake8==7.1.2
 Flask==3.1.0
 openai==1.63.2
 python-dotenv==1.0.1 
+python-slugify==8.0.4
 slack-bolt==1.22.0
 slackstyler==0.0.3
 zappa==0.59.0

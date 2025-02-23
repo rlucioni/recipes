@@ -17,7 +17,7 @@ rollback:
 	zappa rollback prod -n 1
 
 run:
-	flask run
+	flask run --port 5001
 
 schedule:
 	zappa schedule prod
@@ -26,7 +26,7 @@ status:
 	zappa status prod
 
 tunnel:
-	ngrok http 5000
+	ngrok http 5001
 
 undeploy:
 	zappa undeploy prod --remove-logs
