@@ -1,6 +1,7 @@
 # Raita
 
 ## Ingredients
+
 - 1 cup dahi (use Desi Natural brand)
 - 1 teaspoon cumin seeds, toasted and ground
 - 1/4 teaspoon salt

@@ -10,6 +10,7 @@
 - extra flour for dredging
 
 ### Ingredient options
+
 - shrimp, scored on the underside and straightened
 - squid
 - scallop
@@ -19,6 +20,7 @@
 - mushrooms
 
 ### Dipping sauce
+
 - [tentsuyu](tentsuyu.md)
 
 ## Instructions

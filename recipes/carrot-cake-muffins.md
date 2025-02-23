@@ -4,7 +4,8 @@ Adapted from [Bon Apetit's carrot cake](http://www.epicurious.com/recipes/food/v
 
 ## Ingredients
 
-Cake
+### Cake
+
 - 3/4 cup white sugar
 - 3/4 cup brown sugar
 - 1 1/2 cups vegetable oil 
@@ -18,7 +19,8 @@ Cake
 - 3 cups finely grated peeled carrots (about 1 pound) 
 - 1/2 cup chopped pecans (about 1/2 ounce) 
 
-Frosting
+### Frosting
+
 - 1 1/2 cups powdered sugar 
 - 8 ounces cream cheese, room temperature 
 - 1/4 cup unsalted butter, room temperature 
