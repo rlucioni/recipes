@@ -24,4 +24,3 @@ Adapted from America's Test Kitchen's Skillet Lasagna. Serves 4.
 4. Scatter pasta pieces, and pour over tomato mixture over. Simmer 20 min, stirring occasionally.
 5. Remove from heat, stir in parmesan, taste for salt, and dollop on ricotta.
 6. Cover with lid for 5 minutes.
-

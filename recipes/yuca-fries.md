@@ -4,7 +4,7 @@
 
 ### Fries
 
-- yuca root, peeled and cut into sticks, cores removed
+- yuca root, peeled (best done by hand: slit and unwrap) and cut into sticks, cores removed
 - salt
 - vegetable oil
 
