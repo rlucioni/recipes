@@ -1,8 +1,9 @@
 import json
 import logging
 import os
-import random
 import re
+import time
+from datetime import datetime
 from logging.config import dictConfig
 from pathlib import Path
 
@@ -11,10 +12,12 @@ from flask import Flask, request
 from openai import OpenAI
 from slack_bolt import App
 from slack_bolt.adapter.flask import SlackRequestHandler
+from slackstyler import SlackStyler
 from slugify import slugify
 from zappa.asynchronous import task
-# from slackstyler import SlackStyler
 
+
+load_dotenv('.env.private')
 
 dictConfig({
     'version': 1,
@@ -43,40 +46,24 @@ dictConfig({
 
 logger = logging.getLogger(__name__)
 
-load_dotenv('.env.private')
+PROMPT_TEMPLATE = """You are chefbot, a culinary assistant. Be serious, brief, and to the point. Don't include unnecessary details or colorful commentary in your responses.
 
-DEVELOPER_MESSAGE_TEMPLATE = """You're a private chef named chefbot. The couple you work for has given you examples of their favorite recipes as Markdown below. Help them meal plan, either by using these recipes or thinking of new ones that you think they'd like based on the given examples. Be concise and include no superfluous details. When sharing a recipe, use the format of the included Markdown recipes.
+If you're sharing a recipe and you haven't been asked to come up with a new one, stick to the ones provided in <recipes> tags below, referring to them only by their filenames instead of copying the recipe text (and without offering to share the recipe text). However, if you're sharing the text of a new recipe, copy the Markdown format used for the recipes in <recipes> tags. Include at most one recipe in each of your responses.
 
-{recipes}
+It is currently {date} and your users are based in Massachusetts. Be aware of this information when formulating your response and use it to make seasonally appropriate suggestions when relevant, but don't announce that you're doing so. For example, you should demonstrate a slight preference for soups and stews in the winter, and a slight preference for fresh vegetables in the spring and summer. You should also have a very slight preference for vegetarian options.
+
+If you're asked to provide a shopping list, don't include commonly stocked ingredients (e.g., salt, pepper, flour, sugar, olive oil, vegetable oil, sesame oil).
+
+<recipes>{recipes}</recipes>
 """  # noqa
 
-oai = OpenAI(max_retries=3, timeout=60)
-
-
-def make_prompt(write=False):
-    recipes = Path('recipes')
-    contents = []
-
-    for file in recipes.iterdir():
-        if file.suffix == '.md':
-            with file.open() as f:
-                content = f.read()
-
-                if content:
-                    contents.append(content.strip())
-
-    joined_recipes = '\n\n'.join(contents)
-    prompt = DEVELOPER_MESSAGE_TEMPLATE.format(recipes=joined_recipes)
-
-    if write:
-        with open('prompt.txt', 'w') as f:
-            f.write(prompt)
-
-    return prompt
-
+FRONT_MATTER_TEMPLATE = """---
+filename: {filename}
+---
+"""
 
 # https://openai.com/api/pricing/
-MODEL = 'o3-mini-2025-01-31'
+MODEL = 'gpt-4o-2024-11-20'
 MODELS = {
     'gpt-4o-2024-11-20': {
         'input_token_cost': 2.5 / 1000000,
@@ -90,6 +77,52 @@ MODELS = {
 
 assert MODEL in MODELS, f'unknown model {MODEL}, add it to MODELS'
 
+CHEFBOT_USER_ID = 'U08E33CEFKK'
+THINKING_SENTINEL = f'<@{CHEFBOT_USER_ID}> is thinking...'
+
+IS_DEPLOYED = bool(os.environ.get('AWS_LAMBDA_FUNCTION_NAME'))
+slack_app = App(
+    token=os.environ.get('SLACK_BOT_TOKEN'),
+    signing_secret=os.environ.get('SLACK_SIGNING_SECRET'),
+    process_before_response=IS_DEPLOYED
+)
+user_name_cache = {}
+
+flask_app = Flask(__name__)
+handler = SlackRequestHandler(slack_app)
+
+oai = OpenAI(max_retries=3, timeout=60)
+
+
+class Timer:
+    def __init__(self):
+        self.t0 = time.time()
+
+    def done(self):
+        self.latency = time.time() - self.t0
+
+
+def make_prompt(write=False):
+    recipes = Path('recipes')
+    contents = []
+
+    for file in recipes.iterdir():
+        if file.suffix == '.md':
+            with file.open() as f:
+                content = f.read()
+                if content:
+                    front_matter = FRONT_MATTER_TEMPLATE.format(filename=file.name)
+                    contents.append(f'{front_matter}\n{content.strip()}')
+
+    joined_recipes = '\n\n'.join(contents)
+    prompt = PROMPT_TEMPLATE.format(date=datetime.now().strftime('%B %d'), recipes=joined_recipes)
+
+    if write:
+        with open('prompt.txt', 'w') as f:
+            f.write(prompt)
+
+    return prompt
+
 
 def estimate_cost(res):
     input_cost = res.usage.prompt_tokens * MODELS[res.model]['input_token_cost']
@@ -100,15 +133,6 @@ def estimate_cost(res):
     )
 
     return input_cost + output_cost
-
-
-is_deployed = bool(os.environ.get('AWS_LAMBDA_FUNCTION_NAME'))
-slack_app = App(
-    token=os.environ.get('SLACK_BOT_TOKEN'),
-    signing_secret=os.environ.get('SLACK_SIGNING_SECRET'),
-    process_before_response=is_deployed
-)
-user_name_cache = {}
 
 
 def get_user_name(user_id):
@@ -141,11 +165,25 @@ def replace_user_mentions(text):
     return re.sub(pattern, replacer, text)
 
 
+def replace_filenames(text):
+    pattern = r'([a-zA-Z0-9_-]*\.md)'
+
+    def replacer(match):
+        filename = match.group(1)
+
+        return f'https://github.com/rlucioni/recipes/blob/master/recipes/{filename}'
+
+    return re.sub(pattern, replacer, text)
+
+
 @task
 def think(event):
+    e2e_timer = Timer()
+    logger.info(f'using {MODEL} to handle app mention')
+
     messages = [{
-        'role': 'developer',
-        'content': make_prompt(),
+        'role': 'system',
+        'content': make_prompt(write=not IS_DEPLOYED),
     }]
 
     channel_id = event['channel']
@@ -158,6 +196,9 @@ def think(event):
     replies = slack_app.client.conversations_replies(channel=channel_id, ts=parent_ts, limit=1000)
 
     for reply in replies['messages']:
+        if reply['text'] == THINKING_SENTINEL:
+            continue
+
         user_id = reply.get('user')
         if user_id:
             role = 'user'
@@ -176,76 +217,58 @@ def think(event):
             'content': content,
         })
 
-    messages_str = json.dumps(messages[1:], indent=2)
-    logger.info(f'using {MODEL} to handle app mention. messages (minus developer) are:\n{messages_str}')
+    if not IS_DEPLOYED:
+        messages_str = json.dumps(messages[1:], indent=2)
+        logger.info(f'messages (minus system) are:\n{messages_str}')
 
+    completion_timer = Timer()
     completion = oai.chat.completions.create(
         model=MODEL,
         messages=messages,
-        reasoning_effort='medium',
+        temperature=0.7
     )
+    completion_timer.done()
 
     content = completion.choices[0].message.content
-    # styler = SlackStyler()
-    # mrkdwn = styler.convert(content).strip()
+    content_with_urls = replace_filenames(content)
 
-    # prompt_tokens = completion.usage.prompt_tokens
-    # completion_tokens = completion.usage.completion_tokens
-    # reasoning_tokens = completion.usage.completion_tokens_details.reasoning_tokens
-    cost = estimate_cost(completion)
+    if not IS_DEPLOYED:
+        logger.info(f'sending response:\n{content_with_urls}')
 
-    # request_id = completion.request_id
-    logger.info(f'sending response:\n{content} (${cost:.4f})')
+    styler = SlackStyler()
+    mrkdwn = styler.convert(content_with_urls).strip()
 
     slack_app.client.chat_postMessage(
         channel=channel_id,
-        # text=mrkdwn,
-        text=content,
-        thread_ts=event['ts']
+        text=mrkdwn,
+        thread_ts=event['ts'],
+        unfurl_links=False,
+        unfurl_media=False,
     )
 
+    e2e_timer.done()
+    stats = {
+        'e2e_latency (s)': round(e2e_timer.latency, 2),
+        'completion_latency (s)': round(completion_timer.latency, 2),
+        'cost': round(estimate_cost(completion), 2),
+        'prompt_tokens': completion.usage.prompt_tokens,
+        'completion_tokens': completion.usage.completion_tokens,
+    }
 
-CHEFBOT_USER_ID = 'U08E33CEFKK'
-thinking_indicators = [
-    'mulling it over',
-    'stirring up ideas',
-    'simmering on a solution',
-    'marinating in thought',
-    'preheating new plans',
-    'blending concepts',
-    'sautéing fresh ideas',
-    'brewing a breakthrough',
-    'whisking up inspiration',
-    'cooking up a masterpiece',
-    'chopping up fresh ideas',
-    'grilling innovative thoughts',
-    'baking a new approach',
-    'steaming some insights',
-    'searing a solution',
-    'slicing through challenges',
-    'garnishing with genius',
-    'roasting creative concepts',
-    'spicing up strategies',
-    'plating a masterpiece',
-]
+    stats_str = json.dumps(stats, indent=2)
+    logger.info(f'stats:\n{stats_str}')
 
 
 @slack_app.event('app_mention')
 def respond_to_mention(event):
     channel_id = event['channel']
-    indicator = random.choice(thinking_indicators)
-
     slack_app.client.chat_postMessage(
         channel=channel_id,
-        text=f'<@{CHEFBOT_USER_ID}> is {indicator}...',
+        text=THINKING_SENTINEL,
         thread_ts=event['ts']
     )
 
     think(event)
-
-
-flask_app = Flask(__name__)
-handler = SlackRequestHandler(slack_app)
 
 
 @flask_app.route('/slack/events', methods=['POST'])

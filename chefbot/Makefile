@@ -17,7 +17,7 @@ rollback:
 	zappa rollback prod -n 1
 
 run:
-	flask run --port 5001
+	flask run --port 5001 --debug
 
 schedule:
 	zappa schedule prod
