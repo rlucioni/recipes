@@ -1,6 +1,9 @@
 deploy:
 	zappa deploy prod
 
+embeddings:
+	python -c 'import app; app.embed_recipes();'
+
 lint:
 	flake8 .
 

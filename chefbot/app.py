@@ -3,6 +3,7 @@ import logging
 import os
 import re
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
 from logging.config import dictConfig
 from pathlib import Path
@@ -10,6 +11,7 @@ from pathlib import Path
 from dotenv import load_dotenv
 from flask import Flask, request
 from openai import OpenAI
+from scipy.spatial import distance
 from slack_bolt import App
 from slack_bolt.adapter.flask import SlackRequestHandler
 from slackstyler import SlackStyler
@@ -46,15 +48,29 @@ dictConfig({
 
 logger = logging.getLogger(__name__)
 
-PROMPT_TEMPLATE = """You are chefbot, a culinary assistant. Be serious, brief, and to the point. Don't include unnecessary details or colorful commentary in your responses.
+PROMPT_TEMPLATE = """You are chefbot, a creative culinary assistant. Be serious, brief, and to the point. Don't include unnecessary details or colorful commentary in your responses.
 
-Prefer sticking to the recipes provided in <recipes> tags below, referring to them only by their filenames instead of copying the recipe text (and without offering to share the recipe text). However, if you must provide the text of a recipe, either because a relevant recipe doesn't exist in the provided set or you've been asked to come up with a new one, copy the Markdown format used for the recipes in <recipes> tags. Include at most one recipe in each of your responses.
+Rely on the search_recipes function to query for known recipes. You can call this function as many times as you like to explore the set of known recipes. Prefer sticking to known recipes unless asked to come up with a new one. Always refer to known recipes by their filename instead of reproducing the recipe text, unless instructed otherwise. When you do share the text of a recipe, stick to the Markdown format provided below in <recipe_format> tags.
 
-It is currently {date} and your users are based in Massachusetts. Be aware of this information when formulating your response and use it to make seasonally appropriate suggestions when relevant, but don't announce that you're doing so. For example, you should demonstrate a slight preference for soups and stews in the winter, and a slight preference for fresh vegetables in the spring and summer. You should also have a very slight preference for vegetarian options.
+It is currently {date}. Assume your users are in Massachusetts unless they tell you otherwise. Be aware of this information when formulating your responses. Use it to subtly make seasonally appropriate suggestions when relevant (i.e., don't announce that you're doing this). For example, you should demonstrate a slight preference for soups and stews in the winter, and a slight preference for using fresh vegetables in the spring and summer. You should also have a very slight preference for vegetarian options.
 
-If you're asked to provide a shopping list, don't include commonly stocked ingredients (e.g., salt, pepper, flour, sugar, olive oil, vegetable oil, sesame oil).
+If providing a shopping list, don't list commonly stocked ingredients (e.g., salt, pepper, flour, sugar, olive oil, vegetable oil, sesame oil).
 
-<recipes>{recipes}</recipes>
+<recipe_format>
+# Recipe Name
+
+Optional notes to keep in mind before starting (e.g., serves N).
+
+## Ingredients
+
+- ingredient
+
+## Instructions
+
+1. instructions
+
+Optional additional notes.
+</recipe_format>
 """  # noqa
 
 FRONT_MATTER_TEMPLATE = """---
@@ -62,8 +78,35 @@ filename: {filename}
 ---
 """
 
+TOOLS = [
+    {
+        'type': 'function',
+        'function': {
+            'name': 'search_recipes',
+            'description': 'Searches for known recipes relevant to a query',
+            'parameters': {
+                'type': 'object',
+                'properties': {
+                    'query': {
+                        'type': 'string',
+                        'description': (
+                            'Query for which to find relevant recipes. '
+                            'This can be a string of any length (e.g., a single word, a phrase, a full sentence, etc.)'
+                        ),
+                    },
+                },
+                'additionalProperties': False,
+                'required': ['query'],
+            },
+            'strict': True,
+        },
+    },
+]
+
+EMBEDDING_MODEL = 'text-embedding-3-small'
+CHAT_MODEL = 'gpt-4o-2024-11-20'
+
 # https://openai.com/api/pricing/
-MODEL = 'gpt-4o-2024-11-20'
 MODELS = {
     'gpt-4o-2024-11-20': {
         'input_token_cost': 2.5 / 1000000,
@@ -73,9 +116,16 @@ MODELS = {
         'input_token_cost': 1.1 / 1000000,
         'output_token_cost': 4.4 / 1000000,
     },
+    'text-embedding-3-large': {
+        'input_token_cost': 0.13 / 1000000,
+    },
+    'text-embedding-3-small': {
+        'input_token_cost': 0.02 / 1000000,
+    },
 }
 
-assert MODEL in MODELS, f'unknown model {MODEL}, add it to MODELS'
+assert EMBEDDING_MODEL in MODELS, f'unknown EMBEDDING_MODEL {EMBEDDING_MODEL}, add it to MODELS'
+assert CHAT_MODEL in MODELS, f'unknown CHAT_MODEL {CHAT_MODEL}, add it to MODELS'
 
 CHEFBOT_USER_ID = 'U08E33CEFKK'
 THINKING_SENTINEL = f'<@{CHEFBOT_USER_ID}> is thinking...'
@@ -102,26 +152,23 @@ class Timer:
         self.latency = time.time() - self.t0
 
 
-def make_prompt(write=False):
-    recipes = Path('recipes')
-    contents = []
+class ProgressMeter:
+    def __init__(self, total, msg='{done}/{total} ({percent}%) done', mod=10):
+        self.total = total
+        self.done = 0
+        self.msg = msg
+        self.mod = mod
 
-    for file in recipes.iterdir():
-        if file.suffix == '.md':
-            with file.open() as f:
-                content = f.read()
-                if content:
-                    front_matter = FRONT_MATTER_TEMPLATE.format(filename=file.name)
-                    contents.append(f'{front_matter}\n{content.strip()}')
+    def increment(self):
+        self.done += 1
 
-    joined_recipes = '\n\n'.join(contents)
-    prompt = PROMPT_TEMPLATE.format(date=datetime.now().strftime('%B %d'), recipes=joined_recipes)
+        if self.done % self.mod == 0:
+            percent = round((self.done / self.total) * 100)
+            print(self.msg.format(done=self.done, total=self.total, percent=percent))
 
-    if write:
-        with open('prompt.txt', 'w') as f:
-            f.write(prompt)
 
-    return prompt
+def make_prompt():
+    return PROMPT_TEMPLATE.format(date=datetime.now().strftime('%B %d'))
 
 
 def estimate_cost(res):
@@ -133,6 +180,86 @@ def estimate_cost(res):
     )
 
     return input_cost + output_cost
+
+
+def embed_recipes():
+    timer = Timer()
+
+    recipes = {}
+    for file in Path('../recipes').glob('*.md'):
+        with file.open() as f:
+            content = f.read().strip()
+            if content:
+                recipes[file.name] = content
+
+    logger.info(f'embedding {len(recipes)} recipes using {EMBEDDING_MODEL}')
+
+    progress = ProgressMeter(len(recipes))
+    embeddings = {}
+    cost = 0
+
+    with ThreadPoolExecutor(max_workers=16) as executor:
+        futures = {}
+        for filename, content in recipes.items():
+            future = executor.submit(oai.embeddings.create, model=EMBEDDING_MODEL, input=content)
+            futures[future] = filename
+
+        for future in as_completed(futures):
+            progress.increment()
+            filename = futures[future]
+
+            try:
+                res = future.result()
+            except:
+                logger.exception(f'failed to embed {filename}')
+                continue
+
+            embeddings[filename] = {
+                'content': recipes[filename],
+                'embedding': res.data[0].embedding,
+            }
+            cost += estimate_cost(res)
+
+    with open('embeddings.json', 'w') as f:
+        json.dump(embeddings, f, separators=(',', ':'))
+
+    timer.done()
+    logger.info(f'done in {round(timer.latency, 2)}s (cost: ${round(cost, 2)})')
+
+
+def cosine_similarity(vector_a, vector_b):
+    return 1 - distance.cosine(vector_a, vector_b)
+
+
+class Toolbox:
+    @staticmethod
+    def search_recipes(query):
+        res = oai.embeddings.create(
+            model=EMBEDDING_MODEL,
+            input=query
+        )
+        query_embedding = res.data[0].embedding
+
+        with open('embeddings.json') as f:
+            embeddings = json.load(f)
+
+        recipes = []
+        for filename, recipe in embeddings.items():
+            similarity = cosine_similarity(query_embedding, recipe['embedding'])
+            recipes.append({
+                'filename': filename,
+                'similarity': similarity,
+            })
+
+        recipes.sort(key=lambda recipe: recipe['similarity'], reverse=True)
+
+        docs = []
+        for recipe in recipes[:10]:
+            front_matter = FRONT_MATTER_TEMPLATE.format(filename=recipe['filename'])
+            content = embeddings[recipe['filename']]['content']
+            docs.append(f'{front_matter}\n{content}')
+
+        return '\n\n'.join(docs)
 
 
 def get_user_name(user_id):
@@ -179,11 +306,11 @@ def replace_filenames(text):
 @task
 def think(event):
     e2e_timer = Timer()
-    logger.info(f'using {MODEL} to handle app mention')
+    logger.info(f'handling app mention using {CHAT_MODEL}')
 
     messages = [{
         'role': 'system',
-        'content': make_prompt(write=not IS_DEPLOYED),
+        'content': make_prompt(),
     }]
 
     channel_id = event['channel']
@@ -221,14 +348,41 @@ def think(event):
         messages_str = json.dumps(messages[1:], indent=2)
         logger.info(f'messages (minus system) are:\n{messages_str}')
 
-    completion_timer = Timer()
-    completion = oai.chat.completions.create(
-        model=MODEL,
-        messages=messages,
-        temperature=0.7
-    )
-    completion_timer.done()
+    completion_loop_timer = Timer()
+    completion_count = 0
+    cost = 0
 
+    while True:
+        completion_count += 1
+        logger.info(f'requesting completion {completion_count}')
+
+        completion = oai.chat.completions.create(
+            model=CHAT_MODEL,
+            messages=messages,
+            temperature=0.7,
+            tools=TOOLS
+        )
+
+        messages.append(completion.choices[0].message.to_dict())
+        cost += estimate_cost(completion)
+
+        if completion.choices[0].finish_reason != 'tool_calls':
+            break
+
+        for tool_call in completion.choices[0].message.tool_calls:
+            logger.info(
+                f'tool_call {tool_call.id}: '
+                f'call function {tool_call.function.name} with args {tool_call.function.arguments}'
+            )
+
+            args = json.loads(tool_call.function.arguments)
+            messages.append({
+                'role': 'tool',
+                'content': getattr(Toolbox, tool_call.function.name)(**args),
+                'tool_call_id': tool_call.id,
+            })
+
+    completion_loop_timer.done()
     content = completion.choices[0].message.content
     content_with_urls = replace_filenames(content)
 
@@ -249,10 +403,9 @@ def think(event):
     e2e_timer.done()
     stats = {
         'e2e_latency (s)': round(e2e_timer.latency, 2),
-        'completion_latency (s)': round(completion_timer.latency, 2),
-        'cost': round(estimate_cost(completion), 2),
-        'prompt_tokens': completion.usage.prompt_tokens,
-        'completion_tokens': completion.usage.completion_tokens,
+        'completion_loop_latency (s)': round(completion_loop_timer.latency, 2),
+        'completion_count': completion_count,
+        'cost': round(cost, 2),
     }
 
     stats_str = json.dumps(stats, indent=2)
