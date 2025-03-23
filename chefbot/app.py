@@ -14,7 +14,6 @@ from openai import OpenAI
 from scipy.spatial import distance
 from slack_bolt import App
 from slack_bolt.adapter.flask import SlackRequestHandler
-from slackstyler import SlackStyler
 from slugify import slugify
 from zappa.asynchronous import task
 
@@ -48,29 +47,13 @@ dictConfig({
 
 logger = logging.getLogger(__name__)
 
-PROMPT_TEMPLATE = """You are chefbot, a creative culinary assistant. Be serious, brief, and to the point. Don't include unnecessary details or colorful commentary in your responses.
+PROMPT_TEMPLATE = """You are chefbot, a culinary assistant.
 
-Rely on the search_recipes function to query for known recipes. You can call this function as many times as you like to explore the set of known recipes. Prefer sticking to known recipes unless asked to come up with a new one. Always refer to known recipes by their filename instead of reproducing the recipe text, unless instructed otherwise. When you do share the text of a recipe, stick to the Markdown format provided below in <recipe_format> tags.
+It is currently {date}, and your users are in Massachusetts unless they tell you otherwise. Keep this information in mind when responding. Try to use it to make seasonally appropriate suggestions, but be subtle about it (i.e., don't announce that you're doing this). For example, you should slightly prefer recipes for soups and stews in the winter and recipes using fresh vegetables in the spring and summer. You should also slightly prefer vegetarian options.
 
-It is currently {date}. Assume your users are in Massachusetts unless they tell you otherwise. Be aware of this information when formulating your responses. Use it to subtly make seasonally appropriate suggestions when relevant (i.e., don't announce that you're doing this). For example, you should demonstrate a slight preference for soups and stews in the winter, and a slight preference for using fresh vegetables in the spring and summer. You should also have a very slight preference for vegetarian options.
+Use the search_recipes function to search for existing recipe information that may be relevant to the conversation. You can call search_recipes repeatedly with different queries if necessary. Only generate new information if none of the existing recipes are a good fit or you're instructed to do so. If an existing recipe is an appropriate response to a user message, return a Markdown link to the recipe, treating the recipe's filename as the URL, instead of reproducing the text of the recipe. If generating a new recipe, copy the Markdown format used by existing recipes (e.g., query for "caldo verde" to see an example).
 
-If providing a shopping list, don't list commonly stocked ingredients (e.g., salt, pepper, flour, sugar, olive oil, vegetable oil, sesame oil).
-
-<recipe_format>
-# Recipe Name
-
-Optional notes to keep in mind before starting (e.g., serves N).
-
-## Ingredients
-
-- ingredient
-
-## Instructions
-
-1. instructions
-
-Optional additional notes.
-</recipe_format>
+If providing a shopping list, don't list commonly stocked ingredients like salt, pepper, flour, sugar, olive oil, vegetable oil, or sesame oil.
 """  # noqa
 
 FRONT_MATTER_TEMPLATE = """---
@@ -83,15 +66,15 @@ TOOLS = [
         'type': 'function',
         'function': {
             'name': 'search_recipes',
-            'description': 'Searches for known recipes relevant to a query',
+            'description': 'Search for existing recipes relevant to the provided query',
             'parameters': {
                 'type': 'object',
                 'properties': {
                     'query': {
                         'type': 'string',
                         'description': (
-                            'Query for which to find relevant recipes. '
-                            'This can be a string of any length (e.g., a single word, a phrase, a full sentence, etc.)'
+                            'Text (e.g., word, phrase, sentence, etc.) describing recipe characteristics of interest '
+                            '(e.g., name, ingredients, instructions, cuisine, meal type, etc.).'
                         ),
                     },
                 },
@@ -227,13 +210,9 @@ def embed_recipes():
     logger.info(f'done in {round(timer.latency, 2)}s (cost: ${round(cost, 2)})')
 
 
-def cosine_similarity(vector_a, vector_b):
-    return 1 - distance.cosine(vector_a, vector_b)
-
-
 class Toolbox:
     @staticmethod
-    def search_recipes(query):
+    def search_recipes(query, n=25):
         res = oai.embeddings.create(
             model=EMBEDDING_MODEL,
             input=query
@@ -245,16 +224,15 @@ class Toolbox:
 
         recipes = []
         for filename, recipe in embeddings.items():
-            similarity = cosine_similarity(query_embedding, recipe['embedding'])
             recipes.append({
                 'filename': filename,
-                'similarity': similarity,
+                'distance': distance.cosine(query_embedding, recipe['embedding']),
             })
 
-        recipes.sort(key=lambda recipe: recipe['similarity'], reverse=True)
+        recipes.sort(key=lambda recipe: recipe['distance'])
 
         docs = []
-        for recipe in recipes[:10]:
+        for recipe in recipes[:n]:
             front_matter = FRONT_MATTER_TEMPLATE.format(filename=recipe['filename'])
             content = embeddings[recipe['filename']]['content']
             docs.append(f'{front_matter}\n{content}')
@@ -294,11 +272,17 @@ def replace_user_mentions(text):
 
 def replace_filenames(text):
     pattern = r'([a-zA-Z0-9_-]*\.md)'
+    replacer = r'https://github.com/rlucioni/recipes/blob/master/recipes/\1'
 
-    def replacer(match):
-        filename = match.group(1)
+    return re.sub(pattern, replacer, text)
 
-        return f'https://github.com/rlucioni/recipes/blob/master/recipes/{filename}'
+
+# https://api.slack.com/reference/surfaces/formatting#basic-formatting
+def to_mrkdwn(text):
+    # markdown link like [link text](https://example.com)
+    pattern = r'\[([^\]]+)\]\(([^)]+)\)'
+    # slack mrkdwn link like <https://example.com|link text>
+    replacer = r'<\2|\1>'
 
     return re.sub(pattern, replacer, text)
 
@@ -385,16 +369,14 @@ def think(event):
     completion_loop_timer.done()
     content = completion.choices[0].message.content
     content_with_urls = replace_filenames(content)
+    content_as_mrkdwn = to_mrkdwn(content_with_urls)
 
     if not IS_DEPLOYED:
-        logger.info(f'sending response:\n{content_with_urls}')
-
-    styler = SlackStyler()
-    mrkdwn = styler.convert(content_with_urls).strip()
+        logger.info(f'sending response:\n{content_as_mrkdwn}')
 
     slack_app.client.chat_postMessage(
         channel=channel_id,
-        text=mrkdwn,
+        text=content_as_mrkdwn,
         thread_ts=event['ts'],
         unfurl_links=False,
         unfurl_media=False,
