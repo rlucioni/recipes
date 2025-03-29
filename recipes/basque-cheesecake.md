@@ -14,7 +14,7 @@ For a 9x3 round cake pan. Inspired by Santiago Rivera's [tarta de queso](https:/
 
 ## Instructions
 
-1. Preheat oven to 425°F. Line greased cake pan with parchment paper, leaving some hanging over sides.
+1. Preheat oven to 425°F. Line cake pan with parchment paper, leaving some hanging over sides.
 2. In the bowl of a stand mixer, combine cream cheese and sugar. Mix on medium speed until mixture is smooth, scraping down sides as necessary.
 3. With mixer running, add eggs one at a time.
 4. Add cream, flour, vanilla, and salt. Mix on medium speed until smooth. Pour batter into prepared pan.
