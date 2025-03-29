@@ -1,4 +1,4 @@
-# Phở gà
+# Phở Gà
 
 Serves 8.
 
@@ -15,7 +15,7 @@ Serves 8.
 - 4-5 pounds chicken thighs (around 12 thighs)
 - 1/4 cup fish sauce
 - 2 tablespoons sugar
-- 1 tablespoon salt
+- 1 tablespoon kosher salt
 
 ### Toppings
 
