@@ -1,37 +1,38 @@
-# Pho Ga
+# Phở gà
 
-Adapted from [Serious Eats' Pho Ga](http://www.seriouseats.com/recipes/2015/01/30-minute-pressure-cooker-pho-ga-recipe.html). Serves 4.
+Serves 8.
 
 ## Ingredients
 
-- 2 medium yellow onions, split in half
-- 1 small hand of ginger, roughly sliced
-- 1 small bunch cilantro
-- 3 star anise pods
+- 2 onions, halved
+- 1 6-inch piece of ginger, split lengthwise
+- 4 star anise pods
 - 1 cinnamon stick
+- 1 red cardamom pod (cau guo, Chinese black cardamom)
 - 4 cloves
 - 1 teaspoon fennel seeds
 - 1 teaspoon coriander seeds
-- 6 to 8 chicken drumsticks
-- 1/4 cup fish sauce, plus more to taste
-- 2 tablespoons sugar, plus more to taste
+- 4-5 pounds chicken thighs (around 12 thighs)
+- 1/4 cup fish sauce
+- 2 tablespoons sugar
+- 1 tablespoon salt
 
 ### Toppings
 
-- 4 servings pho noodles, prepared according to package directions
-- 1 small white or yellow onion, thinly sliced
-- 1/2 cup thinly sliced scallions
-- 2 cups mixed herbs (cilantro, basil, and mint)
-- 2 cups trimmed bean sprouts
-- Thinly sliced Thai chilis
-- 1 lime, each cut into 4 wedges
-- Hoisin sauce and Sriracha
+- bánh phở (pho noodles) or bánh phở tươi (fresh pho noodles)
+- shallot, thinly sliced
+- mixed herbs (cilantro, basil, and mint)
+- bean sprouts
+- thinly sliced Thai chilies
+- lime
 
 ## Instructions
 
-1. Heat oil in a pressure cooker over medium-high heat until hot. Add onions and ginger, cut side down, and cook until lightly charred.
-2. Add chicken, cilantro, spices, sugar, and fish sauce. Cover with 2 quarts of water.
-3. Bring to a boil before putting on the lid. After pot has reached high pressure, turn heat to low and cook for 20 minutes.
-4. Soften noodles in hot water according to package instructions. Add to bowl and top with thinly sliced onions and scallions.
-5. Release pressure and remove the lid. Remove the chicken pieces to cool and strain the broth over the noodles.
-6. Top with chicken and serve with toppings.
+1. Char onions and ginger (e.g., under broiler, over flame).
+2. Toast spices - star anise, cinnamon, cardamom, cloves, fennel, and coriander - in a dry pressure cooker pot until fragrant.
+3. Add chicken, fish sauce, sugar, and salt. Cover with 2 quarts of water.
+4. Bring to a boil before putting on the lid. After pot has reached high pressure, turn heat to low and cook for 20 minutes.
+5. Release pressure and remove the lid. Remove the chicken pieces to cool and strain the broth. Return the broth to the pressure cooker and bring back to a simmer. Taste and adjust for seasoning.
+6. Cook noodles according to package instructions. Add to bowls and top with shallot, herbs, bean sprouts, chilies, and chicken. Ladle over hot broth.
+
+Top with a squeeze of lime before serving.
