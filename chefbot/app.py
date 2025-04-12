@@ -10,6 +10,7 @@ from pathlib import Path
 
 from dotenv import load_dotenv
 from flask import Flask, request
+from google import genai
 from openai import OpenAI
 from scipy.spatial import distance
 from slack_bolt import App
@@ -87,12 +88,17 @@ TOOLS = [
 ]
 
 EMBEDDING_MODEL = 'text-embedding-3-small'
-CHAT_MODEL = 'gpt-4o-2024-11-20'
+CHAT_MODEL = 'gemini-2.5-pro-exp-03-25'
 
 # https://openai.com/api/pricing/
+# https://ai.google.dev/gemini-api/docs/pricing
 MODELS = {
     'gpt-4o-2024-11-20': {
         'input_token_cost': 2.5 / 1000000,
+        'output_token_cost': 10 / 1000000,
+    },
+    'gemini-2.5-pro-exp-03-25': {
+        'input_token_cost': 1.25 / 1000000,
         'output_token_cost': 10 / 1000000,
     },
     'o3-mini-2025-01-31': {
@@ -101,6 +107,10 @@ MODELS = {
     },
     'text-embedding-3-large': {
         'input_token_cost': 0.13 / 1000000,
+    },
+    'gemini-2.0-flash-001': {
+        'input_token_cost': 0.1 / 1000000,
+        'output_token_cost': 0.4 / 1000000,
     },
     'text-embedding-3-small': {
         'input_token_cost': 0.02 / 1000000,
@@ -125,6 +135,9 @@ flask_app = Flask(__name__)
 handler = SlackRequestHandler(slack_app)
 
 oai = OpenAI(max_retries=3, timeout=60)
+gemini = genai.Client(
+    http_options=genai.types.HttpOptions(timeout=60 * 1000)
+)
 
 
 class Timer:
@@ -155,12 +168,16 @@ def make_prompt():
 
 
 def estimate_cost(res):
-    input_cost = res.usage.prompt_tokens * MODELS[res.model]['input_token_cost']
-    output_cost = (
-        res.usage.completion_tokens * MODELS[res.model]['output_token_cost']
-        if hasattr(res.usage, 'completion_tokens')
-        else 0
-    )
+    if hasattr(res, 'usage'):
+        input_cost = res.usage.prompt_tokens * MODELS[res.model]['input_token_cost']
+        output_cost = (
+            res.usage.completion_tokens * MODELS[res.model]['output_token_cost']
+            if hasattr(res.usage, 'completion_tokens')
+            else 0
+        )
+    else:
+        input_cost = res.usage_metadata.prompt_token_count * MODELS[res.model_version]['input_token_cost']
+        output_cost = res.usage_metadata.candidates_token_count * MODELS[res.model_version]['output_token_cost']
 
     return input_cost + output_cost
 
@@ -212,7 +229,17 @@ def embed_recipes():
 
 class Toolbox:
     @staticmethod
-    def search_recipes(query, n=25):
+    def search_recipes(query: str) -> str:
+        """Searches for existing recipes relevant to the provided query.
+
+        Args:
+            query: Text (e.g., word, phrase, sentence, etc.) describing recipe
+              characteristics of interest (e.g., name, ingredients, instructions,
+              cuisine, meal type, etc.).
+
+        Returns:
+            A string representation of relevant recipes, formatted as Markdown.
+        """
         res = oai.embeddings.create(
             model=EMBEDDING_MODEL,
             input=query
@@ -232,7 +259,7 @@ class Toolbox:
         recipes.sort(key=lambda recipe: recipe['distance'])
 
         docs = []
-        for recipe in recipes[:n]:
+        for recipe in recipes[:25]:
             front_matter = FRONT_MATTER_TEMPLATE.format(filename=recipe['filename'])
             content = embeddings[recipe['filename']]['content']
             docs.append(f'{front_matter}\n{content}')
@@ -292,11 +319,7 @@ def think(event):
     e2e_timer = Timer()
     logger.info(f'handling app mention using {CHAT_MODEL}')
 
-    messages = [{
-        'role': 'system',
-        'content': make_prompt(),
-    }]
-
+    contents = []
     channel_id = event['channel']
 
     # Messages in a thread will have a thread_ts identifying their parent message.
@@ -317,58 +340,38 @@ def think(event):
 
         bot_id = reply.get('bot_id')
         if bot_id:
-            role = 'assistant'
+            role = 'model'
             user_name = get_user_name(bot_id)
 
-        content = replace_user_mentions(reply['text'])
+        text = replace_user_mentions(reply['text'])
+        parts = [
+            # genai.types.Part.from_text(text=f'{user_name}: {text}')
+            genai.types.Part.from_text(text=text)
+        ]
 
-        messages.append({
-            'role': role,
-            'name': user_name,
-            'content': content,
-        })
+        contents.append(genai.types.Content(role=role, parts=parts))
 
     if not IS_DEPLOYED:
-        messages_str = json.dumps(messages[1:], indent=2)
-        logger.info(f'messages (minus system) are:\n{messages_str}')
+        dumped_contents = [c.to_json_dict() for c in contents]
+        contents_str = json.dumps(dumped_contents, indent=2)
+        logger.info(f'contents are:\n{contents_str}')
 
-    completion_loop_timer = Timer()
-    completion_count = 0
-    cost = 0
+    completion_timer = Timer()
 
-    while True:
-        completion_count += 1
-        logger.info(f'requesting completion {completion_count}')
-
-        completion = oai.chat.completions.create(
-            model=CHAT_MODEL,
-            messages=messages,
+    completion = gemini.models.generate_content(
+        model=CHAT_MODEL,
+        config=genai.types.GenerateContentConfig(
+            system_instruction=make_prompt(),
             temperature=0.7,
-            tools=TOOLS
-        )
+            tools=[Toolbox.search_recipes],
+        ),
+        contents=contents
+    )
 
-        messages.append(completion.choices[0].message.to_dict())
-        cost += estimate_cost(completion)
+    completion_timer.done()
 
-        if completion.choices[0].finish_reason != 'tool_calls':
-            break
-
-        for tool_call in completion.choices[0].message.tool_calls:
-            logger.info(
-                f'tool_call {tool_call.id}: '
-                f'call function {tool_call.function.name} with args {tool_call.function.arguments}'
-            )
-
-            args = json.loads(tool_call.function.arguments)
-            messages.append({
-                'role': 'tool',
-                'content': getattr(Toolbox, tool_call.function.name)(**args),
-                'tool_call_id': tool_call.id,
-            })
-
-    completion_loop_timer.done()
-    content = completion.choices[0].message.content
-    content_with_urls = replace_filenames(content)
+    cost = estimate_cost(completion)
+    content_with_urls = replace_filenames(completion.text)
     content_as_mrkdwn = to_mrkdwn(content_with_urls)
 
     if not IS_DEPLOYED:
@@ -385,8 +388,7 @@ def think(event):
     e2e_timer.done()
     stats = {
         'e2e_latency (s)': round(e2e_timer.latency, 2),
-        'completion_loop_latency (s)': round(completion_loop_timer.latency, 2),
-        'completion_count': completion_count,
+        'completion_latency (s)': round(completion_timer.latency, 2),
         'cost': round(cost, 2),
     }
 
