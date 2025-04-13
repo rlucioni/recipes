@@ -51,9 +51,9 @@ PROMPT_TEMPLATE = """You are chefbot, a culinary assistant. Use a serious, profe
 
 It is currently {date} and your users are in Massachusetts unless they tell you otherwise. Keep this information in mind when responding. Try to use it to make seasonally appropriate suggestions, but be subtle about it (i.e., don't announce that you're doing this). For example, you should slightly prefer recipes for soups and stews in the winter and recipes using fresh vegetables in the spring and summer. You should also slightly prefer vegetarian options.
 
-Call the `search_recipes` function to search for existing recipe information that may be relevant to the conversation. You can call `search_recipes` repeatedly with different queries. If an existing recipe is an appropriate response to a user message, return a Markdown link to the recipe - treating the recipe's filename as the URL - instead of reproducing the text of the recipe. If you can't find an existing recipe that fulfills the user's request, offer to create a new one that does. Only generate new information if you can't find existing recipes that are a good fit or if you're instructed to do so. When generating a new recipe, call the `search_recipes` function - query for "caldo verde" or "almond cake" - and use the same Markdown format used by the returned recipes for your new recipe, excluding the YAML frontmatter.
+Call the `search_recipes` function to look up existing recipe information that may be relevant to the conversation. If a user mentions a recipe, you should try to look it up this way for more information. You can call `search_recipes` repeatedly with different queries. If an existing recipe is an appropriate response to a user message, return a Markdown link to the recipe - treating the recipe's filename as the URL - instead of reproducing the text of the recipe. If you can't find an existing recipe that fulfills the user's request, offer to create a new one that does. Only generate new information if you can't find existing recipes that are a good fit or if you're instructed to do so. When generating a new recipe, always ensure that you've called the `search_recipes` function at least once - query for "caldo verde" if you haven't already looked up some existing recipes - and use the same Markdown format used by the returned recipes for your new recipe, excluding the YAML frontmatter.
 
-Never provide a list of equipment. Never provide a shopping list unless you're asked to do so, in which case you still shouldn't list commonly stocked ingredients like salt, pepper, flour, sugar, olive oil, vegetable oil, or sesame oil.
+Never provide a list of equipment. Always provide ingredient amounts. Never provide a shopping list unless you're asked to do so, in which case you should exclude commonly stocked ingredients (e.g., salt, pepper, flour, sugar, olive oil, vegetable oil, sesame oil, etc.).
 """  # noqa
 
 FRONTMATTER_TEMPLATE = """---
@@ -129,13 +129,19 @@ def make_prompt():
 
 
 def estimate_cost(res):
-    input_cost = 0
-    output_cost = 0
+    # embedding responses don't have usage_metadata
+    if not hasattr(res, 'usage_metadata'):
+        logger.info('no usage_metadata, unable to estimate cost')
+        return 0
 
-    if hasattr(res, 'usage_metadata'):
-        input_cost = res.usage_metadata.prompt_token_count * MODELS[res.model_version]['input_token_cost']
-        # TODO: candidates_token_count is sometimes None?
+    input_cost = res.usage_metadata.prompt_token_count * MODELS[res.model_version]['input_token_cost']
+
+    if res.usage_metadata.candidates_token_count:
         output_cost = res.usage_metadata.candidates_token_count * MODELS[res.model_version]['output_token_cost']
+    else:
+        # candidates_token_count is sometimes None, unclear why
+        logger.info('no candidates_token_count, unable to estimate output cost')
+        output_cost = 0
 
     return input_cost + output_cost
 
@@ -269,6 +275,13 @@ def replace_filenames(text):
     return re.sub(pattern, replacer, text)
 
 
+def clean_code_blocks(text):
+    pattern = r'```.*?\n'
+    replacer = r'```\n'
+
+    return re.sub(pattern, replacer, text)
+
+
 # https://api.slack.com/reference/surfaces/formatting#basic-formatting
 def to_mrkdwn(text):
     # markdown link like [link text](https://example.com)
@@ -321,8 +334,7 @@ def think(event):
         contents_str = json.dumps(dumped_contents, indent=2)
         logger.info(f'contents are:\n{contents_str}')
 
-    completion_timer = Timer()
-
+    res_timer = Timer()
     res = gemini.models.generate_content(
         model=CHAT_MODEL,
         config=genai.types.GenerateContentConfig(
@@ -332,12 +344,12 @@ def think(event):
         ),
         contents=contents
     )
-
-    completion_timer.done()
+    res_timer.done()
 
     cost = estimate_cost(res)
     content_with_urls = replace_filenames(res.text)
-    content_as_mrkdwn = to_mrkdwn(content_with_urls)
+    cleaned_content = clean_code_blocks(content_with_urls)
+    content_as_mrkdwn = to_mrkdwn(cleaned_content)
 
     if not IS_DEPLOYED:
         logger.info(f'sending response:\n{content_as_mrkdwn}')
@@ -353,8 +365,8 @@ def think(event):
     e2e_timer.done()
     stats = {
         'e2e_latency (s)': round(e2e_timer.latency, 2),
-        'completion_latency (s)': round(completion_timer.latency, 2),
-        'cost': round(cost, 2),
+        'completion_latency (s)': round(res_timer.latency, 2),
+        'cost': round(cost, 4),
     }
 
     stats_str = json.dumps(stats, indent=2)
