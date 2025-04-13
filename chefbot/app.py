@@ -134,6 +134,7 @@ def estimate_cost(res):
 
     if hasattr(res, 'usage_metadata'):
         input_cost = res.usage_metadata.prompt_token_count * MODELS[res.model_version]['input_token_cost']
+        # TODO: candidates_token_count is sometimes None?
         output_cost = res.usage_metadata.candidates_token_count * MODELS[res.model_version]['output_token_cost']
 
     return input_cost + output_cost
