@@ -35,6 +35,7 @@
     "project_name": "chefbot",
     "runtime": "python3.10",
     "s3_bucket": "chefbot-bucket",
+    "slim_handler": true,
     // TODO: interaction between this timeout, Gemini client timeout, and exception_handler?
     "timeout_seconds": 120
   }

@@ -132,14 +132,7 @@ def estimate_cost(res):
     input_cost = 0
     output_cost = 0
 
-    if hasattr(res, 'usage'):
-        input_cost = res.usage.prompt_tokens * MODELS[res.model]['input_token_cost']
-        output_cost = (
-            res.usage.completion_tokens * MODELS[res.model]['output_token_cost']
-            if hasattr(res.usage, 'completion_tokens')
-            else 0
-        )
-    elif hasattr(res, 'usage_metadata'):
+    if hasattr(res, 'usage_metadata'):
         input_cost = res.usage_metadata.prompt_token_count * MODELS[res.model_version]['input_token_cost']
         output_cost = res.usage_metadata.candidates_token_count * MODELS[res.model_version]['output_token_cost']
 
@@ -193,7 +186,7 @@ def embed_recipes():
             }
             cost += estimate_cost(res)
 
-    with open('new_embeddings.json', 'w') as f:
+    with open('embeddings.json', 'w') as f:
         json.dump(embeddings, f, separators=(',', ':'))
 
     timer.done()
@@ -329,7 +322,7 @@ def think(event):
 
     completion_timer = Timer()
 
-    completion = gemini.models.generate_content(
+    res = gemini.models.generate_content(
         model=CHAT_MODEL,
         config=genai.types.GenerateContentConfig(
             system_instruction=make_prompt(),
@@ -341,8 +334,8 @@ def think(event):
 
     completion_timer.done()
 
-    cost = estimate_cost(completion)
-    content_with_urls = replace_filenames(completion.text)
+    cost = estimate_cost(res)
+    content_with_urls = replace_filenames(res.text)
     content_as_mrkdwn = to_mrkdwn(content_with_urls)
 
     if not IS_DEPLOYED:
