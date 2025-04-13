@@ -35,7 +35,7 @@
     "project_name": "chefbot",
     "runtime": "python3.10",
     "s3_bucket": "chefbot-bucket",
-    // TODO: interaction between this timeout, OpenAI client timeout, and exception_handler?
+    // TODO: interaction between this timeout, Gemini client timeout, and exception_handler?
     "timeout_seconds": 120
   }
 }
