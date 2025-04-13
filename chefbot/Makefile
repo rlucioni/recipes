@@ -10,6 +10,9 @@ lint:
 logs:
 	zappa tail prod --since 1d --disable-keep-open
 
+package:
+	zappa package prod
+
 prune:
 	python prune.py
 

@@ -1,7 +1,7 @@
 boto3==1.36.22
 flake8==7.1.2
 Flask==3.1.0
-openai==1.66.3
+google-genai==1.10.0
 python-dotenv==1.0.1
 python-slugify==8.0.4
 scipy==1.15.2

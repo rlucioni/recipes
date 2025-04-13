@@ -10,7 +10,7 @@ from pathlib import Path
 
 from dotenv import load_dotenv
 from flask import Flask, request
-from openai import OpenAI
+from google import genai
 from scipy.spatial import distance
 from slack_bolt import App
 from slack_bolt.adapter.flask import SlackRequestHandler
@@ -47,63 +47,35 @@ dictConfig({
 
 logger = logging.getLogger(__name__)
 
-PROMPT_TEMPLATE = """You are chefbot, a culinary assistant.
+PROMPT_TEMPLATE = """You are chefbot, a culinary assistant. Use a serious, professional tone and be concise.
 
-It is currently {date}, and your users are in Massachusetts unless they tell you otherwise. Keep this information in mind when responding. Try to use it to make seasonally appropriate suggestions, but be subtle about it (i.e., don't announce that you're doing this). For example, you should slightly prefer recipes for soups and stews in the winter and recipes using fresh vegetables in the spring and summer. You should also slightly prefer vegetarian options.
+It is currently {date} and your users are in Massachusetts unless they tell you otherwise. Keep this information in mind when responding. Try to use it to make seasonally appropriate suggestions, but be subtle about it (i.e., don't announce that you're doing this). For example, you should slightly prefer recipes for soups and stews in the winter and recipes using fresh vegetables in the spring and summer. You should also slightly prefer vegetarian options.
 
-Use the search_recipes function to search for existing recipe information that may be relevant to the conversation. You can call search_recipes repeatedly with different queries if necessary. Only generate new information if none of the existing recipes are a good fit or you're instructed to do so. If an existing recipe is an appropriate response to a user message, return a Markdown link to the recipe, treating the recipe's filename as the URL, instead of reproducing the text of the recipe. If generating a new recipe, copy the Markdown format used by existing recipes (e.g., query for "caldo verde" to see an example).
+Call the `search_recipes` function to search for existing recipe information that may be relevant to the conversation. You can call `search_recipes` repeatedly with different queries. If an existing recipe is an appropriate response to a user message, return a Markdown link to the recipe - treating the recipe's filename as the URL - instead of reproducing the text of the recipe. If you can't find an existing recipe that fulfills the user's request, offer to create a new one that does. Only generate new information if you can't find existing recipes that are a good fit or if you're instructed to do so. When generating a new recipe, call the `search_recipes` function - query for "caldo verde" or "almond cake" - and use the same Markdown format used by the returned recipes for your new recipe, excluding the YAML frontmatter.
 
-If providing a shopping list, don't list commonly stocked ingredients like salt, pepper, flour, sugar, olive oil, vegetable oil, or sesame oil.
+Never provide a list of equipment. Never provide a shopping list unless you're asked to do so, in which case you still shouldn't list commonly stocked ingredients like salt, pepper, flour, sugar, olive oil, vegetable oil, or sesame oil.
 """  # noqa
 
-FRONT_MATTER_TEMPLATE = """---
+FRONTMATTER_TEMPLATE = """---
 filename: {filename}
 ---
 """
 
-TOOLS = [
-    {
-        'type': 'function',
-        'function': {
-            'name': 'search_recipes',
-            'description': 'Search for existing recipes relevant to the provided query',
-            'parameters': {
-                'type': 'object',
-                'properties': {
-                    'query': {
-                        'type': 'string',
-                        'description': (
-                            'Text (e.g., word, phrase, sentence, etc.) describing recipe characteristics of interest '
-                            '(e.g., name, ingredients, instructions, cuisine, meal type, etc.).'
-                        ),
-                    },
-                },
-                'additionalProperties': False,
-                'required': ['query'],
-            },
-            'strict': True,
-        },
-    },
-]
+EMBEDDING_MODEL = 'gemini-embedding-exp-03-07'
+CHAT_MODEL = 'gemini-2.5-pro-preview-03-25'
 
-EMBEDDING_MODEL = 'text-embedding-3-small'
-CHAT_MODEL = 'gpt-4o-2024-11-20'
-
-# https://openai.com/api/pricing/
+# https://ai.google.dev/gemini-api/docs/pricing
 MODELS = {
-    'gpt-4o-2024-11-20': {
-        'input_token_cost': 2.5 / 1000000,
+    'gemini-2.5-pro-preview-03-25': {
+        'input_token_cost': 1.25 / 1000000,
         'output_token_cost': 10 / 1000000,
     },
-    'o3-mini-2025-01-31': {
-        'input_token_cost': 1.1 / 1000000,
-        'output_token_cost': 4.4 / 1000000,
+    'gemini-2.0-flash-001': {
+        'input_token_cost': 0.1 / 1000000,
+        'output_token_cost': 0.4 / 1000000,
     },
-    'text-embedding-3-large': {
-        'input_token_cost': 0.13 / 1000000,
-    },
-    'text-embedding-3-small': {
-        'input_token_cost': 0.02 / 1000000,
+    'gemini-embedding-exp-03-07': {
+        'input_token_cost': 0,
     },
 }
 
@@ -124,7 +96,9 @@ user_name_cache = {}
 flask_app = Flask(__name__)
 handler = SlackRequestHandler(slack_app)
 
-oai = OpenAI(max_retries=3, timeout=60)
+gemini = genai.Client(
+    http_options=genai.types.HttpOptions(timeout=60 * 1000)
+)
 
 
 class Timer:
@@ -155,12 +129,13 @@ def make_prompt():
 
 
 def estimate_cost(res):
-    input_cost = res.usage.prompt_tokens * MODELS[res.model]['input_token_cost']
-    output_cost = (
-        res.usage.completion_tokens * MODELS[res.model]['output_token_cost']
-        if hasattr(res.usage, 'completion_tokens')
-        else 0
-    )
+    input_cost = 0
+    output_cost = 0
+
+    if hasattr(res, 'usage_metadata'):
+        input_cost = res.usage_metadata.prompt_token_count * MODELS[res.model_version]['input_token_cost']
+        # TODO: candidates_token_count is sometimes None?
+        output_cost = res.usage_metadata.candidates_token_count * MODELS[res.model_version]['output_token_cost']
 
     return input_cost + output_cost
 
@@ -180,15 +155,24 @@ def embed_recipes():
     progress = ProgressMeter(len(recipes))
     embeddings = {}
     cost = 0
+    count = 0
 
-    with ThreadPoolExecutor(max_workers=16) as executor:
+    with ThreadPoolExecutor(max_workers=8) as executor:
         futures = {}
         for filename, content in recipes.items():
-            future = executor.submit(oai.embeddings.create, model=EMBEDDING_MODEL, input=content)
+            future = executor.submit(gemini.models.embed_content, model=EMBEDDING_MODEL, contents=content)
             futures[future] = filename
+            progress.increment()
+
+            # temporary, to stay under 10 RPM limit for gemini-embedding-exp-03-07
+            count += 1
+            if count == 10:
+                logger.info('sleeping to respect rate limit')
+                time.sleep(60)
+                count = 0
 
         for future in as_completed(futures):
-            progress.increment()
+            # progress.increment()
             filename = futures[future]
 
             try:
@@ -199,7 +183,7 @@ def embed_recipes():
 
             embeddings[filename] = {
                 'content': recipes[filename],
-                'embedding': res.data[0].embedding,
+                'embedding': res.embeddings[0].values,
             }
             cost += estimate_cost(res)
 
@@ -210,34 +194,41 @@ def embed_recipes():
     logger.info(f'done in {round(timer.latency, 2)}s (cost: ${round(cost, 2)})')
 
 
-class Toolbox:
-    @staticmethod
-    def search_recipes(query, n=25):
-        res = oai.embeddings.create(
-            model=EMBEDDING_MODEL,
-            input=query
-        )
-        query_embedding = res.data[0].embedding
+def search_recipes(query: str) -> str:
+    """Searches for existing recipes relevant to the provided query.
 
-        with open('embeddings.json') as f:
-            embeddings = json.load(f)
+    Args:
+        query: Text (e.g., word, phrase, sentence, etc.) describing recipe
+          characteristics of interest (e.g., name, ingredients, instructions,
+          cuisine, meal type, etc.).
 
-        recipes = []
-        for filename, recipe in embeddings.items():
-            recipes.append({
-                'filename': filename,
-                'distance': distance.cosine(query_embedding, recipe['embedding']),
-            })
+    Returns:
+        A string representation of relevant recipes, formatted as Markdown.
+    """
+    logger.info(f'search_recipes("{query}")')
 
-        recipes.sort(key=lambda recipe: recipe['distance'])
+    res = gemini.models.embed_content(model=EMBEDDING_MODEL, contents=query)
+    query_embedding = res.embeddings[0].values
 
-        docs = []
-        for recipe in recipes[:n]:
-            front_matter = FRONT_MATTER_TEMPLATE.format(filename=recipe['filename'])
-            content = embeddings[recipe['filename']]['content']
-            docs.append(f'{front_matter}\n{content}')
+    with open('embeddings.json') as f:
+        embeddings = json.load(f)
 
-        return '\n\n'.join(docs)
+    recipes = []
+    for filename, recipe in embeddings.items():
+        recipes.append({
+            'filename': filename,
+            'distance': distance.cosine(query_embedding, recipe['embedding']),
+        })
+
+    recipes.sort(key=lambda recipe: recipe['distance'])
+
+    docs = []
+    for recipe in recipes[:25]:
+        frontmatter = FRONTMATTER_TEMPLATE.format(filename=recipe['filename'])
+        content = embeddings[recipe['filename']]['content']
+        docs.append(f'{frontmatter}\n{content}')
+
+    return '\n\n'.join(docs)
 
 
 def get_user_name(user_id):
@@ -245,8 +236,9 @@ def get_user_name(user_id):
         if user_id.startswith('B'):
             bot_info = slack_app.client.bots_info(bot=user_id)
 
-            # We use these user names to populate the `name` field on OpenAI messages,
-            # and they require that it match the pattern ^[a-zA-Z0-9_-]+$
+            # Used to use these user names to populate the `name` field on OpenAI messages,
+            # which required that they match the pattern ^[a-zA-Z0-9_-]+$. Not used after
+            # switching to Gemini, but left as-is for now.
             user_name_cache[user_id] = slugify(bot_info['bot']['name'])
         else:
             user_info = slack_app.client.users_info(user=user_id)
@@ -292,11 +284,7 @@ def think(event):
     e2e_timer = Timer()
     logger.info(f'handling app mention using {CHAT_MODEL}')
 
-    messages = [{
-        'role': 'system',
-        'content': make_prompt(),
-    }]
-
+    contents = []
     channel_id = event['channel']
 
     # Messages in a thread will have a thread_ts identifying their parent message.
@@ -317,58 +305,38 @@ def think(event):
 
         bot_id = reply.get('bot_id')
         if bot_id:
-            role = 'assistant'
+            role = 'model'
             user_name = get_user_name(bot_id)
 
-        content = replace_user_mentions(reply['text'])
+        text = replace_user_mentions(reply['text'])
+        parts = [
+            # genai.types.Part.from_text(text=f'{user_name}: {text}')
+            genai.types.Part.from_text(text=text)
+        ]
 
-        messages.append({
-            'role': role,
-            'name': user_name,
-            'content': content,
-        })
+        contents.append(genai.types.Content(role=role, parts=parts))
 
     if not IS_DEPLOYED:
-        messages_str = json.dumps(messages[1:], indent=2)
-        logger.info(f'messages (minus system) are:\n{messages_str}')
+        dumped_contents = [c.to_json_dict() for c in contents]
+        contents_str = json.dumps(dumped_contents, indent=2)
+        logger.info(f'contents are:\n{contents_str}')
 
-    completion_loop_timer = Timer()
-    completion_count = 0
-    cost = 0
+    completion_timer = Timer()
 
-    while True:
-        completion_count += 1
-        logger.info(f'requesting completion {completion_count}')
-
-        completion = oai.chat.completions.create(
-            model=CHAT_MODEL,
-            messages=messages,
+    res = gemini.models.generate_content(
+        model=CHAT_MODEL,
+        config=genai.types.GenerateContentConfig(
+            system_instruction=make_prompt(),
             temperature=0.7,
-            tools=TOOLS
-        )
+            tools=[search_recipes],
+        ),
+        contents=contents
+    )
 
-        messages.append(completion.choices[0].message.to_dict())
-        cost += estimate_cost(completion)
+    completion_timer.done()
 
-        if completion.choices[0].finish_reason != 'tool_calls':
-            break
-
-        for tool_call in completion.choices[0].message.tool_calls:
-            logger.info(
-                f'tool_call {tool_call.id}: '
-                f'call function {tool_call.function.name} with args {tool_call.function.arguments}'
-            )
-
-            args = json.loads(tool_call.function.arguments)
-            messages.append({
-                'role': 'tool',
-                'content': getattr(Toolbox, tool_call.function.name)(**args),
-                'tool_call_id': tool_call.id,
-            })
-
-    completion_loop_timer.done()
-    content = completion.choices[0].message.content
-    content_with_urls = replace_filenames(content)
+    cost = estimate_cost(res)
+    content_with_urls = replace_filenames(res.text)
     content_as_mrkdwn = to_mrkdwn(content_with_urls)
 
     if not IS_DEPLOYED:
@@ -385,8 +353,7 @@ def think(event):
     e2e_timer.done()
     stats = {
         'e2e_latency (s)': round(e2e_timer.latency, 2),
-        'completion_loop_latency (s)': round(completion_loop_timer.latency, 2),
-        'completion_count': completion_count,
+        'completion_latency (s)': round(completion_timer.latency, 2),
         'cost': round(cost, 2),
     }
 
