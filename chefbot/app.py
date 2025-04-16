@@ -334,7 +334,7 @@ def think(event):
         contents_str = json.dumps(dumped_contents, indent=2)
         logger.info(f'contents are:\n{contents_str}')
 
-    res_timer = Timer()
+    generation_timer = Timer()
     res = gemini.models.generate_content(
         model=CHAT_MODEL,
         config=genai.types.GenerateContentConfig(
@@ -344,7 +344,7 @@ def think(event):
         ),
         contents=contents
     )
-    res_timer.done()
+    generation_timer.done()
 
     cost = estimate_cost(res)
     content_with_urls = replace_filenames(res.text)
@@ -365,7 +365,7 @@ def think(event):
     e2e_timer.done()
     stats = {
         'e2e_latency (s)': round(e2e_timer.latency, 2),
-        'completion_latency (s)': round(res_timer.latency, 2),
+        'generation_latency (s)': round(generation_timer.latency, 2),
         'cost': round(cost, 4),
     }
 
