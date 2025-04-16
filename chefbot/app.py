@@ -206,7 +206,7 @@ def embed_recipes(memoized=True):
         json.dump(embeddings, f, separators=(',', ':'))
 
     timer.done()
-    logger.info(f'done in {round(timer.latency, 2)}s (cost: ${round(cost, 2)})')
+    logger.info(f'done in {round(timer.latency, 2)}s (cost: ${round(cost, 4)})')
 
 
 def search_recipes(query: str) -> str:
