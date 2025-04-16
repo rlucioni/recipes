@@ -146,7 +146,7 @@ def estimate_cost(res):
     return input_cost + output_cost
 
 
-def embed_recipes():
+def embed_recipes(memoized=True):
     timer = Timer()
 
     recipes = {}
@@ -163,14 +163,23 @@ def embed_recipes():
     cost = 0
     count = 0
 
+    if memoized:
+        with open('embeddings.json') as f:
+            embeddings = json.load(f)
+
     with ThreadPoolExecutor(max_workers=8) as executor:
         futures = {}
         for filename, content in recipes.items():
+            if embeddings.get(filename):
+                logger.info(f'skipping {filename}, found existing embedding')
+                continue
+
             future = executor.submit(gemini.models.embed_content, model=EMBEDDING_MODEL, contents=content)
             futures[future] = filename
             progress.increment()
 
             # temporary, to stay under 10 RPM limit for gemini-embedding-exp-03-07
+            # https://ai.google.dev/gemini-api/docs/rate-limits
             count += 1
             if count == 10:
                 logger.info('sleeping to respect rate limit')
