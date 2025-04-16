@@ -6,24 +6,24 @@ Adapted from Hot Thai Kitchen's [Pad Thai recipe](https://hot-thai-kitchen.com/b
 
 ### Sauce
 
-- 4 tablespoons water
-- 4 tablespoons palm sugar, finely chopped (or substitute brown sugar)
-- 4 tablespoons [tamarind paste](./tamarind-paste.md)
-- 3 tablespoons fish sauce
+- 3 tablespoons water
+- 3 tablespoons palm sugar, finely chopped (or substitute brown sugar)
+- 3 tablespoons [tamarind paste](./tamarind-paste.md)
+- 2 tablespoons fish sauce
 
 ### Everything else
 
-- 1/3 pound dried rice noodles (size medium), soaked in room temperature water for 1 hour
-- 8 oz protein (e.g., shrimp or chicken)
+- 4 ounces dried rice noodles (size medium), soaked in room temperature water for 1 hour and cut in half
+- 6 ounces protein (e.g., shrimp or chicken)
 - 2 tablespoons dried shrimp, finely chopped
-- 4 cloves garlic, chopped
-- 1/3 cup shallots (about 2 shallots worth), chopped
+- 3 cloves garlic, chopped
+- 1/4 cup shallots (about 2 shallots worth), chopped
 - 4 ounces pressed tofu, cubed
-- 4 tablespoons pickled radish (or substitute Japanese takuan), finely chopped
-- 3 eggs
+- 3 tablespoons pickled radish (or substitute Japanese takuan), finely chopped
+- 2 eggs
 - 6 ounces bean sprouts
-- 3 ounces garlic chives (about 11 stalks), cut into 1.5-inch lengths
-- 1/3 cup roasted unsalted peanuts, coarsely chopped
+- 3 ounces garlic chives (about 11 stalks), thick part removed, cut into 1.5-inch lengths
+- 1/4 cup roasted unsalted peanuts, coarsely chopped
 - Lime wedges, for serving
 
 ## Instructions
