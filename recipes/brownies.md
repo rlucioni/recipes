@@ -1,6 +1,6 @@
 # Brownies
 
-For an 8x8 pan
+For an 8x8 pan. Double for a 9x13 pan.
 
 ## Ingredients
 
