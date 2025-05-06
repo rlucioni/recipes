@@ -62,11 +62,11 @@ filename: {filename}
 """
 
 EMBEDDING_MODEL = 'gemini-embedding-exp-03-07'
-CHAT_MODEL = 'gemini-2.5-pro-preview-03-25'
+CHAT_MODEL = 'gemini-2.5-pro-preview-05-06'
 
 # https://ai.google.dev/gemini-api/docs/pricing
 MODELS = {
-    'gemini-2.5-pro-preview-03-25': {
+    'gemini-2.5-pro-preview-05-06': {
         'input_token_cost': 1.25 / 1000000,
         'output_token_cost': 10 / 1000000,
     },
@@ -170,6 +170,7 @@ def embed_recipes(memoized=True):
     with ThreadPoolExecutor(max_workers=8) as executor:
         futures = {}
         for filename, content in recipes.items():
+            # TODO: doesn't handle updates to existing recipes :(
             if embeddings.get(filename):
                 logger.info(f'skipping {filename}, found existing embedding')
                 continue
