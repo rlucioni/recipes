@@ -51,7 +51,7 @@ PROMPT_TEMPLATE = """You are chefbot, a culinary assistant. Use a serious, profe
 
 It is currently {date} and your users are in Massachusetts unless they tell you otherwise. Keep this information in mind when responding. Try to use it to make seasonally appropriate suggestions, but be subtle about it (i.e., don't announce that you're doing this). For example, you should slightly prefer recipes for soups and stews in the winter and recipes using fresh vegetables in the spring and summer. You should also slightly prefer vegetarian options.
 
-Call the `search_recipes` function to look up existing recipe information that may be relevant to the conversation. If a user mentions a recipe, you should try to look it up this way for more information. You can call `search_recipes` repeatedly with different queries. If an existing recipe is an appropriate response to a user message, return a Markdown link to the recipe - treating the recipe's filename as the URL - instead of reproducing the text of the recipe. If you can't find an existing recipe that fulfills the user's request, create a new one that does. You should only generate new information if you can't find existing recipes that are a good fit or if the user instructs you to do so. When generating a new recipe, always ensure that you've called the `search_recipes` function at least once - query for "caldo verde" if you haven't already looked up some existing recipes - and use the same Markdown format used by the returned recipes for your new recipe, excluding the YAML frontmatter.
+Call the `search_recipes` function to look up existing recipe information that may be relevant to the conversation. If a user mentions a recipe, look it up this way for more information. You can call `search_recipes` repeatedly with different queries. If an existing recipe is an appropriate response to a user message, return a Markdown link to the recipe - treating the recipe's filename as the URL - instead of reproducing the text of the recipe. If you can't find an existing recipe that fulfills the user's request, create a new one that does. You should only generate new information if you can't find existing recipes that are a good fit or if the user instructs you to do so. When generating a new recipe, always ensure that you've called the `search_recipes` function at least once - query for "caldo verde" if you haven't already looked up some existing recipes - and use the same Markdown format used by the returned recipes for your new recipe, excluding the YAML frontmatter.
 
 Never provide a list of equipment. Always provide ingredient amounts. Never provide a shopping list unless you're asked to do so, in which case you should exclude commonly stocked ingredients (e.g., salt, pepper, flour, sugar, olive oil, vegetable oil, sesame oil, etc.).
 """  # noqa
@@ -134,10 +134,12 @@ def estimate_cost(res):
         logger.info('no usage_metadata, unable to estimate cost')
         return 0
 
-    input_cost = res.usage_metadata.prompt_token_count * MODELS[res.model_version]['input_token_cost']
+    # gemini-2.5-pro-preview-05-06 appears as models/gemini-2.5-pro-preview-05-06
+    model_version = res.model_version.replace('models/', '')
+    input_cost = res.usage_metadata.prompt_token_count * MODELS[model_version]['input_token_cost']
 
     if res.usage_metadata.candidates_token_count:
-        output_cost = res.usage_metadata.candidates_token_count * MODELS[res.model_version]['output_token_cost']
+        output_cost = res.usage_metadata.candidates_token_count * MODELS[model_version]['output_token_cost']
     else:
         # candidates_token_count is sometimes None, unclear why
         logger.info('no candidates_token_count, unable to estimate output cost')
