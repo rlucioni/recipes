@@ -172,10 +172,13 @@ def embed_recipes(memoized=True):
     with ThreadPoolExecutor(max_workers=8) as executor:
         futures = {}
         for filename, content in recipes.items():
-            # TODO: doesn't handle updates to existing recipes :(
-            if embeddings.get(filename):
-                logger.info(f'skipping {filename}, found existing embedding')
+            recipe = embeddings.get(filename)
+
+            if recipe and recipe['content'] == content:
+                logger.info(f'skipping {filename}, found existing recipe content embedding')
                 continue
+
+            logger.info(f'embedding recipe content for {filename}')
 
             future = executor.submit(gemini.models.embed_content, model=EMBEDDING_MODEL, contents=content)
             futures[future] = filename
