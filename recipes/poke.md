@@ -5,7 +5,7 @@ Serves 2.
 ## Ingredients
 
 - 1 1/2 pounds sushi-grade ahi tuna (e.g., yellowfin, bigeye), cubed
-- 1/2 cup soy sauce
+- 1/3 cup soy sauce
 - 1/4 cup sesame oil
 - 3 green onions, thinly sliced
 - 1 sweet onion, thinly sliced
