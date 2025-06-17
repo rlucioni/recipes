@@ -61,13 +61,13 @@ filename: {filename}
 ---
 """
 
+CHAT_MODEL = 'gemini-2.5-pro'
 EMBEDDING_MODEL = 'gemini-embedding-exp-03-07'
-CHAT_MODEL = 'gemini-2.5-pro-preview-06-05'
 
 # https://ai.google.dev/gemini-api/docs/pricing
 MODELS = {
     # <= 200k input tokens
-    'gemini-2.5-pro-preview-06-05': {
+    'gemini-2.5-pro': {
         'input_token_cost': 1.25 / 1000000,
         'output_token_cost': 10 / 1000000,
     },
@@ -76,8 +76,8 @@ MODELS = {
     },
 }
 
-assert EMBEDDING_MODEL in MODELS, f'unknown EMBEDDING_MODEL {EMBEDDING_MODEL}, add it to MODELS'
 assert CHAT_MODEL in MODELS, f'unknown CHAT_MODEL {CHAT_MODEL}, add it to MODELS'
+assert EMBEDDING_MODEL in MODELS, f'unknown EMBEDDING_MODEL {EMBEDDING_MODEL}, add it to MODELS'
 
 CHEFBOT_USER_ID = 'U08E33CEFKK'
 THINKING_SENTINEL = f'<@{CHEFBOT_USER_ID}> is thinking...'
@@ -131,8 +131,10 @@ def estimate_cost(res):
         logger.info('no usage_metadata, unable to estimate cost')
         return 0
 
-    # gemini-2.5-pro-preview-05-06 appeared as models/gemini-2.5-pro-preview-05-06
-    model_version = res.model_version.replace('models/', '')
+    model_version = res.model_version
+    if 'gemini-2.5-pro' in res.model_version:
+        model_version = 'gemini-2.5-pro'
+
     input_cost = res.usage_metadata.prompt_token_count * MODELS[model_version]['input_token_cost']
 
     if res.usage_metadata.candidates_token_count:
