@@ -5,7 +5,7 @@ Yields 8 cups.
 ## Ingredients
 
 - 1/3 cup packed brown sugar
-- 1/3 cup maple syrup or honey
+- 6 tablespoons maple syrup and/or honey
 - 1/2 teaspoon salt
 - 4 teaspoons vanilla extract
 - 1/2 cup vegetable oil
