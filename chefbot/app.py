@@ -62,7 +62,7 @@ filename: {filename}
 """
 
 CHAT_MODEL = 'gemini-2.5-pro'
-EMBEDDING_MODEL = 'gemini-embedding-exp-03-07'
+EMBEDDING_MODEL = 'gemini-embedding-001'
 
 # https://ai.google.dev/gemini-api/docs/pricing
 MODELS = {
@@ -71,8 +71,8 @@ MODELS = {
         'input_token_cost': 1.25 / 1000000,
         'output_token_cost': 10 / 1000000,
     },
-    'gemini-embedding-exp-03-07': {
-        'input_token_cost': 0,
+    'gemini-embedding-001': {
+        'input_token_cost': 0.15 / 1000000,
     },
 }
 
@@ -164,14 +164,16 @@ def embed_recipes(memoized=True):
     cost = 0
     count = 0
 
-    if memoized:
-        with open('embeddings.json') as f:
+    embeddings_file = Path('embeddings.json')
+    if memoized and embeddings_file.exists():
+        with embeddings_file.open() as f:
             embeddings = json.load(f)
 
-    with ThreadPoolExecutor(max_workers=8) as executor:
+    with ThreadPoolExecutor(max_workers=4) as executor:
         futures = {}
         for filename, content in recipes.items():
             recipe = embeddings.get(filename)
+            progress.increment()
 
             if recipe and recipe['content'] == content:
                 logger.info(f'skipping {filename}, found existing recipe content embedding')
@@ -181,9 +183,8 @@ def embed_recipes(memoized=True):
 
             future = executor.submit(gemini.models.embed_content, model=EMBEDDING_MODEL, contents=content)
             futures[future] = filename
-            progress.increment()
 
-            # temporary, to stay under 10 RPM limit for gemini-embedding-exp-03-07
+            # temporary, to stay under RPM limit for gemini-embedding-001
             # https://ai.google.dev/gemini-api/docs/rate-limits
             count += 1
             if count == 10:
