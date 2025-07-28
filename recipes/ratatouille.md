@@ -2,23 +2,21 @@
 
 ## Ingredients
 
-- 4 bell peppers (red, yellow, or orange), halved
-- 2 yellow onions, diced
+- 2 eggplants, chopped
+- 3 squash (e.g., zucchini, yellow squash), chopped
+- 2 onions, chopped
 - 6 cloves garlic, grated
-- 1 (28-ounce) can whole peeled tomatoes
+- 1 jar roasted red peppers, drained and chopped
+- 2 pounds fresh tomatoes, chopped
 - thyme
 - bay leaf
-- 2 eggplants, diced
-- 3 squashes (e.g., zucchini, yellow squash), diced
 
 ## Instructions
 
-1. Preheat oven to 450°F.
-2. Roast peppers skin side up until skin loosens, about 15 minutes. Broil briefly to char. Transfer to a bowl and cover with foil to steam the peppers. Dice when cool.
-3. Saute onion and garlic in a large skillet over low heat until very soft but not browned.
-4. Add peppers, tomatoes, thyme, and bay leaf. Simmer on low heat.
-5. In another skillet, saute eggplant with olive oil until softened. Add more olive oil as necessary. Reserve.
-6. Use the now-empty skillet to saute squash with olive oil until softened. Add it and the reserved eggplant to the large skillet.
-7. Simmer everything until most of the liquid has evaporated. Season with salt and pepper.
+1. Preheat oven to 400°F on convection roast.
+2. Toss eggplant and squash with olive oil and salt. Roast until soft and/or golden brown, about 15-20 minutes.
+3. In a large pot, saute onion with some olive oil and salt until softened.
+4. Add garlic, sizzle briefly, then add peppers, tomatoes, thyme, and bay leaf. Simmer long enough to heat everything through and reduce to your liking. It's a stew, so it shouldn't be too watery or completely dry.
+5. Mix in roasted eggplant and squash. Season to taste.
 
-Serve with a [fried egg](fried-eggs.md) on top.
+Good with [hard-boiled eggs](hard-boiled-eggs.md) on top.
