@@ -18,7 +18,7 @@ Yields 24 cookies
 
 ### Chocolate feet
 
-- 4 ounces bittersweet chocolate
+- 4 ounces bittersweet chocolate (not chocolate chips since they won't temper properly)
 
 ## Instructions
 
