@@ -19,9 +19,9 @@
 
 ## Instructions
 
-1. Brown pork in a pressure cooker. Add onions and saute until translucent.
+1. Brown pork. Add onions and saute until translucent.
 2. Blend salsa verde, garlic, jalapeños, and cilantro until smooth.
-3. Add spices to pot and toast briefly. Add blended sauce to the pot along with a bay leaf. Add splash of water used to rinse out blender. Cook at high pressure for 30 minutes.
-4. Open and skim fat. Add potatoes. Cook at high presure for 10 minutes. Season to taste.
+3. Add spices to pot and toast briefly. Add blended sauce to the pot along with a bay leaf. Add splash of water used to rinse out blender. Simmer until tender, about 2 hours (or 30 minutes at high pressure if using a pressure cooker).
+4. Open and skim fat. Add potatoes. Simmer until tender, about 20-30 minutes. Season to taste.
 
 Garnish with sour cream. Serve with tortilla chips or bread.
