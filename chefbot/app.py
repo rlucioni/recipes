@@ -353,7 +353,6 @@ def think(event):
         model=CHAT_MODEL,
         config=genai.types.GenerateContentConfig(
             system_instruction=make_prompt(),
-            temperature=0.7,
             tools=[search_recipes],
         ),
         contents=contents
