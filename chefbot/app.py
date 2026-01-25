@@ -61,15 +61,14 @@ filename: {filename}
 ---
 """
 
-CHAT_MODEL = 'gemini-2.5-pro'
+CHAT_MODEL = 'gemini-3-flash-preview'
 EMBEDDING_MODEL = 'gemini-embedding-001'
 
 # https://ai.google.dev/gemini-api/docs/pricing
 MODELS = {
-    # <= 200k input tokens
-    'gemini-2.5-pro': {
-        'input_token_cost': 1.25 / 1000000,
-        'output_token_cost': 10 / 1000000,
+    'gemini-3-flash-preview': {
+        'input_token_cost': 0.5 / 1000000,
+        'output_token_cost': 3 / 1000000,
     },
     'gemini-embedding-001': {
         'input_token_cost': 0.15 / 1000000,
@@ -132,8 +131,8 @@ def estimate_cost(res):
         return 0
 
     model_version = res.model_version
-    if 'gemini-2.5-pro' in res.model_version:
-        model_version = 'gemini-2.5-pro'
+    if 'gemini-3-flash' in res.model_version:
+        model_version = 'gemini-3-flash-preview'
 
     input_cost = res.usage_metadata.prompt_token_count * MODELS[model_version]['input_token_cost']
 
