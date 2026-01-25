@@ -14,7 +14,7 @@
 - 1 teaspoon ground chipotle
 - 1 bay leaf
 - 1 1/2 pound Yukon gold potatoes, quartered
-- 1/2 teaspoon black pepper
+- 1 pound [beans](pot-beans.md) (optional)
 - sour cream
 
 ## Instructions
@@ -22,6 +22,6 @@
 1. Brown pork. Add onions and saute until translucent.
 2. Blend salsa verde, garlic, jalapeños, and cilantro until smooth.
 3. Add spices to pot and toast briefly. Add blended sauce to the pot along with a bay leaf. Add splash of water used to rinse out blender. Simmer until tender, about 2 hours (or 30 minutes at high pressure if using a pressure cooker).
-4. Open and skim fat. Add potatoes. Simmer until tender, about 20-30 minutes. Season to taste.
+4. Open and skim fat. Add potatoes. Simmer until tender, about 20-30 minutes. Season to taste. Stir in beans.
 
 Garnish with sour cream. Serve with tortilla chips or bread.
