@@ -9,6 +9,7 @@
 - dried cranberries, chopped grapes, or diced apple
 - chopped almonds
 - mayonnaise
+- Dijon mustard
 
 ## Instructions
 
