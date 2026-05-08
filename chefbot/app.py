@@ -413,5 +413,5 @@ def exception_handler(exception, event, context):
 
     # Tells Zappa not to re-raise the exception, which in turn prevents Lambda
     # from retrying invocation.
-    # https://github.com/zappa/Zappa/blob/0.59.0/zappa/handler.py#L252-L255
+    # https://github.com/zappa/Zappa/blob/0.60.1/zappa/handler.py#L252-L255
     return True

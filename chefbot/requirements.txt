@@ -1,9 +1,9 @@
-boto3==1.36.22
-flake8==7.1.2
+boto3==1.38.27
+flake8==7.2.0
 Flask==3.1.0
 google-genai==1.60.0
-python-dotenv==1.0.1
+python-dotenv==1.1.0
 python-slugify==8.0.4
-scipy==1.15.2
+scipy==1.17.1
 slack-bolt==1.22.0
-zappa==0.59.0
+zappa==0.60.1

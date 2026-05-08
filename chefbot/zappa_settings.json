@@ -21,7 +21,7 @@
     "memory_size": 512,
     "profile_name": "default",
     "project_name": "chefbot",
-    "runtime": "python3.10",
+    "runtime": "python3.13",
     "s3_bucket": "chefbot-bucket",
     "slim_handler": true,
     // TODO: interaction between this timeout, Gemini client timeout, and exception_handler?
