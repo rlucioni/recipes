@@ -3,6 +3,7 @@ import logging
 import os
 import re
 import time
+import math
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
 from logging.config import dictConfig
@@ -11,7 +12,6 @@ from pathlib import Path
 from dotenv import load_dotenv
 from flask import Flask, request
 from google import genai
-from scipy.spatial import distance
 from slack_bolt import App
 from slack_bolt.adapter.flask import SlackRequestHandler
 from slugify import slugify
@@ -214,6 +214,22 @@ def embed_recipes(memoized=True):
     logger.info(f'done in {round(timer.latency, 2)}s (cost: ${round(cost, 4)})')
 
 
+def cosine_distance(v1, v2):
+    if len(v1) != len(v2):
+        raise ValueError('embedding vectors must have equal length')
+
+    dot = sum(a * b for a, b in zip(v1, v2))
+    norm1 = math.sqrt(sum(a * a for a in v1))
+    norm2 = math.sqrt(sum(b * b for b in v2))
+
+    if norm1 == 0 or norm2 == 0:
+        return 1.0
+
+    cosine_similarity = dot / (norm1 * norm2)
+
+    return 1 - cosine_similarity
+
+
 def search_recipes(query: str) -> str:
     """Searches for existing recipes relevant to the provided query.
 
@@ -237,7 +253,7 @@ def search_recipes(query: str) -> str:
     for filename, recipe in embeddings.items():
         recipes.append({
             'filename': filename,
-            'distance': distance.cosine(query_embedding, recipe['embedding']),
+            'distance': cosine_distance(query_embedding, recipe['embedding']),
         })
 
     recipes.sort(key=lambda recipe: recipe['distance'])
