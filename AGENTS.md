@@ -14,13 +14,15 @@ Markdown recipe collection (adapted from books, shows, the internet). Prefer edi
 
 - Filename: kebab-case, matching the title (`posset.md`, `mapo-tofu.md`).
 - Shape: YAML frontmatter, `# Title`, optional attribution/yield line, `## Ingredients`, `## Instructions`. No equipment lists. Prefer grams for dry goods when nearby recipes already do.
-- Every live recipe begins with frontmatter using this shape. `leftoverability` is present only for meals; `specialty_ingredients` is a YAML list.
+- Every live recipe begins with frontmatter using this shape. `leftoverability` and `protein` are present only for meals; `specialty_ingredients` is a YAML list.
 
 ```yaml
 ---
 type: meal
 prep_time: short
 leftoverability: high
+protein:
+  - meat
 specialty_ingredients:
   - other
 ---
@@ -47,6 +49,14 @@ specialty_ingredients:
   - Use `_with_prep` only when cooked/prepared components keep well, save significant time, and still 
   require quick day-of assembly. `shoyu-ramen` qualifies. Do not use the suffix when leftovers can be 
   eaten directly from the refrigerator or only need microwaving.
+- `protein` (meals only): a YAML list containing every applicable value from `meat`, `seafood`, `egg_dairy`, `plants`, `flexible`, `none`. Omit for every other `type`.
+  - Tag every appreciable protein that is actually in the dish as written.
+  - `none`: no appreciable protein (`baked-potato`). Cannot combine with another protein value.
+  - `meat`: observable meat, including bacon, ham, sausage, and ground pork. Broth, fish sauce, oyster sauce, shrimp paste, and dashi do not count.
+  - `seafood`: fish or shellfish eaten as food, not as seasoning.
+  - `egg_dairy`: eggs, cheese, yogurt, and similar dairy protein.
+  - `plants`: plant foods that are themselves protein sources (tofu, beans, lentils, corn, nuts). Ordinary vegetables, potatoes, rice, pasta, and bread do not qualify.
+  - `flexible`: add when the written recipe allows swapping across `meat` / `seafood` / `plants` / `egg_dairy` (`pad-thai`). Meat-only swaps stay `meat`. Do not tag every `or` alternative; still tag proteins that are definitely present (`pad-thai` tofu is `plants` plus `flexible`).
 - `specialty_ingredients`: a YAML list containing every applicable value from `none`, `seafood`, `meat`, `other`.
   - `none`: no special trip beyond my pantry and local grocery store.
   - Always treat fresh produce as locally available.

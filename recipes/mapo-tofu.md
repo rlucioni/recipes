@@ -2,6 +2,9 @@
 type: meal
 prep_time: short
 leftoverability: high
+protein:
+  - meat
+  - plants
 specialty_ingredients:
   - other
 ---

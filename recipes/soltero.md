@@ -2,6 +2,9 @@
 type: meal
 prep_time: long
 leftoverability: high
+protein:
+  - egg_dairy
+  - plants
 specialty_ingredients:
   - none
 ---

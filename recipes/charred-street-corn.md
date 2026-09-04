@@ -2,6 +2,8 @@
 type: meal
 prep_time: short
 leftoverability: low
+protein:
+  - plants
 specialty_ingredients:
   - none
 ---
