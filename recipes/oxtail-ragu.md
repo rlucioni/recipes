@@ -1,3 +1,9 @@
+---
+type: component
+prep_time: long
+specialty_ingredients:
+  - meat
+---
 # Oxtail Ragu
 
 Adapted from [A Drunken Duck's oxtail ragu](http://www.adrunkenduck.com/braised-oxtail-ragu/). Serves 6.

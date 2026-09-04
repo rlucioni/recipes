@@ -1,3 +1,11 @@
+---
+type: meal
+prep_time: long
+leftoverability: low
+specialty_ingredients:
+  - seafood
+  - other
+---
 # Bouillabaisse
 
 Adapted from [Ethan Stowell's bouillabaisse](https://www.foodandwine.com/recipes/bouillabaisse-october-2008). Serves 6.

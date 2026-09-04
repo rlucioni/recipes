@@ -1,3 +1,9 @@
+---
+type: drink
+prep_time: short
+specialty_ingredients:
+  - other
+---
 # Patio Punch
 
 Makes 1 cocktail.

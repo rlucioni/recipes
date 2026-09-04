@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: long
+leftoverability: high_with_prep
+specialty_ingredients:
+  - none
+---
 # Roast Beef Sandwich
 
 Adapted from Flour's roast beef sandwich.

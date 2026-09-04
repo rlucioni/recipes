@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: long
+leftoverability: high
+specialty_ingredients:
+  - none
+---
 # Hummus
 
 Adapted from [Serious Eats' hummus](https://www.seriouseats.com/recipes/2016/03/israeli-style-extra-smooth-hummus-recipe.html).

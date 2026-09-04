@@ -1,3 +1,9 @@
+---
+type: component
+prep_time: long
+specialty_ingredients:
+  - none
+---
 # Pizza Sauce
 
 Adapted from [Serious Eats' New York Style Pizza Sauce](http://www.seriouseats.com/recipes/2010/10/new-york-style-pizza-sauce.html). Yields enough sauce for 2-4 10-inch pizzas.

@@ -1,3 +1,9 @@
+---
+type: baked_or_dessert
+prep_time: medium
+specialty_ingredients:
+  - none
+---
 # Coffee Cake
 
 Adapted from [Chef John's Pecan Sour Cream Coffee Cake](http://foodwishes.blogspot.com/2016/04/pecan-sour-cream-coffee-cake-now-with.html). Makes 8 servings.

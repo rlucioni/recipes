@@ -1,3 +1,9 @@
+---
+type: baked_or_dessert
+prep_time: long
+specialty_ingredients:
+  - none
+---
 # Peach Pie
 
 For a 9.5" pie

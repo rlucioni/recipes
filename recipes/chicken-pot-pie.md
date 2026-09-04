@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: long
+leftoverability: medium
+specialty_ingredients:
+  - none
+---
 # Chicken Pot Pie
 
 ## Ingredients

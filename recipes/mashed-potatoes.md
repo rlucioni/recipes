@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: medium
+leftoverability: high
+specialty_ingredients:
+  - none
+---
 # Mashed Potatoes
 
 Adapted from [Chef John mashed potatoes](http://foodwishes.blogspot.com/2007/03/perfect-mashed-potatoes-breaking-cycle.html). Serves 4.

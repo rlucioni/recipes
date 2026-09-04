@@ -1,3 +1,9 @@
+---
+type: component
+prep_time: medium
+specialty_ingredients:
+  - none
+---
 # Pumpkin Puree
 
 ## Ingredients

@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: long
+leftoverability: high
+specialty_ingredients:
+  - meat
+---
 # Red Beans and Rice
 
 ## Ingredients

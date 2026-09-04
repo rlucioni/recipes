@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: short
+leftoverability: high
+specialty_ingredients:
+  - other
+---
 # Mapo Tofu
 
 Adapted from The Woks of Life's [Mapo tofu](http://thewoksoflife.com/2014/03/ma-po-tofu-real-deal/). Serves 2.

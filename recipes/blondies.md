@@ -1,3 +1,9 @@
+---
+type: baked_or_dessert
+prep_time: medium
+specialty_ingredients:
+  - none
+---
 # Blondies
 
 For a 9x13" pan

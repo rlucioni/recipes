@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: medium
+leftoverability: medium
+specialty_ingredients:
+  - none
+---
 # Chicken and Mushroom Chimichangas
 
 Adapted from [Chef John's chimichangas](http://foodwishes.blogspot.com/2014/01/chicken-mushroom-chimichanga.html). Serves 4.

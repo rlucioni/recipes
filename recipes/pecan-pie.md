@@ -1,3 +1,9 @@
+---
+type: baked_or_dessert
+prep_time: long
+specialty_ingredients:
+  - none
+---
 # Pecan Pie
 
 Next time: try tossing toasted nuts in filling before adding to pie shell?

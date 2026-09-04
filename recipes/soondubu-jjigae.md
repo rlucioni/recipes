@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: medium
+leftoverability: high
+specialty_ingredients:
+  - other
+---
 # Soondubu jjigae
 
 Adapted from [Chowhound's soondubu jjigae](http://www.chowhound.com/recipes/kimchi-soft-tofu-stew-soondubu-jjigae-29506). Serves 2.

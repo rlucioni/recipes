@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: short
+leftoverability: high
+specialty_ingredients:
+  - none
+---
 # Tonnato
 
 Adapted from [Chef John's tonnato](http://foodwishes.blogspot.com/2015/04/tonnato-sauce-not-just-for-cold-veal.html).

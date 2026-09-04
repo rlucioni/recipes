@@ -1,3 +1,9 @@
+---
+type: baked_or_dessert
+prep_time: short
+specialty_ingredients:
+  - none
+---
 # Chocolate Mug Cake
 
 Adapted from [Chef John's chocolate mug cake](http://foodwishes.blogspot.com/2013/07/minute-chocolate-mug-cake-can-you.html). Makes 2.

@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: medium
+leftoverability: high
+specialty_ingredients:
+  - none
+---
 # Cauliflower Soup
 
 ## Ingredients

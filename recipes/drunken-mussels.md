@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: short
+leftoverability: low
+specialty_ingredients:
+  - seafood
+---
 # Drunken Mussels
 
 Adapted from [Chef John's drunken mussels](http://foodwishes.blogspot.com/2012/05/drunken-mussels-way-fewer-than-12-steps.html). Serves 2.

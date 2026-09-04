@@ -1,3 +1,9 @@
+---
+type: baked_or_dessert
+prep_time: long
+specialty_ingredients:
+  - none
+---
 # Creme Brulee
 
 Makes 6 servings.

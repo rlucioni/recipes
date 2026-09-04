@@ -1,3 +1,9 @@
+---
+type: baked_or_dessert
+prep_time: medium
+specialty_ingredients:
+  - none
+---
 # Skillet Cookie
 
 Adapted from [America's Test Kitchen's skillet cookie](https://www.americastestkitchen.com/recipes/9242-cast-iron-skillet-chocolate-chip-cookie). Fits in a 6" skillet.

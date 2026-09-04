@@ -1,382 +1,382 @@
-name	type	prep_time
-acquacotta	meal	medium
-agua-fresca	drink	short
-alkaline-noodles	component	medium
-almond-blueberry-upside-down-cake	baked_or_dessert	medium
-almond-cake	baked_or_dessert	medium
-anise-drops	baked_or_dessert	long
-apple-cake	baked_or_dessert	medium
-apple-crisp	baked_or_dessert	medium
-apple-gastrique	component	short
-apple-pie	baked_or_dessert	long
-apple-turnovers	baked_or_dessert	medium
-apricot-compote	component	short
-asian-burritos	meal	long
-asparagus-salad	meal	short
-baba-ghanoush	meal	short
-baked-alaska	baked_or_dessert	long
-baked-potato	meal	medium
-banana-bread	baked_or_dessert	medium
-banana-nut-muffins	baked_or_dessert	medium
-banh-mi	meal	short
-basque-cheesecake	baked_or_dessert	medium
-beans-and-greens	meal	short
-beef-and-barley-soup	meal	medium
-berry-crumble	baked_or_dessert	medium
-berry-sauce	component	short
-biang-biang-noodles	meal	long
-bibimbap	meal	long
-birria	meal	long
-biryani	meal	long
-biscotti	baked_or_dessert	long
-bizcochitos	baked_or_dessert	medium
-black-bean-soup	meal	medium
-blackberry-pie	baked_or_dessert	long
-blanched-almonds	component	short
-blondies	baked_or_dessert	medium
-blueberry-compote	component	short
-blueberry-muffins	baked_or_dessert	medium
-blueberry-pie	baked_or_dessert	long
-borscht	meal	long
-bouillabaisse	meal	long
-braised-green-beans	meal	short
-braised-red-cabbage	meal	long
-bread-pudding	baked_or_dessert	medium
-breakfast-burritos	meal	medium
-brownies	baked_or_dessert	medium
-brussels-sprouts	meal	short
-bubble-tea	drink	medium
-bulgogi	meal	long
-burrito-bowl	meal	medium
-butternut-squash-soup	meal	long
-caesar-salad	meal	short
-caldo-verde	meal	medium
-calzones	meal	long
-candied-walnuts	baked_or_dessert	short
-canele	baked_or_dessert	long
-caprese-pasta-salad	meal	short
-caramel-popcorn	baked_or_dessert	long
-carrot-cake-muffins	baked_or_dessert	medium
-cashew-chicken-curry	meal	medium
-catalan-beef-stew	meal	long
-cauliflower-soup	meal	medium
-charred-street-corn	meal	short
-cheesecake	baked_or_dessert	long
-chemex	drink	short
-cherry-compote	component	short
-chestnuts	meal	medium
-chia-pudding	baked_or_dessert	short
-chicken-and-dumplings	meal	medium
-chicken-and-mushroom-chimichangas	meal	medium
-chicken-and-pepper-stir-fry	meal	medium
-chicken-noodle-soup	meal	short
-chicken-pot-pie	meal	long
-chicken-salad	meal	medium
-chicken-spinach-pasta	meal	short
-chili-oil	component	short
-chili-verde	meal	medium
-chimichurri-sauce	component	medium
-chocolate-chip-cookies	baked_or_dessert	medium
-chocolate-cookies	baked_or_dessert	medium
-chocolate-crinkle-cookies	baked_or_dessert	medium
-chocolate-ice-cream	baked_or_dessert	long
-chocolate-macadamia-cookies	baked_or_dessert	short
-chocolate-mug-cake	baked_or_dessert	short
-chocolate-sandwich-cookies	baked_or_dessert	short
-chocolate-toffee-bars	baked_or_dessert	long
-churros	baked_or_dessert	long
-ciabatta	baked_or_dessert	long
-cider-braised-pork	meal	medium
-cioppino	meal	long
-clam-chowder	meal	long
-clam-turnip-soup	meal	short
-coffee-cake	baked_or_dessert	medium
-coffee-ice-cream	baked_or_dessert	long
-cold-brew-coffee	drink	long
-cold-brew-tea	drink	long
-cold-noodle-salad	meal	short
-corn-chowder	meal	medium
-corn-tomato-and-avocado-salad	meal	short
-cornbread	baked_or_dessert	medium
-crab-cakes	meal	short
-cream-of-cauliflower-and-leek-soup	meal	medium
-cream-of-mushroom-soup	meal	long
-creme-brulee	baked_or_dessert	long
-crepes	baked_or_dessert	medium
-crunchwrap-supreme	meal	medium
-cumin-potatoes	meal	medium
-daikon-rib-soup	meal	medium
-dashi	component	long
-deviled-eggs	meal	medium
-dippable-steak-sandwich	meal	short
-drunken-mussels	meal	short
-dry-rub	component	short
-duck-two-ways	meal	long
-dumplings	meal	long
-egg-and-tomato	meal	short
-egg-drop-soup	meal	short
-egg-rice	meal	short
-egg-tarts	baked_or_dessert	medium
-eggplant-and-olive-spread	meal	medium
-eggy-wraps	meal	short
-enchiladas	meal	long
-english-muffins	baked_or_dessert	long
-falafel	meal	long
-farfalle-with-sausage	meal	short
-fengwei-eggplant	meal	long
-fig-and-gouda-scones	baked_or_dessert	medium
-fig-brulee	baked_or_dessert	short
-financiers	baked_or_dessert	medium
-five-spice-pork-loin	meal	medium
-florentines	baked_or_dessert	long
-fluffy-dinner-rolls	baked_or_dessert	long
-focaccia	baked_or_dessert	long
-french-onion-soup	meal	medium
-french-press	drink	short
-fried-brussels-sprouts	meal	long
-fried-eggs	meal	short
-fried-rice	meal	medium
-garlic-aioli	component	short
-garlic-bread	baked_or_dessert	short
-garlic-herb-cream-cheese	component	short
-garlic-knots	baked_or_dessert	long
-garlic-mac-salad	meal	long
-garlic-naan	baked_or_dessert	long
-garlic-rice	meal	short
-garlic-shrimp	meal	short
-garlic-soup	meal	medium
-gateau-breton	baked_or_dessert	long
-gazpacho	meal	long
-general-tsos-chicken	meal	long
-german-christmas-food	meal	short
-graham-cracker-crust	component	short
-granola	baked_or_dessert	medium
-green-chicken-chili	meal	medium
-grilled-cheese	meal	short
-gumbo	meal	medium
-gunkanmaki	meal	medium
-gyudon	meal	short
-hand-cut-noodles	component	medium
-hard-boiled-eggs	meal	short
-hario-switch	drink	short
-harvest-bread	baked_or_dessert	long
-hash-browns	meal	short
-hazelnut-cookies	baked_or_dessert	short
-hojicha	drink	short
-hollandaise-sauce	component	short
-honey-rosemary-cream-cheese	component	short
-honey-sriracha-chicken-wings	meal	medium
-horchata	drink	long
-hummus	meal	long
-japanese-sponge-cake	baked_or_dessert	medium
-kabocha-soup	meal	medium
-katsudon	meal	medium
-key-lime-pie	baked_or_dessert	medium
-khao-soi	meal	long
-kimchi-fried-rice	meal	short
-kimchi-noodles	meal	medium
-korean-fried-chicken	meal	long
-kouign-amann	baked_or_dessert	long
-kuzukiri	baked_or_dessert	short
-lamb-noodle-soup	meal	short
-lanzhou-beef-noodle-soup	meal	long
-lard	component	medium
-lasagna	meal	long
-leek-and-potato-soup	meal	medium
-lemon-bars	baked_or_dessert	long
-lemon-curd	component	medium
-lemon-poppy-seed-muffins	baked_or_dessert	medium
-lemon-poppy-seed-pancakes	baked_or_dessert	short
-lemonade	drink	short
-lentils	meal	medium
-lobster-rolls	meal	medium
-lobster-stock	component	medium
-lomo-saltado	meal	short
-loose-leaf-tea	drink	short
-mac-and-cheese	meal	short
-mango-lassi	drink	short
-mango-salsa	component	medium
-mapo-tofu	meal	short
-marinated-eggs	meal	long
-mashed-potato-squash	meal	medium
-mashed-potatoes	meal	medium
-mayonnaise	component	short
-mazemen	meal	medium
-mi-viet-tiem	meal	long
-miso-soup	meal	short
-molasses-cookies	baked_or_dessert	medium
-mushroom-risotto	meal	medium
-mustard-slaw	meal	medium
-nachos	meal	medium
-oatmeal	meal	short
-oatmeal-raisin-cookies	baked_or_dessert	medium
-olive-oil-cake	baked_or_dessert	medium
-one-pan-pasta	meal	medium
-orange-cupcakes	baked_or_dessert	medium
-orecchiette-with-sausage-and-broccoli-rabe	meal	short
-oven-fries	meal	medium
-overnight-white-bread	baked_or_dessert	long
-overnight-whole-wheat-bread	baked_or_dessert	long
-oxtail-ragu	component	long
-pad-krapow-gai	meal	short
-pad-see-ew	meal	medium
-pad-thai	meal	medium
-palak-dal	meal	medium
-pan-con-tomate	meal	short
-pan-fried-baozi	meal	long
-pancakes	meal	medium
-paniscia	meal	long
-panzanella	meal	short
-pasta-carbonara	meal	short
-pasta-dough	component	medium
-pasta-with-sausage-tomato-and-broccoli-rabe	meal	medium
-patio-punch	drink	short
-pavlova	baked_or_dessert	long
-pea-and-bacon-pasta	meal	short
-peach-pie	baked_or_dessert	long
-peach-tarte-tatin	baked_or_dessert	long
-peanut-curry	meal	medium
-pecan-pie	baked_or_dessert	long
-pesto	component	short
-pesto-pasta-with-shrimp	meal	medium
-pho-bo	meal	long
-pho-ga	meal	medium
-pickled-radish	meal	medium
-pie-crust	component	medium
-pinocchio	meal	short
-pistachio-gelato	baked_or_dessert	long
-pita-bread	baked_or_dessert	long
-pizza	meal	medium
-pizza-dough	component	long
-pizza-sauce	component	long
-pizzelles	baked_or_dessert	medium
-poached-eggs	meal	short
-poke	meal	medium
-polenta	meal	short
-popcorn	baked_or_dessert	short
-porridge	meal	long
-posset	baked_or_dessert	medium
-pot-beans	meal	long
-potato-salad	meal	medium
-pozole	meal	long
-pumpkin-bread	baked_or_dessert	medium
-pumpkin-pie	baked_or_dessert	long
-pumpkin-puree	component	medium
-quiche-lorraine	meal	long
-quick-cured-salmon	meal	long
-quinoa-eggs-and-steak	meal	medium
-raita	component	short
-ratatouille	meal	medium
-ratatouille-confit-byaldi	meal	long
-ravioli	meal	short
-red-beans-and-rice	meal	long
-red-cooked-fish	meal	medium
-red-cooked-ribs	meal	medium
-red-lentil-soup	meal	short
-rhubarb-compote	component	short
-rib-sandwich	meal	long
-rice-cakes	meal	medium
-rice-krispies-treats	baked_or_dessert	medium
-rice-pudding	baked_or_dessert	medium
-roast-beef	meal	long
-roast-beef-sandwich	meal	short
-roasted-beets	meal	medium
-roasted-chicken	meal	medium
-roasted-chicken-thighs	meal	medium
-roasted-chicken-with-gravy	meal	medium
-roasted-garlic	component	medium
-roasted-pecans	baked_or_dessert	short
-roasted-potatoes	meal	medium
-roasted-pumpkin-seeds	baked_or_dessert	medium
-roasted-vegetable	meal	short
-rouladen	meal	long
-sago	baked_or_dessert	medium
-sandwich-rolls	baked_or_dessert	long
-sangria	drink	long
-sardine-melt	meal	short
-sauteed-fish	meal	short
-sauteed-mushrooms	meal	short
-scones	baked_or_dessert	short
-seared-duck-breast	meal	medium
-seared-salmon	meal	medium
-sheet-pan-brats	meal	medium
-short-rib-ragu	meal	long
-shoyu-ramen	meal	long
-shrimp-and-grits	meal	medium
-shrimp-etouffee	meal	medium
-shrimp-po-boys	meal	long
-sichuan-boiled-fish	meal	long
-simple-pizza-sauce	component	medium
-simple-syrup	component	short
-skillet-cookie	baked_or_dessert	medium
-skillet-lasagna	meal	medium
-smashed-cucumber-salad	meal	short
-snickerdoodles	baked_or_dessert	medium
-soba	meal	short
-sodium-carbonate	component	medium
-soft-boiled-eggs	meal	short
-soltero	meal	long
-somen	meal	medium
-soondubu-jjigae	meal	medium
-spaetzle	meal	medium
-spring-rolls	meal	medium
-squash-pancakes	meal	medium
-squeaky-dogs	meal	short
-steamed-artichokes	meal	short
-stelline-soup	meal	short
-stir-fry-noodles	meal	short
-strawberry-compote	component	short
-strawberry-ice-cream	baked_or_dessert	long
-strawberry-rhubarb-ice-cream	baked_or_dessert	long
-strawberry-rhubarb-pie	baked_or_dessert	long
-strawberry-shortcake	baked_or_dessert	medium
-strawberry-syrup	component	medium
-sugar-cookies	baked_or_dessert	long
-summer-succotash-salad	meal	long
-sushi-rice	component	medium
-sweet-potato-oven-fries	meal	medium
-sweet-potato-rice	meal	medium
-taiwanese-beef-noodle-soup	meal	long
-tamarind-paste	component	medium
-tamarind-spritz	drink	short
-tandoori-lamb	meal	long
-tang-yuan	baked_or_dessert	medium
-tapenade	meal	short
-tempura	meal	long
-tentsuyu	component	short
-thai-basil-pesto-noodles	meal	medium
-thai-green-curry	meal	medium
-thumbprint-cookies	baked_or_dessert	medium
-tom-kha-pladuk	meal	short
-tomato-sauce	component	short
-tomato-soup	meal	medium
-tomato-tart	meal	long
-tonnato	component	short
-torrone	baked_or_dessert	long
-tortenboden	baked_or_dessert	medium
-tres-leches-cake	baked_or_dessert	long
-tteokbokki	meal	short
-tuna-melt	meal	short
-turnip-puree	meal	short
-tzatziki	component	long
-udon	meal	medium
-v60	drink	short
-vanilla-ice-cream	baked_or_dessert	long
-vanilla-lilikoi-ice-cream	baked_or_dessert	long
-vegetable-ragout	meal	long
-vegetable-stir-fry	meal	short
-walnut-cookies	baked_or_dessert	short
-west-lake-soup	meal	short
-white-bean-chorizo-soup	meal	medium
-white-bean-soup	meal	medium
-white-bread-with-poolish	baked_or_dessert	long
-whole-wheat-pancakes	baked_or_dessert	short
-whole-wheat-waffles	baked_or_dessert	short
-wonton-noodle-soup	meal	long
-wonton-wrappers	component	long
-wontons-in-chili-oil	meal	long
-yang-cai-gao	baked_or_dessert	long
-yeasted-waffles	baked_or_dessert	long
-yu-xiang-eggplant	meal	medium
-yuca-fries	meal	long
-zabaione	baked_or_dessert	medium
+name	type	prep_time	leftoverability	specialty_ingredients
+acquacotta	meal	medium	high	none
+agua-fresca	drink	short		none
+alkaline-noodles	component	medium		none
+almond-blueberry-upside-down-cake	baked_or_dessert	medium		none
+almond-cake	baked_or_dessert	medium		none
+anise-drops	baked_or_dessert	long		none
+apple-cake	baked_or_dessert	medium		none
+apple-crisp	baked_or_dessert	medium		none
+apple-gastrique	component	short		none
+apple-pie	baked_or_dessert	long		none
+apple-turnovers	baked_or_dessert	medium		none
+apricot-compote	component	short		none
+asian-burritos	meal	long	high_with_prep	meat|other
+asparagus-salad	meal	short	medium	none
+baba-ghanoush	meal	short	high	none
+baked-alaska	baked_or_dessert	long		none
+baked-potato	meal	medium	low	none
+banana-bread	baked_or_dessert	medium		none
+banana-nut-muffins	baked_or_dessert	medium		none
+banh-mi	meal	medium	high_with_prep	other
+basque-cheesecake	baked_or_dessert	medium		none
+beans-and-greens	meal	short	high	none
+beef-and-barley-soup	meal	medium	high	none
+berry-crumble	baked_or_dessert	medium		none
+berry-sauce	meal	short	high	none
+biang-biang-noodles	meal	long	low	meat|other
+bibimbap	meal	long	high_with_prep	other
+birria	meal	long	high	meat|other
+biryani	meal	long	high	other
+biscotti	baked_or_dessert	long		none
+bizcochitos	baked_or_dessert	medium		meat
+black-bean-soup	meal	medium	high	none
+blackberry-pie	baked_or_dessert	long		none
+blanched-almonds	component	short		none
+blondies	baked_or_dessert	medium		none
+blueberry-compote	meal	short	high	none
+blueberry-muffins	baked_or_dessert	medium		none
+blueberry-pie	baked_or_dessert	long		none
+borscht	meal	long	high	none
+bouillabaisse	meal	long	low	other|seafood
+braised-green-beans	meal	short	high	none
+braised-red-cabbage	meal	long	high	none
+bread-pudding	baked_or_dessert	medium		none
+breakfast-burritos	meal	medium	medium	none
+brownies	baked_or_dessert	medium		none
+brussels-sprouts	meal	short	medium	none
+bubble-tea	drink	medium		other
+bulgogi	meal	long	high	other
+burrito-bowl	meal	medium	high	none
+butternut-squash-soup	meal	long	high	none
+caesar-salad	meal	short	low	none
+caldo-verde	meal	medium	high	other
+calzones	meal	long	medium	none
+candied-walnuts	meal	short	high	none
+canele	baked_or_dessert	long		other
+caprese-pasta-salad	meal	short	medium	none
+caramel-popcorn	meal	long	high	none
+carrot-cake-muffins	baked_or_dessert	medium		none
+cashew-chicken-curry	meal	long	high	none
+catalan-beef-stew	meal	long	high	none
+cauliflower-soup	meal	medium	high	none
+charred-street-corn	meal	short	low	none
+cheesecake	baked_or_dessert	long		none
+chemex	drink	short		none
+cherry-compote	meal	short	high	none
+chestnuts	meal	medium	high	none
+chia-pudding	meal	short	high	none
+chicken-and-dumplings	meal	medium	medium	none
+chicken-and-mushroom-chimichangas	meal	medium	medium	none
+chicken-and-pepper-stir-fry	meal	medium	high	other
+chicken-noodle-soup	meal	medium	medium	none
+chicken-pot-pie	meal	long	medium	none
+chicken-salad	meal	long	high	none
+chicken-spinach-pasta	meal	short	medium	none
+chili-oil	component	short		other
+chili-verde	meal	medium	high	none
+chimichurri-sauce	meal	medium	high	none
+chocolate-chip-cookies	baked_or_dessert	medium		none
+chocolate-cookies	baked_or_dessert	medium		none
+chocolate-crinkle-cookies	baked_or_dessert	medium		none
+chocolate-ice-cream	baked_or_dessert	long		none
+chocolate-macadamia-cookies	baked_or_dessert	short		none
+chocolate-mug-cake	baked_or_dessert	short		none
+chocolate-sandwich-cookies	baked_or_dessert	short		none
+chocolate-toffee-bars	baked_or_dessert	long		none
+churros	baked_or_dessert	long		none
+ciabatta	baked_or_dessert	long		none
+cider-braised-pork	meal	medium	high	none
+cioppino	meal	long	medium	seafood
+clam-chowder	meal	long	high	seafood
+clam-turnip-soup	meal	short	medium	seafood
+coffee-cake	baked_or_dessert	medium		none
+coffee-ice-cream	baked_or_dessert	long		none
+cold-brew-coffee	drink	long		none
+cold-brew-tea	drink	long		none
+cold-noodle-salad	meal	short	medium	other
+corn-chowder	meal	medium	high	none
+corn-tomato-and-avocado-salad	meal	short	low	none
+cornbread	baked_or_dessert	medium		none
+crab-cakes	meal	short	medium	seafood
+cream-of-cauliflower-and-leek-soup	meal	medium	high	none
+cream-of-mushroom-soup	meal	long	high	none
+creme-brulee	baked_or_dessert	long		none
+crepes	baked_or_dessert	medium		none
+crunchwrap-supreme	meal	medium	medium	none
+cumin-potatoes	meal	medium	high	none
+daikon-rib-soup	meal	medium	high	other
+dashi	component	long		other
+deviled-eggs	meal	medium	high	none
+dippable-steak-sandwich	meal	short	medium	none
+drunken-mussels	meal	short	low	seafood
+dry-rub	component	short		none
+duck-two-ways	meal	long	medium	meat
+dumplings	meal	long	high	other
+egg-and-tomato	meal	short	high	other
+egg-drop-soup	meal	short	medium	none
+egg-rice	meal	short	low	other
+egg-tarts	baked_or_dessert	medium		none
+eggplant-and-olive-spread	meal	medium	high	none
+eggy-wraps	meal	short	medium	none
+enchiladas	meal	long	high	other
+english-muffins	baked_or_dessert	long		none
+falafel	meal	long	medium	other
+farfalle-with-sausage	meal	short	high	none
+fengwei-eggplant	meal	long	low	none
+fig-and-gouda-scones	baked_or_dessert	medium		none
+fig-brulee	baked_or_dessert	short		none
+financiers	baked_or_dessert	medium		none
+five-spice-pork-loin	meal	medium	high	other
+florentines	baked_or_dessert	long		none
+fluffy-dinner-rolls	baked_or_dessert	long		none
+focaccia	baked_or_dessert	long		none
+french-onion-soup	meal	medium	high	none
+french-press	drink	short		none
+fried-brussels-sprouts	meal	long	low	none
+fried-eggs	meal	short	low	none
+fried-rice	meal	medium	high	none
+garlic-aioli	meal	short	high	none
+garlic-bread	meal	short	low	none
+garlic-herb-cream-cheese	meal	long	high	none
+garlic-knots	meal	medium	medium	other
+garlic-mac-salad	meal	long	high	none
+garlic-naan	meal	long	medium	none
+garlic-rice	meal	short	high	none
+garlic-shrimp	meal	short	low	none
+garlic-soup	meal	medium	medium	none
+gateau-breton	baked_or_dessert	long		none
+gazpacho	meal	long	high	none
+general-tsos-chicken	meal	long	medium	none
+german-christmas-food	meal	short	high	meat|other
+graham-cracker-crust	component	short		none
+granola	baked_or_dessert	medium		none
+green-chicken-chili	meal	medium	high	none
+grilled-cheese	meal	short	low	none
+gumbo	meal	medium	high	seafood
+gunkanmaki	meal	medium	low	other|seafood
+gyudon	meal	short	high	other
+hand-cut-noodles	component	medium		none
+hard-boiled-eggs	meal	short	high	none
+hario-switch	drink	short		none
+harvest-bread	baked_or_dessert	long		none
+hash-browns	meal	short	high_with_prep	none
+hazelnut-cookies	baked_or_dessert	short		none
+hojicha	drink	short		other
+hollandaise-sauce	component	short		none
+honey-rosemary-cream-cheese	meal	short	high	none
+honey-sriracha-chicken-wings	meal	medium	medium	none
+horchata	drink	long		none
+hummus	meal	long	high	none
+japanese-sponge-cake	baked_or_dessert	medium		none
+kabocha-soup	meal	medium	high	none
+katsudon	meal	medium	medium	other
+key-lime-pie	baked_or_dessert	medium		none
+khao-soi	meal	long	high_with_prep	other
+kimchi-fried-rice	meal	short	high	other
+kimchi-noodles	meal	medium	low	other|seafood
+korean-fried-chicken	meal	long	medium	none
+kouign-amann	baked_or_dessert	long		none
+kuzukiri	baked_or_dessert	short		other
+lamb-noodle-soup	meal	short	low	none
+lanzhou-beef-noodle-soup	meal	long	high_with_prep	other
+lard	component	medium		meat
+lasagna	meal	long	high	none
+leek-and-potato-soup	meal	medium	high	none
+lemon-bars	baked_or_dessert	long		none
+lemon-curd	component	medium		none
+lemon-poppy-seed-muffins	baked_or_dessert	medium		none
+lemon-poppy-seed-pancakes	baked_or_dessert	short		none
+lemonade	drink	short		none
+lentils	meal	medium	high	none
+lobster-rolls	meal	medium	medium	seafood
+lobster-stock	component	medium		seafood
+lomo-saltado	meal	short	medium	none
+loose-leaf-tea	drink	short		none
+mac-and-cheese	meal	short	high	none
+mango-lassi	drink	short		none
+mango-salsa	meal	medium	medium	none
+mapo-tofu	meal	short	high	other
+marinated-eggs	meal	long	high	other
+mashed-potato-squash	meal	medium	high	none
+mashed-potatoes	meal	medium	high	none
+mayonnaise	component	short		none
+mazemen	meal	medium	low	other
+mi-viet-tiem	meal	long	high_with_prep	meat|other
+miso-soup	meal	short	low	other
+molasses-cookies	baked_or_dessert	medium		none
+mushroom-risotto	meal	medium	low	none
+mustard-slaw	meal	medium	high	none
+nachos	meal	medium	medium	none
+oatmeal	meal	short	high	none
+oatmeal-raisin-cookies	baked_or_dessert	medium		none
+olive-oil-cake	baked_or_dessert	medium		none
+one-pan-pasta	meal	medium	high	none
+orange-cupcakes	baked_or_dessert	medium		none
+orecchiette-with-sausage-and-broccoli-rabe	meal	short	high	none
+oven-fries	meal	medium	low	none
+overnight-white-bread	baked_or_dessert	long		none
+overnight-whole-wheat-bread	baked_or_dessert	long		none
+oxtail-ragu	component	long		meat
+pad-krapow-gai	meal	short	high	other
+pad-see-ew	meal	medium	medium	other
+pad-thai	meal	medium	medium	other
+palak-dal	meal	medium	high	other
+pan-con-tomate	meal	short	low	none
+pan-fried-baozi	meal	long	medium	other
+pancakes	meal	medium	medium	none
+paniscia	meal	long	high	none
+panzanella	meal	short	low	none
+pasta-carbonara	meal	short	low	none
+pasta-dough	component	medium		none
+pasta-with-sausage-tomato-and-broccoli-rabe	meal	medium	high	none
+patio-punch	drink	short		other
+pavlova	baked_or_dessert	long		none
+pea-and-bacon-pasta	meal	short	medium	none
+peach-pie	baked_or_dessert	long		none
+peach-tarte-tatin	baked_or_dessert	long		none
+peanut-curry	meal	medium	high	none
+pecan-pie	baked_or_dessert	long		none
+pesto	component	short		none
+pesto-pasta-with-shrimp	meal	medium	medium	none
+pho-bo	meal	long	high_with_prep	meat|other
+pho-ga	meal	medium	high_with_prep	other
+pickled-radish	meal	medium	high	none
+pie-crust	component	medium		none
+pinocchio	meal	long	medium	none
+pistachio-gelato	baked_or_dessert	long		other
+pita-bread	baked_or_dessert	long		none
+pizza	meal	long	medium	none
+pizza-dough	component	long		none
+pizza-sauce	component	long		none
+pizzelles	baked_or_dessert	medium		none
+poached-eggs	meal	short	low	none
+poke	meal	medium	medium	seafood
+polenta	meal	short	high	none
+popcorn	meal	short	low	none
+porridge	meal	long	high	other
+posset	baked_or_dessert	medium		none
+pot-beans	meal	long	high	other
+potato-salad	meal	medium	high	none
+pozole	meal	long	high	other
+pumpkin-bread	baked_or_dessert	medium		none
+pumpkin-pie	baked_or_dessert	long		none
+pumpkin-puree	component	medium		none
+quiche-lorraine	meal	long	high	none
+quick-cured-salmon	meal	medium	medium	none
+quinoa-eggs-and-steak	meal	medium	medium	none
+raita	meal	short	medium	other
+ratatouille	meal	medium	high	none
+ratatouille-confit-byaldi	meal	long	high	none
+ravioli	meal	short	medium	none
+red-beans-and-rice	meal	long	high	meat
+red-cooked-fish	meal	medium	medium	seafood
+red-cooked-ribs	meal	medium	high	meat|other
+red-lentil-soup	meal	short	high	none
+rhubarb-compote	meal	short	high	none
+rib-sandwich	meal	long	high_with_prep	other
+rice-cakes	meal	medium	medium	other
+rice-krispies-treats	baked_or_dessert	medium		none
+rice-pudding	baked_or_dessert	medium		none
+roast-beef	meal	long	high	none
+roast-beef-sandwich	meal	long	high_with_prep	none
+roasted-beets	meal	medium	high	none
+roasted-chicken	meal	medium	high	none
+roasted-chicken-thighs	meal	medium	high	none
+roasted-chicken-with-gravy	meal	medium	high	none
+roasted-garlic	meal	medium	high	none
+roasted-pecans	baked_or_dessert	short		none
+roasted-potatoes	meal	medium	medium	none
+roasted-pumpkin-seeds	meal	medium	high	none
+roasted-vegetable	meal	short	high	none
+rouladen	meal	long	high	none
+sago	baked_or_dessert	medium		none
+sandwich-rolls	baked_or_dessert	long		none
+sangria	drink	long		none
+sardine-melt	meal	short	low	none
+sauteed-fish	meal	short	low	seafood
+sauteed-mushrooms	meal	short	high	none
+scones	baked_or_dessert	short		none
+seared-duck-breast	meal	medium	medium	meat
+seared-salmon	meal	medium	medium	none
+sheet-pan-brats	meal	medium	high_with_prep	none
+short-rib-ragu	meal	long	high	none
+shoyu-ramen	meal	long	high_with_prep	meat|other
+shrimp-and-grits	meal	medium	medium	none
+shrimp-etouffee	meal	medium	medium	none
+shrimp-po-boys	meal	long	low	other
+sichuan-boiled-fish	meal	long	medium	other|seafood
+simple-pizza-sauce	component	medium		none
+simple-syrup	component	short		none
+skillet-cookie	baked_or_dessert	medium		none
+skillet-lasagna	meal	medium	high	none
+smashed-cucumber-salad	meal	short	medium	other
+snickerdoodles	baked_or_dessert	medium		none
+soba	meal	short	low	other
+sodium-carbonate	component	medium		none
+soft-boiled-eggs	meal	short	low	none
+soltero	meal	long	high	none
+somen	meal	medium	low	none
+soondubu-jjigae	meal	medium	high	other
+spaetzle	meal	medium	high	none
+spring-rolls	meal	medium	low	other
+squash-pancakes	meal	medium	medium	other
+squeaky-dogs	meal	short	high	other
+steamed-artichokes	meal	short	medium	none
+stelline-soup	meal	medium	medium	none
+stir-fry-noodles	meal	short	medium	other
+strawberry-compote	component	short		none
+strawberry-ice-cream	baked_or_dessert	long		other
+strawberry-rhubarb-ice-cream	baked_or_dessert	long		other
+strawberry-rhubarb-pie	baked_or_dessert	long		none
+strawberry-shortcake	baked_or_dessert	medium		none
+strawberry-syrup	component	medium		none
+sugar-cookies	baked_or_dessert	long		other
+summer-succotash-salad	meal	long	high	none
+sushi-rice	component	medium		none
+sweet-potato-oven-fries	meal	medium	low	none
+sweet-potato-rice	meal	medium	high	none
+taiwanese-beef-noodle-soup	meal	long	high_with_prep	meat|other
+tamarind-paste	component	medium		other
+tamarind-spritz	drink	short		other
+tandoori-lamb	meal	long	high	meat
+tang-yuan	baked_or_dessert	medium		other
+tapenade	meal	short	high	none
+tempura	meal	long	low	other|seafood
+tentsuyu	component	short		other
+thai-basil-pesto-noodles	meal	medium	medium	other
+thai-green-curry	meal	medium	high	other
+thumbprint-cookies	baked_or_dessert	medium		none
+tom-kha-pladuk	meal	medium	low	other|seafood
+tomato-sauce	component	short		none
+tomato-soup	meal	medium	high	none
+tomato-tart	meal	long	medium	none
+tonnato	meal	short	high	none
+torrone	baked_or_dessert	long		other
+tortenboden	baked_or_dessert	medium		none
+tres-leches-cake	baked_or_dessert	long		none
+tteokbokki	meal	short	medium	other
+tuna-melt	meal	short	low	none
+turnip-puree	meal	short	high	none
+tzatziki	meal	long	high	none
+udon	meal	medium	low	other
+v60	drink	short		none
+vanilla-ice-cream	baked_or_dessert	long		none
+vanilla-lilikoi-ice-cream	baked_or_dessert	long		other
+vegetable-ragout	meal	long	high	none
+vegetable-stir-fry	meal	short	medium	other
+walnut-cookies	baked_or_dessert	short		none
+west-lake-soup	meal	short	medium	none
+white-bean-chorizo-soup	meal	medium	high	none
+white-bean-soup	meal	medium	high	none
+white-bread-with-poolish	baked_or_dessert	long		none
+whole-wheat-pancakes	baked_or_dessert	short		none
+whole-wheat-waffles	baked_or_dessert	short		none
+wonton-noodle-soup	meal	long	high_with_prep	other
+wonton-wrappers	component	long		none
+wontons-in-chili-oil	meal	long	high_with_prep	other
+yang-cai-gao	baked_or_dessert	long		other
+yeasted-waffles	baked_or_dessert	long		none
+yu-xiang-eggplant	meal	medium	high	other
+yuca-fries	meal	long	low	other
+zabaione	baked_or_dessert	medium		none

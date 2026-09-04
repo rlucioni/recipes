@@ -1,3 +1,9 @@
+---
+type: baked_or_dessert
+prep_time: medium
+specialty_ingredients:
+  - none
+---
 # Banana Nut Muffins
 
 Makes 12 muffins

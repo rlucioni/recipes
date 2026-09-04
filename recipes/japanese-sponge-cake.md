@@ -1,3 +1,9 @@
+---
+type: baked_or_dessert
+prep_time: medium
+specialty_ingredients:
+  - none
+---
 # Japanese Sponge Cake
 
 Adapted from [Japanese Cooking 101's Sponge Cake](http://www.japanesecooking101.com/sponge-cake-recipe/).

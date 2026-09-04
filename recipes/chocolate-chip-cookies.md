@@ -1,3 +1,9 @@
+---
+type: baked_or_dessert
+prep_time: medium
+specialty_ingredients:
+  - none
+---
 # Chocolate Chip Cookies
 
 Adapted from America's Test Kitchen's chocolate chip cookies.

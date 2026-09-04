@@ -1,3 +1,9 @@
+---
+type: baked_or_dessert
+prep_time: short
+specialty_ingredients:
+  - none
+---
 # Chocolate Sandwich Cookies
 
 ## Ingredients

@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: long
+leftoverability: high
+specialty_ingredients:
+  - other
+---
 # Pot Beans
 
 Adapted from [Rancho Gordo bean cooking tips](https://www.ranchogordo.com/blogs/recipes/cooking-basic-beans-in-the-rancho-gordo-manner)

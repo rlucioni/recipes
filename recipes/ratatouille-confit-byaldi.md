@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: long
+leftoverability: high
+specialty_ingredients:
+  - none
+---
 # Ratatouille Confit Byaldi
 
 Adapted from the [New York Times' Confit Byaldi](http://www.nytimes.com/2007/06/13/dining/131rrex.html). Fills one 10" pan.

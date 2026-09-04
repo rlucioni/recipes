@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: short
+leftoverability: high
+specialty_ingredients:
+  - none
+---
 # Honey Rosemary Cream Cheese
 
 ## Ingredients

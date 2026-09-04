@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: short
+leftoverability: medium
+specialty_ingredients:
+  - other
+---
 # Cold Noodle Salad
 
 Adapted from [Chef John's spicy noodle salad](http://foodwishes.blogspot.com/2012/09/spicy-rice-noodle-salad-strange-but-chew.html). Serves 2.

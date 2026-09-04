@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: short
+leftoverability: high
+specialty_ingredients:
+  - other
+---
 # Pad Krapow Gai
 
 ## Ingredients

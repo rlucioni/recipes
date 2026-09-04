@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: short
+leftoverability: low
+specialty_ingredients:
+  - none
+---
 # Sardine Melt
 
 Inspired by the tuna melt at the Palace Diner in Biddeford, Maine.

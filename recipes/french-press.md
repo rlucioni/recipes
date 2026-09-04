@@ -1,3 +1,9 @@
+---
+type: drink
+prep_time: short
+specialty_ingredients:
+  - none
+---
 # French Press
 
 Makes 2 cups

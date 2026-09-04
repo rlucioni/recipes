@@ -1,3 +1,11 @@
+---
+type: meal
+prep_time: long
+leftoverability: high
+specialty_ingredients:
+  - meat
+  - other
+---
 # Birria
 
 ## Ingredients

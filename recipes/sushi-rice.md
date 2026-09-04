@@ -1,3 +1,9 @@
+---
+type: component
+prep_time: medium
+specialty_ingredients:
+  - none
+---
 # Sushi Rice
 
 Adapted from [Alton Brown's sushi rice](http://www.foodnetwork.com/recipes/alton-brown/sushi-rice-recipe.html). Yields about 25 nuggets.

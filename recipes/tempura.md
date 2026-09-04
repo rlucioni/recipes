@@ -1,3 +1,11 @@
+---
+type: meal
+prep_time: long
+leftoverability: low
+specialty_ingredients:
+  - other
+  - seafood
+---
 # Tempura
 
 ## Ingredients

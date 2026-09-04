@@ -1,3 +1,9 @@
+---
+type: component
+prep_time: short
+specialty_ingredients:
+  - none
+---
 # Mayonnaise
 
 Makes about 1 1/2 cups

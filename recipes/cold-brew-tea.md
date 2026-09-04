@@ -1,3 +1,9 @@
+---
+type: drink
+prep_time: long
+specialty_ingredients:
+  - none
+---
 # Cold Brew Tea
 
 ## Ingredients

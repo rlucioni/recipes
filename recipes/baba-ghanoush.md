@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: short
+leftoverability: high
+specialty_ingredients:
+  - none
+---
 # Baba Ghanoush
 
 Adapted from [Minimalist Baker's baba ghanoush](http://minimalistbaker.com/simple-baba-ganoush/).

@@ -1,3 +1,9 @@
+---
+type: baked_or_dessert
+prep_time: medium
+specialty_ingredients:
+  - none
+---
 # Bread Pudding
 
 Adapted from [All Recipes' Bread Pudding](http://allrecipes.com/recipe/7177/bread-pudding-ii/).

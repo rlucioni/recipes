@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: long
+leftoverability: high
+specialty_ingredients:
+  - none
+---
 # Garlic Herb Cream Cheese
 
 ## Ingredients

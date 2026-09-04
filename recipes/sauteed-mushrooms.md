@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: short
+leftoverability: high
+specialty_ingredients:
+  - none
+---
 # Sauteed Mushrooms
 
 Same technique can be used for many different kinds of mushrooms (e.g., chanterelles, morels, etc.)

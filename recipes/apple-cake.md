@@ -1,3 +1,9 @@
+---
+type: baked_or_dessert
+prep_time: medium
+specialty_ingredients:
+  - none
+---
 # Apple Cake
 
 For a 9" cake pan. Adapted from [Chef John's French apple cake](https://www.allrecipes.com/french-apple-cake-recipe-7963451).

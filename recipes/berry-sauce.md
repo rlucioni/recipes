@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: short
+leftoverability: high
+specialty_ingredients:
+  - none
+---
 # Berry Sauce
 
 ## Ingredients

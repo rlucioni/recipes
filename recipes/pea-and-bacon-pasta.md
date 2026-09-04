@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: short
+leftoverability: medium
+specialty_ingredients:
+  - none
+---
 # Pea and Bacon Pasta
 
 ## Ingredients

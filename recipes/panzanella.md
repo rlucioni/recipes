@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: short
+leftoverability: low
+specialty_ingredients:
+  - none
+---
 # Panzanella
 
 Adapted from [Chef John's Panzanella](http://foodwishes.blogspot.com/2014/08/under-my-panzanella-ella-ella-ella.html). Serves 2.

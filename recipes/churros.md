@@ -1,3 +1,9 @@
+---
+type: baked_or_dessert
+prep_time: long
+specialty_ingredients:
+  - none
+---
 # Churros
 
 Inspired by Chocolateria San Gines in Madrid

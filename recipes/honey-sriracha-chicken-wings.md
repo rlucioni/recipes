@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: medium
+leftoverability: medium
+specialty_ingredients:
+  - none
+---
 # Honey Sriracha Chicken Wings
 
 Adapted from [Chef John's chicken wings](http://foodwishes.blogspot.com/2015/01/crispy-honey-sriracha-chicken-wings.html). Serves 4.

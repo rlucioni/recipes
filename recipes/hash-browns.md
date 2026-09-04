@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: short
+leftoverability: high_with_prep
+specialty_ingredients:
+  - none
+---
 # Hash Browns
 
 Adapted from [Serious Eats' hash browns](http://www.seriouseats.com/recipes/2014/06/shredded-hash-browns-recipe.html).

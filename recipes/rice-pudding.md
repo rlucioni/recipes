@@ -1,3 +1,9 @@
+---
+type: baked_or_dessert
+prep_time: medium
+specialty_ingredients:
+  - none
+---
 # Rice Pudding
 
 Adapted from [Chef John's rice pudding](http://foodwishes.blogspot.com/2012/03/coconut-milk-rice-pudding-with-fresh.html).

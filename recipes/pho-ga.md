@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: medium
+leftoverability: high_with_prep
+specialty_ingredients:
+  - other
+---
 # Phở Gà
 
 Serves 8.
