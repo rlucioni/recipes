@@ -57,6 +57,7 @@ specialty_ingredients:
 ## Agent conventions
 
 - Recipe identity comes from the filename stem. The generated catalog derives its `name` column from the filename.
+- Use the `archive-recipe` skill to retire live recipes into `archive/`.
 - When adding, editing metadata, renaming, or archiving a recipe, regenerate `catalog.tsv` using the `update-catalog` skill.
 - When populating frontmatter interactively, ask the human about any uncertain field. Otherwise, prefer a reasonable value over omission unless the recipe is blank, incomplete, or contradictory.
 - Before exploring or planning, run the `update-catalog` skill and read the catalog first. Open recipe files only when ingredients or method are needed.
