@@ -2,9 +2,6 @@
 type: meal
 prep_time: long
 leftoverability: high
-protein:
-  - meat
-  - seafood
 specialty_ingredients:
   - seafood
 ---

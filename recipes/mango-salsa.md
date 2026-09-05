@@ -1,9 +1,6 @@
 ---
-type: meal
+type: component
 prep_time: medium
-leftoverability: medium
-protein:
-  - none
 specialty_ingredients:
   - none
 ---

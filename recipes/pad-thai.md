@@ -2,9 +2,6 @@
 type: meal
 prep_time: medium
 leftoverability: medium
-protein:
-  - plants
-  - flexible
 specialty_ingredients:
   - other
 ---

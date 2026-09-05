@@ -20,7 +20,7 @@ set -euo pipefail
 
 tmp="$(mktemp "${TMPDIR:-/tmp}/catalog.XXXXXX")"
 trap 'rm -f "$tmp" "${tmp}.sorted"' EXIT
-printf 'name\ttype\tprep_time\tleftoverability\tprotein\tspecialty_ingredients\n' > "$tmp"
+printf 'name\ttype\tprep_time\tleftoverability\tspecialty_ingredients\n' > "$tmp"
 
 for file in recipes/*.md; do
   stem="$(basename "$file" .md)"
@@ -36,45 +36,26 @@ for file in recipes/*.md; do
       }
       return 0
     }
-    function add_list(value, kind) {
-      if (kind == "protein") {
-        if (!allowed(value, "meat seafood egg_dairy plants flexible none")) {
-          fail("invalid protein value: " value)
-        }
-        protein[++protein_count] = value
-      } else {
-        if (!allowed(value, "none seafood meat other")) {
-          fail("invalid specialty_ingredients value: " value)
-        }
-        specialty[++specialty_count] = value
+    function add_specialty(value) {
+      if (!allowed(value, "none seafood meat other")) {
+        fail("invalid specialty_ingredients value: " value)
       }
+      specialty[++specialty_count] = value
     }
-    function sort_list(arr, n,    i, j, value) {
-      for (i = 1; i <= n; i++) {
-        for (j = i + 1; j <= n; j++) {
-          if (arr[j] < arr[i]) {
-            value = arr[i]
-            arr[i] = arr[j]
-            arr[j] = value
+    function sorted_specialties(    i, j, value, result) {
+      for (i = 1; i <= specialty_count; i++) {
+        for (j = i + 1; j <= specialty_count; j++) {
+          if (specialty[j] < specialty[i]) {
+            value = specialty[i]
+            specialty[i] = specialty[j]
+            specialty[j] = value
           }
         }
       }
-    }
-    function join_list(arr, n,    i, result) {
-      sort_list(arr, n)
-      for (i = 1; i <= n; i++) {
-        result = result (i == 1 ? "" : "|") arr[i]
+      for (i = 1; i <= specialty_count; i++) {
+        result = result (i == 1 ? "" : "|") specialty[i]
       }
       return result
-    }
-    function reject_none_combo(arr, n, field) {
-      if (n > 1) {
-        for (i = 1; i <= n; i++) {
-          if (arr[i] == "none") {
-            fail("none cannot be combined with another " field " value")
-          }
-        }
-      }
     }
 
     NR == 1 {
@@ -96,16 +77,15 @@ for file in recipes/*.md; do
       if (type != "meal" && leftoverability_seen) {
         fail("leftoverability must be omitted for non-meals")
       }
-      if (type == "meal" && protein_count == 0) {
-        fail("meal requires protein")
-      }
-      if (type != "meal" && protein_count > 0) {
-        fail("protein must be omitted for non-meals")
-      }
       if (specialty_count == 0) fail("specialty_ingredients must not be empty")
-      reject_none_combo(protein, protein_count, "protein")
-      reject_none_combo(specialty, specialty_count, "specialty_ingredients")
-      printf "%s\t%s\t%s\t%s\t%s\t%s\n", recipe_name, type, prep_time, leftoverability, join_list(protein, protein_count), join_list(specialty, specialty_count)
+      if (specialty_count > 1) {
+        for (i = 1; i <= specialty_count; i++) {
+          if (specialty[i] == "none") {
+            fail("none cannot be combined with another specialty_ingredients value")
+          }
+        }
+      }
+      printf "%s\t%s\t%s\t%s\t%s\n", recipe_name, type, prep_time, leftoverability, sorted_specialties()
       exit
     }
     in_frontmatter {
@@ -121,20 +101,12 @@ for file in recipes/*.md; do
         leftoverability_seen = 1
         leftoverability = $0
         sub(/^leftoverability:[[:space:]]*/, "", leftoverability)
-      } else if ($0 ~ /^protein:[[:space:]]*$/) {
-        reading_protein = 1
-        reading_specialties = 0
       } else if ($0 ~ /^specialty_ingredients:[[:space:]]*$/) {
         reading_specialties = 1
-        reading_protein = 0
-      } else if (reading_protein && $0 ~ /^[[:space:]]*-[[:space:]]+/) {
-        value = $0
-        sub(/^[[:space:]]*-[[:space:]]+/, "", value)
-        add_list(value, "protein")
       } else if (reading_specialties && $0 ~ /^[[:space:]]*-[[:space:]]+/) {
         value = $0
         sub(/^[[:space:]]*-[[:space:]]+/, "", value)
-        add_list(value, "specialty")
+        add_specialty(value)
       } else if ($0 !~ /^[[:space:]]*$/) {
         fail("unsupported frontmatter line: " $0)
       }
@@ -147,7 +119,7 @@ for file in recipes/*.md; do
 done
 
 {
-  printf 'name\ttype\tprep_time\tleftoverability\tprotein\tspecialty_ingredients\n'
+  printf 'name\ttype\tprep_time\tleftoverability\tspecialty_ingredients\n'
   sed '1d' "$tmp" | LC_ALL=C sort -t '	' -k1,1
 } > "${tmp}.sorted"
 mv "${tmp}.sorted" catalog.tsv

@@ -2,9 +2,6 @@
 type: meal
 prep_time: short
 leftoverability: low
-protein:
-  - meat
-  - egg_dairy
 specialty_ingredients:
   - none
 ---

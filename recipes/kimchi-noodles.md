@@ -2,10 +2,6 @@
 type: meal
 prep_time: medium
 leftoverability: low
-protein:
-  - seafood
-  - egg_dairy
-  - flexible
 specialty_ingredients:
   - other
   - seafood

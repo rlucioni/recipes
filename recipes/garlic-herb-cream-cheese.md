@@ -1,9 +1,6 @@
 ---
-type: meal
+type: component
 prep_time: long
-leftoverability: high
-protein:
-  - egg_dairy
 specialty_ingredients:
   - none
 ---

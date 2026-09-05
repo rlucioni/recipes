@@ -1,9 +1,6 @@
 ---
-type: meal
+type: component
 prep_time: short
-leftoverability: high
-protein:
-  - seafood
 specialty_ingredients:
   - none
 ---

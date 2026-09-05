@@ -1,9 +1,6 @@
 ---
-type: meal
+type: component
 prep_time: long
-leftoverability: high
-protein:
-  - plants
 specialty_ingredients:
   - none
 ---

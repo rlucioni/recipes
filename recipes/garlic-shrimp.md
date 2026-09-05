@@ -2,8 +2,6 @@
 type: meal
 prep_time: short
 leftoverability: low
-protein:
-  - seafood
 specialty_ingredients:
   - none
 ---

@@ -2,8 +2,6 @@
 type: meal
 prep_time: short
 leftoverability: medium
-protein:
-  - none
 specialty_ingredients:
   - other
 ---
