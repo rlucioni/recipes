@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: medium
+leftoverability: high_with_prep
+specialty_ingredients:
+  - none
+---
 # Sheet-pan Brats
 
 ## Ingredients

@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: long
+leftoverability: medium
+specialty_ingredients:
+  - other
+---
 # Falafel
 
 Adapted from Chef John's [falafel](http://foodwishes.blogspot.com/2015/03/falafel-opposite-of-how-these-will-make.html).

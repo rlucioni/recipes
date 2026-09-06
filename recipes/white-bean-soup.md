@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: medium
+leftoverability: high
+specialty_ingredients:
+  - none
+---
 # White bean soup
 
 Adapted from Kenji Lopez's Tuscan white bean soup.

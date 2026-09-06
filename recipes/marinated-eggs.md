@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: long
+leftoverability: high
+specialty_ingredients:
+  - other
+---
 # Marinated Eggs
 
 Adapted from [Serious Eats' marinated eggs](http://www.seriouseats.com/recipes/2012/03/ajitsuke-tamago-japanese-marinated-soft-boiled-egg-recipe.html).

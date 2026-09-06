@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: short
+leftoverability: medium
+specialty_ingredients:
+  - none
+---
 # Brussels Sprouts
 
 ## Ingredients

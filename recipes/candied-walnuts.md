@@ -1,3 +1,9 @@
+---
+type: component
+prep_time: short
+specialty_ingredients:
+  - none
+---
 # Candied Walnuts
 
 ## Ingredients

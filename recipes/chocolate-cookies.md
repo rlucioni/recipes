@@ -1,3 +1,9 @@
+---
+type: baked_or_dessert
+prep_time: medium
+specialty_ingredients:
+  - none
+---
 # Chocolate Cookies
 
 Adapted from [Martha Stewart's Grammy's Chocolate Cookies](http://www.marthastewart.com/316883/grammys-chocolate-cookies). Yields 40 cookies.

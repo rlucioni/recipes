@@ -1,3 +1,11 @@
+---
+type: meal
+prep_time: medium
+leftoverability: low
+specialty_ingredients:
+  - other
+  - seafood
+---
 # Kimchee noodles
 
 Serves 2.

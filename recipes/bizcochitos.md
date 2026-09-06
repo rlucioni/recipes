@@ -1,3 +1,9 @@
+---
+type: baked_or_dessert
+prep_time: medium
+specialty_ingredients:
+  - meat
+---
 # Bizcochitos
 
 Makes about 50 cookies. Adapted from a [recipe](https://www.newmexicomagazine.org/blog/post/bizcochito-recipe-83756/) from New Mexico Magazine.

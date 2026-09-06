@@ -1,3 +1,9 @@
+---
+type: component
+prep_time: medium
+specialty_ingredients:
+  - none
+---
 # Lemon Curd
 
 Adapted from [Chef John's lemon curd](http://foodwishes.blogspot.com/2012/11/lemon-curd-lite-not-light.html).

@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: long
+leftoverability: medium
+specialty_ingredients:
+  - none
+---
 # Pinocchio
 
 Adapted from the Pinocchio sandwich at Alidoro in SoHo, NYC.

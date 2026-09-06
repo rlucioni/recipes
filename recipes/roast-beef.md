@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: long
+leftoverability: high
+specialty_ingredients:
+  - none
+---
 # Roast Beef
 
 Adapted from [Chef John's roast tenderloin of beef](http://foodwishes.blogspot.com/2011/12/roast-tenderloin-of-beef-with-porcini.html).

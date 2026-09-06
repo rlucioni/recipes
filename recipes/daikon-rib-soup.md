@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: medium
+leftoverability: high
+specialty_ingredients:
+  - other
+---
 # Daikon Rib Soup
 
 Makes 4 servings.

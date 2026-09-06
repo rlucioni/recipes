@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: short
+leftoverability: low
+specialty_ingredients:
+  - none
+---
 # Caesar Salad
 
 Adapted from [Wolfgang Puck's Caesar Salad](http://www.foodnetwork.com/recipes/caesar-salad-recipe6.html). Serves 2.

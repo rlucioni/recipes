@@ -1,3 +1,9 @@
+---
+type: baked_or_dessert
+prep_time: long
+specialty_ingredients:
+  - none
+---
 # Chocolate Ice Cream
 
 Yields 1 1/2 quarts.

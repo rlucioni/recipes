@@ -1,3 +1,9 @@
+---
+type: baked_or_dessert
+prep_time: long
+specialty_ingredients:
+  - none
+---
 # White Bread with Poolish
 
 From Ken Forkish's Flour Water Salt Yeast. Schedule: mix poolish at 7 PM, mix final dough at 9 AM, proof at 12 PM, bake at 1 PM, done around 1:45 PM.

@@ -1,3 +1,11 @@
+---
+type: meal
+prep_time: long
+leftoverability: high_with_prep
+specialty_ingredients:
+  - meat
+  - other
+---
 # Asian Burritos
 
 ## Ingredients

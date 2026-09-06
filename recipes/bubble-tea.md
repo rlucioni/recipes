@@ -1,3 +1,9 @@
+---
+type: drink
+prep_time: medium
+specialty_ingredients:
+  - other
+---
 # Bubble Tea
 
 Makes 1 serving.

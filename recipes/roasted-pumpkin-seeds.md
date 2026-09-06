@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: medium
+leftoverability: high
+specialty_ingredients:
+  - none
+---
 # Roasted Pumpkin Seeds
 
 Adapted from [Simply Recipe's roasted pumpkin seeds](https://www.simplyrecipes.com/recipes/toasted_pumpkin_seeds/).

@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: long
+leftoverability: high_with_prep
+specialty_ingredients:
+  - other
+---
 # Wontons in Chili Oil
 
 Adapted from [Serious Eats' Suanla Chaoshou](https://www.seriouseats.com/recipes/2015/03/sichuan-wonton-chili-oil-suanla-chaoshou-recipe.html). Serves 4.

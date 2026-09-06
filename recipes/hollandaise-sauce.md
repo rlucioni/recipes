@@ -1,3 +1,9 @@
+---
+type: component
+prep_time: short
+specialty_ingredients:
+  - none
+---
 # Hollandaise Sauce
 
 Adapted from [Chef John's hollandaise sauce](http://foodwishes.blogspot.com/2007/03/hollandaise-101-can-sauce-really-sense.html). Serves 2 (about 1/4 cup).

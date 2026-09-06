@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: short
+leftoverability: low
+specialty_ingredients:
+  - none
+---
 # Charred Street Corn
 
 Inspired by [Lone Star Taco Bar's grilled street corn](http://www.lonestar-boston.com/food.php).

@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: short
+leftoverability: low
+specialty_ingredients:
+  - seafood
+---
 # Sauteed fish
 
 Serves 2.

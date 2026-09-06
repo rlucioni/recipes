@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: short
+leftoverability: low
+specialty_ingredients:
+  - none
+---
 # Pasta Carbonara
 
 Adapted from America's Test Kitchen's Foolproof Spaghetti Carbonara. Serves 2.

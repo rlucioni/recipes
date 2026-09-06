@@ -1,3 +1,9 @@
+---
+type: component
+prep_time: medium
+specialty_ingredients:
+  - none
+---
 # Eggplant and Olive Spread
 
 Adapted from [Hip Pressure Cooking's eggplant and olive spread](http://www.hippressurecooking.com/pressure-cooker-eggplant-spread/).

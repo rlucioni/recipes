@@ -1,3 +1,9 @@
+---
+type: component
+prep_time: medium
+specialty_ingredients:
+  - other
+---
 # Tamarind Paste
 
 Adapted from Hot Thai Kitchen's [Tamarind Paste](https://hot-thai-kitchen.com/making-tamarind-paste/)

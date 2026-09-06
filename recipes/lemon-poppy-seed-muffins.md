@@ -1,3 +1,9 @@
+---
+type: baked_or_dessert
+prep_time: medium
+specialty_ingredients:
+  - none
+---
 # Lemon Poppy Seed Muffins
 
 Yields 12 muffins.

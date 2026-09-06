@@ -1,3 +1,11 @@
+---
+type: meal
+prep_time: long
+leftoverability: medium
+specialty_ingredients:
+  - other
+  - seafood
+---
 # Sichuan Boiled Fish
 
 Inspired by the Sichuan-style sliced fish at Gourmet Dumpling House in Boston.

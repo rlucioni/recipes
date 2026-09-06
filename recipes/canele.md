@@ -1,3 +1,9 @@
+---
+type: baked_or_dessert
+prep_time: long
+specialty_ingredients:
+  - other
+---
 # Canele
 
 Yields 14-16 2" caneles (Matfer molds)

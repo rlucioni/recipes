@@ -1,3 +1,9 @@
+---
+type: component
+prep_time: long
+specialty_ingredients:
+  - none
+---
 # Pizza Dough
 
 Makes 3 13" pizzas.

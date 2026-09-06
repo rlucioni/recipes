@@ -1,3 +1,9 @@
+---
+type: component
+prep_time: short
+specialty_ingredients:
+  - none
+---
 # Apple Gastrique
 
 Inspired by the crispy brussels sprouts at Maven in San Francisco. Tops one pound of [brussels sprouts](brussels-sprouts.md).

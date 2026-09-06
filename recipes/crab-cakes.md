@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: short
+leftoverability: medium
+specialty_ingredients:
+  - seafood
+---
 # Crab Cakes
 
 Adapted from [Chef John's crab cakes](http://foodwishes.blogspot.com/2009/11/maryland-crab-cakes-good-news-is-theyre.html). Serves 4.

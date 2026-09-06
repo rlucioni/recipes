@@ -1,3 +1,9 @@
+---
+type: baked_or_dessert
+prep_time: medium
+specialty_ingredients:
+  - none
+---
 # Basque Cheesecake
 
 For a 9x3 round cake pan. Inspired by Santiago Rivera's [tarta de queso](https://www.lavanguardia.com/comer/sitios/20181026/452544579597/mejor-tarta-queso-espana-receta-la-vina.html) at La Viña in San Sebastián, Spain.

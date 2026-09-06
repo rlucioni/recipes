@@ -1,3 +1,9 @@
+---
+type: component
+prep_time: long
+specialty_ingredients:
+  - none
+---
 # Tzatziki
 
 ## Ingredients

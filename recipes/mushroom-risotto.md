@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: medium
+leftoverability: low
+specialty_ingredients:
+  - none
+---
 # Mushroom Risotto
 
 Adapted from [Chef John's baked mushroom risotto](http://foodwishes.blogspot.com/2013/03/baked-mushroom-risotto-why-stir-when.html). Serves 2.

@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: long
+leftoverability: high
+specialty_ingredients:
+  - other
+---
 # Dumplings
 
 Yields 130 dumplings

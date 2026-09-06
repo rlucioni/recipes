@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: short
+leftoverability: low
+specialty_ingredients:
+  - other
+---
 # Miso Soup
 
 Serves 2. The soup does not reheat well, so it's better to make a large batch of dashi and assemble the soup right before eating.

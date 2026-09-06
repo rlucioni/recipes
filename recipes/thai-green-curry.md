@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: medium
+leftoverability: high
+specialty_ingredients:
+  - other
+---
 # Thai Green Curry
 
 Serves 6. Other vegetables such as eggplant, bell pepper, and green beans can be used in addition to those mentioned below.

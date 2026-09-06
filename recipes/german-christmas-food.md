@@ -1,3 +1,11 @@
+---
+type: meal
+prep_time: short
+leftoverability: high
+specialty_ingredients:
+  - meat
+  - other
+---
 # German Christmas Food
 
 ## Ingredients

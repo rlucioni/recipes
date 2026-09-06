@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: long
+leftoverability: high
+specialty_ingredients:
+  - none
+---
 # Cream of Mushroom Soup
 
 Adapted from [Chef John's cream of mushroom soup](http://foodwishes.blogspot.com/2009/12/cream-of-mushroom-soup-pure-liquid-moon.html). Serves 4.

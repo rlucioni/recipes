@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: medium
+leftoverability: medium
+specialty_ingredients:
+  - seafood
+---
 # Lobster Rolls
 
 Yields 3

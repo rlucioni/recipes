@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: long
+leftoverability: medium
+specialty_ingredients:
+  - none
+---
 # Calzones
 
 Adapted from [Chef John's calzones](http://foodwishes.blogspot.com/2015/07/youve-entered-calzone-zone.html).

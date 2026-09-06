@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: medium
+leftoverability: high
+specialty_ingredients:
+  - other
+---
 # Five-Spice Pork Loin
 
 Adapted from [Chef John's five-spice pork loin](http://foodwishes.blogspot.com/2016/01/pan-roasted-5-spice-pork-loin-pleasing.html). Serves two.

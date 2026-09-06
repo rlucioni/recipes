@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: medium
+leftoverability: high
+specialty_ingredients:
+  - none
+---
 # Skillet Lasagna
 
 Adapted from America's Test Kitchen's Skillet Lasagna. Serves 4.

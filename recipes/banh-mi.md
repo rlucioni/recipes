@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: medium
+leftoverability: high_with_prep
+specialty_ingredients:
+  - other
+---
 # Bánh Mì
 
 Adapted from [Chef John's bánh mì](http://foodwishes.blogspot.com/2016/01/pan-roasted-5-spice-pork-loin-pleasing.html). Serves two. Ingredient amounts below are approximate.

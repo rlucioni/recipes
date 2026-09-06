@@ -1,3 +1,9 @@
+---
+type: component
+prep_time: short
+specialty_ingredients:
+  - other
+---
 # Raita
 
 ## Ingredients

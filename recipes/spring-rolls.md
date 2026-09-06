@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: medium
+leftoverability: low
+specialty_ingredients:
+  - other
+---
 # Spring Rolls
 
 ## Ingredients

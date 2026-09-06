@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: medium
+leftoverability: high
+specialty_ingredients:
+  - none
+---
 # Peanut Curry
 
 Adapted from [Chef John's peanut curry](http://foodwishes.blogspot.com/2015/09/peanut-curry-chicken-check-please.html). Serves 6.

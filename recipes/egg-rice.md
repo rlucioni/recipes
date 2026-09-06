@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: short
+leftoverability: low
+specialty_ingredients:
+  - other
+---
 # Egg Rice
 
 ## Ingredients

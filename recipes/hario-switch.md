@@ -1,3 +1,9 @@
+---
+type: drink
+prep_time: short
+specialty_ingredients:
+  - none
+---
 # Hario Switch
 
 Yields 2 cups

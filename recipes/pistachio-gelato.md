@@ -1,3 +1,9 @@
+---
+type: baked_or_dessert
+prep_time: long
+specialty_ingredients:
+  - other
+---
 # Pistachio Gelato
 
 Yields 1 quart.

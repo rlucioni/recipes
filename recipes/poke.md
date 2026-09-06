@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: medium
+leftoverability: medium
+specialty_ingredients:
+  - seafood
+---
 # Poke Bowl
 
 Serves 2.

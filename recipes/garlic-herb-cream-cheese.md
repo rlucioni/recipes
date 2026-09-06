@@ -1,3 +1,9 @@
+---
+type: component
+prep_time: long
+specialty_ingredients:
+  - none
+---
 # Garlic Herb Cream Cheese
 
 ## Ingredients

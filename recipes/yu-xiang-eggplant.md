@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: medium
+leftoverability: high
+specialty_ingredients:
+  - other
+---
 # Yu Xian Eggplant
 
 Adapted from [Serious Eats' Yu Xiang Eggplant](http://www.seriouseats.com/recipes/2015/02/sichuan-braised-eggplant-vegan-experience-food-lab-recipe.html).

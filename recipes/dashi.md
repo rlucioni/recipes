@@ -1,3 +1,9 @@
+---
+type: component
+prep_time: long
+specialty_ingredients:
+  - other
+---
 # Dashi
 
 Makes about 4 cups of final stock.

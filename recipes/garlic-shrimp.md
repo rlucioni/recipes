@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: short
+leftoverability: low
+specialty_ingredients:
+  - none
+---
 # Garlic Shrimp
 
 Adapted from [Serious Eats' gambas al ajillo](http://www.seriouseats.com/recipes/2014/03/spanish-style-garlic-shrimp-gambas-al-ajillo-recipe.html).

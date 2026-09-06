@@ -1,3 +1,9 @@
+---
+type: baked_or_dessert
+prep_time: long
+specialty_ingredients:
+  - none
+---
 # Overnight Whole Wheat Bread
 
 From Ken Forkish's Flour Water Salt Yeast. Schedule: start at 6:30 PM, rise until 12 AM, proof until 8 AM, done around 8:45 AM.

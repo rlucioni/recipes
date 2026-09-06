@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: short
+leftoverability: medium
+specialty_ingredients:
+  - none
+---
 # Egg Drop Soup
 
 Adapted from [Allrecipes's egg drop soup](http://allrecipes.com/Recipe/Restaurant-Style-Egg-Drop-Soup/Detail.aspx). Serves 4.

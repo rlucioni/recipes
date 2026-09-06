@@ -1,3 +1,9 @@
+---
+type: drink
+prep_time: short
+specialty_ingredients:
+  - none
+---
 # Loose Leaf Tea
 
 2:170 tea to water ratio. Ingredient amounts given here yield one teapot's worth of tea.

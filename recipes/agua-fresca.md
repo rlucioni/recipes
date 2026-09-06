@@ -1,3 +1,9 @@
+---
+type: drink
+prep_time: short
+specialty_ingredients:
+  - none
+---
 # Agua Fresca
 
 Adapted from [The New York Times' agua fresca](http://cooking.nytimes.com/recipes/1012543-watermelon-or-cantaloupe-agua-fresca).

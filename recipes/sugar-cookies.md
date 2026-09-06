@@ -1,3 +1,9 @@
+---
+type: baked_or_dessert
+prep_time: long
+specialty_ingredients:
+  - other
+---
 # Sugar Cookies
 
 Adapted from a Land O Lakes Holiday Recipe collection.

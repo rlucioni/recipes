@@ -1,3 +1,10 @@
+---
+type: meal
+prep_time: medium
+leftoverability: medium
+specialty_ingredients:
+  - other
+---
 # Pad Thai
 
 Adapted from Hot Thai Kitchen's [Pad Thai recipe](https://hot-thai-kitchen.com/best-pad-thai/). Serves 2.
