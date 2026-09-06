@@ -4,9 +4,9 @@ Serves 2.
 
 ## Ingredients
 
-- 3/4 Zojirushi cups steel cut oats
+- 1/2 Zojirushi cups steel cut oats
 - pinch salt
-- 3 Zojirushi cups water
+- 2 Zojirushi cups water
 
 ## Instructions
 
