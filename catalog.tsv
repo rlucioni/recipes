@@ -19,6 +19,7 @@ baked-alaska	dessert	long
 baked-potato	side	medium		
 banana-bread	bread	medium		
 banana-nut-muffins	breakfast	medium		
+bang-bang-ji	side	medium		
 banh-mi	main	medium	high_with_prep	other
 basque-cheesecake	dessert	medium		
 beans-and-greens	main	short	high	
@@ -95,7 +96,7 @@ coffee-cake	breakfast	medium
 coffee-ice-cream	dessert	long		
 cold-brew-coffee	drink	long		
 cold-brew-tea	drink	long		
-cold-noodle-salad	main	short	medium	other
+cold-noodle-salad	main	medium	high_with_prep	
 corn-chowder	main	medium	high	
 corn-tomato-and-avocado-salad	side	short		
 cornbread	bread	medium		
@@ -190,6 +191,7 @@ lemon-poppy-seed-muffins	breakfast	medium
 lemon-poppy-seed-pancakes	breakfast	short		
 lemonade	drink	short		
 lentils	main	medium	high	
+lo-mein	main	medium	medium	other
 lobster-rolls	main	medium	medium	seafood
 lobster-stock	component	medium		seafood
 lomo-saltado	main	short	medium	
@@ -307,6 +309,7 @@ shrimp-and-grits	main	medium	medium
 shrimp-etouffee	main	medium	medium	
 shrimp-po-boys	main	long	low	other
 sichuan-boiled-fish	main	long	medium	other|seafood
+sichuan-smashed-potatoes	side	medium		
 simple-pizza-sauce	component	medium		
 simple-syrup	component	short		
 skillet-cookie	dessert	medium		

@@ -12,8 +12,9 @@ Markdown recipe collection (adapted from books, shows, the internet). Prefer edi
 
 ## Recipe files
 
-- Filename: kebab-case, matching the title (`posset.md`, `mapo-tofu.md`).
+- Filename: kebab-case, matching the title (`posset.md`, `mapo-tofu.md`). Drop apostrophes and diacritics (`general-tsos-chicken.md`).
 - Shape: YAML frontmatter, `# Title`, optional attribution/yield line, `## Ingredients`, `## Instructions`. No equipment lists. Prefer grams for dry goods when nearby recipes already do.
+- When adding or adapting a recipe, rewrite into this collection’s voice. Open a nearby `recipes/*.md` and match it. Do not copy source instructions verbatim. Credit with one `Adapted from [Source](url).` line. Omit pantry process items (water for boiling, oil for heating a pan, salt and pepper for seasoning) unless they are a measured part of the formula. Do not abbreviate (`vegetables`, not `veg`). Link existing component recipes instead of inlining them.
 - Every live recipe begins with frontmatter using this shape. `leftoverability` is present only for mains; `specialty_ingredients` is a YAML list and may be empty.
 
 ```yaml

@@ -1,34 +1,46 @@
 ---
 course: main
-prep_time: short
-leftoverability: medium
-specialty_ingredients:
-  - other
+prep_time: medium
+leftoverability: high_with_prep
+specialty_ingredients: []
 ---
 # Cold Noodle Salad
 
-Adapted from [Chef John's spicy noodle salad](http://foodwishes.blogspot.com/2012/09/spicy-rice-noodle-salad-strange-but-chew.html). Serves 2.
+Serves 4.
 
 ## Ingredients
 
-- 2 blocks of thin rice noodles (e.g., Wai Wai)
-- 2 carrots, julienned
-- 4 green onions, chopped
-- 1 cup shrimp, sauteed whole with olive oil and salt
-- Rice vinegar
-- Sesame oil
-- Soy sauce
-- Worcestershire sauce
-- Honey
-- Chili-garlic paste
-- Granulated garlic
-- Peanut butter
-- Whole peanuts
+### Poached chicken
+
+- 1 pound bone-in, skin-on chicken thighs
+- 3 slices ginger
+- 1 scallion
+
+### Sauce
+
+- 2 tablespoons peanut butter
+- 1 tablespoon toasted sesame oil
+- 2 1/2 tablespoons Chinese black vinegar
+- 2 1/2 tablespoons light soy sauce
+- 1 teaspoon dark soy sauce
+- 1/2 tablespoon sugar
+- 4 cloves garlic, grated
+- 1 teaspoon ginger, grated
+- 1/2 teaspoon toasted and ground Sichuan peppercorn
+
+### Everything else
+
+- somen (about 100 grams dry, or 1 bundle, per serving), [Alkaline noodles](alkaline-noodles.md) are better if there's time to make them
+- cucumber, julienned
+- green onions, thinly sliced
+- cilantro, chopped
+- peanuts, toasted and crushed
+- [chili oil](chili-oil.md)
 
 ## Instructions
 
-1. In a bowl, pour very hot water (about 180°F) over the noodles. Allow noodles to soften until tender, about 15 minutes. Drain very well.
-2. Combine noodles, carrots, green onion, and shrimp in a bowl.
-3. Prepare sauce by combining rice vinegar, sesame oil, soy sauce, Worcestershire sauce, honey, chili-garlic paste, granulated garlic, peanut butter, and salt in a bowl. Microwave 10-15 seconds and stir. Pour over noodles and stir.
-
-Garnish with whole, toasted peanuts.
+1. Add chicken, ginger, and scallion to a small pot. Add just enough water to cover and bring to a simmer. Salt the water and simmer until the thickest part of the thigh hits 175-185°F, about 20-25 minutes. Reserve meat and broth and shred chicken once cool enough to handle.
+2. Whisk sauce ingredients with a couple tablespoons of warm chicken broth until smooth.
+3. If using raw peanuts, toast in a dry skillet over medium-low heat, stirring, until fragrant and the skins blister, 8-12 minutes. Cool, then crush.
+4. Boil noodles until just shy of tender, about 60-90 seconds. Drain and rinse under cold water.
+5. Toss noodles with a few tablespoons of sauce. Top with chicken, cucumber, green onions, cilantro, crushed peanuts, and chili oil.
