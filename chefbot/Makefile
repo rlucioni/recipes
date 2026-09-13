@@ -1,44 +1,56 @@
+include .env
+export $(shell sed 's/=.*//' .env)
+
 deploy:
-	zappa deploy prod
+	@rm -f .env.yaml
+	@echo "generating .env.yaml from .env..."
+	@echo "GEMINI_API_KEY: ${GEMINI_API_KEY}" >> .env.yaml
+	@echo "SLACK_BOT_TOKEN: ${SLACK_BOT_TOKEN}" >> .env.yaml
+	@echo "SLACK_SIGNING_SECRET: ${SLACK_SIGNING_SECRET}" >> .env.yaml
+	@echo "deploying to GCP..."
+	npm run deploy
+	@rm .env.yaml
+	@echo "deployment complete!"
 
 embeddings:
-	python -c 'import app; app.embed_recipes();'
+	npm run embed
+
+enable:
+	gcloud services enable \
+	cloudfunctions.googleapis.com \
+	run.googleapis.com \
+	cloudbuild.googleapis.com \
+	artifactregistry.googleapis.com \
+	cloudtasks.googleapis.com
 
 lint:
-	flake8 .
+	npm run lint
 
 logs:
-	zappa tail prod --since 1d --disable-keep-open
+	npm run logs
 
-package:
-	zappa package prod
+ping:
+	curl localhost:8080
 
-prune:
-	python prune.py
+prettier:
+	npm run prettier
 
-requirements:
-	pip install -r requirements.txt
+# Creates the Cloud Tasks queue used to hand off thinking from the Slack event
+# handler, and lets the function's default service account enqueue tasks.
+queue:
+	gcloud tasks queues create chefbot --location=us-central1 --max-attempts=1
+	gcloud projects add-iam-policy-binding $$(gcloud config get-value project) \
+	--member=serviceAccount:$$(gcloud projects describe $$(gcloud config get-value project) --format='value(projectNumber)')-compute@developer.gserviceaccount.com \
+	--role=roles/cloudtasks.enqueuer
 
-rollback:
-	zappa rollback prod -n 1
-
-run:
-	flask run --port 5001 --debug
-
-schedule:
-	zappa schedule prod
-
-status:
-	zappa status prod
+serve:
+	npm run serve
 
 tunnel:
-	ngrok http 5001
+	ngrok http 8080
 
 undeploy:
-	zappa undeploy prod --remove-logs
+	npm run undeploy
 
-unschedule:
-	zappa unschedule prod
-
-update:
-	zappa update prod
+url:
+	npm run url --silent

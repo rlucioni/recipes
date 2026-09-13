@@ -1,0 +1,32 @@
+{
+  "name": "chefbot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "prettier": "prettier . --write",
+    "serve": "functions-framework --target=chefbot",
+    "embed": "node src/embed.js",
+    "deploy": "gcloud functions deploy chefbot --gen2 --runtime=nodejs24 --region=us-central1 --source=. --entry-point=chefbot --trigger-http --allow-unauthenticated --memory=512Mi --timeout=300s --env-vars-file=.env.yaml",
+    "url": "gcloud functions describe chefbot --region=us-central1 --format='value(serviceConfig.uri)'",
+    "logs": "gcloud functions logs read chefbot --region=us-central1 --limit=100",
+    "undeploy": "gcloud functions delete chefbot --region=us-central1"
+  },
+  "dependencies": {
+    "@google-cloud/functions-framework": "4.0.1",
+    "@google-cloud/tasks": "7.1.0",
+    "@google/genai": "2.22.0",
+    "@slack/web-api": "7.13.0",
+    "dotenv": "17.2.3"
+  },
+  "devDependencies": {
+    "@eslint/compat": "2.0.0",
+    "@eslint/js": "9.39.1",
+    "eslint": "9.39.1",
+    "eslint-config-prettier": "10.1.8",
+    "globals": "16.5.0",
+    "prettier": "3.7.4"
+  }
+}
