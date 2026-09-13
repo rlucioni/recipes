@@ -83,6 +83,8 @@ Print the function's URL and set your Slack app's Events API Request URL to `<fu
 $ make url
 ```
 
+The Slack app needs to subscribe to the `app_mention` bot event, plus `message.channels` (and `message.groups` for private channels) so that chefbot can respond to un-tagged follow-ups in threads it's already part of. The corresponding `channels:history` / `groups:history` scopes are also required to read threads.
+
 Tail recent logs:
 
 ```bash
@@ -91,4 +93,6 @@ $ make logs
 
 ## How it works
 
-Slack requires event deliveries to be acknowledged within 3 seconds, but generating a response can take much longer than that. When a mention arrives at `/slack/events`, the function verifies the request signature, posts a "thinking" placeholder in the thread, enqueues a Cloud Tasks task targeting its own `/think` endpoint, and acks. Cloud Tasks then invokes `/think`, which reads the thread, calls Gemini (using `search_recipes` to look up relevant recipes via embeddings), and posts the reply. When running locally, thinking happens in the background of the same process instead.
+chefbot responds when it's mentioned (`@chefbot ...`) and to any subsequent reply in a thread it has already responded in, so follow-ups don't need to re-tag it.
+
+Slack requires event deliveries to be acknowledged within 3 seconds, but generating a response can take much longer than that. When an event arrives at `/slack/events`, the function verifies the request signature, posts a "thinking" placeholder in the thread, enqueues a Cloud Tasks task targeting its own `/think` endpoint, and acks. Cloud Tasks then invokes `/think`, which reads the thread, calls Gemini (using `search_recipes` to look up relevant recipes via embeddings), and posts the reply. When running locally, thinking happens in the background of the same process instead.

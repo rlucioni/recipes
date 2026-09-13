@@ -277,26 +277,63 @@ function verifyTaskRequest(req) {
   return signaturesMatch(expected, req.get('x-chefbot-signature'));
 }
 
+// Threads
+
+// Messages in a thread will have a thread_ts identifying their parent message.
+// Parent messages (with 0 or more replies) don't have a thread_ts.
+function getParentTs(event) {
+  return event.thread_ts || event.ts;
+}
+
+async function getThread(event) {
+  const replies = await slack.conversations.replies({
+    channel: event.channel,
+    ts: getParentTs(event),
+    limit: 1000,
+  });
+
+  return replies.messages;
+}
+
+// chefbot always responds to mentions. It also responds to un-tagged replies in
+// threads it has already participated in, so follow-ups don't need to re-tag it.
+async function shouldRespond(event) {
+  if (event.type === 'app_mention') {
+    return true;
+  }
+
+  if (event.type !== 'message') {
+    return false;
+  }
+
+  // Only plain replies from humans. Skips edits, deletions, bot messages
+  // (including chefbot's own), and top-level channel messages.
+  if (event.subtype || event.bot_id || !event.thread_ts) {
+    return false;
+  }
+
+  // Mentions also arrive as app_mention events, which are handled above.
+  if (event.text?.includes(`<@${CHEFBOT_USER_ID}>`)) {
+    return false;
+  }
+
+  const thread = await getThread(event);
+
+  return thread.some((message) => message.user === CHEFBOT_USER_ID);
+}
+
 // Thinking
 
 async function think(event) {
   const e2eTimer = new Timer();
-  console.info(`handling app mention using ${CHAT_MODEL}`);
+  console.info(`handling ${event.type} using ${CHAT_MODEL}`);
 
   const contents = [];
   const channelId = event.channel;
 
-  // Messages in a thread will have a thread_ts identifying their parent message.
-  // Parent messages (with 0 or more replies) don't have a thread_ts.
-  const parentTs = event.thread_ts || event.ts;
+  const replies = await getThread(event);
 
-  const replies = await slack.conversations.replies({
-    channel: channelId,
-    ts: parentTs,
-    limit: 1000,
-  });
-
-  for (const reply of replies.messages) {
+  for (const reply of replies) {
     if (reply.text === THINKING_SENTINEL) {
       continue;
     }
@@ -367,7 +404,7 @@ async function think(event) {
   await slack.chat.postMessage({
     channel: channelId,
     text: contentAsMrkdwn,
-    thread_ts: event.ts,
+    thread_ts: getParentTs(event),
     unfurl_links: false,
     unfurl_media: false,
   });
@@ -392,7 +429,7 @@ async function thinkSafely(event) {
       await slack.chat.postMessage({
         channel: event.channel,
         text: `Sorry, something went wrong: ${error.message}`,
-        thread_ts: event.ts,
+        thread_ts: getParentTs(event),
       });
     } catch (slackError) {
       console.error('failed to post error to Slack:', slackError);
@@ -463,14 +500,18 @@ async function handleSlackEvents(req, res) {
   }
 
   const event = body.event;
-  if (body.type !== 'event_callback' || event?.type !== 'app_mention') {
+  if (body.type !== 'event_callback' || !event) {
+    return res.status(200).send();
+  }
+
+  if (!(await shouldRespond(event))) {
     return res.status(200).send();
   }
 
   await slack.chat.postMessage({
     channel: event.channel,
     text: THINKING_SENTINEL,
-    thread_ts: event.ts,
+    thread_ts: getParentTs(event),
   });
 
   await enqueueThink(req, event);
