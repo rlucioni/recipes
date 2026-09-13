@@ -1,9 +1,8 @@
 ---
-type: meal
+course: main
 prep_time: medium
 leftoverability: high
-specialty_ingredients:
-  - none
+specialty_ingredients: []
 ---
 # Cider Braised Pork
 

@@ -1,8 +1,7 @@
 ---
-type: baked_or_dessert
+course: breakfast
 prep_time: long
-specialty_ingredients:
-  - none
+specialty_ingredients: []
 ---
 # English Muffins
 

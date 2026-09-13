@@ -1,7 +1,6 @@
 ---
-type: meal
+course: side
 prep_time: long
-leftoverability: high
 specialty_ingredients:
   - other
 ---

@@ -1,9 +1,7 @@
 ---
-type: meal
+course: side
 prep_time: short
-leftoverability: high
-specialty_ingredients:
-  - none
+specialty_ingredients: []
 ---
 # Garlic Rice
 

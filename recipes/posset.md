@@ -1,8 +1,7 @@
 ---
-type: baked_or_dessert
+course: dessert
 prep_time: medium
-specialty_ingredients:
-  - none
+specialty_ingredients: []
 ---
 # Posset
 

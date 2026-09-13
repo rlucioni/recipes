@@ -1,9 +1,7 @@
 ---
-type: meal
+course: breakfast
 prep_time: short
-leftoverability: high
-specialty_ingredients:
-  - none
+specialty_ingredients: []
 ---
 # Chia Pudding
 

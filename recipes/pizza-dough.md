@@ -1,8 +1,7 @@
 ---
-type: component
+course: component
 prep_time: long
-specialty_ingredients:
-  - none
+specialty_ingredients: []
 ---
 # Pizza Dough
 

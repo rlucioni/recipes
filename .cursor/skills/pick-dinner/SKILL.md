@@ -14,64 +14,8 @@ add recipes to the collection unless asked.
 ## Setup
 
 1. Run the `update-catalog` skill, then read `catalog.tsv`.
-2. Keep rows where `type` is `meal`. Drop any `name` on the breakfast,
-   snack, or sides lists below.
-3. If a remaining meal is clearly breakfast, a snack, or a side and is
-   missing from those lists, skip it and add its filename stem to the
-   matching list in this file in the same turn.
-
-## Breakfast and snacks
-
-- breakfast-burritos
-- caramel-popcorn
-- chestnuts
-- chia-pudding
-- deviled-eggs
-- fried-eggs
-- hard-boiled-eggs
-- hash-browns
-- oatmeal
-- pan-con-tomate
-- pancakes
-- poached-eggs
-- popcorn
-- roasted-pumpkin-seeds
-- soft-boiled-eggs
-- squash-pancakes
-
-## Sides
-
-- asparagus-salad
-- baked-potato
-- braised-green-beans
-- braised-red-cabbage
-- brussels-sprouts
-- charred-street-corn
-- corn-tomato-and-avocado-salad
-- cumin-potatoes
-- fried-brussels-sprouts
-- garlic-bread
-- garlic-knots
-- garlic-mac-salad
-- garlic-naan
-- garlic-rice
-- mashed-potato-squash
-- mashed-potatoes
-- mustard-slaw
-- oven-fries
-- polenta
-- potato-salad
-- roasted-beets
-- roasted-garlic
-- roasted-potatoes
-- roasted-vegetable
-- sauteed-mushrooms
-- smashed-cucumber-salad
-- spaetzle
-- steamed-artichokes
-- sweet-potato-oven-fries
-- sweet-potato-rice
-- yuca-fries
+2. For the dinner shortlist, use only rows whose `course` is `main`.
+   Do not mix sides, breakfast, snacks, or other courses into that pool.
 
 ## Questions
 
@@ -97,7 +41,7 @@ preference), give every remaining recipe a weight. Start at `1` and
 | leftover-ingredient partial match | ×2 |
 | in-season produce or weather-appropriate | ×2 |
 | clearly off-season produce-forward | ×0.5 |
-| `specialty_ingredients` is not `none` and effort is `short` or `medium` (including weeknight / low or medium) | ×0.25 |
+| `specialty_ingredients` is non-empty and effort is `short` or `medium` (including weeknight / low or medium) | ×0.25 |
 
 Do not drop a recipe only because it is off-season or needs a specialty
 trip, unless the user asked to avoid a special trip. Floor any weight
@@ -143,31 +87,36 @@ leftovers, ingredient, and/or season).
 After each batch, use AskQuestion when available: the three options
 plus **None of these**. Do not repeat a recipe already shown.
 
-- If they pick a recipe, stop paging. Then ask if they want side
-  suggestions. Follow **Side suggestions** only if they say yes.
+- If they pick a recipe, stop paging. Then ask if they want to pick a
+  side. Follow **Pick a side** only if they say yes.
 - If they pick None of these, show the next 3 from the sampled list.
 - If the list runs out, say so. If fewer than 3 remain in a batch,
   show whatever is left plus None of these.
 
-## Side suggestions
+## Pick a side
 
-Only after the user asks for sides. Suggest **1–3** from the sides list.
+Only after a main is chosen and the user wants a side. Build a new
+pool from catalog rows whose `course` is `side`.
 
-Apply the same hard filters as dinner. Then **filter** by season: keep
+Apply the same effort filter and specialty downweight as dinner. Do not
+filter sides on leftoverability. Then **filter** by season: keep
 year-round sides; drop sides built around clearly off-season produce.
 Skip sides that repeat the main (another potato dish with a
 potato-forward dinner, rice with fried rice, bread with a sandwich).
 
-Weight the rest from `1` with the dinner multipliers, then also:
+Weight the rest from `1` with the dinner multipliers (except leftovers),
+then also:
 
 | Factor | Multiplier |
 | complements well (contrast: greens/slaw with a starch-heavy main; starch with soup, stew, or chili) | ×4 |
 | plausible pairing | ×1 |
 | poor pairing | skip |
 
-Open the chosen recipe and candidate sides when needed to judge the
-pairing. Sample with the same sampler; take the first 1–3. For each,
-give the filename stem and one sentence on why it fits.
+Open the chosen main and candidate sides when needed to judge the
+pairing. Sample with the same sampler. Walk that list in batches of
+**3** with **None of these**, same as dinner. Do not repeat a side
+already shown. If they pick one, stop. If they pick None of these,
+continue until the list runs out.
 
 ## Slim pickings
 

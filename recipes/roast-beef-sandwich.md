@@ -1,9 +1,8 @@
 ---
-type: meal
+course: main
 prep_time: long
 leftoverability: high_with_prep
-specialty_ingredients:
-  - none
+specialty_ingredients: []
 ---
 # Roast Beef Sandwich
 

@@ -1,8 +1,7 @@
 ---
-type: component
+course: component
 prep_time: medium
-specialty_ingredients:
-  - none
+specialty_ingredients: []
 ---
 # Chimichurri Sauce
 

@@ -1,9 +1,8 @@
 ---
-type: meal
+course: main
 prep_time: long
 leftoverability: medium
-specialty_ingredients:
-  - none
+specialty_ingredients: []
 ---
 # Tomato Tart
 

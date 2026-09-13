@@ -1,8 +1,7 @@
 ---
-type: drink
+course: drink
 prep_time: long
-specialty_ingredients:
-  - none
+specialty_ingredients: []
 ---
 # Horchata
 

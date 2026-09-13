@@ -1,5 +1,5 @@
 ---
-type: drink
+course: drink
 prep_time: medium
 specialty_ingredients:
   - other

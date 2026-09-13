@@ -1,9 +1,7 @@
 ---
-type: meal
+course: snack
 prep_time: short
-leftoverability: low
-specialty_ingredients:
-  - none
+specialty_ingredients: []
 ---
 # Popcorn
 

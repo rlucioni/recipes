@@ -1,9 +1,8 @@
 ---
-type: meal
+course: main
 prep_time: medium
 leftoverability: high_with_prep
-specialty_ingredients:
-  - none
+specialty_ingredients: []
 ---
 # Sheet-pan Brats
 

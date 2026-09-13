@@ -1,8 +1,7 @@
 ---
-type: component
+course: component
 prep_time: short
-specialty_ingredients:
-  - none
+specialty_ingredients: []
 ---
 # Blanched almonds
 

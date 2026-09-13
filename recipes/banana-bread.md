@@ -1,8 +1,7 @@
 ---
-type: baked_or_dessert
+course: bread
 prep_time: medium
-specialty_ingredients:
-  - none
+specialty_ingredients: []
 ---
 # Banana Bread
 

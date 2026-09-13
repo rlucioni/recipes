@@ -1,5 +1,5 @@
 ---
-type: baked_or_dessert
+course: dessert
 prep_time: long
 specialty_ingredients:
   - other

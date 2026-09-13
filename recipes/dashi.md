@@ -1,5 +1,5 @@
 ---
-type: component
+course: component
 prep_time: long
 specialty_ingredients:
   - other

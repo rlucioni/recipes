@@ -1,7 +1,6 @@
 ---
-type: meal
+course: breakfast
 prep_time: medium
-leftoverability: medium
 specialty_ingredients:
   - other
 ---

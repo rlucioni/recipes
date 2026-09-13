@@ -1,9 +1,7 @@
 ---
-type: meal
+course: side
 prep_time: medium
-leftoverability: medium
-specialty_ingredients:
-  - none
+specialty_ingredients: []
 ---
 # Roasted Potatoes
 

@@ -1,9 +1,8 @@
 ---
-type: meal
+course: main
 prep_time: long
 leftoverability: high
-specialty_ingredients:
-  - none
+specialty_ingredients: []
 ---
 # Soltero
 

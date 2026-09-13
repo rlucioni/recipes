@@ -1,9 +1,7 @@
 ---
-type: meal
+course: snack
 prep_time: long
-leftoverability: high
-specialty_ingredients:
-  - none
+specialty_ingredients: []
 ---
 # Caramel Popcorn
 

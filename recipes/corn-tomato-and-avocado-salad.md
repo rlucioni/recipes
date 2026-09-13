@@ -1,9 +1,7 @@
 ---
-type: meal
+course: side
 prep_time: short
-leftoverability: low
-specialty_ingredients:
-  - none
+specialty_ingredients: []
 ---
 # Corn, Tomato, and Avocado Salad
 

@@ -1,9 +1,7 @@
 ---
-type: meal
+course: snack
 prep_time: medium
-leftoverability: high
-specialty_ingredients:
-  - none
+specialty_ingredients: []
 ---
 # Chestnuts
 

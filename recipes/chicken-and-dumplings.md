@@ -1,9 +1,8 @@
 ---
-type: meal
+course: main
 prep_time: medium
 leftoverability: medium
-specialty_ingredients:
-  - none
+specialty_ingredients: []
 ---
 # Chicken and Dumplings
 

@@ -1,8 +1,7 @@
 ---
-type: baked_or_dessert
+course: bread
 prep_time: long
-specialty_ingredients:
-  - none
+specialty_ingredients: []
 ---
 # White Bread with Poolish
 

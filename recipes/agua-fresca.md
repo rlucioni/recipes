@@ -1,8 +1,7 @@
 ---
-type: drink
+course: drink
 prep_time: short
-specialty_ingredients:
-  - none
+specialty_ingredients: []
 ---
 # Agua Fresca
 

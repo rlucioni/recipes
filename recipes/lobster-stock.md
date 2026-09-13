@@ -1,5 +1,5 @@
 ---
-type: component
+course: component
 prep_time: medium
 specialty_ingredients:
   - seafood

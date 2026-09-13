@@ -20,7 +20,7 @@ set -euo pipefail
 
 tmp="$(mktemp "${TMPDIR:-/tmp}/catalog.XXXXXX")"
 trap 'rm -f "$tmp" "${tmp}.sorted"' EXIT
-printf 'name\ttype\tprep_time\tleftoverability\tspecialty_ingredients\n' > "$tmp"
+printf 'name\tcourse\tprep_time\tleftoverability\tspecialty_ingredients\n' > "$tmp"
 
 for file in recipes/*.md; do
   stem="$(basename "$file" .md)"
@@ -37,7 +37,7 @@ for file in recipes/*.md; do
       return 0
     }
     function add_specialty(value) {
-      if (!allowed(value, "none seafood meat other")) {
+      if (!allowed(value, "seafood meat other")) {
         fail("invalid specialty_ingredients value: " value)
       }
       specialty[++specialty_count] = value
@@ -65,35 +65,27 @@ for file in recipes/*.md; do
     }
     in_frontmatter && $0 == "---" {
       closed = 1
-      if (!allowed(type, "meal baked_or_dessert drink component")) {
-        fail("missing or invalid type")
+      if (!allowed(course, "breakfast main side snack component bread dessert drink")) {
+        fail("missing or invalid course")
       }
       if (!allowed(prep_time, "short medium long")) {
         fail("missing or invalid prep_time")
       }
-      if (type == "meal" && !allowed(leftoverability, "low medium medium_with_prep high high_with_prep")) {
-        fail("meal requires valid leftoverability")
+      if (course == "main" && !allowed(leftoverability, "low medium medium_with_prep high high_with_prep")) {
+        fail("main requires valid leftoverability")
       }
-      if (type != "meal" && leftoverability_seen) {
-        fail("leftoverability must be omitted for non-meals")
+      if (course != "main" && leftoverability_seen) {
+        fail("leftoverability must be omitted for non-mains")
       }
-      if (specialty_count == 0) fail("specialty_ingredients must not be empty")
-      if (specialty_count > 1) {
-        for (i = 1; i <= specialty_count; i++) {
-          if (specialty[i] == "none") {
-            fail("none cannot be combined with another specialty_ingredients value")
-          }
-        }
-      }
-      printf "%s\t%s\t%s\t%s\t%s\n", recipe_name, type, prep_time, leftoverability, sorted_specialties()
+      printf "%s\t%s\t%s\t%s\t%s\n", recipe_name, course, prep_time, leftoverability, sorted_specialties()
       exit
     }
     in_frontmatter {
       if ($0 ~ /^name:[[:space:]]*/) {
         fail("name must be omitted; catalog name comes from the filename")
-      } else if ($0 ~ /^type:[[:space:]]*/) {
-        type = $0
-        sub(/^type:[[:space:]]*/, "", type)
+      } else if ($0 ~ /^course:[[:space:]]*/) {
+        course = $0
+        sub(/^course:[[:space:]]*/, "", course)
       } else if ($0 ~ /^prep_time:[[:space:]]*/) {
         prep_time = $0
         sub(/^prep_time:[[:space:]]*/, "", prep_time)
@@ -101,6 +93,8 @@ for file in recipes/*.md; do
         leftoverability_seen = 1
         leftoverability = $0
         sub(/^leftoverability:[[:space:]]*/, "", leftoverability)
+      } else if ($0 ~ /^specialty_ingredients:[[:space:]]*\[\][[:space:]]*$/) {
+        reading_specialties = 0
       } else if ($0 ~ /^specialty_ingredients:[[:space:]]*$/) {
         reading_specialties = 1
       } else if (reading_specialties && $0 ~ /^[[:space:]]*-[[:space:]]+/) {
@@ -119,7 +113,7 @@ for file in recipes/*.md; do
 done
 
 {
-  printf 'name\ttype\tprep_time\tleftoverability\tspecialty_ingredients\n'
+  printf 'name\tcourse\tprep_time\tleftoverability\tspecialty_ingredients\n'
   sed '1d' "$tmp" | LC_ALL=C sort -t '	' -k1,1
 } > "${tmp}.sorted"
 mv "${tmp}.sorted" catalog.tsv

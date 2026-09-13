@@ -1,9 +1,8 @@
 ---
-type: meal
+course: main
 prep_time: short
 leftoverability: low
-specialty_ingredients:
-  - none
+specialty_ingredients: []
 ---
 # Pasta Carbonara
 

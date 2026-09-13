@@ -1,9 +1,8 @@
 ---
-type: meal
+course: main
 prep_time: short
 leftoverability: high
-specialty_ingredients:
-  - none
+specialty_ingredients: []
 ---
 # Orecchiette with Sausage and Broccoli Rabe
 

@@ -14,11 +14,11 @@ Markdown recipe collection (adapted from books, shows, the internet). Prefer edi
 
 - Filename: kebab-case, matching the title (`posset.md`, `mapo-tofu.md`).
 - Shape: YAML frontmatter, `# Title`, optional attribution/yield line, `## Ingredients`, `## Instructions`. No equipment lists. Prefer grams for dry goods when nearby recipes already do.
-- Every live recipe begins with frontmatter using this shape. `leftoverability` is present only for meals; `specialty_ingredients` is a YAML list.
+- Every live recipe begins with frontmatter using this shape. `leftoverability` is present only for mains; `specialty_ingredients` is a YAML list and may be empty.
 
 ```yaml
 ---
-type: meal
+course: main
 prep_time: short
 leftoverability: high
 specialty_ingredients:
@@ -28,11 +28,15 @@ specialty_ingredients:
 
 ## Frontmatter schema
 
-- `type`: one of `meal`, `baked_or_dessert`, `drink`, `component`.
-  - `meal`: a full meal or distinct savory dish, including soups and salads. Do not use `meal` for fruit compotes, dessert toppings, or other accompaniments meant to go on something else.
-  - `baked_or_dessert`: breads, pastries, desserts, granola, and similar.
+- `course`: one of `breakfast`, `main`, `side`, `snack`, `component`, `bread`, `dessert`, `drink`.
+  - `breakfast`: morning food such as oatmeal, pancakes, eggs, muffins, granola, and coffee cake.
+  - `main`: a full meal or distinct savory dish meant as the center of the plate, including soups and dinner salads.
+  - `side`: an accompaniment to a main, including vegetable sides, slaws, savory starches, and dips or spreads you would eat with bread or vegetables (hummus, baba ghanoush, tapenade).
+  - `snack`: nibble food only, such as popcorn, pumpkin seeds, and chestnuts. Not eggs, treats, or anything you would plate with a meal.
+  - `component`: only things you would never eat straight up. Examples include alkaline noodles, pasta dough, pie crust, dashi, stocks, chili oil, other sauces, lemon curd, syrups, and dry rubs. Dips and spreads are `side`, not `component`.
+  - `bread`: baked goods eaten as part of a meal, including loaves, rolls, pita, focaccia, banana bread, and cornbread. Something you could have at breakfast or with dinner counts; ice cream does not.
+  - `dessert`: strictly sweet things for after the meal, including cakes, pies, cookies, puddings, and ice cream.
   - `drink`: any beverage, including coffee and tea.
-  - `component`: intended for another recipe or served as a topping or accompaniment, not eaten alone. Examples include pie crust, dashi, savory sauces, purees, fruit compotes, berry sauce, lemon curd, and syrups.
 - `prep_time`: one of `short`, `medium`, `long`. Judge total practical effort: elapsed time, separate components, and cleanup.
   - Follow links to component recipes. Include a component's prep when it would be made as part of this recipe; making soft-boiled eggs counts.
   - Exclude components normally made in a large batch and stored; using prepared chili oil does not add its production time.
@@ -40,15 +44,15 @@ specialty_ingredients:
   - `medium`: reasonable on a weeknight, without very long simmer/proof times or many separately prepared pieces. `caldo-verde` is `medium`.
   - `long`: not realistic on a weeknight; includes overnight proofing, many steps/components, and all deep frying. `shoyu-ramen` is `long`.
   - If unsure between adjacent values, choose the longer one.
-- `leftoverability` (meals only): one of `low`, `medium`, `medium_with_prep`, `high`, `high_with_prep`. Omit for every other `type`.
- - `low`: leftovers are not worth eating; eat the day it is made (`baked-potato`, `grilled-cheese`, `somen`).
+- `leftoverability` (mains only): one of `low`, `medium`, `medium_with_prep`, `high`, `high_with_prep`. Omit for every other `course`.
+  - `low`: leftovers are not worth eating; eat the day it is made (`grilled-cheese`, `somen`).
   - `medium`: still a reasonable next-day meal, but quality drops a bit after the day it is made because it becomes somewhat soggy, loses crispness, or spoils quickly (`cold-noodle-salad`, `crab-cakes`, `poke`). Also include dishes that keep well but are hard to scale (`chicken-pot-pie`).
   - `high`: keeps well for multiple days up to a week and may even improve with age. Can be easily made in large batches. Examples include chicken salad and most stews.
-  - Use `_with_prep` only when cooked/prepared components keep well, save significant time, and still 
-  require quick day-of assembly. `shoyu-ramen` qualifies. Do not use the suffix when leftovers can be 
-  eaten directly from the refrigerator or only need microwaving.
-- `specialty_ingredients`: a YAML list containing every applicable value from `none`, `seafood`, `meat`, `other`.
-  - `none`: no special trip beyond my pantry and local grocery store.
+  - Use `_with_prep` only when cooked/prepared components keep well, save significant time, and still
+    require quick day-of assembly. `shoyu-ramen` qualifies. Do not use the suffix when leftovers can be
+    eaten directly from the refrigerator or only need microwaving.
+- `specialty_ingredients`: a YAML list of every applicable value from `seafood`, `meat`, `other`. Use `[]` when nothing applies.
+  - An empty list means no special trip beyond my pantry and local grocery store.
   - Always treat fresh produce as locally available.
   - `seafood`: fresh seafood other than shrimp or non-sushi-grade salmon.
   - `meat`: products or cuts unavailable at an average high-end American grocery store, including pig trotters, ribs cut in half lengthwise, and duck. Most beef, pork, chicken, and sausage products are locally available.

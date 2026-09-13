@@ -1,5 +1,5 @@
 ---
-type: meal
+course: main
 prep_time: long
 leftoverability: low
 specialty_ingredients:

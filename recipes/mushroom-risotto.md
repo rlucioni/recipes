@@ -1,9 +1,8 @@
 ---
-type: meal
+course: main
 prep_time: medium
 leftoverability: low
-specialty_ingredients:
-  - none
+specialty_ingredients: []
 ---
 # Mushroom Risotto
 
