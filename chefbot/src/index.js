@@ -25,6 +25,20 @@ filename: {{FILENAME}}
 ---
 `;
 
+// Adds the recipe's filename to its YAML frontmatter so the model can link to
+// it. Recipes already have frontmatter (course, prep_time, etc.), in which
+// case the filename is merged into the existing block rather than creating a
+// second one.
+function withFilename(filename, content) {
+  if (content.startsWith('---\n')) {
+    return content.replace('---\n', `---\nfilename: ${filename}\n`);
+  }
+
+  const frontmatter = FRONTMATTER_TEMPLATE.replace('{{FILENAME}}', filename);
+
+  return `${frontmatter}\n${content}`;
+}
+
 const CHEFBOT_USER_ID = 'U08E33CEFKK';
 const THINKING_SENTINEL = `<@${CHEFBOT_USER_ID}> is thinking...`;
 
@@ -115,15 +129,11 @@ async function searchRecipes(query) {
 
   recipes.sort((a, b) => a.distance - b.distance);
 
-  const docs = recipes.slice(0, SEARCH_RESULT_COUNT).map((recipe) => {
-    const frontmatter = FRONTMATTER_TEMPLATE.replace(
-      '{{FILENAME}}',
-      recipe.filename,
+  const docs = recipes
+    .slice(0, SEARCH_RESULT_COUNT)
+    .map((recipe) =>
+      withFilename(recipe.filename, embeddings[recipe.filename].content),
     );
-    const content = embeddings[recipe.filename].content;
-
-    return `${frontmatter}\n${content}`;
-  });
 
   return docs.join('\n\n');
 }
