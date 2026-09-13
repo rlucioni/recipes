@@ -1,0 +1,22 @@
+# This file specifies files that are *not* uploaded to Google Cloud
+# using gcloud. It follows the same syntax as .gitignore, with the addition of
+# "#!include" directives (which insert the entries of the given .gitignore-style
+# file at that point).
+#
+# For more information, run:
+#   $ gcloud topic gcloudignore
+#
+# Note that .gitignore is deliberately not included here: embeddings.json is
+# gitignored but must be uploaded with the function.
+.gcloudignore
+.git
+.gitignore
+.DS_Store
+.env
+.env.yaml
+.nvmrc
+eslint.config.js
+prettier.config.js
+Makefile
+README.md
+node_modules

@@ -1,4 +1,5 @@
-__pycache__/
-.env.private
-.python-version
+.DS_Store
+.env
+.env.yaml
 embeddings.json
+node_modules/
