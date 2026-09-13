@@ -4,6 +4,7 @@ agua-fresca	drink	short
 alkaline-noodles	component	medium		
 almond-blueberry-upside-down-cake	dessert	medium		
 almond-cake	dessert	medium		
+almond-horns	dessert	long		
 anise-drops	dessert	long		
 apple-cake	dessert	medium		
 apple-crisp	dessert	medium		
@@ -50,7 +51,7 @@ bulgogi	main	long	high	other
 burrito-bowl	main	medium	high	
 butternut-squash-soup	main	long	high	
 caesar-salad	main	short	low	
-caldo-verde	main	medium	high	other
+caldo-verde	main	medium	high	
 calzones	main	long	medium	
 candied-walnuts	snack	short		
 canele	dessert	long		other
@@ -323,6 +324,7 @@ spring-rolls	main	medium	low	other
 squash-pancakes	breakfast	medium		other
 squeaky-dogs	main	short	high	other
 steamed-artichokes	side	short		
+steel-cut-oats	breakfast	short		
 stelline-soup	main	medium	medium	
 stir-fry-noodles	main	short	medium	other
 strawberry-compote	component	short		

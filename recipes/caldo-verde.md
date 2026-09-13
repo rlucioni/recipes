@@ -2,8 +2,7 @@
 course: main
 prep_time: medium
 leftoverability: high
-specialty_ingredients:
-  - other
+specialty_ingredients: []
 ---
 # Caldo Verde
 

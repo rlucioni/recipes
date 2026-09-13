@@ -1,3 +1,8 @@
+---
+course: dessert
+prep_time: long
+specialty_ingredients: []
+---
 # Almond Horns
 
 Mandelhörnchen in German.
