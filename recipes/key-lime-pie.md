@@ -1,3 +1,8 @@
+---
+course: dessert
+prep_time: medium
+specialty_ingredients: []
+---
 # Key Lime Pie
 
 Adapted from [Allrecipes' Key Lime Pie VII](http://allrecipes.com/recipe/15880/key-lime-pie-vii/).

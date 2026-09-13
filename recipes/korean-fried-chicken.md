@@ -1,3 +1,9 @@
+---
+course: main
+prep_time: long
+leftoverability: medium
+specialty_ingredients: []
+---
 # Korean Fried Chicken
 
 Adapted from [Chef John's Korean fried chicken](http://foodwishes.blogspot.com/2014/07/korean-fried-chicken.html)

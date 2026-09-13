@@ -1,3 +1,8 @@
+---
+course: side
+prep_time: short
+specialty_ingredients: []
+---
 # Sauteed Mushrooms
 
 Same technique can be used for many different kinds of mushrooms (e.g., chanterelles, morels, etc.)

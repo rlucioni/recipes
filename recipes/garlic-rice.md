@@ -1,3 +1,8 @@
+---
+course: side
+prep_time: short
+specialty_ingredients: []
+---
 # Garlic Rice
 
 ## Ingredients

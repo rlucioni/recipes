@@ -1,3 +1,8 @@
+---
+course: side
+prep_time: medium
+specialty_ingredients: []
+---
 # Sweet Potato Oven Fries
 
 ## Ingredients

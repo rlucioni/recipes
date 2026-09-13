@@ -1,3 +1,8 @@
+---
+course: breakfast
+prep_time: medium
+specialty_ingredients: []
+---
 # Breakfast Burritos
 
 Makes 2. Chorizo can be substituted with breakfast sausage or bacon.

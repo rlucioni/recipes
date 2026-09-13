@@ -1,3 +1,8 @@
+---
+course: snack
+prep_time: medium
+specialty_ingredients: []
+---
 # Chestnuts
 
 ## Ingredients

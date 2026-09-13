@@ -1,3 +1,9 @@
+---
+course: main
+prep_time: medium
+leftoverability: high
+specialty_ingredients: []
+---
 # French Onion Soup
 
 Serves 4.

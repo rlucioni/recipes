@@ -1,3 +1,8 @@
+---
+course: dessert
+prep_time: long
+specialty_ingredients: []
+---
 # Pecan Pie
 
 Next time: try tossing toasted nuts in filling before adding to pie shell?

@@ -1,3 +1,8 @@
+---
+course: dessert
+prep_time: medium
+specialty_ingredients: []
+---
 # Financiers
 
 Yields 12-14 financiers (Gobel 15" x 7" 6-compartment tins)

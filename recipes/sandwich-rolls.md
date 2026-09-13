@@ -1,3 +1,8 @@
+---
+course: bread
+prep_time: long
+specialty_ingredients: []
+---
 # Sandwich Rolls
 
 Adapted from [Chef John's sandwich rolls](http://foodwishes.blogspot.com/2016/01/sandwich-rolls-because-size-and-shape.html). Makes three rolls.

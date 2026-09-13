@@ -1,3 +1,8 @@
+---
+course: drink
+prep_time: short
+specialty_ingredients: []
+---
 # Mango Lassi
 
 ## Ingredients

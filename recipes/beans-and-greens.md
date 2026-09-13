@@ -1,3 +1,9 @@
+---
+course: main
+prep_time: short
+leftoverability: high
+specialty_ingredients: []
+---
 # Beans and Greens
 
 ## Ingredients

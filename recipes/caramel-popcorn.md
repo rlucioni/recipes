@@ -1,3 +1,8 @@
+---
+course: snack
+prep_time: long
+specialty_ingredients: []
+---
 # Caramel Popcorn
 
 ## Ingredients

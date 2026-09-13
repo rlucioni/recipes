@@ -1,3 +1,9 @@
+---
+course: main
+prep_time: long
+leftoverability: medium
+specialty_ingredients: []
+---
 # General Tso's Chicken
 
 Adapted from [Serious Eats' General Tso's Chicken](http://www.seriouseats.com/recipes/2014/04/the-best-general-tsos-chicken-food-lab-chinese-recipe.html).

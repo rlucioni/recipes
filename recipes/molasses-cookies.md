@@ -1,3 +1,8 @@
+---
+course: dessert
+prep_time: medium
+specialty_ingredients: []
+---
 # Molasses Cookies
 
 ## Ingredients

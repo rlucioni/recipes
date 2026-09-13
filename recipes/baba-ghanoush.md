@@ -1,3 +1,8 @@
+---
+course: side
+prep_time: short
+specialty_ingredients: []
+---
 # Baba Ghanoush
 
 Adapted from [Minimalist Baker's baba ghanoush](http://minimalistbaker.com/simple-baba-ganoush/).

@@ -1,3 +1,9 @@
+---
+course: side
+prep_time: medium
+specialty_ingredients:
+  - other
+---
 # Garlic Knots
 
 Makes 8.

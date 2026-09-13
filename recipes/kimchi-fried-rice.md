@@ -1,3 +1,10 @@
+---
+course: main
+prep_time: short
+leftoverability: high
+specialty_ingredients:
+  - other
+---
 # Kimchi Fried Rice
 
 ## Ingredients

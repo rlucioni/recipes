@@ -1,3 +1,10 @@
+---
+course: main
+prep_time: medium
+leftoverability: medium
+specialty_ingredients:
+  - other
+---
 # Thai Basil Pesto Noodles
 
 Serves 6.

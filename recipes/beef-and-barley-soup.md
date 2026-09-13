@@ -1,3 +1,9 @@
+---
+course: main
+prep_time: medium
+leftoverability: high
+specialty_ingredients: []
+---
 # Beef and Barley Soup
 
 Serves 8.

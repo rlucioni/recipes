@@ -1,3 +1,8 @@
+---
+course: dessert
+prep_time: medium
+specialty_ingredients: []
+---
 # Pizzelles
 
 Makes about 16 cookies (not very many). Usually will want to double.

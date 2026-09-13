@@ -1,3 +1,8 @@
+---
+course: dessert
+prep_time: long
+specialty_ingredients: []
+---
 # Florentines
 
 Yields 24 cookies

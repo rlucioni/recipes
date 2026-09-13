@@ -1,3 +1,8 @@
+---
+course: dessert
+prep_time: medium
+specialty_ingredients: []
+---
 # Oatmeal Raisin Cookies
 
 Makes about 20 cookies

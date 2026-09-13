@@ -1,3 +1,9 @@
+---
+course: breakfast
+prep_time: medium
+specialty_ingredients:
+  - other
+---
 # Squash Pancakes
 
 ## Ingredients

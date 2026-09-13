@@ -1,3 +1,8 @@
+---
+course: component
+prep_time: short
+specialty_ingredients: []
+---
 # Simple Syrup
 
 ## Ingredients

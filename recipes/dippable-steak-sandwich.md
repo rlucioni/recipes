@@ -1,3 +1,9 @@
+---
+course: main
+prep_time: short
+leftoverability: medium
+specialty_ingredients: []
+---
 # Dippable Steak Sandwich
 
 Adapted from [Chef John's beef on weck](http://foodwishes.blogspot.com/2014/10/beef-on-weck-part-2-meat-within.html). Serves 2.

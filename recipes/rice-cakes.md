@@ -1,3 +1,10 @@
+---
+course: main
+prep_time: medium
+leftoverability: medium
+specialty_ingredients:
+  - other
+---
 # Rice Cakes (Nian gao)
 
 ## Ingredients

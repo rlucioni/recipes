@@ -1,3 +1,8 @@
+---
+course: breakfast
+prep_time: short
+specialty_ingredients: []
+---
 # Soft-boiled Eggs
 
 ## Ingredients

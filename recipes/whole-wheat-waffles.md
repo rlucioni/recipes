@@ -1,3 +1,8 @@
+---
+course: breakfast
+prep_time: short
+specialty_ingredients: []
+---
 # Whole Wheat Waffles
 
 Yields 4 waffles

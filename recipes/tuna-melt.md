@@ -1,3 +1,9 @@
+---
+course: main
+prep_time: short
+leftoverability: low
+specialty_ingredients: []
+---
 # Tuna Melt
 
 Adapted from Chef John's [tuna melt](http://foodwishes.blogspot.com/2013/01/the-tuna-melt-open-face-insert-hypocrisy.html). Serves 2.

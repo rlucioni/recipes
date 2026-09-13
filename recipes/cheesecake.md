@@ -1,3 +1,8 @@
+---
+course: dessert
+prep_time: long
+specialty_ingredients: []
+---
 # Cheesecake
 
 Adapted from [Chef John's cheesecake](http://foodwishes.blogspot.com/2010/10/new-york-style-sunshine-cheesecake.html). Makes one small glass tupperware in addition to 4 ramekins.

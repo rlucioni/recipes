@@ -1,3 +1,9 @@
+---
+course: dessert
+prep_time: long
+specialty_ingredients:
+  - other
+---
 # Strawberry Ice Cream
 
 Yields 1 1/2 quarts.

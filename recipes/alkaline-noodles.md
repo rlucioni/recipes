@@ -1,3 +1,8 @@
+---
+course: component
+prep_time: medium
+specialty_ingredients: []
+---
 # Alkaline Noodles
 
 Adapted from [Chinese Cooking Demystified's Sichuan-style alkaline noodles](https://www.reddit.com/r/Cooking/comments/ercib1/recipe_how_to_make_sichuan_burning_noodles_plus/). Serves 4.

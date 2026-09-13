@@ -1,3 +1,8 @@
+---
+course: dessert
+prep_time: short
+specialty_ingredients: []
+---
 # Fig Brulee
 
 Adapted from [Chef John's fig brulee](http://foodwishes.blogspot.com/2011/09/fig-brulee-with-burrata-cheese-lets.html).

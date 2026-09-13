@@ -1,3 +1,8 @@
+---
+course: component
+prep_time: medium
+specialty_ingredients: []
+---
 # Strawberry Syrup
 
 Adapted from [Chef John's strawberry syrup](http://foodwishes.blogspot.com/2012/06/cold-strawberry-soda-on-hot-summer-day.html).

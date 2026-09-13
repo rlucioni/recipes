@@ -1,3 +1,9 @@
+---
+course: main
+prep_time: medium
+leftoverability: high
+specialty_ingredients: []
+---
 # Leek and Potato Soup
 
 ## Ingredients

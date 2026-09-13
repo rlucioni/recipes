@@ -1,3 +1,9 @@
+---
+course: main
+prep_time: medium
+leftoverability: medium
+specialty_ingredients: []
+---
 # Quinoa, Eggs, and Steak
 
 Serves 2

@@ -1,3 +1,11 @@
+---
+course: main
+prep_time: medium
+leftoverability: high
+specialty_ingredients:
+  - meat
+  - other
+---
 # Red Cooked Ribs
 
 ## Ingredients

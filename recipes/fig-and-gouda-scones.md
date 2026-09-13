@@ -1,3 +1,8 @@
+---
+course: breakfast
+prep_time: medium
+specialty_ingredients: []
+---
 # Fig and Gouda Scones
 
 Inspired by the fig and gouda scones at Gemma in Dallas.

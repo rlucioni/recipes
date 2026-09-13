@@ -1,3 +1,10 @@
+---
+course: main
+prep_time: short
+leftoverability: high
+specialty_ingredients:
+  - other
+---
 # Squeaky Dogs (Frankfurters)
 
 ## Ingredients

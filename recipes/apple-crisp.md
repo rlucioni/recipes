@@ -1,3 +1,8 @@
+---
+course: dessert
+prep_time: medium
+specialty_ingredients: []
+---
 # Apple Crisp
 
 Adapted from [Chef John's apple crisp](http://foodwishes.blogspot.com/2012/02/crispiest-apple-crisp-ever-ever.html)

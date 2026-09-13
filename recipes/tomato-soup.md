@@ -1,3 +1,9 @@
+---
+course: main
+prep_time: medium
+leftoverability: high
+specialty_ingredients: []
+---
 # Tomato Soup
 
 Serves 4. Will probably want to double.

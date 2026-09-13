@@ -1,3 +1,8 @@
+---
+course: breakfast
+prep_time: long
+specialty_ingredients: []
+---
 # English Muffins
 
 ## Ingredients

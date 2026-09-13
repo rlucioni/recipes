@@ -1,3 +1,11 @@
+---
+course: main
+prep_time: long
+leftoverability: low
+specialty_ingredients:
+  - meat
+  - other
+---
 # Biang Biang Noodles
 
 Serves 2.

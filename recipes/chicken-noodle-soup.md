@@ -1,3 +1,9 @@
+---
+course: main
+prep_time: medium
+leftoverability: medium
+specialty_ingredients: []
+---
 # Chicken Noodle Soup
 
 ## Ingredients

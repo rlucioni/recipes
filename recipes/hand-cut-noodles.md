@@ -1,3 +1,8 @@
+---
+course: component
+prep_time: medium
+specialty_ingredients: []
+---
 # Hand-cut noodles
 
 ## Ingredients

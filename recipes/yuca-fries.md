@@ -1,3 +1,9 @@
+---
+course: side
+prep_time: long
+specialty_ingredients:
+  - other
+---
 # Yuca Fries
 
 ## Ingredients

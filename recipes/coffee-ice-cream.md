@@ -1,3 +1,8 @@
+---
+course: dessert
+prep_time: long
+specialty_ingredients: []
+---
 # Coffee Ice Cream
 
 Yields 1 1/2 quarts.

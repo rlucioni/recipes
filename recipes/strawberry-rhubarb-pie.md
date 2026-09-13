@@ -1,3 +1,8 @@
+---
+course: dessert
+prep_time: long
+specialty_ingredients: []
+---
 # Strawberry Rhubarb Pie
 
 For a 10" pie

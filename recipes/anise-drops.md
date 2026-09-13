@@ -1,3 +1,8 @@
+---
+course: dessert
+prep_time: long
+specialty_ingredients: []
+---
 # Anise Drops
 
 Makes about 64 slightly-larger-than-a-quarter-sized cookies (2 half sheets).

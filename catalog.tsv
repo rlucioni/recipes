@@ -1,0 +1,382 @@
+name	course	prep_time	leftoverability	specialty_ingredients
+acquacotta	main	medium	high	
+agua-fresca	drink	short		
+alkaline-noodles	component	medium		
+almond-blueberry-upside-down-cake	dessert	medium		
+almond-cake	dessert	medium		
+anise-drops	dessert	long		
+apple-cake	dessert	medium		
+apple-crisp	dessert	medium		
+apple-gastrique	component	short		
+apple-pie	dessert	long		
+apple-turnovers	dessert	medium		
+apricot-compote	component	short		
+asian-burritos	main	long	high_with_prep	meat|other
+asparagus-salad	side	short		
+baba-ghanoush	side	short		
+baked-alaska	dessert	long		
+baked-potato	side	medium		
+banana-bread	bread	medium		
+banana-nut-muffins	breakfast	medium		
+banh-mi	main	medium	high_with_prep	other
+basque-cheesecake	dessert	medium		
+beans-and-greens	main	short	high	
+beef-and-barley-soup	main	medium	high	
+berry-crumble	dessert	medium		
+berry-sauce	component	short		
+biang-biang-noodles	main	long	low	meat|other
+bibimbap	main	long	high_with_prep	other
+birria	main	long	high	meat|other
+biryani	main	long	high	other
+biscotti	dessert	long		
+bizcochitos	dessert	medium		meat
+black-bean-soup	main	medium	high	
+blackberry-pie	dessert	long		
+blanched-almonds	component	short		
+blondies	dessert	medium		
+blueberry-compote	component	short		
+blueberry-muffins	breakfast	medium		
+blueberry-pie	dessert	long		
+borscht	main	long	high	
+bouillabaisse	main	long	low	other|seafood
+braised-green-beans	side	short		
+braised-red-cabbage	side	long		
+bread-pudding	dessert	medium		
+breakfast-burritos	breakfast	medium		
+brownies	dessert	medium		
+brussels-sprouts	side	short		
+bubble-tea	drink	medium		other
+bulgogi	main	long	high	other
+burrito-bowl	main	medium	high	
+butternut-squash-soup	main	long	high	
+caesar-salad	main	short	low	
+caldo-verde	main	medium	high	other
+calzones	main	long	medium	
+candied-walnuts	snack	short		
+canele	dessert	long		other
+caprese-pasta-salad	main	short	medium	
+caramel-popcorn	snack	long		
+carrot-cake-muffins	breakfast	medium		
+cashew-chicken-curry	main	long	high	
+catalan-beef-stew	main	long	high	
+cauliflower-soup	main	medium	high	
+charred-street-corn	side	short		
+cheesecake	dessert	long		
+chemex	drink	short		
+cherry-compote	component	short		
+chestnuts	snack	medium		
+chia-pudding	breakfast	short		
+chicken-and-dumplings	main	medium	medium	
+chicken-and-mushroom-chimichangas	main	medium	medium	
+chicken-and-pepper-stir-fry	main	medium	high	other
+chicken-noodle-soup	main	medium	medium	
+chicken-pot-pie	main	long	medium	
+chicken-salad	main	long	high	
+chicken-spinach-pasta	main	short	medium	
+chili-oil	component	short		other
+chili-verde	main	medium	high	
+chimichurri-sauce	component	medium		
+chocolate-chip-cookies	dessert	medium		
+chocolate-cookies	dessert	medium		
+chocolate-crinkle-cookies	dessert	medium		
+chocolate-ice-cream	dessert	long		
+chocolate-macadamia-cookies	dessert	short		
+chocolate-mug-cake	dessert	short		
+chocolate-sandwich-cookies	dessert	short		
+chocolate-toffee-bars	dessert	long		
+churros	dessert	long		
+ciabatta	bread	long		
+cider-braised-pork	main	medium	high	
+cioppino	main	long	medium	seafood
+clam-chowder	main	long	high	seafood
+clam-turnip-soup	main	short	medium	seafood
+coffee-cake	breakfast	medium		
+coffee-ice-cream	dessert	long		
+cold-brew-coffee	drink	long		
+cold-brew-tea	drink	long		
+cold-noodle-salad	main	short	medium	other
+corn-chowder	main	medium	high	
+corn-tomato-and-avocado-salad	side	short		
+cornbread	bread	medium		
+crab-cakes	main	short	medium	seafood
+cream-of-cauliflower-and-leek-soup	main	medium	high	
+cream-of-mushroom-soup	main	long	high	
+creme-brulee	dessert	long		
+crepes	breakfast	medium		
+crunchwrap-supreme	main	medium	medium	
+cumin-potatoes	side	medium		
+daikon-rib-soup	main	medium	high	other
+dashi	component	long		other
+deviled-eggs	side	medium		
+dippable-steak-sandwich	main	short	medium	
+drunken-mussels	main	short	low	seafood
+dry-rub	component	short		
+duck-two-ways	main	long	medium	meat
+dumplings	main	long	high	other
+egg-and-tomato	main	short	high	other
+egg-drop-soup	main	short	medium	
+egg-rice	main	short	low	other
+egg-tarts	dessert	medium		
+eggplant-and-olive-spread	side	medium		
+eggy-wraps	main	short	medium	
+enchiladas	main	long	high	other
+english-muffins	breakfast	long		
+falafel	main	long	medium	other
+farfalle-with-sausage	main	short	high	
+fengwei-eggplant	main	long	low	
+fig-and-gouda-scones	breakfast	medium		
+fig-brulee	dessert	short		
+financiers	dessert	medium		
+five-spice-pork-loin	main	medium	high	other
+florentines	dessert	long		
+fluffy-dinner-rolls	bread	long		
+focaccia	bread	long		
+french-onion-soup	main	medium	high	
+french-press	drink	short		
+fried-brussels-sprouts	side	long		
+fried-eggs	breakfast	short		
+fried-rice	main	medium	high	
+garlic-aioli	component	short		
+garlic-bread	side	short		
+garlic-herb-cream-cheese	side	long		
+garlic-knots	side	medium		other
+garlic-mac-salad	side	long		
+garlic-naan	side	long		
+garlic-rice	side	short		
+garlic-shrimp	main	short	low	
+garlic-soup	main	medium	medium	
+gateau-breton	dessert	long		
+gazpacho	main	long	high	
+general-tsos-chicken	main	long	medium	
+german-christmas-food	main	short	high	meat|other
+graham-cracker-crust	component	short		
+granola	breakfast	medium		
+green-chicken-chili	main	medium	high	
+grilled-cheese	main	short	low	
+gumbo	main	medium	high	seafood
+gunkanmaki	main	medium	low	other|seafood
+gyudon	main	short	high	other
+hand-cut-noodles	component	medium		
+hard-boiled-eggs	breakfast	short		
+hario-switch	drink	short		
+harvest-bread	bread	long		
+hash-browns	breakfast	short		
+hazelnut-cookies	dessert	short		
+hojicha	drink	short		other
+hollandaise-sauce	component	short		
+honey-rosemary-cream-cheese	side	short		
+honey-sriracha-chicken-wings	main	medium	medium	
+horchata	drink	long		
+hummus	side	long		
+japanese-sponge-cake	dessert	medium		
+kabocha-soup	main	medium	high	
+katsudon	main	medium	medium	other
+key-lime-pie	dessert	medium		
+khao-soi	main	long	high_with_prep	other
+kimchi-fried-rice	main	short	high	other
+kimchi-noodles	main	medium	low	other|seafood
+korean-fried-chicken	main	long	medium	
+kouign-amann	dessert	long		
+kuzukiri	dessert	short		other
+lamb-noodle-soup	main	short	low	
+lanzhou-beef-noodle-soup	main	long	high_with_prep	other
+lard	component	medium		meat
+lasagna	main	long	high	
+leek-and-potato-soup	main	medium	high	
+lemon-bars	dessert	long		
+lemon-curd	component	medium		
+lemon-poppy-seed-muffins	breakfast	medium		
+lemon-poppy-seed-pancakes	breakfast	short		
+lemonade	drink	short		
+lentils	main	medium	high	
+lobster-rolls	main	medium	medium	seafood
+lobster-stock	component	medium		seafood
+lomo-saltado	main	short	medium	
+loose-leaf-tea	drink	short		
+mac-and-cheese	main	short	high	
+mango-lassi	drink	short		
+mango-salsa	side	medium		
+mapo-tofu	main	short	high	other
+marinated-eggs	side	long		other
+mashed-potato-squash	side	medium		
+mashed-potatoes	side	medium		
+mayonnaise	component	short		
+mazemen	main	medium	low	other
+mi-viet-tiem	main	long	high_with_prep	meat|other
+miso-soup	main	short	low	other
+molasses-cookies	dessert	medium		
+mushroom-risotto	main	medium	low	
+mustard-slaw	side	medium		
+nachos	main	medium	medium	
+oatmeal	breakfast	short		
+oatmeal-raisin-cookies	dessert	medium		
+olive-oil-cake	dessert	medium		
+one-pan-pasta	main	medium	high	
+orange-cupcakes	dessert	medium		
+orecchiette-with-sausage-and-broccoli-rabe	main	short	high	
+oven-fries	side	medium		
+overnight-white-bread	bread	long		
+overnight-whole-wheat-bread	bread	long		
+oxtail-ragu	main	long	high	meat
+pad-krapow-gai	main	short	high	other
+pad-see-ew	main	medium	medium	other
+pad-thai	main	medium	medium	other
+palak-dal	main	medium	high	other
+pan-con-tomate	breakfast	short		
+pan-fried-baozi	main	long	medium	other
+pancakes	breakfast	medium		
+paniscia	main	long	high	
+panzanella	main	short	low	
+pasta-carbonara	main	short	low	
+pasta-dough	component	medium		
+pasta-with-sausage-tomato-and-broccoli-rabe	main	medium	high	
+patio-punch	drink	short		other
+pavlova	dessert	long		
+pea-and-bacon-pasta	main	short	medium	
+peach-pie	dessert	long		
+peach-tarte-tatin	dessert	long		
+peanut-curry	main	medium	high	
+pecan-pie	dessert	long		
+pesto	component	short		
+pesto-pasta-with-shrimp	main	medium	medium	
+pho-bo	main	long	high_with_prep	meat|other
+pho-ga	main	medium	high_with_prep	other
+pickled-radish	side	medium		
+pie-crust	component	medium		
+pinocchio	main	long	medium	
+pistachio-gelato	dessert	long		other
+pita-bread	bread	long		
+pizza	main	long	medium	
+pizza-dough	component	long		
+pizza-sauce	component	long		
+pizzelles	dessert	medium		
+poached-eggs	breakfast	short		
+poke	main	medium	medium	seafood
+polenta	side	short		
+popcorn	snack	short		
+porridge	main	long	high	other
+posset	dessert	medium		
+pot-beans	main	long	high	other
+potato-salad	side	medium		
+pozole	main	long	high	other
+pumpkin-bread	bread	medium		
+pumpkin-pie	dessert	long		
+pumpkin-puree	component	medium		
+quiche-lorraine	main	long	high	
+quick-cured-salmon	main	medium	medium	
+quinoa-eggs-and-steak	main	medium	medium	
+raita	side	short		other
+ratatouille	main	medium	high	
+ratatouille-confit-byaldi	main	long	high	
+ravioli	main	short	medium	
+red-beans-and-rice	main	long	high	meat
+red-cooked-fish	main	medium	medium	seafood
+red-cooked-ribs	main	medium	high	meat|other
+red-lentil-soup	main	short	high	
+rhubarb-compote	component	short		
+rib-sandwich	main	long	high_with_prep	other
+rice-cakes	main	medium	medium	other
+rice-krispies-treats	dessert	medium		
+rice-pudding	dessert	medium		
+roast-beef	main	long	high	
+roast-beef-sandwich	main	long	high_with_prep	
+roasted-beets	side	medium		
+roasted-chicken	main	medium	high	
+roasted-chicken-thighs	main	medium	high	
+roasted-chicken-with-gravy	main	medium	high	
+roasted-garlic	side	medium		
+roasted-pecans	snack	short		
+roasted-potatoes	side	medium		
+roasted-pumpkin-seeds	snack	medium		
+roasted-vegetable	side	short		
+rouladen	main	long	high	
+sago	dessert	medium		
+sandwich-rolls	bread	long		
+sangria	drink	long		
+sardine-melt	main	short	low	
+sauteed-fish	main	short	low	seafood
+sauteed-mushrooms	side	short		
+scones	breakfast	short		
+seared-duck-breast	main	medium	medium	meat
+seared-salmon	main	medium	medium	
+sheet-pan-brats	main	medium	high_with_prep	
+short-rib-ragu	main	long	high	
+shoyu-ramen	main	long	high_with_prep	meat|other
+shrimp-and-grits	main	medium	medium	
+shrimp-etouffee	main	medium	medium	
+shrimp-po-boys	main	long	low	other
+sichuan-boiled-fish	main	long	medium	other|seafood
+simple-pizza-sauce	component	medium		
+simple-syrup	component	short		
+skillet-cookie	dessert	medium		
+skillet-lasagna	main	medium	high	
+smashed-cucumber-salad	side	short		other
+snickerdoodles	dessert	medium		
+soba	main	short	low	other
+sodium-carbonate	component	medium		
+soft-boiled-eggs	breakfast	short		
+soltero	main	long	high	
+somen	main	medium	low	
+soondubu-jjigae	main	medium	high	other
+spaetzle	side	medium		
+spring-rolls	main	medium	low	other
+squash-pancakes	breakfast	medium		other
+squeaky-dogs	main	short	high	other
+steamed-artichokes	side	short		
+stelline-soup	main	medium	medium	
+stir-fry-noodles	main	short	medium	other
+strawberry-compote	component	short		
+strawberry-ice-cream	dessert	long		other
+strawberry-rhubarb-ice-cream	dessert	long		other
+strawberry-rhubarb-pie	dessert	long		
+strawberry-shortcake	dessert	medium		
+strawberry-syrup	component	medium		
+sugar-cookies	dessert	long		other
+summer-succotash-salad	main	long	high	
+sushi-rice	component	medium		
+sweet-potato-oven-fries	side	medium		
+sweet-potato-rice	side	medium		
+taiwanese-beef-noodle-soup	main	long	high_with_prep	meat|other
+tamarind-paste	component	medium		other
+tamarind-spritz	drink	short		other
+tandoori-lamb	main	long	high	meat
+tang-yuan	dessert	medium		other
+tapenade	side	short		
+tempura	main	long	low	other|seafood
+tentsuyu	component	short		other
+thai-basil-pesto-noodles	main	medium	medium	other
+thai-green-curry	main	medium	high	other
+thumbprint-cookies	dessert	medium		
+tom-kha-pladuk	main	medium	low	other|seafood
+tomato-sauce	component	short		
+tomato-soup	main	medium	high	
+tomato-tart	main	long	medium	
+tonnato	component	short		
+torrone	dessert	long		other
+tortenboden	dessert	medium		
+tres-leches-cake	dessert	long		
+tteokbokki	main	short	medium	other
+tuna-melt	main	short	low	
+turnip-puree	side	short		
+tzatziki	side	long		
+udon	main	medium	low	other
+v60	drink	short		
+vanilla-ice-cream	dessert	long		
+vanilla-lilikoi-ice-cream	dessert	long		other
+vegetable-ragout	main	long	high	
+vegetable-stir-fry	main	short	medium	other
+walnut-cookies	dessert	short		
+west-lake-soup	main	short	medium	
+white-bean-chorizo-soup	main	medium	high	
+white-bean-soup	main	medium	high	
+white-bread-with-poolish	bread	long		
+whole-wheat-pancakes	breakfast	short		
+whole-wheat-waffles	breakfast	short		
+wonton-noodle-soup	main	long	high_with_prep	other
+wonton-wrappers	component	long		
+wontons-in-chili-oil	main	long	high_with_prep	other
+yang-cai-gao	dessert	long		other
+yeasted-waffles	breakfast	long		
+yu-xiang-eggplant	main	medium	high	other
+yuca-fries	side	long		other
+zabaione	dessert	medium		

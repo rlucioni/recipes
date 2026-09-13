@@ -1,3 +1,8 @@
+---
+course: dessert
+prep_time: medium
+specialty_ingredients: []
+---
 # Chocolate Crinkle Cookies
 
 Makes 22 cookies

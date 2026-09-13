@@ -1,3 +1,10 @@
+---
+course: main
+prep_time: medium
+leftoverability: high
+specialty_ingredients:
+  - other
+---
 # Palak Dal
 
 ## Ingredients

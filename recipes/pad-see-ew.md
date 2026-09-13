@@ -1,3 +1,10 @@
+---
+course: main
+prep_time: medium
+leftoverability: medium
+specialty_ingredients:
+  - other
+---
 # Pad See Ew
 
 Adapted from Hot Thai Kitchen's [Pad See Ew](https://hot-thai-kitchen.com/pad-see-ew-new/). Serves 2.

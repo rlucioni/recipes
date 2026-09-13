@@ -1,3 +1,8 @@
+---
+course: breakfast
+prep_time: medium
+specialty_ingredients: []
+---
 # Granola
 
 Yields 8 cups.

@@ -1,3 +1,8 @@
+---
+course: dessert
+prep_time: medium
+specialty_ingredients: []
+---
 # Berry Crumble
 
 Adapted from [Chef John's ultimate berry crumble](https://foodwishes.blogspot.com/2018/05/the-ultimate-berry-crumble-ultimate.html).

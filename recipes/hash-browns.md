@@ -1,3 +1,8 @@
+---
+course: breakfast
+prep_time: short
+specialty_ingredients: []
+---
 # Hash Browns
 
 Adapted from [Serious Eats' hash browns](http://www.seriouseats.com/recipes/2014/06/shredded-hash-browns-recipe.html).

@@ -1,3 +1,8 @@
+---
+course: breakfast
+prep_time: medium
+specialty_ingredients: []
+---
 # Banana Nut Muffins
 
 Makes 12 muffins

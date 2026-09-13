@@ -1,3 +1,8 @@
+---
+course: snack
+prep_time: short
+specialty_ingredients: []
+---
 # Candied Walnuts
 
 ## Ingredients

@@ -1,3 +1,9 @@
+---
+course: main
+prep_time: medium
+leftoverability: medium
+specialty_ingredients: []
+---
 # Quick Cured salmon
 
 Adapted from [Chef John's quick cured salmon](http://foodwishes.blogspot.com/2014/04/quick-cured-salmon-3-minutes-but-i-want.html).

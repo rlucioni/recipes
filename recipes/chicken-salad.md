@@ -1,3 +1,9 @@
+---
+course: main
+prep_time: long
+leftoverability: high
+specialty_ingredients: []
+---
 # Chicken Salad
 
 ## Ingredients

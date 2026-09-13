@@ -1,3 +1,9 @@
+---
+course: main
+prep_time: medium
+leftoverability: high
+specialty_ingredients: []
+---
 # Roasted Chicken with Gravy
 
 Adapted from Julia Child's roasted chicken recipe, from [Cooking with Master Chefs](http://www.amazon.com/gp/product/0679748296).

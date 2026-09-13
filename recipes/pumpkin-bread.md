@@ -1,3 +1,8 @@
+---
+course: bread
+prep_time: medium
+specialty_ingredients: []
+---
 # Pumpkin Bread
 
 ## Ingredients

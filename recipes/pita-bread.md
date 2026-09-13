@@ -1,3 +1,8 @@
+---
+course: bread
+prep_time: long
+specialty_ingredients: []
+---
 # Pita Bread
 
 Adapted from [Chef John's pita bread](http://foodwishes.blogspot.com/2013/04/pita-bread-whats-in-your-pocket.html). Makes 8 pitas.

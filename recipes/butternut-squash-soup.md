@@ -1,3 +1,9 @@
+---
+course: main
+prep_time: long
+leftoverability: high
+specialty_ingredients: []
+---
 # Butternut Squash Soup
 
 Adapted from [Chef John's roasted butternut squash soup](http://foodwishes.blogspot.com/2015/09/roasted-butternut-squash-soup-legend-of.html)

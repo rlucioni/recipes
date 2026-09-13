@@ -1,3 +1,8 @@
+---
+course: side
+prep_time: medium
+specialty_ingredients: []
+---
 # Deviled Eggs
 
 Adapted from [Chef John's deviled eggs](http://foodwishes.blogspot.com/2012/01/recipe-666-deviled-eggs-damn-these-were.html). Recipe is for 12 eggs.

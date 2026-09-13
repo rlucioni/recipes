@@ -1,3 +1,9 @@
+---
+course: dessert
+prep_time: medium
+specialty_ingredients:
+  - other
+---
 # Tang Yuan
 
 ## Ingredients

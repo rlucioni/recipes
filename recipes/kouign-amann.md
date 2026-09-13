@@ -1,3 +1,8 @@
+---
+course: dessert
+prep_time: long
+specialty_ingredients: []
+---
 # Kouign-amann
 
 Yields 12 kouign-amanns. Adapted from [Chef John's kouign-amann](https://foodwishes.blogspot.com/2019/03/kouign-amann-yas-queen.html).

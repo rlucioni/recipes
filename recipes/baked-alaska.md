@@ -1,3 +1,8 @@
+---
+course: dessert
+prep_time: long
+specialty_ingredients: []
+---
 # Baked Alaska
 
 Adapted from [Chef John's Baked Alaska](http://foodwishes.blogspot.com/2015/02/baked-alaska-with-lighter-you-betcha.html).

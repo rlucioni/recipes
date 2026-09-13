@@ -1,3 +1,8 @@
+---
+course: component
+prep_time: short
+specialty_ingredients: []
+---
 # Graham Cracker Crust
 
 For a 10" pie plate. Adapted from [Allrecipes' Graham Cracker Crust I](http://allrecipes.com/recipe/12254/graham-cracker-crust-i/).

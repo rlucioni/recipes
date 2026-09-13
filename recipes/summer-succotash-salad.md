@@ -1,3 +1,9 @@
+---
+course: main
+prep_time: long
+leftoverability: high
+specialty_ingredients: []
+---
 # Summer Succotash Salad
 
 Adapted from [Chef John summer succotash salad](http://foodwishes.blogspot.com/2011/07/sufferin-succotash-salad.html). Serves 4.

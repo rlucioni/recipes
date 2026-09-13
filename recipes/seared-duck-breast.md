@@ -1,3 +1,10 @@
+---
+course: main
+prep_time: medium
+leftoverability: medium
+specialty_ingredients:
+  - meat
+---
 # Seared duck breast
 
 ## Ingredients

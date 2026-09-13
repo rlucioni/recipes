@@ -1,3 +1,8 @@
+---
+course: dessert
+prep_time: long
+specialty_ingredients: []
+---
 # Pavlova
 
 Adapted from [Chef John's pavlova](http://foodwishes.blogspot.com/2012/04/fresh-strawberry-pavlova-cracking-up.html). Serves 4.

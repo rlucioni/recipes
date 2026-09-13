@@ -1,3 +1,9 @@
+---
+course: main
+prep_time: medium
+leftoverability: high
+specialty_ingredients: []
+---
 # Roasted Kabocha Squash Soup
 
 Adapted from [Simply Recipes' roasted kabocha squash soup](http://www.simplyrecipes.com/recipes/roasted_kabocha_squash_soup/). Serves 4.

@@ -1,3 +1,8 @@
+---
+course: bread
+prep_time: long
+specialty_ingredients: []
+---
 # Focaccia
 
 ## Ingredients

@@ -1,3 +1,8 @@
+---
+course: breakfast
+prep_time: short
+specialty_ingredients: []
+---
 # Lemon Poppy Seed Pancakes
 
 Adapted from [Allrecipes](https://www.allrecipes.com/recipe/214498/sunday-morning-lemon-poppy-seed-pancakes/).

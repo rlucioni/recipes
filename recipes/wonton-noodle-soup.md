@@ -1,3 +1,10 @@
+---
+course: main
+prep_time: long
+leftoverability: high_with_prep
+specialty_ingredients:
+  - other
+---
 # Wonton Noodle Soup
 
 ## Ingredients

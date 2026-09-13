@@ -1,3 +1,9 @@
+---
+course: main
+prep_time: medium
+leftoverability: medium
+specialty_ingredients: []
+---
 # Pesto Pasta with Shrimp
 
 Serves 6-8

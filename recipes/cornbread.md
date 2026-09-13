@@ -1,3 +1,8 @@
+---
+course: bread
+prep_time: medium
+specialty_ingredients: []
+---
 # Cornbread
 
 Intended for a 6" cast-iron skillet.

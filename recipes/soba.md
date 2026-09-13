@@ -1,3 +1,10 @@
+---
+course: main
+prep_time: short
+leftoverability: low
+specialty_ingredients:
+  - other
+---
 # Soba
 
 ## Ingredients

@@ -1,3 +1,9 @@
+---
+course: main
+prep_time: medium
+leftoverability: medium
+specialty_ingredients: []
+---
 # Crunchwrap Supreme
 
 Makes 4.

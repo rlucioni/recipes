@@ -1,3 +1,8 @@
+---
+course: component
+prep_time: long
+specialty_ingredients: []
+---
 # Wonton Wrappers
 
 Makes 40-50 wrappers.

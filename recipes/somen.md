@@ -1,3 +1,9 @@
+---
+course: main
+prep_time: medium
+leftoverability: low
+specialty_ingredients: []
+---
 # Somen
 
 Serves 2.

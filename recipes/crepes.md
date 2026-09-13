@@ -1,3 +1,8 @@
+---
+course: breakfast
+prep_time: medium
+specialty_ingredients: []
+---
 # Crepes
 
 Yields 9-10 crepes

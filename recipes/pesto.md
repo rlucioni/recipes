@@ -1,3 +1,8 @@
+---
+course: component
+prep_time: short
+specialty_ingredients: []
+---
 # Pesto
 
 Makes 3/4 cup, enough for 1 pound of pasta

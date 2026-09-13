@@ -1,3 +1,9 @@
+---
+course: main
+prep_time: medium
+leftoverability: medium
+specialty_ingredients: []
+---
 # Chicken and Dumplings
 
 Adapted from [Chef John's chicken and dumplings](http://foodwishes.blogspot.com/2012/05/chicken-dumplings-stewed-chicken-with.html). Makes 4 servings and leftover chicken.

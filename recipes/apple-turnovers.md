@@ -1,3 +1,8 @@
+---
+course: dessert
+prep_time: medium
+specialty_ingredients: []
+---
 # Apple Turnovers
 
 Adapted from [Chef John's apple hand pies](http://foodwishes.blogspot.com/2013/03/apple-hand-pies-crimping-is-easy.html). Makes 4.

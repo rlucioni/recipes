@@ -1,3 +1,8 @@
+---
+course: bread
+prep_time: long
+specialty_ingredients: []
+---
 # Ciabatta
 
 Yields 4 loaves

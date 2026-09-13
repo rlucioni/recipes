@@ -1,3 +1,8 @@
+---
+course: dessert
+prep_time: medium
+specialty_ingredients: []
+---
 # Brownies
 
 For an 8x8 pan. Double for a 9x13 pan.

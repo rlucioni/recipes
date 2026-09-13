@@ -1,3 +1,8 @@
+---
+course: bread
+prep_time: medium
+specialty_ingredients: []
+---
 # Banana Bread
 
 Adapted from [Chef John's banana bread](http://foodwishes.blogspot.com/2012/01/banana-bread-thats-okay-to-make-early.html). Makes 1 loaf.

@@ -1,3 +1,9 @@
+---
+course: main
+prep_time: short
+leftoverability: medium
+specialty_ingredients: []
+---
 # Lomo Saltado
 
 Serves 2 hungry people.

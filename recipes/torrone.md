@@ -1,3 +1,9 @@
+---
+course: dessert
+prep_time: long
+specialty_ingredients:
+  - other
+---
 # Torrone (Turrón)
 
 Adapted from [Chef John's torrone](http://foodwishes.blogspot.com/2016/02/torrone-italian-nut-nougat-confection.html). Yields ~36 bite-sized pieces.

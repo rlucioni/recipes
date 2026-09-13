@@ -1,3 +1,8 @@
+---
+course: dessert
+prep_time: long
+specialty_ingredients: []
+---
 # Pumpkin Pie
 
 Adapted from [Chef John's pumpkin pie](http://foodwishes.blogspot.com/2012/11/best-pumpkin-pie-ever-come-for-pie-stay.html).

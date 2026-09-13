@@ -1,3 +1,8 @@
+---
+course: bread
+prep_time: long
+specialty_ingredients: []
+---
 # Overnight White Bread
 
 From Ken Forkish's Flour Water Salt Yeast

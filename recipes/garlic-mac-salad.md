@@ -1,3 +1,8 @@
+---
+course: side
+prep_time: long
+specialty_ingredients: []
+---
 # Garlic Mac Salad
 
 ## Ingredients

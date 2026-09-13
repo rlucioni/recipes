@@ -1,3 +1,8 @@
+---
+course: drink
+prep_time: long
+specialty_ingredients: []
+---
 # Cold Brew Coffee
 
 ## Ingredients

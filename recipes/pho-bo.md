@@ -1,3 +1,11 @@
+---
+course: main
+prep_time: long
+leftoverability: high_with_prep
+specialty_ingredients:
+  - meat
+  - other
+---
 # Phở Bò
 
 Serves 8.

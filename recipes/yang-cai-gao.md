@@ -1,3 +1,9 @@
+---
+course: dessert
+prep_time: long
+specialty_ingredients:
+  - other
+---
 # Yang Cai Gao
 
 ## Ingredients

@@ -1,3 +1,8 @@
+---
+course: dessert
+prep_time: medium
+specialty_ingredients: []
+---
 # Rice Pudding
 
 Adapted from [Chef John's rice pudding](http://foodwishes.blogspot.com/2012/03/coconut-milk-rice-pudding-with-fresh.html).

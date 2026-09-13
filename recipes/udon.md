@@ -1,3 +1,10 @@
+---
+course: main
+prep_time: medium
+leftoverability: low
+specialty_ingredients:
+  - other
+---
 # Udon
 
 Serves 2.

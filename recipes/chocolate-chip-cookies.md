@@ -1,3 +1,8 @@
+---
+course: dessert
+prep_time: medium
+specialty_ingredients: []
+---
 # Chocolate Chip Cookies
 
 Adapted from America's Test Kitchen's chocolate chip cookies.

@@ -1,3 +1,9 @@
+---
+course: dessert
+prep_time: short
+specialty_ingredients:
+  - other
+---
 # Kuzukiri
 
 Adapted from Cooking with Dog's [kuzukiri and kuromitsu syrup](https://cookingwithdog.com/recipe/kuzukiri/). Serves 2. Can substitute maple syrup for kuromitsu.

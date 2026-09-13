@@ -1,3 +1,8 @@
+---
+course: component
+prep_time: short
+specialty_ingredients: []
+---
 # Tonnato
 
 Adapted from [Chef John's tonnato](http://foodwishes.blogspot.com/2015/04/tonnato-sauce-not-just-for-cold-veal.html).

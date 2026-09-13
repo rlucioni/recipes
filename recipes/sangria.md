@@ -1,3 +1,8 @@
+---
+course: drink
+prep_time: long
+specialty_ingredients: []
+---
 # Sangria
 
 ## Ingredients

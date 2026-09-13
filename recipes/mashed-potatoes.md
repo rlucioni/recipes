@@ -1,3 +1,8 @@
+---
+course: side
+prep_time: medium
+specialty_ingredients: []
+---
 # Mashed Potatoes
 
 Adapted from [Chef John mashed potatoes](http://foodwishes.blogspot.com/2007/03/perfect-mashed-potatoes-breaking-cycle.html). Serves 4.

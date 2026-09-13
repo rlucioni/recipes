@@ -1,3 +1,9 @@
+---
+course: main
+prep_time: short
+leftoverability: low
+specialty_ingredients: []
+---
 # Grilled Cheese
 
 ## Ingredients

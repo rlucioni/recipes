@@ -1,3 +1,8 @@
+---
+course: dessert
+prep_time: short
+specialty_ingredients: []
+---
 # Chocolate Macadamia Cookies
 
 ## Ingredients

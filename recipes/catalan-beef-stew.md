@@ -1,3 +1,9 @@
+---
+course: main
+prep_time: long
+leftoverability: high
+specialty_ingredients: []
+---
 # Catalan-Style Beef Stew
 
 Serves 6.

@@ -1,3 +1,8 @@
+---
+course: breakfast
+prep_time: medium
+specialty_ingredients: []
+---
 # Carrot Cake Muffins
 
 Adapted from [Bon Apetit's carrot cake](http://www.epicurious.com/recipes/food/views/triple-layer-carrot-cake-with-cream-cheese-frosting-799). Makes 18.

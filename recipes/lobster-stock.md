@@ -1,3 +1,9 @@
+---
+course: component
+prep_time: medium
+specialty_ingredients:
+  - seafood
+---
 # Lobster Stock
 
 Makes 2 quarts.

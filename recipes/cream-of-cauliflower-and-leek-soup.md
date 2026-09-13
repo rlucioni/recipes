@@ -1,3 +1,9 @@
+---
+course: main
+prep_time: medium
+leftoverability: high
+specialty_ingredients: []
+---
 # Cream of Cauliflower and Leek Soup
 
 Adapted from [Chef John's cream of cauliflower soup](http://foodwishes.blogspot.com/2012/09/cream-of-cauliflower-come-for-soup-stay.html). Serves 4.

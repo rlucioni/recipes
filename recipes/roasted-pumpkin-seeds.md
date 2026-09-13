@@ -1,3 +1,8 @@
+---
+course: snack
+prep_time: medium
+specialty_ingredients: []
+---
 # Roasted Pumpkin Seeds
 
 Adapted from [Simply Recipe's roasted pumpkin seeds](https://www.simplyrecipes.com/recipes/toasted_pumpkin_seeds/).

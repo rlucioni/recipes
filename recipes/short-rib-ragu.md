@@ -1,3 +1,9 @@
+---
+course: main
+prep_time: long
+leftoverability: high
+specialty_ingredients: []
+---
 # Short Rib Ragu
 
 Makes enough for about 3 pounds of pasta.

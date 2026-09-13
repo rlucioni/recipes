@@ -1,3 +1,8 @@
+---
+course: drink
+prep_time: long
+specialty_ingredients: []
+---
 # Horchata
 
 Adapted from [Serious Eats' horchata](https://www.seriouseats.com/recipes/2011/02/horchata-drink-recipe.html).

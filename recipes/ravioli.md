@@ -1,3 +1,9 @@
+---
+course: main
+prep_time: short
+leftoverability: medium
+specialty_ingredients: []
+---
 # Ravioli
 
 Serves 2

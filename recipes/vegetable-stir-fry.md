@@ -1,3 +1,10 @@
+---
+course: main
+prep_time: short
+leftoverability: medium
+specialty_ingredients:
+  - other
+---
 # Vegetable Stir-fry
 
 ## Ingredients

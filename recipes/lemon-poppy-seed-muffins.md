@@ -1,3 +1,8 @@
+---
+course: breakfast
+prep_time: medium
+specialty_ingredients: []
+---
 # Lemon Poppy Seed Muffins
 
 Yields 12 muffins.

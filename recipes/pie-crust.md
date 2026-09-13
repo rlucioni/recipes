@@ -1,3 +1,8 @@
+---
+course: component
+prep_time: medium
+specialty_ingredients: []
+---
 # Pie Crust
 
 Adapted from [America's Test Kitchen's vodka pie crust](http://cooking.nytimes.com/recipes/12852-christopher-kimballs-foolproof-pie-dough). Yields one crust.

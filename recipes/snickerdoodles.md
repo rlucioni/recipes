@@ -1,3 +1,8 @@
+---
+course: dessert
+prep_time: medium
+specialty_ingredients: []
+---
 # Snickerdoodles
 
 Adapted from Chef John's [pumpkin spice snickerdoodles](http://foodwishes.blogspot.com/2016/10/pumpkin-spice-snickerdoodles-better.html). Makes ~12 cookies.

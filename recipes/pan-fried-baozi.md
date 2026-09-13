@@ -1,3 +1,10 @@
+---
+course: main
+prep_time: long
+leftoverability: medium
+specialty_ingredients:
+  - other
+---
 # Pan Fried Baozi
 
 Yields 16

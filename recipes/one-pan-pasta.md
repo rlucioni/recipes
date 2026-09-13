@@ -1,3 +1,9 @@
+---
+course: main
+prep_time: medium
+leftoverability: high
+specialty_ingredients: []
+---
 # One Pan Pasta
 
 Adapted from [Chef John's one pan pasta](http://foodwishes.blogspot.com/2014/08/one-pan-orecchiette-with-sausage-and.html). Serves 2.

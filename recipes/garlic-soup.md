@@ -1,3 +1,9 @@
+---
+course: main
+prep_time: medium
+leftoverability: medium
+specialty_ingredients: []
+---
 # Garlic Soup
 
 Adapted from [Chef John's garlic soup](http://foodwishes.blogspot.com/2013/04/celebrating-national-garlic-day-with.html). Serves 2.
