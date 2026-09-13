@@ -71,6 +71,15 @@ export async function embedRecipes({ memoized = true } = {}) {
     }
   }
 
+  // Drop recipes that have been archived or deleted so they stop showing up
+  // in search results.
+  for (const filename of Object.keys(embeddings)) {
+    if (!(filename in recipes)) {
+      console.info(`removing ${filename}, no longer a live recipe`);
+      delete embeddings[filename];
+    }
+  }
+
   const pending = [];
   for (const [filename, content] of Object.entries(recipes)) {
     const recipe = embeddings[filename];

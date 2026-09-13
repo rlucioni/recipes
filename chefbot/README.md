@@ -25,7 +25,7 @@ SLACK_BOT_TOKEN
 SLACK_SIGNING_SECRET
 ```
 
-Generate `embeddings.json` from the recipes in `../recipes`. Only recipes that are new or have changed since the last run are re-embedded:
+Generate `embeddings.json` from the recipes in `../recipes`. Only recipes that are new or have changed since the last run are re-embedded, and recipes that have been archived or deleted are dropped:
 
 ```bash
 $ make embeddings
@@ -95,4 +95,13 @@ $ make logs
 
 chefbot responds when it's mentioned (`@chefbot ...`) and to any subsequent reply in a thread it has already responded in, so follow-ups don't need to re-tag it.
 
-Slack requires event deliveries to be acknowledged within 3 seconds, but generating a response can take much longer than that. When an event arrives at `/slack/events`, the function verifies the request signature, posts a "thinking" placeholder in the thread, enqueues a Cloud Tasks task targeting its own `/think` endpoint, and acks. Cloud Tasks then invokes `/think`, which reads the thread, calls Gemini (using `search_recipes` to look up relevant recipes via embeddings), and posts the reply. When running locally, thinking happens in the background of the same process instead.
+Slack requires event deliveries to be acknowledged within 3 seconds, but generating a response can take much longer than that. When an event arrives at `/slack/events`, the function verifies the request signature, posts a "thinking" placeholder in the thread, enqueues a Cloud Tasks task targeting its own `/think` endpoint, and acks. Cloud Tasks then invokes `/think`, which reads the thread, calls Gemini, and posts the reply. When running locally, thinking happens in the background of the same process instead.
+
+Gemini has four tools, all backed by `embeddings.json`:
+
+- `search_recipes(query)` – semantic search over recipe content via embeddings. Returns the 25 most similar recipes in full.
+- `list_recipes(course, prep_time, leftoverability, exclude_specialty_ingredients)` – exhaustive filtering on the YAML frontmatter that every recipe carries (see `../AGENTS.md` for the schema). This is the in-memory equivalent of `../catalog.tsv`.
+- `get_recipes(filenames)` – opens specific recipes in full, e.g. to check ingredients or method.
+- `sample_recipes(weights)` – weighted sampling without replacement, a port of the sampler script in the `pick-dinner` skill. The model assigns weights; the tool does the randomness. Draws are hashed from the Slack thread's parent `ts`, so re-sampling with the same weights later in the same thread reproduces the same order, which is how "show me more" continues down one list even though every Slack reply is a fresh model call.
+
+The system prompt explains the frontmatter schema and reproduces the `pick-dinner` skill in `../.cursor/skills` step for step: ask about effort, leftovers, and ingredients to use up; filter mains with `list_recipes`; weight each one using the skill's multipliers (ingredient match, season, specialty-ingredient trip on a weeknight), opening recipes with `get_recipes` where needed; order them with `sample_recipes`; suggest three at a time; then optionally pick a complementary side the same way. Expect a dinner pick to take several tool rounds and 10-20 seconds per reply.
