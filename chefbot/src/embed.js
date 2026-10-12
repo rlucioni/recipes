@@ -16,6 +16,10 @@ const RECIPES_DIR = path.resolve(PROJECT_ROOT, '../recipes');
 const CONCURRENCY = 16;
 const PROGRESS_INTERVAL = 10;
 
+// Gemini occasionally returns transient errors like 503 UNAVAILABLE.
+const MAX_ATTEMPTS = 3;
+const RETRY_DELAY_MS = 2000;
+
 async function readRecipes() {
   const recipes = {};
 
@@ -34,6 +38,25 @@ async function readRecipes() {
   }
 
   return recipes;
+}
+
+// Calls fn until it succeeds, waiting a little longer after each failure.
+async function withRetries(fn) {
+  for (let attempt = 1; ; attempt++) {
+    try {
+      return await fn();
+    } catch (error) {
+      if (attempt === MAX_ATTEMPTS) {
+        throw error;
+      }
+
+      console.info(`retrying after error: ${error.message}`);
+
+      await new Promise((resolve) =>
+        setTimeout(resolve, RETRY_DELAY_MS * attempt),
+      );
+    }
+  }
 }
 
 // Runs fn over items with at most CONCURRENCY calls in flight at once.
@@ -104,7 +127,9 @@ export async function embedRecipes({ memoized = true } = {}) {
     console.info(`embedding recipe content for ${filename}`);
 
     try {
-      const embedding = await embedDocument(recipes[filename], filename);
+      const embedding = await withRetries(() =>
+        embedDocument(recipes[filename], filename),
+      );
 
       embeddings[filename] = {
         model: EMBEDDING_MODEL,
