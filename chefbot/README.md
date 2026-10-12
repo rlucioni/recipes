@@ -119,7 +119,7 @@ Gemini has five tools. The first four are backed by `embeddings.json`:
 
 - `search_recipes(query)` – semantic search over recipe content via embeddings. Returns the 25 most similar recipes in full.
 - `list_recipes(course, prep_time, leftoverability, exclude_specialty_ingredients)` – exhaustive filtering on the YAML frontmatter that every recipe carries (see `../AGENTS.md` for the schema). This is the in-memory equivalent of `../catalog.tsv`.
-- `get_recipes(filenames)` – opens specific recipes in full, e.g. to check ingredients or method.
+- `get_recipes(filenames)` – opens specific recipes in full (e.g., to check ingredients or method).
 - `sample_recipes(weights)` – weighted sampling without replacement, a port of the sampler script in the `pick-dinner` skill. The model assigns weights; the tool does the randomness. Draws are hashed from the Slack thread's parent `ts`, so re-sampling with the same weights later in the same thread reproduces the same order, which is how "show me more" continues down one list even though every Slack reply is a fresh model call.
 - `propose_recipe_changes(title, summary, files)` – adds or edits recipes by committing complete files to a GitHub pull request. The prompt only allows this when a user explicitly asks to change the collection. Each Slack thread gets its own branch (`chefbot/<thread ts>`) and pull request, so follow-ups in the thread revise the same pull request, and `get_recipes` returns the pull request's unmerged drafts instead of the deployed versions. Files are checked against the frontmatter schema before anything is committed, and the pull request description links back to the Slack thread. Merging the pull request triggers the deploy workflow, which updates the catalog and chefbot's embeddings.
 

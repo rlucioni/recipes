@@ -121,7 +121,7 @@ specialty_ingredients:
 - \`specialty_ingredients\`: common herbs and spices, light and dark soy sauce, Chinese black vinegar, oyster sauce, Shaoxing wine, and somen noodles are locally available; other Asian noodles count as \`other\`.
 - Voice: open one or two similar recipes with \`get_recipes\` and match their voice and level of detail. Use grams for dry goods when similar recipes do. Never copy a source's text verbatim. Credit an outside source with a single \`Adapted from [Source](url).\` line.
 - Omit pantry process items (water for boiling, oil for heating a pan, salt and pepper for seasoning) unless they're a measured part of the formula. Don't abbreviate (\`vegetables\`, not \`veg\`).
-- Link existing component recipes by filename instead of inlining them, e.g. \`[cook beans first](beans.md)\`.
+- Link existing component recipes by filename instead of inlining them (e.g., \`[cook beans first](beans.md)\`).
 
 ## Rules
 
@@ -706,14 +706,14 @@ const listRecipesDeclaration = {
 
 const getRecipesDeclaration = {
   name: 'get_recipes',
-  description: `Returns the full content of specific existing recipes by filename, e.g. to check their ingredients or method. Use filenames exactly as returned by list_recipes or search_recipes. At most ${GET_RECIPES_LIMIT} recipes per call.`,
+  description: `Returns the full content of specific existing recipes by filename (e.g., to check their ingredients or method). Use filenames exactly as returned by list_recipes or search_recipes. At most ${GET_RECIPES_LIMIT} recipes per call.`,
   parameters: {
     type: Type.OBJECT,
     properties: {
       filenames: {
         type: Type.ARRAY,
         items: { type: Type.STRING },
-        description: 'Recipe filenames, e.g. ["caldo-verde.md"].',
+        description: 'Recipe filenames (e.g., ["caldo-verde.md"]).',
       },
     },
     required: ['filenames'],
@@ -757,7 +757,7 @@ const proposeRecipeChangesDeclaration = {
       title: {
         type: Type.STRING,
         description:
-          'Short lowercase pull request title and commit message, e.g. "add mapo tofu" or "use spinach in caldo verde".',
+          'Short lowercase pull request title and commit message (e.g., "add mapo tofu" or "use spinach in caldo verde").',
       },
       summary: {
         type: Type.STRING,
@@ -771,7 +771,7 @@ const proposeRecipeChangesDeclaration = {
           properties: {
             filename: {
               type: Type.STRING,
-              description: 'Recipe filename, e.g. "mapo-tofu.md".',
+              description: 'Recipe filename (e.g., "mapo-tofu.md").',
             },
             action: {
               type: Type.STRING,
