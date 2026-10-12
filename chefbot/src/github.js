@@ -6,8 +6,6 @@ export const BASE_BRANCH = 'master';
 const GH_TOKEN = process.env.GH_TOKEN;
 export const githubEnabled = Boolean(GH_TOKEN);
 
-// https://docs.github.com/en/rest
-// GETs return null for 404s so callers can check whether things exist.
 async function request(method, path, body) {
   const res = await fetch(`${API_URL}${path}`, {
     method,
@@ -22,6 +20,7 @@ async function request(method, path, body) {
   if (res.status === 404 && method === 'GET') {
     return null;
   }
+
   if (!res.ok) {
     throw new Error(
       `GitHub ${method} ${path} failed with ${res.status}: ${await res.text()}`,

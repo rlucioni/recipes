@@ -28,29 +28,41 @@ enable:
 # Lets the deploy GitHub Actions workflow deploy the function via Workload
 # Identity Federation, so no service account key is stored in GitHub. Prints
 # the values for the GCP_WORKLOAD_IDENTITY_PROVIDER and GCP_SERVICE_ACCOUNT
-# repository secrets.
+# repository secrets. Safe to re-run: existing resources are skipped, and IAM
+# grants are retried because a new service account takes a while to propagate.
 github-deployer:
 	@set -e; \
+	retry() { \
+		for attempt in 1 2 3 4 5 6 7 8 9 10 11 12; do \
+			"$$@" > /dev/null && return 0; \
+			echo "retrying in 5 seconds..."; \
+			sleep 5; \
+		done; \
+		return 1; \
+	}; \
 	project=$$(gcloud config get-value project); \
 	number=$$(gcloud projects describe $$project --format='value(projectNumber)'); \
 	sa=chefbot-deployer@$$project.iam.gserviceaccount.com; \
 	pool=projects/$$number/locations/global/workloadIdentityPools/github; \
-	gcloud iam service-accounts create chefbot-deployer --display-name="chefbot GitHub deployer"; \
+	gcloud iam service-accounts describe $$sa > /dev/null 2>&1 || \
+		gcloud iam service-accounts create chefbot-deployer --display-name="chefbot GitHub deployer"; \
 	for role in roles/cloudfunctions.admin roles/run.admin; do \
-		gcloud projects add-iam-policy-binding $$project --member=serviceAccount:$$sa --role=$$role --condition=None > /dev/null; \
+		retry gcloud projects add-iam-policy-binding $$project --member=serviceAccount:$$sa --role=$$role --condition=None; \
 	done; \
-	gcloud iam service-accounts add-iam-policy-binding $$number-compute@developer.gserviceaccount.com \
-		--member=serviceAccount:$$sa --role=roles/iam.serviceAccountUser > /dev/null; \
-	gcloud iam workload-identity-pools create github --location=global --display-name=GitHub; \
-	gcloud iam workload-identity-pools providers create-oidc recipes \
-		--location=global \
-		--workload-identity-pool=github \
-		--issuer-uri=https://token.actions.githubusercontent.com \
-		--attribute-mapping=google.subject=assertion.sub,attribute.repository=assertion.repository \
-		--attribute-condition="assertion.repository=='rlucioni/recipes'"; \
-	gcloud iam service-accounts add-iam-policy-binding $$sa \
+	retry gcloud iam service-accounts add-iam-policy-binding $$number-compute@developer.gserviceaccount.com \
+		--member=serviceAccount:$$sa --role=roles/iam.serviceAccountUser; \
+	gcloud iam workload-identity-pools describe github --location=global > /dev/null 2>&1 || \
+		gcloud iam workload-identity-pools create github --location=global --display-name=GitHub; \
+	gcloud iam workload-identity-pools providers describe recipes --location=global --workload-identity-pool=github > /dev/null 2>&1 || \
+		gcloud iam workload-identity-pools providers create-oidc recipes \
+			--location=global \
+			--workload-identity-pool=github \
+			--issuer-uri=https://token.actions.githubusercontent.com \
+			--attribute-mapping=google.subject=assertion.sub,attribute.repository=assertion.repository \
+			--attribute-condition="assertion.repository=='rlucioni/recipes'"; \
+	retry gcloud iam service-accounts add-iam-policy-binding $$sa \
 		--role=roles/iam.workloadIdentityUser \
-		--member=principalSet://iam.googleapis.com/$$pool/attribute.repository/rlucioni/recipes > /dev/null; \
+		--member=principalSet://iam.googleapis.com/$$pool/attribute.repository/rlucioni/recipes; \
 	echo; \
 	echo "GCP_WORKLOAD_IDENTITY_PROVIDER: $$pool/providers/recipes"; \
 	echo "GCP_SERVICE_ACCOUNT: $$sa"
