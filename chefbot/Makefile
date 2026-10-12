@@ -23,7 +23,8 @@ enable:
 	cloudbuild.googleapis.com \
 	artifactregistry.googleapis.com \
 	cloudtasks.googleapis.com \
-	iamcredentials.googleapis.com
+	iamcredentials.googleapis.com \
+	cloudresourcemanager.googleapis.com
 
 # Lets the deploy GitHub Actions workflow deploy the function via Workload
 # Identity Federation, so no service account key is stored in GitHub. Prints
