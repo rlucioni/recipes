@@ -129,6 +129,10 @@ export async function embedRecipes({ memoized = true } = {}) {
   console.info(
     `done in ${latency.toFixed(2)}s (${pending.length - failed} embedded, ${failed} failed)`,
   );
+
+  if (failed) {
+    process.exitCode = 1;
+  }
 }
 
 await embedRecipes();
