@@ -50,7 +50,6 @@ brussels-sprouts	side	short
 bubble-tea	drink	medium		other
 bulgogi	main	long	high	other
 burrito-bowl	main	medium	high	
-butternut-squash-soup	main	long	high	
 caesar-salad	main	short	low	
 caldo-verde	main	medium	high	
 calzones	main	long	medium	
@@ -158,6 +157,7 @@ grilled-cheese	main	short	low
 gumbo	main	medium	high	seafood
 gunkanmaki	main	medium	low	other|seafood
 gyudon	main	short	high	other
+ham-and-pea-pasta	main	short	medium	
 hand-cut-noodles	component	medium		
 hard-boiled-eggs	breakfast	short		
 hario-switch	drink	short		
@@ -235,7 +235,6 @@ pasta-dough	component	medium
 pasta-with-sausage-tomato-and-broccoli-rabe	main	medium	high	
 patio-punch	drink	short		other
 pavlova	dessert	long		
-pea-and-bacon-pasta	main	short	medium	
 peach-pie	dessert	long		
 peach-tarte-tatin	dessert	long		
 peanut-curry	main	medium	high	
@@ -265,6 +264,7 @@ pozole	main	long	high	other
 pumpkin-bread	bread	medium		
 pumpkin-pie	dessert	long		
 pumpkin-puree	component	medium		
+pumpkin-soup	main	long	high	
 quiche-lorraine	main	long	high	
 quick-cured-salmon	main	medium	medium	
 quinoa-eggs-and-steak	main	medium	medium	

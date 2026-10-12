@@ -1,0 +1,86 @@
+name: deploy
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - 'recipes/**'
+      - 'chefbot/**'
+      - 'scripts/update-catalog.sh'
+      - '.github/workflows/deploy.yml'
+  workflow_dispatch:
+
+concurrency:
+  group: deploy
+  cancel-in-progress: false
+
+jobs:
+  catalog:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      # Check out the branch rather than the triggering commit so the push
+      # below is a fast-forward even if an earlier run already committed.
+      - uses: actions/checkout@v7
+        with:
+          ref: master
+      - run: scripts/update-catalog.sh
+      # Pushes made with the workflow's token don't trigger another run.
+      - name: Commit catalog
+        run: |
+          if git diff --quiet catalog.tsv; then
+            echo "catalog.tsv is up to date"
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'regenerate catalog' catalog.tsv
+          git push
+
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      id-token: write
+    defaults:
+      run:
+        working-directory: chefbot
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version-file: chefbot/.nvmrc
+          cache: npm
+          cache-dependency-path: chefbot/package-lock.json
+      - run: npm ci
+      # embeddings.json is gitignored. Carry it between runs so only new or
+      # changed recipes are re-embedded.
+      - uses: actions/cache@v6
+        with:
+          path: chefbot/embeddings.json
+          key: embeddings-${{ github.run_id }}
+          restore-keys: embeddings-
+      - run: npm run embed
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      - uses: google-github-actions/auth@v3
+        with:
+          workload_identity_provider: ${{ secrets.GCP_WORKLOAD_IDENTITY_PROVIDER }}
+          service_account: ${{ secrets.GCP_SERVICE_ACCOUNT }}
+      - uses: google-github-actions/setup-gcloud@v3
+      - name: Deploy
+        run: |
+          cat > .env.yaml <<EOF
+          GEMINI_API_KEY: "${GEMINI_API_KEY}"
+          SLACK_BOT_TOKEN: "${SLACK_BOT_TOKEN}"
+          SLACK_SIGNING_SECRET: "${SLACK_SIGNING_SECRET}"
+          GH_TOKEN: "${GH_TOKEN}"
+          EOF
+          npm run deploy
+          rm .env.yaml
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+          SLACK_SIGNING_SECRET: ${{ secrets.SLACK_SIGNING_SECRET }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}

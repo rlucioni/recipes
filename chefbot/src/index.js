@@ -10,6 +10,12 @@ import {
   gemini,
   readEmbeddings,
 } from './gemini.js';
+import {
+  findOpenPullRequest,
+  getPullRequestRecipes,
+  githubEnabled,
+  proposeChanges,
+} from './github.js';
 
 const PROMPT_TEMPLATE = `You are chefbot, a culinary assistant. Use a serious, professional tone and be concise.
 
@@ -85,6 +91,37 @@ Call \`get_recipes\` on the chosen main and candidate sides when needed to judge
 ### Slim pickings
 
 If fewer than 3 dinners survive the filter, or the user rejects the whole sampled list, say the pool is thin, list whatever remains unshown, and suggest 2-3 dinners not in this collection that fit the same answers. Do not add those ideas to the collection unless asked.
+
+## Changing the collection
+
+Call \`propose_recipe_changes\` only when a user explicitly asks you to add a recipe to the collection or change one that's already in it (e.g., "add this to the repo", "commit that recipe", "update caldo verde to use spinach"). Never call it on your own initiative, and never just because you wrote a new recipe in a reply. If it's unclear whether the user wants the collection changed, ask.
+
+The tool commits complete files to a GitHub pull request that a human reviews before merging; nothing in the collection changes until then. Every change made in one Slack thread goes to the same pull request, so to revise a draft, call it again with the full revised file. After it succeeds, reply with a link to the pull request and a sentence summarizing what changed. If it returns problems, fix them and call it again.
+
+Before editing a recipe, call \`get_recipes\` on it and start from exactly the content it returns (which includes unmerged drafts from this thread's pull request), changing only what the user asked for. Before adding a recipe, call \`list_recipes\` and \`search_recipes\` to make sure it isn't already in the collection under a similar name.
+
+Files must follow the collection's conventions:
+
+- Filename: kebab-case matching the title, ending in \`.md\` (\`mapo-tofu.md\`). Drop apostrophes and diacritics (\`general-tsos-chicken.md\`).
+- Shape: YAML frontmatter, \`# Title\`, an optional attribution or yield line, \`## Ingredients\`, then \`## Instructions\`. Never include equipment.
+- Frontmatter: exactly \`course\`, \`prep_time\`, \`leftoverability\` (mains only, omitted otherwise), and \`specialty_ingredients\` (a YAML list, \`[]\` when empty), using the values described under Recipe metadata. The \`filename\` field you see in tool results is not part of the file; never include it. For example:
+
+\`\`\`
+---
+course: main
+prep_time: medium
+leftoverability: high
+specialty_ingredients:
+ - other
+---
+\`\`\`
+
+- \`prep_time\`: count the prep of linked components that would be made as part of the recipe (e.g., soft-boiled eggs), but not components normally made in a big batch and stored (e.g., chili oil). Deep frying is always \`long\`. When torn between two values, choose the longer one.
+- \`leftoverability\`: use a \`_with_prep\` value only when prepared components keep well, save significant time, and need quick day-of assembly (like ramen), not when leftovers can be eaten cold or just microwaved.
+- \`specialty_ingredients\`: common herbs and spices, light and dark soy sauce, Chinese black vinegar, oyster sauce, Shaoxing wine, and somen noodles are locally available; other Asian noodles count as \`other\`.
+- Voice: open one or two similar recipes with \`get_recipes\` and match their voice and level of detail. Use grams for dry goods when similar recipes do. Never copy a source's text verbatim. Credit an outside source with a single \`Adapted from [Source](url).\` line.
+- Omit pantry process items (water for boiling, oil for heating a pan, salt and pepper for seasoning) unless they're a measured part of the formula. Don't abbreviate (\`vegetables\`, not \`veg\`).
+- Link existing component recipes by filename instead of inlining them (e.g., \`[cook beans first](beans.md)\`).
 
 ## Rules
 
@@ -214,6 +251,14 @@ const LEFTOVERABILITIES = [
   'high',
   'high_with_prep',
 ];
+const SPECIALTY_INGREDIENTS = ['seafood', 'meat', 'other'];
+const FRONTMATTER_KEYS = [
+  'course',
+  'prep_time',
+  'leftoverability',
+  'specialty_ingredients',
+];
+const RECIPE_FILENAME_PATTERN = /^[a-z0-9]+(-[a-z0-9]+)*\.md$/;
 
 // Parses the restricted YAML frontmatter used by recipe files (see AGENTS.md):
 // scalar `key: value` lines plus `specialty_ingredients` as either `[]` or a
@@ -327,23 +372,35 @@ async function listRecipes({
   return `${recipes.length} matching recipes\n\n${formatCatalog(recipes)}`;
 }
 
-async function getRecipes({ filenames = [] } = {}) {
+async function getRecipes({ filenames = [] } = {}, context = {}) {
   console.info(`get_recipes(${JSON.stringify(filenames)})`);
 
   const embeddings = await getEmbeddings();
+  const { pr, recipes: drafts } = await getThreadDrafts(context);
   const docs = [];
   const missing = [];
+  const drafted = [];
 
   for (const filename of filenames.slice(0, GET_RECIPES_LIMIT)) {
-    const recipe = embeddings[filename];
-    if (recipe) {
-      docs.push(withFilename(filename, recipe.content));
+    let content = embeddings[filename]?.content;
+    if (drafts.has(filename)) {
+      content = drafts.get(filename)?.trim();
+      drafted.push(filename);
+    }
+
+    if (content) {
+      docs.push(withFilename(filename, content));
     } else {
       missing.push(filename);
     }
   }
 
   const notes = [];
+  if (drafted.length) {
+    notes.push(
+      `Unmerged drafts from this thread's pull request #${pr.number}: ${drafted.join(', ')}`,
+    );
+  }
   if (missing.length) {
     notes.push(`No such recipes: ${missing.join(', ')}`);
   }
@@ -354,6 +411,191 @@ async function getRecipes({ filenames = [] } = {}) {
   }
 
   return [...notes, ...docs].join('\n\n');
+}
+
+// Proposing changes
+
+// Each Slack thread gets its own branch, and so its own pull request.
+function threadBranch(context) {
+  return `chefbot/${context.threadTs.replace('.', '-')}`;
+}
+
+// Finds this thread's open pull request, if any, and the recipes it changes.
+// Cached on `context` for the rest of the response.
+async function getThreadDrafts(context) {
+  if (!githubEnabled || !context.threadTs) {
+    return { pr: null, recipes: new Map() };
+  }
+
+  if (!context.drafts) {
+    const pr = await findOpenPullRequest(threadBranch(context));
+    const recipes = pr ? await getPullRequestRecipes(pr) : new Map();
+    context.drafts = { pr, recipes };
+  }
+
+  return context.drafts;
+}
+
+// Mirrors the frontmatter checks in scripts/update-catalog.sh, which runs on
+// every push to master.
+function validateRecipe(filename, action, content) {
+  const problems = [];
+
+  if (!RECIPE_FILENAME_PATTERN.test(filename)) {
+    problems.push('filename must be kebab-case ending in .md');
+  }
+
+  const fields = parseFrontmatter(content);
+  if (!fields) {
+    return [...problems, 'must begin with YAML frontmatter between --- lines'];
+  }
+
+  for (const key of Object.keys(fields)) {
+    if (!FRONTMATTER_KEYS.includes(key)) {
+      problems.push(`frontmatter must not include ${key}`);
+    }
+  }
+  if (!COURSES.includes(fields.course)) {
+    problems.push(`course must be one of ${COURSES.join(', ')}`);
+  }
+  if (!PREP_TIMES.includes(fields.prep_time)) {
+    problems.push(`prep_time must be one of ${PREP_TIMES.join(', ')}`);
+  }
+  if (fields.course === 'main') {
+    if (!LEFTOVERABILITIES.includes(fields.leftoverability)) {
+      problems.push(
+        `mains need leftoverability, one of ${LEFTOVERABILITIES.join(', ')}`,
+      );
+    }
+  } else if ('leftoverability' in fields) {
+    problems.push('only mains have leftoverability');
+  }
+  if (!Array.isArray(fields.specialty_ingredients)) {
+    problems.push('specialty_ingredients must be a YAML list, [] if empty');
+  } else {
+    for (const value of fields.specialty_ingredients) {
+      if (!SPECIALTY_INGREDIENTS.includes(value)) {
+        problems.push(
+          `specialty_ingredients values must be from ${SPECIALTY_INGREDIENTS.join(', ')}`,
+        );
+      }
+    }
+  }
+
+  const body = content.slice(content.indexOf('\n---', 4) + 4);
+  if (!/^\s*# \S/.test(body)) {
+    problems.push('frontmatter must be followed by a # Title heading');
+  }
+  // A few older recipes predate the standard sections, so only enforce them
+  // for new recipes.
+  if (action === 'add') {
+    for (const heading of ['## Ingredients', '## Instructions']) {
+      if (!body.includes(`\n${heading}\n`)) {
+        problems.push(`missing ${heading} section`);
+      }
+    }
+  }
+
+  return problems;
+}
+
+async function getThreadPermalink(context) {
+  try {
+    const res = await slack.chat.getPermalink({
+      channel: context.channel,
+      message_ts: context.threadTs,
+    });
+
+    return res.permalink;
+  } catch (error) {
+    console.error('failed to get thread permalink:', error.message);
+    return null;
+  }
+}
+
+async function pullRequestBody(summary, context) {
+  const requester = context.userId
+    ? `@${await getUserName(context.userId)}`
+    : 'someone';
+  const permalink = await getThreadPermalink(context);
+  const thread = permalink ? `[this Slack thread](${permalink})` : 'Slack';
+
+  return `${summary}\n\nProposed by chefbot for ${requester} in ${thread}.`;
+}
+
+async function proposeRecipeChanges(
+  { title, summary, files = [] } = {},
+  context = {},
+) {
+  console.info(
+    `propose_recipe_changes("${title}", ${JSON.stringify(files.map((f) => f.filename))})`,
+  );
+
+  if (!githubEnabled) {
+    return { error: 'Proposing changes is not configured (no GH_TOKEN).' };
+  }
+  if (!context.threadTs) {
+    return { error: 'Proposing changes only works in a Slack thread.' };
+  }
+  if (!files.length) {
+    return { error: 'No files to propose.' };
+  }
+
+  const embeddings = await getEmbeddings();
+  const { pr, recipes: drafts } = await getThreadDrafts(context);
+  const problems = [];
+  const changes = {};
+
+  for (const { filename, action, content = '' } of files) {
+    const exists = drafts.has(filename)
+      ? drafts.get(filename) !== null
+      : filename in embeddings;
+
+    if (action === 'add' && exists) {
+      problems.push(
+        `${filename}: already exists; use action "edit" or pick another filename`,
+      );
+    } else if (action === 'edit' && !exists) {
+      problems.push(`${filename}: doesn't exist; use action "add"`);
+    }
+
+    for (const problem of validateRecipe(filename, action, content)) {
+      problems.push(`${filename}: ${problem}`);
+    }
+
+    changes[`recipes/${filename}`] = `${content.trim()}\n`;
+  }
+
+  if (problems.length) {
+    return {
+      error: `Nothing was committed. Fix these problems and try again:\n${problems.join('\n')}`,
+    };
+  }
+
+  const result = await proposeChanges({
+    branch: threadBranch(context),
+    pr,
+    files: changes,
+    title,
+    body: pr ? undefined : await pullRequestBody(summary, context),
+  });
+
+  // The pull request's head and files have changed.
+  context.drafts = undefined;
+
+  if (!result.changed) {
+    return {
+      result: result.pr
+        ? `No changes: pull request #${result.pr.number} already has these files. ${result.pr.html_url}`
+        : 'No changes: these files already match the collection.',
+    };
+  }
+
+  const verb = pr ? 'Updated' : 'Opened';
+
+  return {
+    result: `${verb} pull request #${result.pr.number}: ${result.pr.html_url}`,
+  };
 }
 
 // Weighted sampling
@@ -464,14 +706,14 @@ const listRecipesDeclaration = {
 
 const getRecipesDeclaration = {
   name: 'get_recipes',
-  description: `Returns the full content of specific existing recipes by filename, e.g. to check their ingredients or method. Use filenames exactly as returned by list_recipes or search_recipes. At most ${GET_RECIPES_LIMIT} recipes per call.`,
+  description: `Returns the full content of specific existing recipes by filename (e.g., to check their ingredients or method). Use filenames exactly as returned by list_recipes or search_recipes. At most ${GET_RECIPES_LIMIT} recipes per call.`,
   parameters: {
     type: Type.OBJECT,
     properties: {
       filenames: {
         type: Type.ARRAY,
         items: { type: Type.STRING },
-        description: 'Recipe filenames, e.g. ["caldo-verde.md"].',
+        description: 'Recipe filenames (e.g., ["caldo-verde.md"]).',
       },
     },
     required: ['filenames'],
@@ -505,11 +747,58 @@ const sampleRecipesDeclaration = {
   },
 };
 
+const proposeRecipeChangesDeclaration = {
+  name: 'propose_recipe_changes',
+  description:
+    "Adds or edits recipes in the collection by committing complete recipe files to this Slack thread's GitHub pull request, opening one if needed. A human reviews and merges the pull request; the collection doesn't change until then. Files are validated first, and nothing is committed if any file has problems.",
+  parameters: {
+    type: Type.OBJECT,
+    properties: {
+      title: {
+        type: Type.STRING,
+        description:
+          'Short lowercase pull request title and commit message (e.g., "add mapo tofu" or "use spinach in caldo verde").',
+      },
+      summary: {
+        type: Type.STRING,
+        description:
+          'One or two sentences for the pull request description explaining what changed and why, based on the conversation.',
+      },
+      files: {
+        type: Type.ARRAY,
+        items: {
+          type: Type.OBJECT,
+          properties: {
+            filename: {
+              type: Type.STRING,
+              description: 'Recipe filename (e.g., "mapo-tofu.md").',
+            },
+            action: {
+              type: Type.STRING,
+              enum: ['add', 'edit'],
+              description:
+                '"add" for a new recipe, "edit" for one that already exists.',
+            },
+            content: {
+              type: Type.STRING,
+              description:
+                'The complete file, starting with YAML frontmatter. Never a partial file or a diff.',
+            },
+          },
+          required: ['filename', 'action', 'content'],
+        },
+      },
+    },
+    required: ['title', 'summary', 'files'],
+  },
+};
+
 const functionDeclarations = [
   searchRecipesDeclaration,
   listRecipesDeclaration,
   getRecipesDeclaration,
   sampleRecipesDeclaration,
+  proposeRecipeChangesDeclaration,
 ];
 
 async function callFunction(call, context) {
@@ -519,9 +808,11 @@ async function callFunction(call, context) {
     case 'list_recipes':
       return { result: await listRecipes(call.args) };
     case 'get_recipes':
-      return { result: await getRecipes(call.args) };
+      return { result: await getRecipes(call.args, context) };
     case 'sample_recipes':
       return { result: sampleRecipes(call.args, context) };
+    case 'propose_recipe_changes':
+      return await proposeRecipeChanges(call.args, context);
     default:
       console.error(`model requested unknown function ${call.name}`);
       return { error: `unknown function ${call.name}` };
@@ -691,7 +982,9 @@ async function shouldRespond(event) {
 
 // Generates a response to the conversation in `contents`, executing any
 // function calls the model asks for along the way. `context.seed` makes
-// sample_recipes deterministic within a thread. Returns the final text and
+// sample_recipes deterministic within a thread, and `context.threadTs`,
+// `channel`, and `userId` identify the thread and requester for
+// propose_recipe_changes. Returns the final text and
 // the estimated cost across all rounds. Exported for local testing.
 export async function generate(contents, context = {}) {
   let cost = 0;
@@ -765,7 +1058,12 @@ async function think(event) {
   }
 
   const generationTimer = new Timer();
-  const { text, cost } = await generate(contents, { seed: getParentTs(event) });
+  const { text, cost } = await generate(contents, {
+    seed: getParentTs(event),
+    threadTs: getParentTs(event),
+    channel: channelId,
+    userId: event.user,
+  });
   generationTimer.done();
 
   const contentWithUrls = replaceFilenames(text);
