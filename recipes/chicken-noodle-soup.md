@@ -8,7 +8,7 @@ specialty_ingredients: []
 
 ## Ingredients
 
-- [roasted chicken](roasted-chicken.md), chopped
+- 1 whole chicken (about 3.5-4 pounds) or [roasted chicken](roasted-chicken.md), chopped
 - 1 onion, chopped
 - 3-4 celery ribs, chopped
 - 3-4 carrots, chopped
@@ -21,9 +21,9 @@ specialty_ingredients: []
 
 ## Instructions
 
-1. Saute onions, celery, and carrots with a pinch of salt until softened.
-2. Add bay leaf and thyme, then water and/or chicken stock. Bring to a simmer.
-3. Cook noodles in the broth according to package instructions.
-4. Add any frozen vegetables, then chicken. Season to taste.
+1. If using a whole chicken, combine whole chicken, onion, celery, carrots, bay leaf, thyme, and water (about 2 1/2 quarts) in a large pot. Bring to a simmer and simmer on low for 1 hour, covered, skimming fat occasionally. Remove chicken to cool, then pick meat off bones.
+   If using roasted chicken, saute onion, celery, and carrots with a pinch of salt until softened. Add bay leaf and thyme, then water and/or chicken stock. Bring to a simmer.
+2. Cook noodles in the broth according to package instructions.
+3. Add any frozen vegetables, then chicken. Season to taste.
 
 Top bowls with pepper.
