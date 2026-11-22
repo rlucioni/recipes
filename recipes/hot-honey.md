@@ -17,7 +17,6 @@ Makes about 1/2 cup
 ## Instructions
 
 1. Combine honey, red pepper flakes, and salt in a small saucepan over medium-low heat. Bring to a bare simmer, then remove from heat.
-2. Stir in apple cider vinegar and let steep for 10-15 minutes.
-3. Strain through a fine-mesh sieve into a clean jar, or leave the pepper flakes in for additional heat.
+2. Stir in apple cider vinegar and let cool. Transfer to a clean jar.
 
 Keeps at room temperature for several months.
