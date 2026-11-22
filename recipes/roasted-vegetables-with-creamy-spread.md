@@ -60,4 +60,4 @@ Serves 4 as a side.
    - For white bean purée: simmer drained beans, garlic cloves, rosemary, and water in a small saucepan over medium heat for 5 minutes. Remove the rosemary sprig, transfer the rest to a blender with olive oil and lemon juice, and blend until completely smooth. Season with salt and pepper.
 4. Spread your chosen base across the bottom of a wide serving platter or shallow bowl, swooshing the center with the back of a spoon to create a shallow well.
 5. Pile the hot roasted vegetables and sautéed mushrooms directly onto the spread.
-6. Scatter toasted nuts or seeds, pomegranate pips, and fresh herbs over the top. Finish with a drizzle of pomegranate molasses, sherry vinegar, hot honey, or [chili oil](chili-oil.md), and a sprinkle of flaky sea salt. Serve warm with crusty bread or warm flatbread for scooping up the spread and vegetables.
+6. Scatter toasted nuts or seeds, pomegranate pips, and fresh herbs over the top. Finish with a drizzle of pomegranate molasses, sherry vinegar, hot honey, or [chili oil](chili-oil.md), and a sprinkle of flaky sea salt. Serve warm with crusty bread.
