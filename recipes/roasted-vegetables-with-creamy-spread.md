@@ -16,7 +16,7 @@ Serves 4 as a side.
 - 1/4 cup whole-milk Greek yogurt
 - 2 tablespoons extra-virgin olive oil
 - 1 tablespoon lemon juice
-- 1 small clove garlic, finely grated
+- 2 cloves garlic, finely grated
 
 #### Garlic-Herb Labneh
 - 1 cup labneh or whole-milk Greek yogurt
@@ -44,7 +44,7 @@ Serves 4 as a side.
 - 2 tablespoons toasted pepitas, pine nuts, or chopped pistachios
 - 2 tablespoons pomegranate pips
 - 1 tablespoon fresh parsley, mint, or dill leaves
-- 1 to 2 teaspoons pomegranate molasses, sherry vinegar, [hot honey](hot-honey.md), or [chili oil](chili-oil.md)
+- 1 to 2 teaspoons pomegranate molasses, sherry vinegar, [apple gastrique](apple-gastrique.md), [hot honey](hot-honey.md), or [chili oil](chili-oil.md)
 
 ## Instructions
 
@@ -55,4 +55,4 @@ Serves 4 as a side.
    - For white bean purée: simmer drained beans, garlic cloves, rosemary, and water in a small saucepan over medium heat for 5 minutes. Remove the rosemary sprig, transfer the rest to a blender with olive oil and lemon juice, and blend until completely smooth. Season with salt and pepper.
 3. Spread your chosen base across the bottom of a wide serving platter or shallow bowl, swooshing the center with the back of a spoon to create a shallow well.
 4. Pile the hot vegetables directly onto the spread.
-5. Scatter toasted nuts or seeds, pomegranate pips, and fresh herbs over the top. Finish with a drizzle of pomegranate molasses, sherry vinegar, [hot honey](hot-honey.md), or [chili oil](chili-oil.md). Serve warm with crusty bread.
+5. Scatter toasted nuts or seeds, pomegranate pips, and fresh herbs over the top. Finish with a drizzle of pomegranate molasses, sherry vinegar, [apple gastrique](apple-gastrique.md), [hot honey](hot-honey.md), or [chili oil](chili-oil.md). Serve warm with crusty bread.
